@@ -1,0 +1,52 @@
+{
+  "node_modules/@fontsource-variable/figtree/files/figtree-latin-ext-wght-normal.woff2": {
+    "file": "assets/figtree-latin-ext-wght-normal-DCwSJGxG.woff2",
+    "src": "node_modules/@fontsource-variable/figtree/files/figtree-latin-ext-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/figtree/files/figtree-latin-wght-normal.woff2": {
+    "file": "assets/figtree-latin-wght-normal-D_ZTVpCC.woff2",
+    "src": "node_modules/@fontsource-variable/figtree/files/figtree-latin-wght-normal.woff2"
+  },
+  "node_modules/@fontsource/kalam/files/kalam-latin-700-normal.woff": {
+    "file": "assets/kalam-latin-700-normal-7TSuSrjP.woff",
+    "src": "node_modules/@fontsource/kalam/files/kalam-latin-700-normal.woff"
+  },
+  "node_modules/@fontsource/kalam/files/kalam-latin-700-normal.woff2": {
+    "file": "assets/kalam-latin-700-normal-D2H-9ISU.woff2",
+    "src": "node_modules/@fontsource/kalam/files/kalam-latin-700-normal.woff2"
+  },
+  "node_modules/@fontsource/young-serif/files/young-serif-latin-400-normal.woff": {
+    "file": "assets/young-serif-latin-400-normal-D1tz0Z9s.woff",
+    "src": "node_modules/@fontsource/young-serif/files/young-serif-latin-400-normal.woff"
+  },
+  "node_modules/@fontsource/young-serif/files/young-serif-latin-400-normal.woff2": {
+    "file": "assets/young-serif-latin-400-normal-DIMmNPI9.woff2",
+    "src": "node_modules/@fontsource/young-serif/files/young-serif-latin-400-normal.woff2"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-6gJJk6IM.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "css": [
+      "assets/app-BrAFnlD3.css"
+    ],
+    "assets": [
+      "assets/young-serif-latin-400-normal-DIMmNPI9.woff2",
+      "assets/young-serif-latin-400-normal-D1tz0Z9s.woff",
+      "assets/figtree-latin-ext-wght-normal-DCwSJGxG.woff2",
+      "assets/figtree-latin-wght-normal-D_ZTVpCC.woff2",
+      "assets/kalam-latin-700-normal-D2H-9ISU.woff2",
+      "assets/kalam-latin-700-normal-7TSuSrjP.woff"
+    ]
+  },
+  "resources/scss/app.scss": {
+    "file": "assets/app-BX7fIKfr.css",
+    "name": "app",
+    "names": [
+      "app.css"
+    ],
+    "src": "resources/scss/app.scss",
+    "isEntry": true
+  }
+}
