@@ -1,0 +1,264 @@
+{
+ "genere_le": "2026-10-11",
+ "programmes": [
+  {
+   "slug": "faites-entrer-l-accuse",
+   "titre": "Faites entrer l'accusé",
+   "format": "serie",
+   "univers": "documentaires",
+   "genres": [
+    "true-crime",
+    "policier"
+   ],
+   "tout_public": false,
+   "youtube_id": null,
+   "chaine_nom": "Faites entrer l’accusé - Officielle",
+   "chaine_id": "UCrjIfq-eWK9BTUhPgQ2IFFg",
+   "chaine_url": "https://www.youtube.com/channel/UCrjIfq-eWK9BTUhPgQ2IFFg",
+   "ayant_droit": "France Télévisions / Tony Comiti (chaîne officielle du magazine)",
+   "duree_secondes": 5920,
+   "annee": 2000,
+   "description": "Le magazine culte des grandes affaires criminelles, présenté par Christophe Hondelatte puis Frédérique Lantieri : enquête, témoins, procès. Seize numéros marquants, dont une affaire martiniquaise, au Robert. Public adulte.",
+   "disponible_jusqu_au": null,
+   "publie_le": "2025-12-02",
+   "a_la_une": false,
+   "ordre": 10,
+   "source_officielle": true,
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "Patrick Littorie, les crimes de la Mangrove",
+     "youtube_id": "CGI5CzfPzMQ",
+     "duree_secondes": 4456,
+     "disponible_jusqu_au": null,
+     "description": "Décembre 2004, baie du Robert en Martinique : un jeune couple qui vivait sur son voilier est retrouvé mort dans la mangrove. L'enquête mène à Patrick Littorie.",
+     "titre_youtube": "Faites Entrer l'Accusé : Patrick Littorie, les crimes de la Mangrove",
+     "vignette": "vignettes/CGI5CzfPzMQ.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "Valérie Bacot, la mort pour délivrance",
+     "youtube_id": "6Uz0O5OX63o",
+     "duree_secondes": 4700,
+     "disponible_jusqu_au": null,
+     "description": "Après des années de violences, Valérie Bacot tue son mari en 2016 : son procès de 2021 a bouleversé la France.",
+     "titre_youtube": "Faites entrer l'accusé - Valérie Bacot, la mort pour délivrance",
+     "vignette": "vignettes/6Uz0O5OX63o.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 3,
+     "titre": "Jonathann Daval, la trahison du gendre idéal",
+     "youtube_id": "6H0XwpXTt1Q",
+     "duree_secondes": 4454,
+     "disponible_jusqu_au": null,
+     "description": "Le mari éploré d'Alexia Daval finit par avouer : l'histoire d'un mensonge devant toute la France.",
+     "titre_youtube": "Faites entrer l'accusé : Jonathann Daval, la trahison du gendre idéal",
+     "vignette": "vignettes/6H0XwpXTt1Q.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 4,
+     "titre": "Patrice Uzan, l'arme fatale",
+     "youtube_id": "-QvbWX9978E",
+     "duree_secondes": 4165,
+     "disponible_jusqu_au": null,
+     "description": "2011 : un couple de retraités près de Roissy, puis un bijoutier à Paris, tués avec la même arme. Deux affaires reliées.",
+     "titre_youtube": "Faites entrer l'accusé : Patrice Uzan l'arme fatale",
+     "vignette": "vignettes/-QvbWX9978E.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 5,
+     "titre": "Jacques Mesrine, l'homme aux mille visages",
+     "youtube_id": "OEhNcNqJjsg",
+     "duree_secondes": 6187,
+     "disponible_jusqu_au": null,
+     "description": "Évasions, braquages et provocations : la cavale de l'ennemi public numéro un des années 1970.",
+     "titre_youtube": "Faites Entrer l'Accusé : Jacques Mesrine, l'homme aux mille visages",
+     "vignette": "vignettes/OEhNcNqJjsg.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 6,
+     "titre": "Patrick Henry, le procès de la guillotine",
+     "youtube_id": "ZqDLvBK76Fo",
+     "duree_secondes": 5658,
+     "disponible_jusqu_au": null,
+     "description": "Le meurtre du petit Philippe Bertrand et la plaidoirie de Robert Badinter qui a pesé dans l'abolition de la peine de mort.",
+     "titre_youtube": "Faites entrer l'accusé : Patrick Henry : le procès de la guillotine",
+     "vignette": "vignettes/ZqDLvBK76Fo.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 7,
+     "titre": "Simone Weber, la diabolique de Nancy",
+     "youtube_id": "dtew0sdMb0I",
+     "duree_secondes": 6154,
+     "disponible_jusqu_au": null,
+     "description": "Un amant disparu, une tronçonneuse et une accusée hors du commun : le procès-fleuve de Simone Weber.",
+     "titre_youtube": "Faites entrer l'accusé - Simone Weber - La Diabolique de Nancy",
+     "vignette": "vignettes/dtew0sdMb0I.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 8,
+     "titre": "L'assassinat du juge Michel",
+     "youtube_id": "FZM09wAaMpc",
+     "duree_secondes": 5979,
+     "disponible_jusqu_au": null,
+     "description": "Marseille, 1981 : le juge Pierre Michel, qui s'attaquait à la French Connection, est abattu en pleine rue.",
+     "titre_youtube": "Faites entrer l'accusé - L'assassinat du juge Michel - S3",
+     "vignette": "vignettes/FZM09wAaMpc.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 9,
+     "titre": "Myriam Badaoui, le juge et la menteuse",
+     "youtube_id": "HrrSkgPogrA",
+     "duree_secondes": 6505,
+     "disponible_jusqu_au": null,
+     "description": "L'affaire d'Outreau, l'un des plus grands fiascos judiciaires français.",
+     "titre_youtube": "Faites entrer l'accusé : Myriam Badaoui - Le juge et la menteuse",
+     "vignette": "vignettes/HrrSkgPogrA.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 10,
+     "titre": "Jean-Claude Romand, le menteur",
+     "youtube_id": "zzTxz7nOOdo",
+     "duree_secondes": 4970,
+     "disponible_jusqu_au": null,
+     "description": "Pendant dix-huit ans, il s'est fait passer pour médecin… jusqu'au drame de 1993.",
+     "titre_youtube": "Faites entrer l'accusé - Jean-Claude Romand, le menteur",
+     "vignette": "vignettes/zzTxz7nOOdo.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 11,
+     "titre": "Guy Georges, le tueur de l'Est parisien",
+     "youtube_id": "6QAn3-iC_QE",
+     "duree_secondes": 5920,
+     "disponible_jusqu_au": null,
+     "description": "La traque d'un tueur en série dans le Paris des années 1990, résolue grâce à l'ADN.",
+     "titre_youtube": "Faites entrer l'accusé : Guy Georges, le tueur de l'Est parisien",
+     "vignette": "vignettes/6QAn3-iC_QE.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 12,
+     "titre": "Francis Heaulme",
+     "youtube_id": "udPyhd4qCvo",
+     "duree_secondes": 4229,
+     "disponible_jusqu_au": null,
+     "description": "Le « routard du crime » et les nombreuses affaires qui l'ont rattrapé, dont celle de Montigny-lès-Metz.",
+     "titre_youtube": "Faites entrer l'accusé : Francis Heaulme",
+     "vignette": "vignettes/udPyhd4qCvo.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 13,
+     "titre": "Patrice Alègre, le sang et la rumeur",
+     "youtube_id": "Y_IjJ-CcNrM",
+     "duree_secondes": 7081,
+     "disponible_jusqu_au": null,
+     "description": "Toulouse : les crimes de Patrice Alègre et les rumeurs qui ont enflammé l'affaire.",
+     "titre_youtube": "Faites entrer l'accusé : Patrice Alègre, le sang et la rumeur",
+     "vignette": "vignettes/Y_IjJ-CcNrM.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 14,
+     "titre": "Michel Fourniret et Monique Olivier, l'alliance diabolique",
+     "youtube_id": "5W6d89hl_2w",
+     "duree_secondes": 5944,
+     "disponible_jusqu_au": null,
+     "description": "Le couple criminel franco-belge et les années d'enquête pour retrouver leurs victimes.",
+     "titre_youtube": "Faites Entrer l'Accusé : Michel Fourniret et Monique Olivier, l'alliance diabolique",
+     "vignette": "vignettes/5W6d89hl_2w.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 15,
+     "titre": "Marc Dutroux, le démon belge",
+     "youtube_id": "Vrz-VdPCEPA",
+     "duree_secondes": 5952,
+     "disponible_jusqu_au": null,
+     "description": "L'affaire qui a ébranlé la Belgique et sa justice dans les années 1990.",
+     "titre_youtube": "Faites entrer l'accusé : Marc Dutroux, le Démon Belge",
+     "vignette": "vignettes/Vrz-VdPCEPA.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 16,
+     "titre": "Véronique Courjault, l'affaire des bébés congelés",
+     "youtube_id": "Jo0Rt7djHKQ",
+     "duree_secondes": 5152,
+     "disponible_jusqu_au": null,
+     "description": "Séoul, 2006 : la découverte de deux bébés dans un congélateur mène à une affaire de déni de grossesse.",
+     "titre_youtube": "Faites entrer l'accusée : Véronique Courjault, l'affaire des bébés congelés",
+     "vignette": "vignettes/Jo0Rt7djHKQ.webp"
+    }
+   ],
+   "affiche": "affiches/CGI5CzfPzMQ.webp",
+   "vignette": "vignettes/CGI5CzfPzMQ.webp"
+  },
+  {
+   "slug": "l-affaire-jerome-kerviel",
+   "titre": "L'affaire Jérôme Kerviel",
+   "format": "unique",
+   "univers": "documentaires",
+   "genres": [
+    "true-crime",
+    "societe"
+   ],
+   "tout_public": false,
+   "youtube_id": "Lz4w_zxHfZE",
+   "chaine_nom": "Neoxi",
+   "chaine_id": "UC_446tDNo7UckPX78hM0Nlg",
+   "chaine_url": "https://www.youtube.com/channel/UC_446tDNo7UckPX78hM0Nlg",
+   "ayant_droit": "Neoxi",
+   "duree_secondes": 2508,
+   "annee": 2025,
+   "description": "Un trader de la Société générale et 50 milliards d'euros d'exposition : comment Jérôme Kerviel a fait trembler la finance en 2008. Un récit clair sur les dérives des salles de marché. Public adulte ; la vidéo contient un passage sponsorisé annoncé.",
+   "disponible_jusqu_au": null,
+   "publie_le": "2025-12-09",
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "affiche": "affiches/Lz4w_zxHfZE.webp",
+   "vignette": "vignettes/Lz4w_zxHfZE.webp"
+  },
+  {
+   "slug": "l-affaire-pierre-chanal",
+   "genres": [
+    "policier",
+    "true-crime"
+   ]
+  },
+  {
+   "slug": "l-affaire-du-grele",
+   "genres": [
+    "policier",
+    "true-crime"
+   ]
+  },
+  {
+   "slug": "l-affaire-guy-georges",
+   "genres": [
+    "policier",
+    "true-crime"
+   ]
+  },
+  {
+   "slug": "al-capone-le-roi-du-crime-americain",
+   "genres": [
+    "histoire",
+    "policier",
+    "true-crime"
+   ]
+  }
+ ]
+}

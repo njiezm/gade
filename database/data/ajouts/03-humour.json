@@ -1,0 +1,185 @@
+{
+ "genere_le": "2026-10-11",
+ "programmes": [
+  {
+   "slug": "marrakech-du-rire",
+   "titre": "Le Marrakech du rire",
+   "format": "serie",
+   "univers": "spectacles",
+   "genres": [
+    "humour"
+   ],
+   "tout_public": true,
+   "youtube_id": null,
+   "chaine_nom": "Marrakech du rire",
+   "chaine_id": "UCZIrjm7b2VvKwrIdlp5j73g",
+   "chaine_url": "https://www.youtube.com/channel/UCZIrjm7b2VvKwrIdlp5j73g",
+   "ayant_droit": "Marrakech du rire (festival, chaîne officielle)",
+   "duree_secondes": 7751,
+   "annee": 2011,
+   "description": "Chaque année, Jamel Debbouze réunit au palais El Badi la crème de l'humour francophone : stand-up, sketchs, improvisations et invités surprises. Cinq galas complets, de 2011 à 2022.",
+   "disponible_jusqu_au": null,
+   "publie_le": "2024-11-12",
+   "a_la_une": true,
+   "ordre": 20,
+   "source_officielle": true,
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "Gala 2011",
+     "youtube_id": "L036qppex0o",
+     "duree_secondes": 6555,
+     "disponible_jusqu_au": null,
+     "description": "La toute première édition, au palais El Badi : Jamel Debbouze lance son festival et réunit ses amis humoristes.",
+     "titre_youtube": "Marrakech du rire 2011 - Spectacle complet présenté par Jamel Debbouze",
+     "vignette": "vignettes/L036qppex0o.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "Gala 2012",
+     "youtube_id": "uhdA_G4-86o",
+     "duree_secondes": 6868,
+     "disponible_jusqu_au": null,
+     "description": "Avec François-Xavier Demaison, Ary Abittan, Malik Bentalha, Franck Dubosc, Virginie Hocq et Rachid Badouri.",
+     "titre_youtube": "Marrakech du rire 2012 - INTÉGRALE présenté par Jamel Debbouze",
+     "vignette": "vignettes/uhdA_G4-86o.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 3,
+     "titre": "Gala 2018",
+     "youtube_id": "QLk8H5D_EDk",
+     "duree_secondes": 8101,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Marrakech du rire 2018 - Spectacle complet présenté par Jamel Debbouze",
+     "vignette": "vignettes/QLk8H5D_EDk.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 4,
+     "titre": "Gala 2019",
+     "youtube_id": "-nBkDg-g3zw",
+     "duree_secondes": 7751,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Marrakech du rire 2019 - Spectacle complet présenté par Jamel Debbouze",
+     "vignette": "vignettes/-nBkDg-g3zw.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 5,
+     "titre": "Gala 2022",
+     "youtube_id": "hWLRmXRqr_E",
+     "duree_secondes": 8650,
+     "disponible_jusqu_au": null,
+     "description": "Le grand retour du festival après la pandémie.",
+     "titre_youtube": "Marrakech du rire 2022 - Spectacle complet présenté par Jamel Debbouze",
+     "vignette": "vignettes/hWLRmXRqr_E.webp"
+    }
+   ],
+   "affiche": "affiches/hWLRmXRqr_E.webp",
+   "vignette": "vignettes/hWLRmXRqr_E.webp"
+  },
+  {
+   "slug": "montreux-comedy-le-temps-d-en-rire",
+   "titre": "Montreux Comedy — Le temps d'en rire",
+   "format": "unique",
+   "univers": "spectacles",
+   "genres": [
+    "humour"
+   ],
+   "tout_public": true,
+   "youtube_id": "7d29zYZSV4c",
+   "chaine_nom": "Montreux Comedy",
+   "chaine_id": "UCPHJfLg1VeNBsfzzTszpmmQ",
+   "chaine_url": "https://www.youtube.com/channel/UCPHJfLg1VeNBsfzzTszpmmQ",
+   "ayant_droit": "Montreux Comedy Festival (chaîne officielle)",
+   "duree_secondes": 7541,
+   "annee": 2023,
+   "description": "Fabien Olicard joue avec le temps et reçoit La Bajon, Arnaud Demanche, Laurie Peret, Les Décaféinés, Rodrigue, Arnaud Tsamère… Le gala 2023 du festival suisse, en entier.",
+   "disponible_jusqu_au": null,
+   "publie_le": "2026-06-08",
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "affiche": "affiches/7d29zYZSV4c.webp",
+   "vignette": "vignettes/7d29zYZSV4c.webp"
+  },
+  {
+   "slug": "jamel-en-scene",
+   "titre": "Jamel en scène",
+   "format": "unique",
+   "univers": "spectacles",
+   "genres": [
+    "humour"
+   ],
+   "tout_public": true,
+   "youtube_id": "AZRZib-wLNo",
+   "chaine_nom": "Jamel TV",
+   "chaine_id": "UCStN50pL6nWeNlP3oyDTzYw",
+   "chaine_url": "https://www.youtube.com/channel/UCStN50pL6nWeNlP3oyDTzYw",
+   "ayant_droit": "Jamel Debbouze (chaîne officielle)",
+   "duree_secondes": 5582,
+   "annee": 1999,
+   "description": "1999 : le premier spectacle de Jamel Debbouze, celui qui l'a révélé. Ses histoires de Trappes, de famille et de petits boulots, avec une énergie folle.",
+   "disponible_jusqu_au": null,
+   "publie_le": "2024-05-19",
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "affiche": "affiches/AZRZib-wLNo.webp",
+   "vignette": "vignettes/AZRZib-wLNo.webp"
+  },
+  {
+   "slug": "jamel-comedy-club-casino-de-paris",
+   "titre": "Le Jamel Comedy Club au Casino de Paris",
+   "format": "unique",
+   "univers": "spectacles",
+   "genres": [
+    "humour"
+   ],
+   "tout_public": true,
+   "youtube_id": "Hy_0UnxkjEI",
+   "chaine_nom": "Jamel TV",
+   "chaine_id": "UCStN50pL6nWeNlP3oyDTzYw",
+   "chaine_url": "https://www.youtube.com/channel/UCStN50pL6nWeNlP3oyDTzYw",
+   "ayant_droit": "Jamel Debbouze (chaîne officielle)",
+   "duree_secondes": 6663,
+   "annee": 2007,
+   "description": "2007 : la troupe de Jamel envahit le Casino de Paris avec ceux qui allaient devenir des stars, dont Fabrice Éboué, Thomas Ngijol, Claudia Tagbo, Blanche Gardin et Frédéric Chau.",
+   "disponible_jusqu_au": null,
+   "publie_le": "2026-05-16",
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "affiche": "affiches/Hy_0UnxkjEI.webp",
+   "vignette": "vignettes/Hy_0UnxkjEI.webp"
+  },
+  {
+   "slug": "gsl-comme-jamais",
+   "titre": "GSL — Comme jamais",
+   "format": "unique",
+   "univers": "caraibes",
+   "genres": [
+    "humour"
+   ],
+   "tout_public": true,
+   "youtube_id": "l2QQ9d6AEYw",
+   "chaine_nom": "Gilles Saint-Louis",
+   "chaine_id": "UCprV8LHZ29grbCjvs8RWjTQ",
+   "chaine_url": "https://www.youtube.com/channel/UCprV8LHZ29grbCjvs8RWjTQ",
+   "ayant_droit": "Gilles Saint-Louis, GSL (chaîne de l'artiste)",
+   "duree_secondes": 5663,
+   "annee": 2018,
+   "description": "L'humoriste martiniquais GSL sur la scène de La Cigale, entre Paris et les Antilles : le one-man-show de sa tournée Martinique, Guadeloupe, Guyane et Hexagone (version télé).",
+   "disponible_jusqu_au": null,
+   "publie_le": "2018-12-24",
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "affiche": "affiches/l2QQ9d6AEYw.webp",
+   "vignette": "vignettes/l2QQ9d6AEYw.webp"
+  }
+ ]
+}

@@ -1,0 +1,157 @@
+{
+  "genere_par": "resources/avatars/avatars.mjs",
+  "themes": [
+    {
+      "cle": "bet",
+      "label": "Bèt péyi",
+      "texte": "Les animaux des Antilles",
+      "avatars": [
+        {
+          "cle": "manicou",
+          "nom": "Manicou"
+        },
+        {
+          "cle": "colibri",
+          "nom": "Colibri"
+        },
+        {
+          "cle": "iguane",
+          "nom": "Iguane"
+        },
+        {
+          "cle": "tortue",
+          "nom": "Tortue"
+        },
+        {
+          "cle": "mangouste",
+          "nom": "Mangouste"
+        },
+        {
+          "cle": "crabe",
+          "nom": "Crabe"
+        },
+        {
+          "cle": "chatrou",
+          "nom": "Chatrou"
+        },
+        {
+          "cle": "raton",
+          "nom": "Raton laveur"
+        },
+        {
+          "cle": "pelican",
+          "nom": "Pélican"
+        }
+      ]
+    },
+    {
+      "cle": "fwi",
+      "label": "Fwi épi légim",
+      "texte": "Fruits et légumes rigolos",
+      "avatars": [
+        {
+          "cle": "ananas",
+          "nom": "Ananas"
+        },
+        {
+          "cle": "mangue",
+          "nom": "Mangue"
+        },
+        {
+          "cle": "coco",
+          "nom": "Coco"
+        },
+        {
+          "cle": "christophine",
+          "nom": "Christophine"
+        },
+        {
+          "cle": "banane",
+          "nom": "Banane"
+        },
+        {
+          "cle": "zaboka",
+          "nom": "Zaboka"
+        },
+        {
+          "cle": "piment",
+          "nom": "Piment"
+        },
+        {
+          "cle": "pasteque",
+          "nom": "Pastèque"
+        }
+      ]
+    },
+    {
+      "cle": "sinema",
+      "label": "Sinéma",
+      "texte": "Les objets du cinéma",
+      "avatars": [
+        {
+          "cle": "popcorn",
+          "nom": "Pop-corn"
+        },
+        {
+          "cle": "clap",
+          "nom": "Clap"
+        },
+        {
+          "cle": "bobine",
+          "nom": "Bobine"
+        },
+        {
+          "cle": "ticket",
+          "nom": "Ticket"
+        },
+        {
+          "cle": "camera",
+          "nom": "Caméra"
+        },
+        {
+          "cle": "soda",
+          "nom": "Soda"
+        }
+      ]
+    },
+    {
+      "cle": "fantezi",
+      "label": "Fantézi",
+      "texte": "Personnages de fantaisie",
+      "avatars": [
+        {
+          "cle": "robot",
+          "nom": "Robot"
+        },
+        {
+          "cle": "extraterrestre",
+          "nom": "Extraterrestre"
+        },
+        {
+          "cle": "monstre",
+          "nom": "Monstre gentil"
+        },
+        {
+          "cle": "pirate",
+          "nom": "Pirate"
+        },
+        {
+          "cle": "fantome",
+          "nom": "Fantôme"
+        },
+        {
+          "cle": "dragon",
+          "nom": "Dragon"
+        },
+        {
+          "cle": "astronaute",
+          "nom": "Astronaute"
+        },
+        {
+          "cle": "ninja",
+          "nom": "Ninja"
+        }
+      ]
+    }
+  ]
+}

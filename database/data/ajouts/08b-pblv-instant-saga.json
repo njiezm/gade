@@ -1,0 +1,3803 @@
+{
+ "genere_le": "2026-10-11",
+ "programmes": [
+  {
+   "slug": "plus-belle-la-vie",
+   "titre": "Plus belle la vie",
+   "format": "serie",
+   "univers": "series",
+   "genres": [
+    "drame",
+    "romance"
+   ],
+   "tout_public": false,
+   "youtube_id": null,
+   "chaine_nom": "Plus Belle la Vie",
+   "chaine_id": "UCDq87sGhSDfAb_gQW2ouAzQ",
+   "chaine_url": "https://www.youtube.com/channel/UCDq87sGhSDfAb_gQW2ouAzQ",
+   "ayant_droit": "France Télévisions / Telfrance (chaîne officielle)",
+   "duree_secondes": 1408,
+   "annee": 2004,
+   "description": "Le feuilleton marseillais du quartier du Mistral : amours, secrets, enquêtes et coups de théâtre au bar du Mistral. La saison 1 intégrale, 260 épisodes, depuis le tout premier (2004).",
+   "disponible_jusqu_au": null,
+   "publie_le": null,
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "La naissance du Mistral",
+     "youtube_id": "B2_0T_e-eFs",
+     "duree_secondes": 1331,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 1 | La naissance du Mistral"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "Ninon disparaît",
+     "youtube_id": "9Pggd8Snboc",
+     "duree_secondes": 1382,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 2 | Ninon disparaît"
+    },
+    {
+     "saison": 1,
+     "numero": 3,
+     "titre": "François endetté",
+     "youtube_id": "orH-_kdau2c",
+     "duree_secondes": 1395,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 3 | François endetté"
+    },
+    {
+     "saison": 1,
+     "numero": 4,
+     "titre": "Le Mistral en danger",
+     "youtube_id": "IsjP77OwmzI",
+     "duree_secondes": 1405,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 4 | Le Mistral en danger"
+    },
+    {
+     "saison": 1,
+     "numero": 5,
+     "titre": "La gifle de Vincent",
+     "youtube_id": "lpApTyjn9R0",
+     "duree_secondes": 1446,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 5 | La gifle de Vincent"
+    },
+    {
+     "saison": 1,
+     "numero": 6,
+     "titre": "Léo coupable de meurtre ?",
+     "youtube_id": "mjM_UzgrgiA",
+     "duree_secondes": 1427,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 6 | Léo coupable de meurtre ?"
+    },
+    {
+     "saison": 1,
+     "numero": 7,
+     "titre": "Johanna s'en va",
+     "youtube_id": "1T_dBcRcO_k",
+     "duree_secondes": 1411,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 7 | Johanna s'en va"
+    },
+    {
+     "saison": 1,
+     "numero": 8,
+     "titre": "Lucas jaloux",
+     "youtube_id": "grI27k3egMI",
+     "duree_secondes": 1415,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 8 | Lucas jaloux"
+    },
+    {
+     "saison": 1,
+     "numero": 9,
+     "titre": "Roland et Mirta en crise",
+     "youtube_id": "j-NmJ4bVqwA",
+     "duree_secondes": 1389,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 9 | Roland et Mirta en crise"
+    },
+    {
+     "saison": 1,
+     "numero": 10,
+     "titre": "Roland désespéré",
+     "youtube_id": "d4X7PthTyP0",
+     "duree_secondes": 1405,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 10 | Roland désespéré"
+    },
+    {
+     "saison": 1,
+     "numero": 11,
+     "titre": "Roland sauve le Mistral",
+     "youtube_id": "pCPxRhRwwnA",
+     "duree_secondes": 1390,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 11 | Roland sauve le Mistral"
+    },
+    {
+     "saison": 1,
+     "numero": 12,
+     "titre": "Tensions entre Blanche et François",
+     "youtube_id": "tElt7Ux33sY",
+     "duree_secondes": 1406,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 12 | Tensions entre Blanche et François"
+    },
+    {
+     "saison": 1,
+     "numero": 13,
+     "titre": "Rudy et Cédric en rivalité",
+     "youtube_id": "5fOdsA7fcGY",
+     "duree_secondes": 1409,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 13 | Rudy et Cédric en rivalité"
+    },
+    {
+     "saison": 1,
+     "numero": 14,
+     "titre": "Mirta gaffe",
+     "youtube_id": "UKZkf7rs4Cc",
+     "duree_secondes": 1389,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 14 | Mirta gaffe"
+    },
+    {
+     "saison": 1,
+     "numero": 15,
+     "titre": "Vincent et Céline en couple",
+     "youtube_id": "TzU-S61qCmo",
+     "duree_secondes": 1388,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 15 | Vincent et Céline en couple"
+    },
+    {
+     "saison": 1,
+     "numero": 16,
+     "titre": "Christelle débarque",
+     "youtube_id": "p7R4AwU0Y2Y",
+     "duree_secondes": 1395,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 16 | Christelle débarque"
+    },
+    {
+     "saison": 1,
+     "numero": 17,
+     "titre": "Charlotte dévoile son secret",
+     "youtube_id": "D1FVIgE4svg",
+     "duree_secondes": 1409,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 17 | Charlotte dévoile son secret"
+    },
+    {
+     "saison": 1,
+     "numero": 18,
+     "titre": "Céline rompt avec Vincent",
+     "youtube_id": "YBwDUUQg8QA",
+     "duree_secondes": 1371,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 18 | Céline rompt avec Vincent"
+    },
+    {
+     "saison": 1,
+     "numero": 19,
+     "titre": "Juliette et Lucas s'embrassent",
+     "youtube_id": "8hO680H9sa0",
+     "duree_secondes": 1408,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 19 | Juliette et Lucas s'embrassent"
+    },
+    {
+     "saison": 1,
+     "numero": 20,
+     "titre": "L'anniversaire de Luna",
+     "youtube_id": "TDuTrydXjC0",
+     "duree_secondes": 1385,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 20 | L'anniversaire de Luna"
+    },
+    {
+     "saison": 1,
+     "numero": 21,
+     "titre": "L'anniversaire de Céline",
+     "youtube_id": "ERaLa9_rxfg",
+     "duree_secondes": 1390,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 21 | L'anniversaire de Céline"
+    },
+    {
+     "saison": 1,
+     "numero": 22,
+     "titre": "Le choix de Christelle",
+     "youtube_id": "ujjgBYpu8bw",
+     "duree_secondes": 1392,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 22 | Le choix de Christelle"
+    },
+    {
+     "saison": 1,
+     "numero": 23,
+     "titre": "Laure et Malik en crise",
+     "youtube_id": "1KM0COz_xOg",
+     "duree_secondes": 1379,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 23 | Laure et Malik en crise"
+    },
+    {
+     "saison": 1,
+     "numero": 24,
+     "titre": "Céline au plus mal",
+     "youtube_id": "QwkHxwXVRCE",
+     "duree_secondes": 1393,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 24 | Céline au plus mal"
+    },
+    {
+     "saison": 1,
+     "numero": 25,
+     "titre": "François ment à Blanche",
+     "youtube_id": "ZbcXMWGXzvE",
+     "duree_secondes": 1427,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 25 | François ment à Blanche"
+    },
+    {
+     "saison": 1,
+     "numero": 26,
+     "titre": "Mirta déboussolée",
+     "youtube_id": "8P36-JC_QdU",
+     "duree_secondes": 1355,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 26 | Mirta déboussolée"
+    },
+    {
+     "saison": 1,
+     "numero": 27,
+     "titre": "Mirta et Roland bientôt mariés ?",
+     "youtube_id": "hhTnYKg7Pps",
+     "duree_secondes": 1364,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 27 | Mirta et Roland bientôt mariés ?"
+    },
+    {
+     "saison": 1,
+     "numero": 28,
+     "titre": "François dans une impasse",
+     "youtube_id": "pZ_9AetxJNQ",
+     "duree_secondes": 1394,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 28 | François dans une impasse"
+    },
+    {
+     "saison": 1,
+     "numero": 29,
+     "titre": "Tensions entre Ninon et Céline",
+     "youtube_id": "wyAB1Gs67Pg",
+     "duree_secondes": 1318,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 29 | Tensions entre Ninon et Céline"
+    },
+    {
+     "saison": 1,
+     "numero": 30,
+     "titre": "Une bonne nouvelle pour Malik",
+     "youtube_id": "GfXupnN6m_4",
+     "duree_secondes": 1329,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 30 | Une bonne nouvelle pour Malik"
+    },
+    {
+     "saison": 1,
+     "numero": 31,
+     "titre": "François démissionne",
+     "youtube_id": "XNNpUYNu690",
+     "duree_secondes": 1375,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 31 | François démissionne"
+    },
+    {
+     "saison": 1,
+     "numero": 32,
+     "titre": "Malik tiraillé",
+     "youtube_id": "vuy32neB65s",
+     "duree_secondes": 1376,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 32 | Malik tiraillé"
+    },
+    {
+     "saison": 1,
+     "numero": 33,
+     "titre": "Rudy et Ninon s'embrassent",
+     "youtube_id": "DIAhZnn3BKc",
+     "duree_secondes": 1373,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 33 | Rudy et Ninon s'embrassent"
+    },
+    {
+     "saison": 1,
+     "numero": 34,
+     "titre": "Céline au plus mal",
+     "youtube_id": "JX7HTe6J5kE",
+     "duree_secondes": 1423,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 34 | Céline au plus mal"
+    },
+    {
+     "saison": 1,
+     "numero": 35,
+     "titre": "Malik et Laure séparés ?",
+     "youtube_id": "xAeubTvclOY",
+     "duree_secondes": 1384,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 35 | Malik et Laure séparés ?"
+    },
+    {
+     "saison": 1,
+     "numero": 36,
+     "titre": "Charlotte tombe amoureuse",
+     "youtube_id": "8Nkq3EzJdvM",
+     "duree_secondes": 1362,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 36 | Charlotte tombe amoureuse"
+    },
+    {
+     "saison": 1,
+     "numero": 37,
+     "titre": "Rudy se confie à Mirta",
+     "youtube_id": "JwzwTBqzxAY",
+     "duree_secondes": 1361,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 37 | Rudy se confie à Mirta"
+    },
+    {
+     "saison": 1,
+     "numero": 38,
+     "titre": "François change de look",
+     "youtube_id": "1aAJxO-8fTU",
+     "duree_secondes": 1405,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 38 | François change de look"
+    },
+    {
+     "saison": 1,
+     "numero": 39,
+     "titre": "Aïcha en danger",
+     "youtube_id": "V4XTIoS_b1g",
+     "duree_secondes": 1412,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 39 | Aïcha en danger"
+    },
+    {
+     "saison": 1,
+     "numero": 40,
+     "titre": "Tensions entre Ninon et Vincent",
+     "youtube_id": "wvIxEgBAA7I",
+     "duree_secondes": 1396,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 40 | Tensions entre Ninon et Vincent"
+    },
+    {
+     "saison": 1,
+     "numero": 41,
+     "titre": "Luna et Rudy se retrouvent",
+     "youtube_id": "DzVRH73GT5U",
+     "duree_secondes": 1438,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 41 | Luna et Rudy se retrouvent"
+    },
+    {
+     "saison": 1,
+     "numero": 42,
+     "titre": "François continue de mentir",
+     "youtube_id": "IroELxDXAno",
+     "duree_secondes": 1404,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 42 | François continue de mentir"
+    },
+    {
+     "saison": 1,
+     "numero": 43,
+     "titre": "Malik dans une situation délicate",
+     "youtube_id": "KsiAmYmceXI",
+     "duree_secondes": 1444,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 43 | Malik dans une situation délicate"
+    },
+    {
+     "saison": 1,
+     "numero": 44,
+     "titre": "Tensions entre Malik et Laure",
+     "youtube_id": "6YuOqqOQkyY",
+     "duree_secondes": 1349,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 44 | Tensions entre Malik et Laure"
+    },
+    {
+     "saison": 1,
+     "numero": 45,
+     "titre": "Le mariage de Roland et Mirta",
+     "youtube_id": "TQ6bqnqI6KA",
+     "duree_secondes": 1390,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 45 | Le mariage de Roland et Mirta"
+    },
+    {
+     "saison": 1,
+     "numero": 46,
+     "titre": "Mirta part en Espagne",
+     "youtube_id": "bKqp6Od-K_4",
+     "duree_secondes": 1392,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 46 | Mirta part en Espagne"
+    },
+    {
+     "saison": 1,
+     "numero": 47,
+     "titre": "Lucas et Luna se rapprochent",
+     "youtube_id": "efVpxZrfk7k",
+     "duree_secondes": 1374,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 47 | Lucas et Luna se rapprochent"
+    },
+    {
+     "saison": 1,
+     "numero": 48,
+     "titre": "Ninon piège Vincent",
+     "youtube_id": "WjOEVjISbFE",
+     "duree_secondes": 1396,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 48 | Ninon piège Vincent"
+    },
+    {
+     "saison": 1,
+     "numero": 49,
+     "titre": "Charlotte démasque Luna",
+     "youtube_id": "1z9l9BS7mEo",
+     "duree_secondes": 1438,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 49 | Charlotte démasque Luna"
+    },
+    {
+     "saison": 1,
+     "numero": 50,
+     "titre": "Roland et Mirta se réconcilient",
+     "youtube_id": "1WZwhtMiDSw",
+     "duree_secondes": 1400,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 50 | Roland et Mirta se réconcilient"
+    },
+    {
+     "saison": 1,
+     "numero": 51,
+     "titre": "Luna malade ?",
+     "youtube_id": "Ux0ZU84mBBw",
+     "duree_secondes": 1358,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 51 | Luna malade ?"
+    },
+    {
+     "saison": 1,
+     "numero": 52,
+     "titre": "Ninon surprend Luna et Lucas",
+     "youtube_id": "Rw-zr9rsryg",
+     "duree_secondes": 1404,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 52 | Ninon surprend Luna et Lucas"
+    },
+    {
+     "saison": 1,
+     "numero": 53,
+     "titre": "Malik victime de racisme",
+     "youtube_id": "eh1v9QkR-Sc",
+     "duree_secondes": 1351,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 53 | Malik victime de racisme"
+    },
+    {
+     "saison": 1,
+     "numero": 54,
+     "titre": "Johanna de retour",
+     "youtube_id": "WIle8arEJAk",
+     "duree_secondes": 1356,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 54 | Johanna de retour"
+    },
+    {
+     "saison": 1,
+     "numero": 55,
+     "titre": "Luna rompt avec Lucas",
+     "youtube_id": "TfATM2ee9G0",
+     "duree_secondes": 1402,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 55 | Luna rompt avec Lucas"
+    },
+    {
+     "saison": 1,
+     "numero": 56,
+     "titre": "Malik au désespoir",
+     "youtube_id": "UCm41dkuDAM",
+     "duree_secondes": 1373,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 56 | Malik au désespoir"
+    },
+    {
+     "saison": 1,
+     "numero": 57,
+     "titre": "Un dîner qui tourne mal",
+     "youtube_id": "xhnpp50uk2o",
+     "duree_secondes": 1368,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 57 | Un dîner qui tourne mal"
+    },
+    {
+     "saison": 1,
+     "numero": 58,
+     "titre": "Le secret de Luna éclate",
+     "youtube_id": "ykAwQf7cGlU",
+     "duree_secondes": 1373,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 58 | Le secret de Luna éclate"
+    },
+    {
+     "saison": 1,
+     "numero": 59,
+     "titre": "Mirta jette Luna dehors",
+     "youtube_id": "W8ZJBb18ZwI",
+     "duree_secondes": 1413,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 59 | Mirta jette Luna dehors"
+    },
+    {
+     "saison": 1,
+     "numero": 60,
+     "titre": "Blanche et Luna se disputent",
+     "youtube_id": "zXAf938tQl4",
+     "duree_secondes": 1402,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 60 | Blanche et Luna se disputent"
+    },
+    {
+     "saison": 1,
+     "numero": 61,
+     "titre": "Frémont menace Vincent",
+     "youtube_id": "VlszlNUIsbw",
+     "duree_secondes": 1368,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 61 | Frémont menace Vincent"
+    },
+    {
+     "saison": 1,
+     "numero": 62,
+     "titre": "Ninon et Rudy font l'amour",
+     "youtube_id": "NHDBxgNt0L0",
+     "duree_secondes": 1366,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 62 | Ninon et Rudy font l'amour"
+    },
+    {
+     "saison": 1,
+     "numero": 63,
+     "titre": "Juliette embrasse Ninon",
+     "youtube_id": "1cMdrhc9ASo",
+     "duree_secondes": 1314,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 63 | Juliette embrasse Ninon"
+    },
+    {
+     "saison": 1,
+     "numero": 64,
+     "titre": "Antoine cambriolé",
+     "youtube_id": "VPeRLstIxOs",
+     "duree_secondes": 1392,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 64 | Antoine cambriolé"
+    },
+    {
+     "saison": 1,
+     "numero": 65,
+     "titre": "Luna s'évanouit",
+     "youtube_id": "f48vjNW2wVQ",
+     "duree_secondes": 1402,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 65 | Luna s'évanouit"
+    },
+    {
+     "saison": 1,
+     "numero": 66,
+     "titre": "Manuel s'installe au Mistral",
+     "youtube_id": "0GhmAmi4A20",
+     "duree_secondes": 1420,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 66 | Manuel s'installe au Mistral"
+    },
+    {
+     "saison": 1,
+     "numero": 67,
+     "titre": "Manuel a-t-il vraiment changé ?",
+     "youtube_id": "TlrzReoOh84",
+     "duree_secondes": 1399,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 67 | Manuel a-t-il vraiment changé ?"
+    },
+    {
+     "saison": 1,
+     "numero": 68,
+     "titre": "Charlotte embrasse un homme marié",
+     "youtube_id": "ViQ6dUDH4DM",
+     "duree_secondes": 1375,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 68 | Charlotte embrasse un homme marié"
+    },
+    {
+     "saison": 1,
+     "numero": 69,
+     "titre": "Luna se soigne enfin",
+     "youtube_id": "j03ytU99xEU",
+     "duree_secondes": 1385,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 69 | Luna se soigne enfin"
+    },
+    {
+     "saison": 1,
+     "numero": 70,
+     "titre": "Manuel manipulateur",
+     "youtube_id": "Nxk05CJ4ow0",
+     "duree_secondes": 1374,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 70 | Manuel manipulateur"
+    },
+    {
+     "saison": 1,
+     "numero": 71,
+     "titre": "Luna dans le coma",
+     "youtube_id": "5QND9N9wDyg",
+     "duree_secondes": 1429,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 71 | Luna dans le coma"
+    },
+    {
+     "saison": 1,
+     "numero": 72,
+     "titre": "Manuel bientôt démasqué ?",
+     "youtube_id": "9w1ICm_gaNg",
+     "duree_secondes": 1417,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 72 | Manuel bientôt démasqué ?"
+    },
+    {
+     "saison": 1,
+     "numero": 73,
+     "titre": "Céline et Vincent unis",
+     "youtube_id": "n1x6YLa0lSI",
+     "duree_secondes": 1411,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 73 | Céline et Vincent unis"
+    },
+    {
+     "saison": 1,
+     "numero": 74,
+     "titre": "La rupture de Luna et Lucas",
+     "youtube_id": "3V6R5_RXx4Q",
+     "duree_secondes": 1413,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 74 | La rupture de Luna et Lucas"
+    },
+    {
+     "saison": 1,
+     "numero": 75,
+     "titre": "Manuel menace Mirta",
+     "youtube_id": "ntCkhSh8E0M",
+     "duree_secondes": 1350,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 75 | Manuel menace Mirta"
+    },
+    {
+     "saison": 1,
+     "numero": 76,
+     "titre": "Mirta cède à Manuel",
+     "youtube_id": "QqEFXqUVQtM",
+     "duree_secondes": 1374,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 76 | Mirta cède à Manuel"
+    },
+    {
+     "saison": 1,
+     "numero": 77,
+     "titre": "Mirta prête à fuir",
+     "youtube_id": "MatMGc4bEdo",
+     "duree_secondes": 1369,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 77 | Mirta prête à fuir"
+    },
+    {
+     "saison": 1,
+     "numero": 78,
+     "titre": "Frémont menace Vincent",
+     "youtube_id": "ISZhXh00e4E",
+     "duree_secondes": 1393,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 78 | Frémont menace Vincent"
+    },
+    {
+     "saison": 1,
+     "numero": 79,
+     "titre": "Vincent prêt à quitter Céline",
+     "youtube_id": "vASKTDJIuVw",
+     "duree_secondes": 1373,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 79 | Vincent prêt à quitter Céline"
+    },
+    {
+     "saison": 1,
+     "numero": 80,
+     "titre": "Mirta va trop loin !",
+     "youtube_id": "-5XIn97yyNY",
+     "duree_secondes": 1424,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 80 | Mirta va trop loin !"
+    },
+    {
+     "saison": 1,
+     "numero": 81,
+     "titre": "Céline pète un câble",
+     "youtube_id": "Q9A20EnLWdE",
+     "duree_secondes": 1395,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 81 | Céline pète un câble"
+    },
+    {
+     "saison": 1,
+     "numero": 82,
+     "titre": "François arnaqué",
+     "youtube_id": "rthTADSrghQ",
+     "duree_secondes": 1410,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 82 | François arnaqué"
+    },
+    {
+     "saison": 1,
+     "numero": 83,
+     "titre": "Mirta très inquiète pour Rudy",
+     "youtube_id": "uMjPsvUGOfU",
+     "duree_secondes": 1322,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 83 | Mirta très inquiète pour Rudy"
+    },
+    {
+     "saison": 1,
+     "numero": 84,
+     "titre": "Manuel tué",
+     "youtube_id": "2KaNkbmTYeo",
+     "duree_secondes": 1354,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 84 | Manuel tué"
+    },
+    {
+     "saison": 1,
+     "numero": 85,
+     "titre": "Vincent embrasse son ex-femme",
+     "youtube_id": "fIJuntOid_8",
+     "duree_secondes": 1341,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 85 | Vincent embrasse son ex-femme"
+    },
+    {
+     "saison": 1,
+     "numero": 86,
+     "titre": "Roland coupable de meurtre ?",
+     "youtube_id": "ROzrxi0oPoI",
+     "duree_secondes": 1431,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 86 | Roland coupable de meurtre ?"
+    },
+    {
+     "saison": 1,
+     "numero": 87,
+     "titre": "Juliette amoureuse de Lucas",
+     "youtube_id": "kcgwdRMFqoo",
+     "duree_secondes": 1393,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 87 | Juliette amoureuse de Lucas"
+    },
+    {
+     "saison": 1,
+     "numero": 88,
+     "titre": "Roland arrêté",
+     "youtube_id": "JxjfErgdNhs",
+     "duree_secondes": 1413,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 88 | Roland arrêté"
+    },
+    {
+     "saison": 1,
+     "numero": 89,
+     "titre": "Céline se venge de Vincent",
+     "youtube_id": "O9DqoxhXmY4",
+     "duree_secondes": 1400,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 89 | Céline se venge de Vincent"
+    },
+    {
+     "saison": 1,
+     "numero": 90,
+     "titre": "Roland refuse d'être défendu",
+     "youtube_id": "R9U9I-KkOvU",
+     "duree_secondes": 1416,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 90 | Roland refuse d'être défendu"
+    },
+    {
+     "saison": 1,
+     "numero": 91,
+     "titre": "Vincent rompt avec Céline",
+     "youtube_id": "bPkyhZ6yxnE",
+     "duree_secondes": 1433,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 91 | Vincent rompt avec Céline"
+    },
+    {
+     "saison": 1,
+     "numero": 92,
+     "titre": "Rudy sur le départ",
+     "youtube_id": "iTFLLtjs9_o",
+     "duree_secondes": 1427,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 92 | Rudy sur le départ"
+    },
+    {
+     "saison": 1,
+     "numero": 93,
+     "titre": "Vincent et Charlotte se rapprochent",
+     "youtube_id": "wuz_Q-Se8Eo",
+     "duree_secondes": 1420,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 93 | Vincent et Charlotte se rapprochent"
+    },
+    {
+     "saison": 1,
+     "numero": 94,
+     "titre": "Rudy tombe dans la drogue",
+     "youtube_id": "qAqqbpKJtZM",
+     "duree_secondes": 1406,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 94 | Rudy tombe dans la drogue"
+    },
+    {
+     "saison": 1,
+     "numero": 95,
+     "titre": "Le meurtrier de Manuel dévoilé",
+     "youtube_id": "n77BSso_4iM",
+     "duree_secondes": 1429,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 95 | Le meurtrier de Manuel dévoilé"
+    },
+    {
+     "saison": 1,
+     "numero": 96,
+     "titre": "Céline sombre dans la folie",
+     "youtube_id": "y7O0OHjBonM",
+     "duree_secondes": 1427,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 96 | Céline sombre dans la folie"
+    },
+    {
+     "saison": 1,
+     "numero": 97,
+     "titre": "Vincent harcelé par Céline",
+     "youtube_id": "u40o8DWgqFg",
+     "duree_secondes": 1418,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 97 | Vincent harcelé par Céline"
+    },
+    {
+     "saison": 1,
+     "numero": 98,
+     "titre": "Blanche a un coup de foudre",
+     "youtube_id": "5fBoA-wlJg8",
+     "duree_secondes": 1424,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 98 | Blanche a un coup de foudre"
+    },
+    {
+     "saison": 1,
+     "numero": 99,
+     "titre": "Céline arrêtée",
+     "youtube_id": "fDToBGChBHI",
+     "duree_secondes": 1425,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 99 | Céline arrêtée"
+    },
+    {
+     "saison": 1,
+     "numero": 100,
+     "titre": "Blanche craque pour Pierre",
+     "youtube_id": "nEQHsT1qP44",
+     "duree_secondes": 1391,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 100 | Blanche craque pour Pierre"
+    },
+    {
+     "saison": 1,
+     "numero": 101,
+     "titre": "Vincent en garde à vue",
+     "youtube_id": "1EpL5kIksGQ",
+     "duree_secondes": 1418,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 101 | Vincent en garde à vue"
+    },
+    {
+     "saison": 1,
+     "numero": 102,
+     "titre": "Rudy trompe Ninon",
+     "youtube_id": "K7tV34uDcfo",
+     "duree_secondes": 1399,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 102 | Rudy trompe Ninon"
+    },
+    {
+     "saison": 1,
+     "numero": 103,
+     "titre": "Blanche poursuit sa liaison",
+     "youtube_id": "WBN1XtbOzdE",
+     "duree_secondes": 1394,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 103 | Blanche poursuit sa liaison"
+    },
+    {
+     "saison": 1,
+     "numero": 104,
+     "titre": "Charlotte et Vincent se rapprochent",
+     "youtube_id": "-_o8OgI_ZtA",
+     "duree_secondes": 1376,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 104 | Charlotte et Vincent se rapprochent"
+    },
+    {
+     "saison": 1,
+     "numero": 105,
+     "titre": "Ninon incapable de pardonner Rudy",
+     "youtube_id": "G5r1PHaxWBY",
+     "duree_secondes": 1404,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 105 | Ninon incapable de pardonner Rudy"
+    },
+    {
+     "saison": 1,
+     "numero": 106,
+     "titre": "Blanche avoue tout",
+     "youtube_id": "s3-hKAvk-is",
+     "duree_secondes": 1435,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 106 | Blanche avoue tout"
+    },
+    {
+     "saison": 1,
+     "numero": 107,
+     "titre": "Blanche va-t-elle quitter Marseille ?",
+     "youtube_id": "iN-qNezDyd4",
+     "duree_secondes": 1422,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 107 | Blanche va-t-elle quitter Marseille ?"
+    },
+    {
+     "saison": 1,
+     "numero": 108,
+     "titre": "Rudy et Ninon en froid",
+     "youtube_id": "MC91eO__Z3E",
+     "duree_secondes": 1412,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 108 | Rudy et Ninon en froid"
+    },
+    {
+     "saison": 1,
+     "numero": 109,
+     "titre": "Céline utilise Malik",
+     "youtube_id": "4MQMrFKJxmw",
+     "duree_secondes": 1408,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 109 | Céline utilise Malik"
+    },
+    {
+     "saison": 1,
+     "numero": 110,
+     "titre": "Blanche quitte François",
+     "youtube_id": "BJ1OaT_jObE",
+     "duree_secondes": 1395,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 110 | Blanche quitte François"
+    },
+    {
+     "saison": 1,
+     "numero": 111,
+     "titre": "Étincelles entre Luna et Frémont",
+     "youtube_id": "6qQbxR3iuvY",
+     "duree_secondes": 1381,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 111 | Étincelles entre Luna et Frémont"
+    },
+    {
+     "saison": 1,
+     "numero": 112,
+     "titre": "Le double jeu de Vincent",
+     "youtube_id": "6GmvvVDHDdg",
+     "duree_secondes": 1356,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 112 | Le double jeu de Vincent"
+    },
+    {
+     "saison": 1,
+     "numero": 113,
+     "titre": "Ninon se rapproche de Driss",
+     "youtube_id": "IKdpRBp5gUM",
+     "duree_secondes": 1400,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 113 | Ninon se rapproche de Driss"
+    },
+    {
+     "saison": 1,
+     "numero": 114,
+     "titre": "Blanche et François se déchirent",
+     "youtube_id": "M9u5Iy2ZxCc",
+     "duree_secondes": 1378,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 114 | Blanche et François se déchirent"
+    },
+    {
+     "saison": 1,
+     "numero": 115,
+     "titre": "Céline en plein délire",
+     "youtube_id": "1c5fWXsb6yo",
+     "duree_secondes": 1382,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 115 | Céline en plein délire"
+    },
+    {
+     "saison": 1,
+     "numero": 116,
+     "titre": "Ninon prête à repartir à Paris ?",
+     "youtube_id": "eHn61uFnhlA",
+     "duree_secondes": 1421,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 116 | Ninon prête à repartir à Paris ?"
+    },
+    {
+     "saison": 1,
+     "numero": 117,
+     "titre": "Aïcha s'en va",
+     "youtube_id": "PQxqFi-pHlM",
+     "duree_secondes": 1398,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 117 | Aïcha s'en va"
+    },
+    {
+     "saison": 1,
+     "numero": 118,
+     "titre": "Céline piège Charlotte",
+     "youtube_id": "SIF3h-XW9DU",
+     "duree_secondes": 1397,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 118 | Céline piège Charlotte"
+    },
+    {
+     "saison": 1,
+     "numero": 119,
+     "titre": "François violent avec Blanche",
+     "youtube_id": "MwGR2HQonaQ",
+     "duree_secondes": 1408,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 119 | François violent avec Blanche"
+    },
+    {
+     "saison": 1,
+     "numero": 120,
+     "titre": "Vincent forcé d'épouser",
+     "youtube_id": "TtYK7w11eDM",
+     "duree_secondes": 1430,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 120 | Vincent forcé d'épouser"
+    },
+    {
+     "saison": 1,
+     "numero": 121,
+     "titre": "Ninon en colère contre Rudy",
+     "youtube_id": "gVB32cjD4yU",
+     "duree_secondes": 1378,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 121 | Ninon en colère contre Rudy"
+    },
+    {
+     "saison": 1,
+     "numero": 122,
+     "titre": "Vincent au pied du mur",
+     "youtube_id": "zGVlTBQIDGU",
+     "duree_secondes": 1404,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 122 | Vincent au pied du mur"
+    },
+    {
+     "saison": 1,
+     "numero": 123,
+     "titre": "Charlotte soutient Vincent",
+     "youtube_id": "AuwNVLW7g8E",
+     "duree_secondes": 1398,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 123 | Charlotte soutient Vincent"
+    },
+    {
+     "saison": 1,
+     "numero": 124,
+     "titre": "Driss s'éloigne de Ninon",
+     "youtube_id": "7VCVuFSLkK4",
+     "duree_secondes": 1446,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 124 | Driss s'éloigne de Ninon"
+    },
+    {
+     "saison": 1,
+     "numero": 125,
+     "titre": "Mélanie et François se rapprochent",
+     "youtube_id": "gMyHETRcE4M",
+     "duree_secondes": 1355,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 125 | Mélanie et François se rapprochent"
+    },
+    {
+     "saison": 1,
+     "numero": 126,
+     "titre": "Céline cache la vérité à Vincent",
+     "youtube_id": "N6kGZ831LsE",
+     "duree_secondes": 1422,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 126 | Céline cache la vérité à Vincent"
+    },
+    {
+     "saison": 1,
+     "numero": 127,
+     "titre": "Antoine blessé",
+     "youtube_id": "BApG8WFvQ-g",
+     "duree_secondes": 1383,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 127 | Antoine blessé"
+    },
+    {
+     "saison": 1,
+     "numero": 128,
+     "titre": "François et Mélanie fous amoureux",
+     "youtube_id": "uY3HNb-XDKE",
+     "duree_secondes": 1426,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 128 | François et Mélanie fous amoureux"
+    },
+    {
+     "saison": 1,
+     "numero": 129,
+     "titre": "Driss et Rudy se réconcilient",
+     "youtube_id": "sPeVq2RDFEQ",
+     "duree_secondes": 1358,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 129 | Driss et Rudy se réconcilient"
+    },
+    {
+     "saison": 1,
+     "numero": 130,
+     "titre": "Charlotte couvre Vincent",
+     "youtube_id": "UEtG1BowZVk",
+     "duree_secondes": 1405,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 130 | Charlotte couvre Vincent"
+    },
+    {
+     "saison": 1,
+     "numero": 131,
+     "titre": "Juliette s'installe chez les Marci",
+     "youtube_id": "KQ_bHc37eLk",
+     "duree_secondes": 1414,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 131 | Juliette s'installe chez les Marci"
+    },
+    {
+     "saison": 1,
+     "numero": 132,
+     "titre": "L'arrivée de Thomas",
+     "youtube_id": "6-Y0xDokOfw",
+     "duree_secondes": 1377,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 132 | L'arrivée de Thomas"
+    },
+    {
+     "saison": 1,
+     "numero": 133,
+     "titre": "Malik pris entre deux feux",
+     "youtube_id": "6V2zvh0PMo8",
+     "duree_secondes": 1429,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 133 | Malik pris entre deux feux"
+    },
+    {
+     "saison": 1,
+     "numero": 134,
+     "titre": "Frémont enfin arrêté ?",
+     "youtube_id": "Oz3ii7pUIiY",
+     "duree_secondes": 1407,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 134 | Frémont enfin arrêté ?"
+    },
+    {
+     "saison": 1,
+     "numero": 135,
+     "titre": "Vincent épouse Céline",
+     "youtube_id": "iwo0JO4kWF4",
+     "duree_secondes": 1422,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 135 | Vincent épouse Céline"
+    },
+    {
+     "saison": 1,
+     "numero": 136,
+     "titre": "Thomas trop curieux avec Roland ?",
+     "youtube_id": "nOJ4N_ofjko",
+     "duree_secondes": 1393,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 136 | Thomas trop curieux avec Roland ?"
+    },
+    {
+     "saison": 1,
+     "numero": 137,
+     "titre": "Céline au plus mal",
+     "youtube_id": "l5hu9aME0Yo",
+     "duree_secondes": 1393,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 137 | Céline au plus mal"
+    },
+    {
+     "saison": 1,
+     "numero": 138,
+     "titre": "Blanche drague Thomas",
+     "youtube_id": "npQmLDV_bbo",
+     "duree_secondes": 1437,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 138 | Blanche drague Thomas"
+    },
+    {
+     "saison": 1,
+     "numero": 139,
+     "titre": "Le secret de Frémont dévoilé",
+     "youtube_id": "ebSl1g0K6gw",
+     "duree_secondes": 1397,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 139 | Le secret de Frémont dévoilé"
+    },
+    {
+     "saison": 1,
+     "numero": 140,
+     "titre": "Que cache Thomas ?",
+     "youtube_id": "LJYLv32asls",
+     "duree_secondes": 1427,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 140 | Que cache Thomas ?"
+    },
+    {
+     "saison": 1,
+     "numero": 141,
+     "titre": "Céline menace Vincent",
+     "youtube_id": "Zzznvb-6BaI",
+     "duree_secondes": 1384,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 141 | Céline menace Vincent"
+    },
+    {
+     "saison": 1,
+     "numero": 142,
+     "titre": "Céline tire sur Charlotte",
+     "youtube_id": "uuClBxBXsSQ",
+     "duree_secondes": 1389,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 142 | Céline tire sur Charlotte"
+    },
+    {
+     "saison": 1,
+     "numero": 143,
+     "titre": "Rudy et Johanna s'embrassent",
+     "youtube_id": "DM0O-0edsHA",
+     "duree_secondes": 1414,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 143 | Rudy et Johanna s'embrassent"
+    },
+    {
+     "saison": 1,
+     "numero": 144,
+     "titre": "Léo en colère contre Thomas",
+     "youtube_id": "D450X9DniXw",
+     "duree_secondes": 1435,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 144 | Léo en colère contre Thomas"
+    },
+    {
+     "saison": 1,
+     "numero": 145,
+     "titre": "Roland avoue tout à Thomas",
+     "youtube_id": "ZDB-1C4Jk8s",
+     "duree_secondes": 1420,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 145 | Roland avoue tout à Thomas"
+    },
+    {
+     "saison": 1,
+     "numero": 146,
+     "titre": "Roland est le père de Thomas",
+     "youtube_id": "nfZXAQSXJWE",
+     "duree_secondes": 1422,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 146 | Roland est le père de Thomas"
+    },
+    {
+     "saison": 1,
+     "numero": 147,
+     "titre": "Rudy avoue son amour à Johanna",
+     "youtube_id": "7xATSvY0Lpw",
+     "duree_secondes": 1395,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 147 | Rudy avoue son amour à Johanna"
+    },
+    {
+     "saison": 1,
+     "numero": 148,
+     "titre": "Léo et Carole se rapprochent",
+     "youtube_id": "-c4-jJDQzpA",
+     "duree_secondes": 1416,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 148 | Léo et Carole se rapprochent"
+    },
+    {
+     "saison": 1,
+     "numero": 149,
+     "titre": "Malik hésite entre Céline et Luna",
+     "youtube_id": "jAG4BMSBYN0",
+     "duree_secondes": 1442,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 149 | Malik hésite entre Céline et Luna"
+    },
+    {
+     "saison": 1,
+     "numero": 150,
+     "titre": "Vincent et Charlotte veulent un enfant",
+     "youtube_id": "-re8SWBZChA",
+     "duree_secondes": 1365,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 150 | Vincent et Charlotte veulent un enfant"
+    },
+    {
+     "saison": 1,
+     "numero": 151,
+     "titre": "Le passé de Ninon resurgit",
+     "youtube_id": "3kBxNWzrioU",
+     "duree_secondes": 1371,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 151 | Le passé de Ninon resurgit"
+    },
+    {
+     "saison": 1,
+     "numero": 152,
+     "titre": "François frappe Roland",
+     "youtube_id": "kDlt_unnqGM",
+     "duree_secondes": 1416,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 152 | François frappe Roland"
+    },
+    {
+     "saison": 1,
+     "numero": 153,
+     "titre": "Mélanie quitte François",
+     "youtube_id": "5ao8l_S6S70",
+     "duree_secondes": 1398,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 153 | Mélanie quitte François"
+    },
+    {
+     "saison": 1,
+     "numero": 154,
+     "titre": "Carole soupçonnée du meurtre d'Iris",
+     "youtube_id": "pMDzJMovFrU",
+     "duree_secondes": 1423,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 154 | Carole soupçonnée du meurtre d'Iris"
+    },
+    {
+     "saison": 1,
+     "numero": 155,
+     "titre": "Carole avoue tout",
+     "youtube_id": "FzqzR9-wZ5g",
+     "duree_secondes": 1404,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 155 | Carole avoue tout"
+    },
+    {
+     "saison": 1,
+     "numero": 156,
+     "titre": "Charlotte, nouvelle proie du corbeau",
+     "youtube_id": "hogjXIaCqg4",
+     "duree_secondes": 1407,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 156 | Charlotte, nouvelle proie du corbeau"
+    },
+    {
+     "saison": 1,
+     "numero": 157,
+     "titre": "Qui est le père de Thomas ?",
+     "youtube_id": "R2iqx-OhU_o",
+     "duree_secondes": 1376,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 157 | Qui est le père de Thomas ?"
+    },
+    {
+     "saison": 1,
+     "numero": 158,
+     "titre": "Driss demande Ninon en fiançailles",
+     "youtube_id": "axdQb58HRgE",
+     "duree_secondes": 1416,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 158 | Driss demande Ninon en fiançailles"
+    },
+    {
+     "saison": 1,
+     "numero": 159,
+     "titre": "La menace du Corbeau plane",
+     "youtube_id": "9c7zseOPsTo",
+     "duree_secondes": 1416,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 159 | La menace du Corbeau plane"
+    },
+    {
+     "saison": 1,
+     "numero": 160,
+     "titre": "La femme de Léo retrouvée",
+     "youtube_id": "0eRy4PHtMbs",
+     "duree_secondes": 1423,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 160 | La femme de Léo retrouvée"
+    },
+    {
+     "saison": 1,
+     "numero": 161,
+     "titre": "Ninon et Rudy se réconcilient",
+     "youtube_id": "0_Zq0NBrRgk",
+     "duree_secondes": 1368,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 161| Ninon et Rudy se réconcilient"
+    },
+    {
+     "saison": 1,
+     "numero": 162,
+     "titre": "Driss s'en va",
+     "youtube_id": "CfWd-6MJDQ4",
+     "duree_secondes": 1394,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 162 | Driss s'en va"
+    },
+    {
+     "saison": 1,
+     "numero": 163,
+     "titre": "Johanna vexée",
+     "youtube_id": "1fBepfJ0L4U",
+     "duree_secondes": 1413,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 163 | Johanna vexée"
+    },
+    {
+     "saison": 1,
+     "numero": 164,
+     "titre": "Léo veut innocenter François",
+     "youtube_id": "mIF1Cj56lCQ",
+     "duree_secondes": 1429,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 164 | Léo veut innocenter François"
+    },
+    {
+     "saison": 1,
+     "numero": 165,
+     "titre": "Malik et Céline en couple",
+     "youtube_id": "07Ta3IgAXco",
+     "duree_secondes": 1394,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 165 | Malik et Céline en couple"
+    },
+    {
+     "saison": 1,
+     "numero": 166,
+     "titre": "Charlotte menacée par le corbeau",
+     "youtube_id": "tml0rStPqSU",
+     "duree_secondes": 1370,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 166 | Charlotte menacée par le corbeau"
+    },
+    {
+     "saison": 1,
+     "numero": 167,
+     "titre": "La famille Marci réconciliée",
+     "youtube_id": "gywvpmIHMME",
+     "duree_secondes": 1410,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 167 | La famille Marci réconciliée"
+    },
+    {
+     "saison": 1,
+     "numero": 168,
+     "titre": "Juliette trahit Ninon",
+     "youtube_id": "C8lHH7BF-ek",
+     "duree_secondes": 1383,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 168 | Juliette trahit Ninon"
+    },
+    {
+     "saison": 1,
+     "numero": 169,
+     "titre": "Livia suspect",
+     "youtube_id": "2dQ5idj7vmk",
+     "duree_secondes": 1440,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 169 | Livia suspect"
+    },
+    {
+     "saison": 1,
+     "numero": 170,
+     "titre": "Lucas peut-il pardonner Juliette ?",
+     "youtube_id": "X1q-ZUj5wlY",
+     "duree_secondes": 1449,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 170 | Lucas peut-il pardonner Juliette ?"
+    },
+    {
+     "saison": 1,
+     "numero": 171,
+     "titre": "Livia se rapproche de Charlotte",
+     "youtube_id": "vWHvb4mtewg",
+     "duree_secondes": 1403,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 171 | Livia se rapproche de Charlotte"
+    },
+    {
+     "saison": 1,
+     "numero": 172,
+     "titre": "Roland est le père de Thomas",
+     "youtube_id": "2b870wGQPEY",
+     "duree_secondes": 1439,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 172 | Roland est le père de Thomas"
+    },
+    {
+     "saison": 1,
+     "numero": 173,
+     "titre": "Juliette s'installe chez Céline",
+     "youtube_id": "G4MG06KqF8w",
+     "duree_secondes": 1424,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 173 | Juliette s'installe chez Céline"
+    },
+    {
+     "saison": 1,
+     "numero": 174,
+     "titre": "Léo suspect",
+     "youtube_id": "CI1FsjU4JZY",
+     "duree_secondes": 1394,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 174 | Léo suspect"
+    },
+    {
+     "saison": 1,
+     "numero": 175,
+     "titre": "Frémont fait une crise cardiaque",
+     "youtube_id": "at-Yodeq--U",
+     "duree_secondes": 1381,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 175 | Frémont fait une crise cardiaque"
+    },
+    {
+     "saison": 1,
+     "numero": 176,
+     "titre": "Rudy bientôt père ?",
+     "youtube_id": "Sg4tiVKa1ns",
+     "duree_secondes": 1446,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 176 | Rudy bientôt père ?"
+    },
+    {
+     "saison": 1,
+     "numero": 177,
+     "titre": "Charlotte sous emprise",
+     "youtube_id": "SoHXae_xCHM",
+     "duree_secondes": 1399,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 177 | Charlotte sous emprise"
+    },
+    {
+     "saison": 1,
+     "numero": 178,
+     "titre": "Blanche contre la décision de Johanna",
+     "youtube_id": "g7Z6o4aDgi4",
+     "duree_secondes": 1428,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 178 | Blanche contre la décision de Johanna"
+    },
+    {
+     "saison": 1,
+     "numero": 179,
+     "titre": "Rudy assume sa paternité",
+     "youtube_id": "fRiFwLpnDPI",
+     "duree_secondes": 1445,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 179 | Rudy assume sa paternité"
+    },
+    {
+     "saison": 1,
+     "numero": 180,
+     "titre": "Blanche et François se réconcilient",
+     "youtube_id": "ndBJS1PkEOQ",
+     "duree_secondes": 1417,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 180 | Blanche et François se réconcilient"
+    },
+    {
+     "saison": 1,
+     "numero": 181,
+     "titre": "Léo confond le vrai tueur",
+     "youtube_id": "QeaX9_hYvBA",
+     "duree_secondes": 1412,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 181 | Léo confond le vrai tueur"
+    },
+    {
+     "saison": 1,
+     "numero": 182,
+     "titre": "Juliette et Ninon réconciliées",
+     "youtube_id": "iTpScT9c3mk",
+     "duree_secondes": 1402,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 182 | Juliette et Ninon réconciliées"
+    },
+    {
+     "saison": 1,
+     "numero": 183,
+     "titre": "Vincent protège Charlotte",
+     "youtube_id": "RDbqyB5xMCY",
+     "duree_secondes": 1333,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 183 | Vincent protège Charlotte"
+    },
+    {
+     "saison": 1,
+     "numero": 184,
+     "titre": "Le plan de Vincent et Nicolas échoue",
+     "youtube_id": "5ZUa-vbxmAs",
+     "duree_secondes": 1415,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 184 | Le plan de Vincent et Nicolas échoue"
+    },
+    {
+     "saison": 1,
+     "numero": 185,
+     "titre": "Bruno manipule Charlotte",
+     "youtube_id": "7LB0WoNrnIs",
+     "duree_secondes": 1426,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 185 | Bruno manipule Charlotte"
+    },
+    {
+     "saison": 1,
+     "numero": 186,
+     "titre": "William veut récupérer Ninon",
+     "youtube_id": "0otNKAEWRLM",
+     "duree_secondes": 1418,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 186 | William veut récupérer Ninon"
+    },
+    {
+     "saison": 1,
+     "numero": 187,
+     "titre": "Céline reprend la tête de Phénicie",
+     "youtube_id": "hDY7pONEztM",
+     "duree_secondes": 1414,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 187 | Céline reprend la tête de Phénicie"
+    },
+    {
+     "saison": 1,
+     "numero": 188,
+     "titre": "Charlotte a disparu",
+     "youtube_id": "5gkN5zyhhgc",
+     "duree_secondes": 1392,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 188 | Charlotte a disparu"
+    },
+    {
+     "saison": 1,
+     "numero": 189,
+     "titre": "Vincent sauve Charlotte de justesse",
+     "youtube_id": "z0gDl5-7hNo",
+     "duree_secondes": 1363,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 189 | Vincent sauve Charlotte de justesse"
+    },
+    {
+     "saison": 1,
+     "numero": 190,
+     "titre": "Bruno Livia échappe à Léo",
+     "youtube_id": "K5TpbnRMETE",
+     "duree_secondes": 1373,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 190 | Bruno Livia échappe à Léo"
+    },
+    {
+     "saison": 1,
+     "numero": 191,
+     "titre": "Frémont bientôt pardonné par le Mistral ?",
+     "youtube_id": "aMc6PK4CjKc",
+     "duree_secondes": 1367,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 191 | Frémont bientôt pardonné par le Mistral ?"
+    },
+    {
+     "saison": 1,
+     "numero": 192,
+     "titre": "William révèle son secret",
+     "youtube_id": "NItTvdUFCVI",
+     "duree_secondes": 1402,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 192 | William révèle son secret"
+    },
+    {
+     "saison": 1,
+     "numero": 193,
+     "titre": "Blanche et François officialisent",
+     "youtube_id": "3gT0zM-CITY",
+     "duree_secondes": 1375,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 193 | Blanche et François officialisent"
+    },
+    {
+     "saison": 1,
+     "numero": 194,
+     "titre": "L'arrivée de Guillaume Leserman",
+     "youtube_id": "8K52mxFEUB0",
+     "duree_secondes": 1410,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 194 | L'arrivée de Guillaume Leserman"
+    },
+    {
+     "saison": 1,
+     "numero": 195,
+     "titre": "François et Blanche s'enfuient",
+     "youtube_id": "2ClYBymkchM",
+     "duree_secondes": 1389,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 195 | François et Blanche s'enfuient"
+    },
+    {
+     "saison": 1,
+     "numero": 196,
+     "titre": "Luna craque pour Guillaume",
+     "youtube_id": "SCpWbsA0a4s",
+     "duree_secondes": 1434,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 196 | Luna craque pour Guillaume"
+    },
+    {
+     "saison": 1,
+     "numero": 197,
+     "titre": "Frémont veut conquérir Luna",
+     "youtube_id": "YqoZc9XW5Sk",
+     "duree_secondes": 1432,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 197 | Frémont veut conquérir Luna"
+    },
+    {
+     "saison": 1,
+     "numero": 198,
+     "titre": "Johanna fait des caprices",
+     "youtube_id": "XCHMlihY-44",
+     "duree_secondes": 1392,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 198 | Johanna fait des caprices"
+    },
+    {
+     "saison": 1,
+     "numero": 199,
+     "titre": "Nicolas et Thomas emménagent ensemble",
+     "youtube_id": "WSlt3uXuO0o",
+     "duree_secondes": 1421,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 199 | Nicolas et Thomas emménagent ensemble"
+    },
+    {
+     "saison": 1,
+     "numero": 200,
+     "titre": "Le passé de la famille Frémont",
+     "youtube_id": "von-IArzQeI",
+     "duree_secondes": 1393,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 200 | Le passé de la famille Frémont"
+    },
+    {
+     "saison": 1,
+     "numero": 201,
+     "titre": "Rachel doute de Guillaume",
+     "youtube_id": "Me4sEouAEvw",
+     "duree_secondes": 1435,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 201 | Rachel doute de Guillaume"
+    },
+    {
+     "saison": 1,
+     "numero": 202,
+     "titre": "Juliette au plus mal",
+     "youtube_id": "h6tsXnzWx4U",
+     "duree_secondes": 1383,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 202 | Juliette au plus mal"
+    },
+    {
+     "saison": 1,
+     "numero": 203,
+     "titre": "Nathan débarque au Mistral",
+     "youtube_id": "Y4rESacBvLA",
+     "duree_secondes": 1378,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 203 | Nathan débarque au Mistral"
+    },
+    {
+     "saison": 1,
+     "numero": 204,
+     "titre": "Mélanie piégée par un ado",
+     "youtube_id": "8OptI-namgw",
+     "duree_secondes": 1370,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 204 | Mélanie piégée par un ado"
+    },
+    {
+     "saison": 1,
+     "numero": 205,
+     "titre": "Nathan vole Luna",
+     "youtube_id": "a0HNESNGHLw",
+     "duree_secondes": 1422,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 205 | Nathan vole Luna"
+    },
+    {
+     "saison": 1,
+     "numero": 206,
+     "titre": "William panique",
+     "youtube_id": "fsGPFCHZBAg",
+     "duree_secondes": 1407,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 206 | William panique"
+    },
+    {
+     "saison": 1,
+     "numero": 207,
+     "titre": "Céline et Malik s'installent ensemble",
+     "youtube_id": "6NDA2vmuqlU",
+     "duree_secondes": 1430,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 207 | Céline et Malik s'installent ensemble"
+    },
+    {
+     "saison": 1,
+     "numero": 208,
+     "titre": "Frémont drogue Rachel",
+     "youtube_id": "gFrbTbjGIqU",
+     "duree_secondes": 1441,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 208 |  Frémont drogue Rachel"
+    },
+    {
+     "saison": 1,
+     "numero": 209,
+     "titre": "Guillaume et Vincent s'associent",
+     "youtube_id": "j-COZKLTiWM",
+     "duree_secondes": 1406,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 209 | Guillaume et Vincent s'associent"
+    },
+    {
+     "saison": 1,
+     "numero": 210,
+     "titre": "Rachel porte plainte",
+     "youtube_id": "vhgKIcIMa8A",
+     "duree_secondes": 1418,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 210 | Rachel porte plainte"
+    },
+    {
+     "saison": 1,
+     "numero": 211,
+     "titre": "La mère de Vincent débarque",
+     "youtube_id": "G6HZdx-KD0E",
+     "duree_secondes": 1448,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 211 | La mère de Vincent débarque"
+    },
+    {
+     "saison": 1,
+     "numero": 212,
+     "titre": "Guillaume interrogé par Léo",
+     "youtube_id": "mbxSjRB3Rc8",
+     "duree_secondes": 1421,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 212 | Guillaume interrogé par Léo"
+    },
+    {
+     "saison": 1,
+     "numero": 213,
+     "titre": "Charles Frémont est mort",
+     "youtube_id": "FPkcv7_6EC4",
+     "duree_secondes": 1441,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 213 | Charles Frémont est mort"
+    },
+    {
+     "saison": 1,
+     "numero": 214,
+     "titre": "Guillaume incarcéré",
+     "youtube_id": "k8Zz7hKX-RU",
+     "duree_secondes": 1458,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 214 | Guillaume incarcéré"
+    },
+    {
+     "saison": 1,
+     "numero": 215,
+     "titre": "Luna s'installe chez Guillaume",
+     "youtube_id": "J0EnZecj4Rg",
+     "duree_secondes": 1436,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 215 | Luna s'installe chez Guillaume"
+    },
+    {
+     "saison": 1,
+     "numero": 216,
+     "titre": "Céline veut faire tomber Luna",
+     "youtube_id": "nD7UgBusgT0",
+     "duree_secondes": 1428,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 216 | Céline veut faire tomber Luna"
+    },
+    {
+     "saison": 1,
+     "numero": 217,
+     "titre": "Céline piège Luna",
+     "youtube_id": "5qyM2Kpnwig",
+     "duree_secondes": 1435,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 217 | Céline piège Luna"
+    },
+    {
+     "saison": 1,
+     "numero": 218,
+     "titre": "Juliette sauve Luna",
+     "youtube_id": "BSVvVkv6Rgk",
+     "duree_secondes": 1419,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 218 | Juliette sauve Luna"
+    },
+    {
+     "saison": 1,
+     "numero": 219,
+     "titre": "Blanche et François échangistes ?",
+     "youtube_id": "So3Fi_8Gfjk",
+     "duree_secondes": 1404,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 219 | Blanche et François échangistes ?"
+    },
+    {
+     "saison": 1,
+     "numero": 220,
+     "titre": "Rudy appréhende l'accouchement",
+     "youtube_id": "MaMx5uW-zGY",
+     "duree_secondes": 1437,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 220 | Rudy appréhende l'accouchement"
+    },
+    {
+     "saison": 1,
+     "numero": 221,
+     "titre": "L'arrivée de Samia",
+     "youtube_id": "wBULo3sWVic",
+     "duree_secondes": 1439,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 221 | L'arrivée de Samia"
+    },
+    {
+     "saison": 1,
+     "numero": 222,
+     "titre": "Ninon recalée au Bac",
+     "youtube_id": "76TTtMbKZdU",
+     "duree_secondes": 1433,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 222 | Ninon recalée au Bac"
+    },
+    {
+     "saison": 1,
+     "numero": 223,
+     "titre": "Eva tente d'embrasser Vincent",
+     "youtube_id": "Hq4KQRDHPDk",
+     "duree_secondes": 1432,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 223 | Eva tente d'embrasser Vincent"
+    },
+    {
+     "saison": 1,
+     "numero": 224,
+     "titre": "Frémont bien vivant",
+     "youtube_id": "HD4YUcFO3MI",
+     "duree_secondes": 1409,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 224 | Frémont bien vivant"
+    },
+    {
+     "saison": 1,
+     "numero": 225,
+     "titre": "Samia s'enfuit",
+     "youtube_id": "hdTVT-mnQNU",
+     "duree_secondes": 1442,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 225 | Samia s'enfuit"
+    },
+    {
+     "saison": 1,
+     "numero": 226,
+     "titre": "Frémont simule une amnésie",
+     "youtube_id": "fKfWN-QA2Jk",
+     "duree_secondes": 1433,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 226 | Frémont simule une amnésie"
+    },
+    {
+     "saison": 1,
+     "numero": 227,
+     "titre": "Rudy craque pour Élodie",
+     "youtube_id": "HPuIZX_EAXo",
+     "duree_secondes": 1439,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 227 | Rudy craque pour Élodie"
+    },
+    {
+     "saison": 1,
+     "numero": 228,
+     "titre": "Vincent embrasse Eva",
+     "youtube_id": "3B6m6RqCL1g",
+     "duree_secondes": 1439,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 228 | Vincent embrasse Eva"
+    },
+    {
+     "saison": 1,
+     "numero": 229,
+     "titre": "Samia mariée de force ?",
+     "youtube_id": "Y9_vMOj9qvw",
+     "duree_secondes": 1378,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 229 | Samia mariée de force ?"
+    },
+    {
+     "saison": 1,
+     "numero": 230,
+     "titre": "William retrouve la vue",
+     "youtube_id": "b8FfCBceSBI",
+     "duree_secondes": 1451,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 230 | William retrouve la vue"
+    },
+    {
+     "saison": 1,
+     "numero": 231,
+     "titre": "Un mariage blanc au Mistral",
+     "youtube_id": "09s2AZLLNPE",
+     "duree_secondes": 1435,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 231 | Un mariage blanc au Mistral"
+    },
+    {
+     "saison": 1,
+     "numero": 232,
+     "titre": "Vincent trompe Charlotte",
+     "youtube_id": "r4lU2f8gdfs",
+     "duree_secondes": 1442,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 232 | Vincent trompe Charlotte"
+    },
+    {
+     "saison": 1,
+     "numero": 233,
+     "titre": "Rudy joue avec le feu",
+     "youtube_id": "L13WS_H1XmE",
+     "duree_secondes": 1450,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 233 | Rudy joue avec le feu"
+    },
+    {
+     "saison": 1,
+     "numero": 234,
+     "titre": "Charlotte quitte Vincent",
+     "youtube_id": "9yIcc5G0W1E",
+     "duree_secondes": 1424,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 234 | Charlotte quitte Vincent"
+    },
+    {
+     "saison": 1,
+     "numero": 235,
+     "titre": "Samia reste à Marseille",
+     "youtube_id": "IrVHhwDPE9E",
+     "duree_secondes": 1437,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 235 | Samia reste à Marseille"
+    },
+    {
+     "saison": 1,
+     "numero": 236,
+     "titre": "Juliette en danger",
+     "youtube_id": "mVsEOvF17V4",
+     "duree_secondes": 1422,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 236 | Juliette en danger"
+    },
+    {
+     "saison": 1,
+     "numero": 237,
+     "titre": "Eva agresse Nathan",
+     "youtube_id": "_AM6kjDaAaM",
+     "duree_secondes": 1410,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 237 | Eva agresse Nathan"
+    },
+    {
+     "saison": 1,
+     "numero": 238,
+     "titre": "Nathan en danger de mort",
+     "youtube_id": "tP7q4tnNl0w",
+     "duree_secondes": 1396,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 238 | Nathan en danger de mort"
+    },
+    {
+     "saison": 1,
+     "numero": 239,
+     "titre": "Charlotte pardonne Vincent",
+     "youtube_id": "99lmWKuj7D4",
+     "duree_secondes": 1450,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 239 | Charlotte pardonne Vincent"
+    },
+    {
+     "saison": 1,
+     "numero": 240,
+     "titre": "Rudy se confesse à Ninon",
+     "youtube_id": "ulYuipl0pME",
+     "duree_secondes": 1441,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 240 | Rudy se confesse à Ninon"
+    },
+    {
+     "saison": 1,
+     "numero": 241,
+     "titre": "Juliette droguée par Éva",
+     "youtube_id": "tGyi7q0FOdc",
+     "duree_secondes": 1455,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 241 | Juliette droguée par Éva"
+    },
+    {
+     "saison": 1,
+     "numero": 242,
+     "titre": "Rudy déclare sa flamme à Ninon",
+     "youtube_id": "0Wp5Pdz_1PQ",
+     "duree_secondes": 1440,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 242 | Rudy déclare sa flamme à Ninon"
+    },
+    {
+     "saison": 1,
+     "numero": 243,
+     "titre": "Frémont se venge d'Éva",
+     "youtube_id": "E_VRSJQVilc",
+     "duree_secondes": 1441,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 243 | Frémont se venge d'Éva"
+    },
+    {
+     "saison": 1,
+     "numero": 244,
+     "titre": "Mélanie et Thomas en froid",
+     "youtube_id": "L6Awhi5rfHg",
+     "duree_secondes": 1453,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 244 | Mélanie et Thomas en froid"
+    },
+    {
+     "saison": 1,
+     "numero": 245,
+     "titre": "Johanna et Lucas ont un accident",
+     "youtube_id": "z2314wTjhzg",
+     "duree_secondes": 1488,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 245 | Johanna et Lucas ont un accident"
+    },
+    {
+     "saison": 1,
+     "numero": 246,
+     "titre": "Lucas gravement blessé",
+     "youtube_id": "WTRlavegr_U",
+     "duree_secondes": 1448,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 246 | Lucas gravement blessé"
+    },
+    {
+     "saison": 1,
+     "numero": 247,
+     "titre": "Rudy rongé par la culpabilité",
+     "youtube_id": "N9DcjJxCtow",
+     "duree_secondes": 1439,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 247 | Rudy rongé par la culpabilité"
+    },
+    {
+     "saison": 1,
+     "numero": 248,
+     "titre": "Lucas ment pour protéger Johanna",
+     "youtube_id": "yXuOBuKulxc",
+     "duree_secondes": 1445,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 248 | Lucas ment pour protéger Johanna"
+    },
+    {
+     "saison": 1,
+     "numero": 249,
+     "titre": "Johanna retrouve la mémoire",
+     "youtube_id": "7KaAhGYacmE",
+     "duree_secondes": 1435,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 249 | Johanna retrouve la mémoire"
+    },
+    {
+     "saison": 1,
+     "numero": 250,
+     "titre": "Céline infidèle",
+     "youtube_id": "GtT5zww1VTA",
+     "duree_secondes": 1448,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 250 | Céline infidèle"
+    },
+    {
+     "saison": 1,
+     "numero": 251,
+     "titre": "Johanna au bord de l'explosion",
+     "youtube_id": "GProkMA2F94",
+     "duree_secondes": 1442,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 251 | Johanna au bord de l'explosion"
+    },
+    {
+     "saison": 1,
+     "numero": 252,
+     "titre": "Eva meurt",
+     "youtube_id": "6sn15rGMzRA",
+     "duree_secondes": 1437,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 252 | Eva meurt"
+    },
+    {
+     "saison": 1,
+     "numero": 253,
+     "titre": "Johanna empoissonne Rudy et Ninon",
+     "youtube_id": "61NE5PxNNYc",
+     "duree_secondes": 1422,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 253 | Johanna empoissonne Rudy et Ninon"
+    },
+    {
+     "saison": 1,
+     "numero": 254,
+     "titre": "Emmanuelle sème le trouble",
+     "youtube_id": "nxTct-U6jY4",
+     "duree_secondes": 1446,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 254 | Emmanuelle sème le trouble"
+    },
+    {
+     "saison": 1,
+     "numero": 255,
+     "titre": "Ninon et Rudy rompent définitivement",
+     "youtube_id": "ODyxY-bX-UQ",
+     "duree_secondes": 1447,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 255 | Ninon et Rudy rompent définitivement"
+    },
+    {
+     "saison": 1,
+     "numero": 256,
+     "titre": "Lucas en fauteuil roulant",
+     "youtube_id": "6Ry7xRBW7E4",
+     "duree_secondes": 1424,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 256 | Lucas en fauteuil roulant"
+    },
+    {
+     "saison": 1,
+     "numero": 257,
+     "titre": "Rudy replonge dans la drogue",
+     "youtube_id": "pvEbWNoUDPk",
+     "duree_secondes": 1443,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 257 | Rudy replonge dans la drogue"
+    },
+    {
+     "saison": 1,
+     "numero": 258,
+     "titre": "Juliette et Lucas font un break",
+     "youtube_id": "lAk4lQXCEO8",
+     "duree_secondes": 1443,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 258 | Juliette et Lucas font un break"
+    },
+    {
+     "saison": 1,
+     "numero": 259,
+     "titre": "Lucas et Samia couchent ensemble",
+     "youtube_id": "OClJEY611kw",
+     "duree_secondes": 1452,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 259 | Lucas et Samia couchent ensemble"
+    },
+    {
+     "saison": 1,
+     "numero": 260,
+     "titre": "Le père de Rudy débarque",
+     "youtube_id": "dyKJrBRD5Z4",
+     "duree_secondes": 1439,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PBLV - Saison 1, Épisode 260 | Le père de Rudy débarque"
+    }
+   ],
+   "affiche": "affiches/B2_0T_e-eFs.webp",
+   "vignette": "vignettes/B2_0T_e-eFs.webp"
+  },
+  {
+   "slug": "la-calanque",
+   "titre": "La Calanque",
+   "format": "serie",
+   "univers": "series",
+   "genres": [
+    "drame",
+    "romance"
+   ],
+   "tout_public": true,
+   "youtube_id": null,
+   "chaine_nom": "Instant Saga",
+   "chaine_id": "UCL5IikHOTwC9P9kuPIYvgTA",
+   "chaine_url": "https://www.youtube.com/channel/UCL5IikHOTwC9P9kuPIYvgTA",
+   "ayant_droit": "Instant Saga (chaîne officielle des téléfilms et séries, certifiée)",
+   "duree_secondes": 3475,
+   "annee": null,
+   "description": "Un feuilleton provençal avec Marthe Villalonga et Franck Fernandel, au générique chanté par Dorothée : dix épisodes de saga familiale au bord de la Méditerranée.",
+   "disponible_jusqu_au": null,
+   "publie_le": null,
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "Épisode 1",
+     "youtube_id": "OMnjKmeS3qg",
+     "duree_secondes": 3473,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "La calanque - Épisode 01",
+     "vignette": "vignettes/OMnjKmeS3qg.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "Épisode 2",
+     "youtube_id": "0dqxeYkarN8",
+     "duree_secondes": 3402,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "La calanque - Épisode 02",
+     "vignette": "vignettes/0dqxeYkarN8.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 3,
+     "titre": "Épisode 3",
+     "youtube_id": "u8rBE6eZphE",
+     "duree_secondes": 3402,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "La calanque - Épisode 03",
+     "vignette": "vignettes/u8rBE6eZphE.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 4,
+     "titre": "Épisode 4",
+     "youtube_id": "DAeEycUo37s",
+     "duree_secondes": 3567,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "La calanque - Épisode 04",
+     "vignette": "vignettes/DAeEycUo37s.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 5,
+     "titre": "Épisode 5",
+     "youtube_id": "3TP9VVS4SZw",
+     "duree_secondes": 3451,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "La calanque - Épisode 05",
+     "vignette": "vignettes/3TP9VVS4SZw.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 6,
+     "titre": "Épisode 6",
+     "youtube_id": "p7W6CqLa4hw",
+     "duree_secondes": 3531,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "La calanque - Épisode 06",
+     "vignette": "vignettes/p7W6CqLa4hw.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 7,
+     "titre": "Épisode 7",
+     "youtube_id": "D1khom0YMTU",
+     "duree_secondes": 3461,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "La calanque - Épisode 07",
+     "vignette": "vignettes/D1khom0YMTU.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 8,
+     "titre": "Épisode 8",
+     "youtube_id": "yhkUzhzRj8o",
+     "duree_secondes": 3527,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "La calanque - Épisode 08",
+     "vignette": "vignettes/yhkUzhzRj8o.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 9,
+     "titre": "Épisode 9",
+     "youtube_id": "QELoG-WVFDk",
+     "duree_secondes": 3528,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "La calanque - Épisode 09",
+     "vignette": "vignettes/QELoG-WVFDk.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 10,
+     "titre": "Épisode 10",
+     "youtube_id": "DWmh3YDJ1DI",
+     "duree_secondes": 3475,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "La calanque - Épisode 10",
+     "vignette": "vignettes/DWmh3YDJ1DI.webp"
+    }
+   ],
+   "affiche": "affiches/OMnjKmeS3qg.webp",
+   "vignette": "vignettes/OMnjKmeS3qg.webp"
+  },
+  {
+   "slug": "mary-lester",
+   "titre": "Mary Lester",
+   "format": "serie",
+   "univers": "series",
+   "genres": [
+    "policier"
+   ],
+   "tout_public": false,
+   "youtube_id": null,
+   "chaine_nom": "Instant Saga",
+   "chaine_id": "UCL5IikHOTwC9P9kuPIYvgTA",
+   "chaine_url": "https://www.youtube.com/channel/UCL5IikHOTwC9P9kuPIYvgTA",
+   "ayant_droit": "Instant Saga (chaîne officielle des téléfilms et séries, certifiée)",
+   "duree_secondes": 2851,
+   "annee": null,
+   "description": "Sophie de La Rochefoucauld est Mary Lester, capitaine de police en Bretagne : sept enquêtes entre ports, landes et vieilles rancunes.",
+   "disponible_jusqu_au": null,
+   "publie_le": null,
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "Marée blanche",
+     "youtube_id": "Y0F6LUxFrr4",
+     "duree_secondes": 5058,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Mary Lester - Épisode 1 - Marée blanche",
+     "vignette": "vignettes/Y0F6LUxFrr4.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "Meurtre en Atlantique",
+     "youtube_id": "8Vr9KEAAP7s",
+     "duree_secondes": 2779,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Mary Lester - Épisode 2 - Meurtre en Atlantique",
+     "vignette": "vignettes/8Vr9KEAAP7s.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 3,
+     "titre": "Le retour de Molly",
+     "youtube_id": "nGbFfVst3Co",
+     "duree_secondes": 2984,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Mary Lester - Épisode 3 - Le retour de Molly",
+     "vignette": "vignettes/nGbFfVst3Co.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 4,
+     "titre": "Maena",
+     "youtube_id": "Cd40Ha1pN0o",
+     "duree_secondes": 2867,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Mary Lester - Épisode 4 - Maena",
+     "vignette": "vignettes/Cd40Ha1pN0o.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 5,
+     "titre": "Meurtre en retour",
+     "youtube_id": "gb-GfXT8jV8",
+     "duree_secondes": 2851,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Mary Lester - Épisode 5 - Meurtre en retour",
+     "vignette": "vignettes/gb-GfXT8jV8.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 6,
+     "titre": "La cité des dogues",
+     "youtube_id": "oNQmsPB-1zU",
+     "duree_secondes": 2751,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Mary Lester - Épisode 6 - La cité des dogues",
+     "vignette": "vignettes/oNQmsPB-1zU.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 7,
+     "titre": "Fortune de mer",
+     "youtube_id": "SCF7d29NG9c",
+     "duree_secondes": 2803,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Mary Lester - Épisode 7 - Fortune de mer",
+     "vignette": "vignettes/SCF7d29NG9c.webp"
+    }
+   ],
+   "affiche": "affiches/Y0F6LUxFrr4.webp",
+   "vignette": "vignettes/Y0F6LUxFrr4.webp"
+  },
+  {
+   "slug": "cut",
+   "titre": "Cut",
+   "format": "serie",
+   "univers": "series",
+   "genres": [
+    "drame",
+    "romance"
+   ],
+   "tout_public": false,
+   "youtube_id": null,
+   "chaine_nom": "Instant Saga",
+   "chaine_id": "UCL5IikHOTwC9P9kuPIYvgTA",
+   "chaine_url": "https://www.youtube.com/channel/UCL5IikHOTwC9P9kuPIYvgTA",
+   "ayant_droit": "Instant Saga (chaîne officielle des téléfilms et séries, certifiée)",
+   "duree_secondes": 1428,
+   "annee": null,
+   "description": "Le feuilleton tourné à La Réunion : amours, rivalités, trahisons et secrets de famille sous le soleil de l'océan Indien. La saison 1 intégrale, 70 épisodes.",
+   "disponible_jusqu_au": null,
+   "publie_le": null,
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "Piégées",
+     "youtube_id": "spS4WhirwT4",
+     "duree_secondes": 1568,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Piégées (S1E01)",
+     "vignette": "vignettes/spS4WhirwT4.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "Terrain hostile",
+     "youtube_id": "GRv6K2dSXvA",
+     "duree_secondes": 1538,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Terrain hostile (S1E02)",
+     "vignette": "vignettes/GRv6K2dSXvA.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 3,
+     "titre": "Manipulatrices",
+     "youtube_id": "CF3LaaFhNuA",
+     "duree_secondes": 1494,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Manipulatrices (S1E03)",
+     "vignette": "vignettes/CF3LaaFhNuA.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 4,
+     "titre": "La promesse",
+     "youtube_id": "h5ze-hVf2d0",
+     "duree_secondes": 1428,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - La promesse (S1E04)",
+     "vignette": "vignettes/h5ze-hVf2d0.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 5,
+     "titre": "Bad trip",
+     "youtube_id": "qVSrychSTQY",
+     "duree_secondes": 1428,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Bad trip (S1E05)",
+     "vignette": "vignettes/qVSrychSTQY.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 6,
+     "titre": "Nine",
+     "youtube_id": "NXTz8wd1Tag",
+     "duree_secondes": 1439,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Nine (S1E06)",
+     "vignette": "vignettes/NXTz8wd1Tag.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 7,
+     "titre": "Le petit Robbie",
+     "youtube_id": "gRh9HBURNeA",
+     "duree_secondes": 1379,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Le petit Robbie (S1E07)",
+     "vignette": "vignettes/gRh9HBURNeA.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 8,
+     "titre": "Imprévisible Adil",
+     "youtube_id": "yieVtOc3ymo",
+     "duree_secondes": 1382,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Imprévisible Adil (S1E08)",
+     "vignette": "vignettes/yieVtOc3ymo.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 9,
+     "titre": "Blessures",
+     "youtube_id": "RQWax7qjq1M",
+     "duree_secondes": 1311,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Blessures (S1E09)",
+     "vignette": "vignettes/RQWax7qjq1M.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 10,
+     "titre": "Juste un baiser",
+     "youtube_id": "DENfKAgLj60",
+     "duree_secondes": 1406,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Juste un baiser (S1E10)",
+     "vignette": "vignettes/DENfKAgLj60.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 11,
+     "titre": "Un baiser amer",
+     "youtube_id": "DJOUYIdlsC4",
+     "duree_secondes": 1405,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Un baiser amer (S1E11)",
+     "vignette": "vignettes/DJOUYIdlsC4.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 12,
+     "titre": "Le mensonge de trop",
+     "youtube_id": "mgZRpXQK_gc",
+     "duree_secondes": 1371,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Le mensonge de trop (S1E12)",
+     "vignette": "vignettes/mgZRpXQK_gc.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 13,
+     "titre": "En mode séduction",
+     "youtube_id": "qgDtQ0wpb_M",
+     "duree_secondes": 1419,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - En mode séduction (S1E13)",
+     "vignette": "vignettes/qgDtQ0wpb_M.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 14,
+     "titre": "Au nom du père",
+     "youtube_id": "TDSbkJONZKM",
+     "duree_secondes": 1580,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Au nom du père (S1E14)",
+     "vignette": "vignettes/TDSbkJONZKM.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 15,
+     "titre": "Quelqu'un dans ma vie",
+     "youtube_id": "ds59F2acyPo",
+     "duree_secondes": 1312,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Quelqu'un dans ma vie! (S1E15)",
+     "vignette": "vignettes/ds59F2acyPo.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 16,
+     "titre": "Confession",
+     "youtube_id": "VHXhiF4cPpU",
+     "duree_secondes": 1376,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Confession (S1E16)",
+     "vignette": "vignettes/VHXhiF4cPpU.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 17,
+     "titre": "Frontale",
+     "youtube_id": "kDDJzWrTgmo",
+     "duree_secondes": 1324,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Frontale (S1E17)",
+     "vignette": "vignettes/kDDJzWrTgmo.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 18,
+     "titre": "Retour vers le passé",
+     "youtube_id": "N8l1KcOHAhs",
+     "duree_secondes": 1517,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Retour vers le passé (S1E18)",
+     "vignette": "vignettes/N8l1KcOHAhs.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 19,
+     "titre": "Crève",
+     "youtube_id": "N6uSdpfXee8",
+     "duree_secondes": 1378,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Crève ! (S1E19)",
+     "vignette": "vignettes/N6uSdpfXee8.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 20,
+     "titre": "Alliance improbable",
+     "youtube_id": "T-wcO32WT6I",
+     "duree_secondes": 1405,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Alliance improbable (S1E20)",
+     "vignette": "vignettes/T-wcO32WT6I.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 21,
+     "titre": "Soupçons",
+     "youtube_id": "zCDds1b6wb0",
+     "duree_secondes": 1507,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Soupçons (S1E21)",
+     "vignette": "vignettes/zCDds1b6wb0.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 22,
+     "titre": "Dépossession",
+     "youtube_id": "cqiykge--yM",
+     "duree_secondes": 1367,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Dépossession (S1E22)",
+     "vignette": "vignettes/cqiykge--yM.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 23,
+     "titre": "Contre-attaque",
+     "youtube_id": "oEQyrxoy_wM",
+     "duree_secondes": 1323,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Contre-attaque (S1E23)",
+     "vignette": "vignettes/oEQyrxoy_wM.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 24,
+     "titre": "Plan com'",
+     "youtube_id": "2RJTLK9QQ8I",
+     "duree_secondes": 1332,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Plan com' (S1E24)",
+     "vignette": "vignettes/2RJTLK9QQ8I.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 25,
+     "titre": "Dommages collatéraux",
+     "youtube_id": "jU3mxGNLiOg",
+     "duree_secondes": 1395,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Dommages collatéraux (S1E25)",
+     "vignette": "vignettes/jU3mxGNLiOg.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 26,
+     "titre": "Lovelock",
+     "youtube_id": "3zkBbzFDauI",
+     "duree_secondes": 1555,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Lovelock (S1E26)",
+     "vignette": "vignettes/3zkBbzFDauI.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 27,
+     "titre": "Sur le fil",
+     "youtube_id": "MyN69v3vnmI",
+     "duree_secondes": 1396,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Sur le fil (S1E27)",
+     "vignette": "vignettes/MyN69v3vnmI.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 28,
+     "titre": "La cérémonie",
+     "youtube_id": "UrNn_l_O8Ig",
+     "duree_secondes": 1384,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - La cérémonie (S1E28)",
+     "vignette": "vignettes/UrNn_l_O8Ig.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 29,
+     "titre": "Rédemption",
+     "youtube_id": "F_dhM0_xjvU",
+     "duree_secondes": 1395,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Rédemption (S1E29)",
+     "vignette": "vignettes/F_dhM0_xjvU.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 30,
+     "titre": "A cause de moi",
+     "youtube_id": "aPivVtR0Scs",
+     "duree_secondes": 1385,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - A cause de moi  (S1E30)",
+     "vignette": "vignettes/aPivVtR0Scs.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 31,
+     "titre": "Lâcher prise",
+     "youtube_id": "rM8P-xCCSRQ",
+     "duree_secondes": 1451,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Lâcher prise (S1E31)",
+     "vignette": "vignettes/rM8P-xCCSRQ.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 32,
+     "titre": "Les histoires d'amour finissent mal",
+     "youtube_id": "YTFAuqpbEuA",
+     "duree_secondes": 1383,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Les histoires d'amour finissent mal (S1E32)",
+     "vignette": "vignettes/YTFAuqpbEuA.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 33,
+     "titre": "Les boulets",
+     "youtube_id": "ypKetTmSav8",
+     "duree_secondes": 1387,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Les boulets (S1E33)",
+     "vignette": "vignettes/ypKetTmSav8.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 34,
+     "titre": "Le dilemme d'Adil",
+     "youtube_id": "rvNhCMjaF7I",
+     "duree_secondes": 1327,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Le dilemme d'Adil (S1E34)",
+     "vignette": "vignettes/rvNhCMjaF7I.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 35,
+     "titre": "Vivante",
+     "youtube_id": "nfxP33mmduw",
+     "duree_secondes": 1482,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Vivante (S1E35)",
+     "vignette": "vignettes/nfxP33mmduw.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 36,
+     "titre": "Victoire",
+     "youtube_id": "V100kumWznc",
+     "duree_secondes": 1449,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Victoire (S1E36)",
+     "vignette": "vignettes/V100kumWznc.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 37,
+     "titre": "Sables mouvants",
+     "youtube_id": "lW2pawD_LIg",
+     "duree_secondes": 1323,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Sables mouvants (S1E37)",
+     "vignette": "vignettes/lW2pawD_LIg.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 38,
+     "titre": "Ce que la raison ignore",
+     "youtube_id": "Eh7wmlDGaYI",
+     "duree_secondes": 1384,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Ce que la raison ignore (S1E38)",
+     "vignette": "vignettes/Eh7wmlDGaYI.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 39,
+     "titre": "Vengeances 2.0",
+     "youtube_id": "yt1vpyJKuQA",
+     "duree_secondes": 1385,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Vengeances 2.0 (S1E39)",
+     "vignette": "vignettes/yt1vpyJKuQA.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 40,
+     "titre": "Sans loi",
+     "youtube_id": "Ab6wf9wglm0",
+     "duree_secondes": 1455,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Sans loi (S1E40)",
+     "vignette": "vignettes/Ab6wf9wglm0.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 41,
+     "titre": "La femme de mon amant",
+     "youtube_id": "THR1dmlCWuw",
+     "duree_secondes": 1506,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - La femme de mon amant (S1E41)",
+     "vignette": "vignettes/THR1dmlCWuw.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 42,
+     "titre": "Seule contre tous",
+     "youtube_id": "cT6cqAuoKWU",
+     "duree_secondes": 1436,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Seule contre tous (S1E42)",
+     "vignette": "vignettes/cT6cqAuoKWU.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 43,
+     "titre": "Une femme bafouée",
+     "youtube_id": "kHe-H4qaJ0Q",
+     "duree_secondes": 1472,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Une femme bafouÃ©e (S1E43)",
+     "vignette": "vignettes/kHe-H4qaJ0Q.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 44,
+     "titre": "Héritage",
+     "youtube_id": "ksE1FrmXFxM",
+     "duree_secondes": 1457,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Héritage (S1E44)",
+     "vignette": "vignettes/ksE1FrmXFxM.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 45,
+     "titre": "Ami ou amant",
+     "youtube_id": "6jPJRsZOPvw",
+     "duree_secondes": 1515,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Ami ou amant (S1E45)",
+     "vignette": "vignettes/6jPJRsZOPvw.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 46,
+     "titre": "Révélation",
+     "youtube_id": "eIQ4gi8Zceo",
+     "duree_secondes": 1439,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Révélation (S1E46)",
+     "vignette": "vignettes/eIQ4gi8Zceo.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 47,
+     "titre": "Le passé est plus fort",
+     "youtube_id": "AZBf23D0fkA",
+     "duree_secondes": 1411,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Le passé est plus fort (S1E47)",
+     "vignette": "vignettes/AZBf23D0fkA.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 48,
+     "titre": "L'ivresse du pouvoir",
+     "youtube_id": "y8KXz6kaFgQ",
+     "duree_secondes": 1394,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - L'ivresse du pouvoir (S1E48)",
+     "vignette": "vignettes/y8KXz6kaFgQ.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 49,
+     "titre": "Le poids de l'héritage",
+     "youtube_id": "z34BrV7_Bxo",
+     "duree_secondes": 1443,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Le poids de l'héritage (S1E49)",
+     "vignette": "vignettes/z34BrV7_Bxo.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 50,
+     "titre": "La clef",
+     "youtube_id": "F28zJXfjWBY",
+     "duree_secondes": 1440,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - La clef (S1E50)",
+     "vignette": "vignettes/F28zJXfjWBY.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 51,
+     "titre": "Ambition",
+     "youtube_id": "q8WwNEMPgzs",
+     "duree_secondes": 1424,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Ambition (S1E51)",
+     "vignette": "vignettes/q8WwNEMPgzs.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 52,
+     "titre": "Petite soeur",
+     "youtube_id": "AZYneXXX4oM",
+     "duree_secondes": 1455,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Petite soeur (S1E52)",
+     "vignette": "vignettes/AZYneXXX4oM.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 53,
+     "titre": "Un passé trop présent",
+     "youtube_id": "1FJpBnZyKE4",
+     "duree_secondes": 1444,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Un passé trop présent !  (S1E53)",
+     "vignette": "vignettes/1FJpBnZyKE4.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 54,
+     "titre": "Ma meilleure amie",
+     "youtube_id": "_mIUkELz-eI",
+     "duree_secondes": 1481,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Ma meilleure amie !  (S1E54)",
+     "vignette": "vignettes/_mIUkELz-eI.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 55,
+     "titre": "Victoire et Laura",
+     "youtube_id": "9pf51ZIERic",
+     "duree_secondes": 1383,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Victoire et Laura (S1E55)",
+     "vignette": "vignettes/9pf51ZIERic.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 56,
+     "titre": "Garde à vue",
+     "youtube_id": "PaEpvXSByyQ",
+     "duree_secondes": 1376,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Garde à vue (S1E56)",
+     "vignette": "vignettes/PaEpvXSByyQ.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 57,
+     "titre": "Partie civile",
+     "youtube_id": "wcgAndForVM",
+     "duree_secondes": 1456,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Partie civile (S1E57)",
+     "vignette": "vignettes/wcgAndForVM.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 58,
+     "titre": "Riposte",
+     "youtube_id": "xortq5oJHKk",
+     "duree_secondes": 1433,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Riposte (S1E58)",
+     "vignette": "vignettes/xortq5oJHKk.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 59,
+     "titre": "Ma mère, ma bataille",
+     "youtube_id": "cWffgzqfaZ8",
+     "duree_secondes": 1470,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Ma mère, ma bataille (S1E59)",
+     "vignette": "vignettes/cWffgzqfaZ8.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 60,
+     "titre": "Mauvaise étoile",
+     "youtube_id": "7oUCj0mCsog",
+     "duree_secondes": 1430,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut -  Mauvaise étoile (S1E60)",
+     "vignette": "vignettes/7oUCj0mCsog.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 61,
+     "titre": "L'aveu",
+     "youtube_id": "vg9T_nj5TM0",
+     "duree_secondes": 1448,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - L'aveu (S1E61)",
+     "vignette": "vignettes/vg9T_nj5TM0.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 62,
+     "titre": "Cas de conscience",
+     "youtube_id": "PGPT8s6eee8",
+     "duree_secondes": 1455,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Cas de conscience (S1E62)",
+     "vignette": "vignettes/PGPT8s6eee8.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 63,
+     "titre": "Jeu de dupes",
+     "youtube_id": "gtwl0P1zzGY",
+     "duree_secondes": 1418,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Jeu de dupes (S1E63)",
+     "vignette": "vignettes/gtwl0P1zzGY.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 64,
+     "titre": "Ma soeur, mon amour",
+     "youtube_id": "FsKg0fsZmo8",
+     "duree_secondes": 1383,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Ma soeur, mon amour (S1E64)",
+     "vignette": "vignettes/FsKg0fsZmo8.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 65,
+     "titre": "Vu à la télé",
+     "youtube_id": "C3DuQEfNx1o",
+     "duree_secondes": 1430,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Vu à la télé !  (S1E65)",
+     "vignette": "vignettes/C3DuQEfNx1o.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 66,
+     "titre": "Quand l'histoire se répète",
+     "youtube_id": "lxxslCkaXFo",
+     "duree_secondes": 1419,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Quand l'histoire se répète (S1E66)",
+     "vignette": "vignettes/lxxslCkaXFo.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 67,
+     "titre": "Tu aurais dû mourir",
+     "youtube_id": "3lbTecRJWSU",
+     "duree_secondes": 1460,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Tu aurais dû mourir !  (S1E67)",
+     "vignette": "vignettes/3lbTecRJWSU.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 68,
+     "titre": "Lettre posthume",
+     "youtube_id": "XsYXyNSjnOY",
+     "duree_secondes": 1471,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Lettre posthume (S1E68)",
+     "vignette": "vignettes/XsYXyNSjnOY.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 69,
+     "titre": "La loi du Talion",
+     "youtube_id": "zheil5Dczls",
+     "duree_secondes": 1486,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - La loi du Talion (S1E69)",
+     "vignette": "vignettes/zheil5Dczls.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 70,
+     "titre": "Apparition",
+     "youtube_id": "5e5Jibro71A",
+     "duree_secondes": 1500,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cut - Apparition (S1E70)",
+     "vignette": "vignettes/5e5Jibro71A.webp"
+    }
+   ],
+   "affiche": "affiches/spS4WhirwT4.webp",
+   "vignette": "vignettes/spS4WhirwT4.webp"
+  },
+  {
+   "slug": "alerte-a-malibu",
+   "titre": "Alerte à Malibu",
+   "format": "serie",
+   "univers": "series",
+   "genres": [
+    "drame"
+   ],
+   "tout_public": false,
+   "youtube_id": null,
+   "chaine_nom": "Instant Saga",
+   "chaine_id": "UCL5IikHOTwC9P9kuPIYvgTA",
+   "chaine_url": "https://www.youtube.com/channel/UCL5IikHOTwC9P9kuPIYvgTA",
+   "ayant_droit": "Instant Saga (chaîne officielle des téléfilms et séries, certifiée)",
+   "duree_secondes": 2672,
+   "annee": 1989,
+   "description": "Mitch Buchannon (David Hasselhoff) et ses sauveteurs veillent sur les plages de Los Angeles. La série culte des années 90, en VF : saisons 1 et 2.",
+   "disponible_jusqu_au": null,
+   "publie_le": null,
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "Pilote - première partie",
+     "youtube_id": "7EtOqdw1DqY",
+     "duree_secondes": 2738,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Pilote - première partie | ÉPISODE 1 | SAISON 1 | ALERTE À MALIBU",
+     "vignette": "vignettes/7EtOqdw1DqY.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "Pilote - deuxième partie",
+     "youtube_id": "YDLyEzPd7mI",
+     "duree_secondes": 2956,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Pilote - deuxième partie | ÉPISODE 2 | SAISON 1 | ALERTE À MALIBU",
+     "vignette": "vignettes/YDLyEzPd7mI.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 3,
+     "titre": "Le scooter des mers",
+     "youtube_id": "tmRiI18JJgw",
+     "duree_secondes": 2686,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le scooter des mers | ÉPISODE 3 | SAISON 1 | ALERTE À MALIBU",
+     "vignette": "vignettes/tmRiI18JJgw.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 4,
+     "titre": "Canicule",
+     "youtube_id": "OtkPEj3zps4",
+     "duree_secondes": 2672,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Canicule | ÉPISODE 4 | SAISON 1 | ALERTE À MALIBU",
+     "vignette": "vignettes/OtkPEj3zps4.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 5,
+     "titre": "Le prix du passé",
+     "youtube_id": "sa7e_fYmA5c",
+     "duree_secondes": 2717,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le prix du passé | ÉPISODE 5 | SAISON 1 | ALERTE À MALIBU",
+     "vignette": "vignettes/sa7e_fYmA5c.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 6,
+     "titre": "Escapade périlleuse",
+     "youtube_id": "_f2nK2QKVdY",
+     "duree_secondes": 2720,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Escapade périlleuse | ÉPISODE 6 | SAISON 1 | ALERTE À MALIBU",
+     "vignette": "vignettes/_f2nK2QKVdY.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 7,
+     "titre": "Noyade",
+     "youtube_id": "B6NpAKtIxGE",
+     "duree_secondes": 2799,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Noyade | ÉPISODE 7 | SAISON 1 | ALERTE À MALIBU",
+     "vignette": "vignettes/B6NpAKtIxGE.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 8,
+     "titre": "Tombés du ciel",
+     "youtube_id": "ldH1YgGLvcY",
+     "duree_secondes": 2771,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Tombés du ciel | ÉPISODE 8 | SAISON 1 | ALERTE À MALIBU",
+     "vignette": "vignettes/ldH1YgGLvcY.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 9,
+     "titre": "Trois morts pour un squelette",
+     "youtube_id": "2qxHOalk9es",
+     "duree_secondes": 2749,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Trois morts pour un squelette | ÉPISODE 9 | SAISON 1 | ALERTE À MALIBU",
+     "vignette": "vignettes/2qxHOalk9es.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 10,
+     "titre": "La nouvelle vague",
+     "youtube_id": "3CiReecc1_c",
+     "duree_secondes": 2801,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "La nouvelle vague | ÉPISODE 10 | SAISON 1 | ALERTE À MALIBU",
+     "vignette": "vignettes/3CiReecc1_c.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 11,
+     "titre": "Croisière mouvementée",
+     "youtube_id": "QgbCwpc_iFQ",
+     "duree_secondes": 2716,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Croisière mouvementée | ÉPISODE 11 | SAISON 1 | ALERTE À MALIBU",
+     "vignette": "vignettes/QgbCwpc_iFQ.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 12,
+     "titre": "Coup de vent",
+     "youtube_id": "-AeMe4UPKto",
+     "duree_secondes": 2801,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Coup de vent | ÉPISODE 12 | SAISON 1 | ALERTE À MALIBU",
+     "vignette": "vignettes/-AeMe4UPKto.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 13,
+     "titre": "Le retour d'Allison",
+     "youtube_id": "nZ3rNRLCj-M",
+     "duree_secondes": 2772,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le retour d'Allison | ÉPISODE 13 | SAISON 1 | ALERTE À MALIBU",
+     "vignette": "vignettes/nZ3rNRLCj-M.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 14,
+     "titre": "Le scaphandre blindé",
+     "youtube_id": "pbKMm27hxAI",
+     "duree_secondes": 2802,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le scaphandre blindé | ÉPISODE 14 | SAISON 1 | ALERTE À MALIBU",
+     "vignette": "vignettes/pbKMm27hxAI.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 15,
+     "titre": "Le baroudeur",
+     "youtube_id": "Ac5W2IrTjEo",
+     "duree_secondes": 2802,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le baroudeur | ÉPISODE 15 | SAISON 1 | ALERTE À MALIBU",
+     "vignette": "vignettes/Ac5W2IrTjEo.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 16,
+     "titre": "Des vacances bien méritées",
+     "youtube_id": "3rGhv-DWkxU",
+     "duree_secondes": 2748,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Des vacances bien méritées | ÉPISODE 16 | SAISON 1 | ALERTE À MALIBU",
+     "vignette": "vignettes/3rGhv-DWkxU.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 17,
+     "titre": "Le toboggan de la mort",
+     "youtube_id": "DGNTHpeVG_Q",
+     "duree_secondes": 2748,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le toboggan de la mort | ÉPISODE 17 | SAISON 1 | ALERTE À MALIBU",
+     "vignette": "vignettes/DGNTHpeVG_Q.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 18,
+     "titre": "Casino flottant",
+     "youtube_id": "tj_Df_f-hk8",
+     "duree_secondes": 2698,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Casino flottant | ÉPISODE 18 | SAISON 1 | ALERTE À MALIBU",
+     "vignette": "vignettes/tj_Df_f-hk8.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 19,
+     "titre": "L'éclipse",
+     "youtube_id": "1kLu915tMIA",
+     "duree_secondes": 2748,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'éclipse | ÉPISODE 19 | SAISON 1 | ALERTE À MALIBU",
+     "vignette": "vignettes/1kLu915tMIA.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 20,
+     "titre": "Les requins tueurs",
+     "youtube_id": "yKTTwbldXAI",
+     "duree_secondes": 2747,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les requins tueurs | ÉPISODE 20 | SAISON 1 | ALERTE À MALIBU",
+     "vignette": "vignettes/yKTTwbldXAI.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 21,
+     "titre": "15 000 dollars sur un ski",
+     "youtube_id": "NF8VWeLMBLo",
+     "duree_secondes": 2749,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "15 000 dollars sur un ski | ÉPISODE 21 | SAISON 1 | ALERTE À MALIBU",
+     "vignette": "vignettes/NF8VWeLMBLo.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 22,
+     "titre": "Le retour d'un vieil ami",
+     "youtube_id": "ZHXWgjypnGk",
+     "duree_secondes": 2749,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le retour d'un vieil ami | ÉPISODE 22 | SAISON 1 | ALERTE À MALIBU",
+     "vignette": "vignettes/ZHXWgjypnGk.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 23,
+     "titre": "Tremblement de terre",
+     "youtube_id": "QZvTYXhvbiQ",
+     "duree_secondes": 2749,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Tremblement de terre | ÉPISODE 23 | SAISON 1 | ALERTE À MALIBU",
+     "vignette": "vignettes/QZvTYXhvbiQ.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 1,
+     "titre": "ALERTE À MALIBU",
+     "youtube_id": "Yp_lmxzB6CA",
+     "duree_secondes": 2395,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "ALERTE À MALIBU | La Baie du cauchemar - première partie | ÉPISODE 01 | SAISON 2",
+     "vignette": "vignettes/Yp_lmxzB6CA.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 2,
+     "titre": "ALERTE À MALIBU",
+     "youtube_id": "gOs1bFGm21I",
+     "duree_secondes": 2389,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "ALERTE À MALIBU | La Baie du cauchemar - deuxième partie | ÉPISODE 02 | SAISON 2",
+     "vignette": "vignettes/gOs1bFGm21I.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 3,
+     "titre": "ALERTE À MALIBU",
+     "youtube_id": "vcjuu59Zx3w",
+     "duree_secondes": 2495,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "ALERTE À MALIBU | Mauvaise pêche | ÉPISODE 03 | SAISON 2",
+     "vignette": "vignettes/vcjuu59Zx3w.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 4,
+     "titre": "ALERTE À MALIBU",
+     "youtube_id": "DSlsvwh75OY",
+     "duree_secondes": 2494,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "ALERTE À MALIBU | Star d'un jour | ÉPISODE 04 | SAISON 2",
+     "vignette": "vignettes/DSlsvwh75OY.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 5,
+     "titre": "ALERTE À MALIBU",
+     "youtube_id": "IxqQDSfWzvk",
+     "duree_secondes": 2525,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "ALERTE À MALIBU | Surfer n'est pas jouer | ÉPISODE 05 | SAISON 2",
+     "vignette": "vignettes/IxqQDSfWzvk.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 6,
+     "titre": "ALERTE À MALIBU",
+     "youtube_id": "2eL6wY-ebLM",
+     "duree_secondes": 2494,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "ALERTE À MALIBU | Sauvetage social | ÉPISODE 06 | SAISON 2",
+     "vignette": "vignettes/2eL6wY-ebLM.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 7,
+     "titre": "ALERTE À MALIBU",
+     "youtube_id": "bYoL_r5lZ8A",
+     "duree_secondes": 2518,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "ALERTE À MALIBU | Châteaux de sable | ÉPISODE 07 | SAISON 2",
+     "vignette": "vignettes/bYoL_r5lZ8A.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 8,
+     "titre": "ALERTE À MALIBU",
+     "youtube_id": "qAYHRNecm3Q",
+     "duree_secondes": 2524,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "ALERTE À MALIBU | Maigrir ou mourir | ÉPISODE 08 | SAISON 2",
+     "vignette": "vignettes/qAYHRNecm3Q.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 9,
+     "titre": "ALERTE À MALIBU",
+     "youtube_id": "TwuK-0NQpBU",
+     "duree_secondes": 2427,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "ALERTE À MALIBU | Le Trophée - première partie | ÉPISODE 09 | SAISON 2",
+     "vignette": "vignettes/TwuK-0NQpBU.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 10,
+     "titre": "ALERTE À MALIBU",
+     "youtube_id": "xdRPrDId_-U",
+     "duree_secondes": 2468,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "ALERTE À MALIBU | Le Trophée - deuxième partie | ÉPISODE 10 | SAISON 2",
+     "vignette": "vignettes/xdRPrDId_-U.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 11,
+     "titre": "ALERTE À MALIBU",
+     "youtube_id": "oHItmJU3wb8",
+     "duree_secondes": 2522,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "ALERTE À MALIBU | L'Amour, c'est chimique | ÉPISODE 11 | SAISON 2",
+     "vignette": "vignettes/oHItmJU3wb8.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 12,
+     "titre": "ALERTE À MALIBU",
+     "youtube_id": "OkzVJkVvRns",
+     "duree_secondes": 2207,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "ALERTE À MALIBU | Retrouvailles dans l'écurie | ÉPISODE 12 | SAISON 2",
+     "vignette": "vignettes/OkzVJkVvRns.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 13,
+     "titre": "ALERTE À MALIBU",
+     "youtube_id": "VesEFLXbMZ0",
+     "duree_secondes": 2490,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "ALERTE À MALIBU |  Guerre des nerfs | ÉPISODE 13 | SAISON 2",
+     "vignette": "vignettes/VesEFLXbMZ0.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 14,
+     "titre": "ALERTE À MALIBU",
+     "youtube_id": "8dYQDnn-hb8",
+     "duree_secondes": 2488,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "ALERTE À MALIBU |  Une vague d'enfer | ÉPISODE 14 | SAISON 2",
+     "vignette": "vignettes/8dYQDnn-hb8.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 15,
+     "titre": "ALERTE À MALIBU",
+     "youtube_id": "H606LEuALag",
+     "duree_secondes": 2389,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "ALERTE À MALIBU | Mer de flammes | ÉPISODE 15 | SAISON 2",
+     "vignette": "vignettes/H606LEuALag.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 16,
+     "titre": "ALERTE À MALIBU",
+     "youtube_id": "0LbRRqi9iic",
+     "duree_secondes": 2437,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "ALERTE À MALIBU | Il était une fois... | ÉPISODE 16 | SAISON 2",
+     "vignette": "vignettes/0LbRRqi9iic.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 17,
+     "titre": "ALERTE À MALIBU",
+     "youtube_id": "V_3DcPjAYro",
+     "duree_secondes": 2488,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "ALERTE À MALIBU | Le Caisson de la dernière chance | ÉPISODE 17 | SAISON 2",
+     "vignette": "vignettes/V_3DcPjAYro.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 18,
+     "titre": "ALERTE À MALIBU",
+     "youtube_id": "Oin7YSTqdy0",
+     "duree_secondes": 2488,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "ALERTE À MALIBU | La Crique aux requins | ÉPISODE 18 | SAISON 2",
+     "vignette": "vignettes/Oin7YSTqdy0.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 19,
+     "titre": "ALERTE À MALIBU",
+     "youtube_id": "KDC4Xucn3js",
+     "duree_secondes": 2487,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "ALERTE À MALIBU | La Chasse au trésor | ÉPISODE 19 | SAISON 2",
+     "vignette": "vignettes/KDC4Xucn3js.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 20,
+     "titre": "ALERTE À MALIBU",
+     "youtube_id": "xw_n-m5AP6c",
+     "duree_secondes": 2490,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "ALERTE À MALIBU |  Danger : pollution | ÉPISODE 20 | SAISON 2",
+     "vignette": "vignettes/xw_n-m5AP6c.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 21,
+     "titre": "ALERTE À MALIBU",
+     "youtube_id": "zR2S7s5l83c",
+     "duree_secondes": 2476,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "ALERTE À MALIBU | Cartes sur table | ÉPISODE 21 | SAISON 2",
+     "vignette": "vignettes/zR2S7s5l83c.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 22,
+     "titre": "ALERTE À MALIBU",
+     "youtube_id": "zIoV0ILAifU",
+     "duree_secondes": 2487,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "ALERTE À MALIBU | Un été 85 | ÉPISODE 22 | SAISON 2",
+     "vignette": "vignettes/zIoV0ILAifU.webp"
+    }
+   ],
+   "affiche": "affiches/7EtOqdw1DqY.webp",
+   "vignette": "vignettes/7EtOqdw1DqY.webp"
+  }
+ ]
+}

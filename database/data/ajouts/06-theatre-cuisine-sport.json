@@ -1,0 +1,439 @@
+{
+ "genere_le": "2026-10-11",
+ "programmes": [
+  {
+   "slug": "les-jumeaux-jean-lefebvre",
+   "titre": "Les Jumeaux",
+   "format": "unique",
+   "univers": "spectacles",
+   "genres": [
+    "theatre-retro",
+    "comedie"
+   ],
+   "tout_public": true,
+   "youtube_id": "XJmzpKz2PbI",
+   "chaine_nom": "LCJ Editions et Productions",
+   "chaine_id": "UCNsz8N5hi7x6F8kKWqEMy7g",
+   "chaine_url": "https://www.youtube.com/channel/UCNsz8N5hi7x6F8kKWqEMy7g",
+   "ayant_droit": "LCJ Éditions & Productions",
+   "duree_secondes": 6172,
+   "annee": 1991,
+   "description": "Jean Lefebvre joue un double rôle en or dans cette comédie de Jean Barbier (1991) : le distingué baron Fulbert, riche héritier, et son frère jumeau, ivrogne et sans le sou.",
+   "disponible_jusqu_au": null,
+   "publie_le": "2025-06-27",
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "affiche": "affiches/XJmzpKz2PbI.webp",
+   "vignette": "vignettes/XJmzpKz2PbI.webp"
+  },
+  {
+   "slug": "au-theatre-ce-soir",
+   "titre": "Au théâtre ce soir",
+   "format": "serie",
+   "univers": "spectacles",
+   "genres": [
+    "theatre-retro",
+    "comedie"
+   ],
+   "tout_public": true,
+   "youtube_id": null,
+   "chaine_nom": "INA madelen",
+   "chaine_id": "UCpsq1ZAGtJYLZsSpN9AAENw",
+   "chaine_url": "https://www.youtube.com/channel/UCpsq1ZAGtJYLZsSpN9AAENw",
+   "ayant_droit": "INA",
+   "duree_secondes": 5849,
+   "annee": 1972,
+   "description": "La mythique émission qui faisait entrer le théâtre de boulevard dans les salons. Deux pièces intégrales de l'INA : Feydeau avec un tout jeune Thierry Le Luron, et André Roussin dans sa satire de la bourgeoisie.",
+   "disponible_jusqu_au": null,
+   "publie_le": "2025-09-01",
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "Chat en poche (Feydeau, 1975)",
+     "youtube_id": "SgWY3K4YqZI",
+     "duree_secondes": 5849,
+     "disponible_jusqu_au": null,
+     "description": "La famille Pacarel prend un étudiant de province, joué par Thierry Le Luron, pour un célèbre ténor.",
+     "titre_youtube": "😂 Thierry Le Luron, 23 ans, déjà irrésistible dans ce classique de Feydeau ! Au théâtre ce soir",
+     "vignette": "vignettes/SgWY3K4YqZI.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "Les Œufs de l'autruche (Roussin, 1972)",
+     "youtube_id": "Skb9Dc2gsOE",
+     "duree_secondes": 5039,
+     "disponible_jusqu_au": null,
+     "description": "Hippolyte Barjus, bourgeois colérique, découvre ce que ses fils lui cachaient.",
+     "titre_youtube": "💰 André Roussin et Simone Renant dans une satire acide de la bourgeoisie ! 👏 | Théâtre | madelen-INA",
+     "vignette": "vignettes/Skb9Dc2gsOE.webp"
+    }
+   ],
+   "affiche": "affiches/SgWY3K4YqZI.webp",
+   "vignette": "vignettes/SgWY3K4YqZI.webp"
+  },
+  {
+   "slug": "droit-de-reponse-la-premiere",
+   "titre": "Droit de réponse — la première émission",
+   "format": "unique",
+   "univers": "documentaires",
+   "genres": [
+    "theatre-retro",
+    "societe"
+   ],
+   "tout_public": false,
+   "youtube_id": "GrIzpGc1mmE",
+   "chaine_nom": "INA Culte",
+   "chaine_id": "UCPjBZT0aJPgJ3e1wAftV6TQ",
+   "chaine_url": "https://www.youtube.com/channel/UCPjBZT0aJPgJ3e1wAftV6TQ",
+   "ayant_droit": "INA",
+   "duree_secondes": 4619,
+   "annee": 1981,
+   "description": "12 décembre 1981 : Michel Polac lance son débat en direct sur TF1, avec Coluche, Gérard Depardieu, Claire Brétecher, Edgar Morin… Une télévision libre et électrique, comme on n'en fait plus.",
+   "disponible_jusqu_au": null,
+   "publie_le": "2021-12-15",
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "affiche": "affiches/GrIzpGc1mmE.webp",
+   "vignette": "vignettes/GrIzpGc1mmE.webp"
+  },
+  {
+   "slug": "l-ecole-des-fans-c-jerome-1982",
+   "titre": "L'École des fans avec C. Jérôme (1982)",
+   "format": "unique",
+   "univers": "documentaires",
+   "genres": [
+    "theatre-retro",
+    "musique"
+   ],
+   "tout_public": true,
+   "youtube_id": "lGVtOxnAQfU",
+   "chaine_nom": "INA Culte",
+   "chaine_id": "UCPjBZT0aJPgJ3e1wAftV6TQ",
+   "chaine_url": "https://www.youtube.com/channel/UCPjBZT0aJPgJ3e1wAftV6TQ",
+   "ayant_droit": "INA",
+   "duree_secondes": 2036,
+   "annee": 1982,
+   "description": "Jacques Martin reçoit C. Jérôme, et des enfants venus de toute la France reprennent ses tubes avec une spontanéité désarmante. Un moment culte de la télé du dimanche.",
+   "disponible_jusqu_au": null,
+   "publie_le": "2026-05-24",
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "affiche": "affiches/lGVtOxnAQfU.webp",
+   "vignette": "vignettes/lGVtOxnAQfU.webp"
+  },
+  {
+   "slug": "voyage-en-cuisine",
+   "titre": "Voyage en cuisine",
+   "format": "serie",
+   "univers": "documentaires",
+   "genres": [
+    "cuisine",
+    "voyage"
+   ],
+   "tout_public": true,
+   "youtube_id": null,
+   "chaine_nom": "ARTE Évasion",
+   "chaine_id": "UCXV7LUI7G1MaKRN18yQ5y7Q",
+   "chaine_url": "https://www.youtube.com/channel/UCXV7LUI7G1MaKRN18yQ5y7Q",
+   "ayant_droit": "ARTE",
+   "duree_secondes": 1824,
+   "annee": 2024,
+   "description": "Chaque épisode part à l'origine d'une recette traditionnelle : de La Réunion à Maurice, de Dakar à Bangkok. Huit voyages gourmands choisis pour leurs saveurs créoles et tropicales (les épisodes Guadeloupe sont à retrouver dans la rangée Caraïbes).",
+   "disponible_jusqu_au": "2027-11-26",
+   "publie_le": "2026-10-06",
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "La Réunion : le rougail saucisse",
+     "youtube_id": "yVp8cWT2xGo",
+     "duree_secondes": 1822,
+     "disponible_jusqu_au": "2028-01-12",
+     "description": "Le grand classique des tablées réunionnaises.",
+     "titre_youtube": "La Réunion : le rougail saucisse | Voyage en cuisine | ARTE Family",
+     "vignette": "vignettes/yVp8cWT2xGo.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "La Réunion : le cabri massalé",
+     "youtube_id": "8C_jgs8Yk7Q",
+     "duree_secondes": 1818,
+     "disponible_jusqu_au": "2027-11-26",
+     "description": "Le cari d'inspiration tamoule, parfumé au massalé.",
+     "titre_youtube": "La Réunion : le cabri massalé | Voyage en cuisine | ARTE Family",
+     "vignette": "vignettes/8C_jgs8Yk7Q.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 3,
+     "titre": "La Réunion : le gâteau patate douce et vanille",
+     "youtube_id": "HjjbSIKcjJ0",
+     "duree_secondes": 1838,
+     "disponible_jusqu_au": "2027-12-19",
+     "description": "Le dessert identitaire de l'île, la « madeleine de Proust » des Réunionnais.",
+     "titre_youtube": "La Réunion : le gâteau à la patate douce et vanille | Voyage en cuisine | ARTE Family",
+     "vignette": "vignettes/HjjbSIKcjJ0.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 4,
+     "titre": "Île Maurice : le curry ourite",
+     "youtube_id": "_ZiOf_C8_Qc",
+     "duree_secondes": 1834,
+     "disponible_jusqu_au": "2028-09-16",
+     "description": "Le curry de poulpe des pêcheurs mauriciens.",
+     "titre_youtube": "Île Maurice : le curry ourite | Voyage en cuisine | ARTE Évasion",
+     "vignette": "vignettes/_ZiOf_C8_Qc.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 5,
+     "titre": "Louisiane : la crevette créole",
+     "youtube_id": "Ae2G6I0-Q2U",
+     "duree_secondes": 1824,
+     "disponible_jusqu_au": "2028-01-16",
+     "description": "La cuisine créole de La Nouvelle-Orléans, cousine de la nôtre.",
+     "titre_youtube": "Louisiane : la crevette créole | Voyage en cuisine | ARTE Family",
+     "vignette": "vignettes/Ae2G6I0-Q2U.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 6,
+     "titre": "Sénégal : le thiéboudiène",
+     "youtube_id": "EHH5DS2f-UI",
+     "duree_secondes": 1808,
+     "disponible_jusqu_au": "2028-01-11",
+     "description": "Le riz au poisson, plat national sénégalais.",
+     "titre_youtube": "Sénégal : le thiéboudiène | Voyage en cuisine | ARTE Family",
+     "vignette": "vignettes/EHH5DS2f-UI.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 7,
+     "titre": "Côte d'Ivoire : l'attiéké",
+     "youtube_id": "ja08Pz6VXH4",
+     "duree_secondes": 1830,
+     "disponible_jusqu_au": "2029-05-04",
+     "description": "La semoule de manioc, star des maquis d'Abidjan.",
+     "titre_youtube": "Côte d'Ivoire : l'attiéké | Voyage en cuisine | ARTE Évasion",
+     "vignette": "vignettes/ja08Pz6VXH4.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 8,
+     "titre": "Thaïlande : le pad thaï",
+     "youtube_id": "vhyRBCYGmls",
+     "duree_secondes": 1835,
+     "disponible_jusqu_au": "2028-06-03",
+     "description": "Les nouilles sautées les plus célèbres d'Asie.",
+     "titre_youtube": "Thaïlande : le pad thaï | Voyage en cuisine | ARTE Évasion",
+     "vignette": "vignettes/vhyRBCYGmls.webp"
+    }
+   ],
+   "affiche": "affiches/yVp8cWT2xGo.webp",
+   "vignette": "vignettes/yVp8cWT2xGo.webp"
+  },
+  {
+   "slug": "saveurs-d-outre-mer",
+   "titre": "Saveurs d'outre-mer",
+   "format": "serie",
+   "univers": "caraibes",
+   "genres": [
+    "cuisine",
+    "voyage"
+   ],
+   "tout_public": true,
+   "youtube_id": null,
+   "chaine_nom": "Food Story",
+   "chaine_id": "UCzyN_JSs95aDgDFrfOxagEw",
+   "chaine_url": "https://www.youtube.com/channel/UCzyN_JSs95aDgDFrfOxagEw",
+   "ayant_droit": "Source non officielle, validée par N'jie le 11/10/2026 (producteur non confirmé, chaîne de reportages certifiée)",
+   "duree_secondes": 3140,
+   "annee": null,
+   "description": "Deux voyages culinaires dans nos pays : la Martinique, île en héritage, et la Guyane, terre entre deux eaux. Produits, recettes et gens du pays.",
+   "disponible_jusqu_au": null,
+   "publie_le": "2016-11-10",
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": false,
+   "note_source": "Non officielle, validée par N'jie le 11/10/2026",
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "La Martinique, une île en héritage",
+     "youtube_id": "Mh4bQtnrr78",
+     "duree_secondes": 3112,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Saveurs d'outre mer : La martinique une ile en héritage",
+     "vignette": "vignettes/Mh4bQtnrr78.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "La Guyane, une terre entre deux eaux",
+     "youtube_id": "axhvZ78UBkY",
+     "duree_secondes": 3140,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Saveurs d'outre mer : la Guyane une terre entre deux eaux",
+     "vignette": "vignettes/axhvZ78UBkY.webp"
+    }
+   ],
+   "affiche": "affiches/Mh4bQtnrr78.webp",
+   "vignette": "vignettes/Mh4bQtnrr78.webp"
+  },
+  {
+   "slug": "cuisine-creole-la-haute-gastronomie",
+   "titre": "Cuisine créole : ils bousculent la haute gastronomie",
+   "format": "unique",
+   "univers": "caraibes",
+   "genres": [
+    "cuisine",
+    "societe"
+   ],
+   "tout_public": true,
+   "youtube_id": "SYrZeY7XSy0",
+   "chaine_nom": "Food Story",
+   "chaine_id": "UCzyN_JSs95aDgDFrfOxagEw",
+   "chaine_url": "https://www.youtube.com/channel/UCzyN_JSs95aDgDFrfOxagEw",
+   "ayant_droit": "Source non officielle, validée par N'jie le 11/10/2026 (producteur non confirmé, chaîne de reportages certifiée)",
+   "duree_secondes": 3103,
+   "annee": null,
+   "description": "Des chefs venus d'outre-mer se battent contre les préjugés pour imposer la cuisine créole dans les grandes maisons et décrocher des étoiles.",
+   "disponible_jusqu_au": null,
+   "publie_le": "2026-06-13",
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": false,
+   "note_source": "Non officielle, validée par N'jie le 11/10/2026",
+   "affiche": "affiches/SYrZeY7XSy0.webp",
+   "vignette": "vignettes/SYrZeY7XSy0.webp"
+  },
+  {
+   "slug": "ousmane-dembele-d-evreux-au-ballon-d-or",
+   "titre": "Ousmane Dembélé, d'Évreux au Ballon d'Or",
+   "format": "unique",
+   "univers": "documentaires",
+   "genres": [
+    "sport"
+   ],
+   "tout_public": true,
+   "youtube_id": "EmA6pMSY9cQ",
+   "chaine_nom": "CANAL+ Sport",
+   "chaine_id": "UC8ggH3zU61XO0nMskSQwZdA",
+   "chaine_url": "https://www.youtube.com/channel/UC8ggH3zU61XO0nMskSQwZdA",
+   "ayant_droit": "CANAL+",
+   "duree_secondes": 7104,
+   "annee": 2025,
+   "description": "De Rennes à Dortmund, du Barça au PSG : l'histoire folle du nouveau Ballon d'Or, racontée par ceux qui l'ont vu grandir.",
+   "disponible_jusqu_au": null,
+   "publie_le": "2025-09-24",
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "affiche": "affiches/EmA6pMSY9cQ.webp",
+   "vignette": "vignettes/EmA6pMSY9cQ.webp"
+  },
+  {
+   "slug": "la-nouvelle-vie-de-zinedine-zidane",
+   "titre": "La « nouvelle vie » de Zinédine Zidane",
+   "format": "unique",
+   "univers": "documentaires",
+   "genres": [
+    "sport"
+   ],
+   "tout_public": true,
+   "youtube_id": "ZvB5mbpd--k",
+   "chaine_nom": "CANAL+ Sport",
+   "chaine_id": "UC8ggH3zU61XO0nMskSQwZdA",
+   "chaine_url": "https://www.youtube.com/channel/UC8ggH3zU61XO0nMskSQwZdA",
+   "ayant_droit": "CANAL+",
+   "duree_secondes": 3244,
+   "annee": 2026,
+   "description": "Du joueur de légende à l'entraîneur respecté : comment Zizou a réinventé sa carrière.",
+   "disponible_jusqu_au": null,
+   "publie_le": "2026-07-29",
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "affiche": "affiches/ZvB5mbpd--k.webp",
+   "vignette": "vignettes/ZvB5mbpd--k.webp"
+  },
+  {
+   "slug": "zidane-la-fabrique-d-une-legende",
+   "titre": "Zidane, la fabrique d'une légende",
+   "format": "unique",
+   "univers": "documentaires",
+   "genres": [
+    "sport"
+   ],
+   "tout_public": true,
+   "youtube_id": "nydU8ddqaKQ",
+   "chaine_nom": "BFMTV",
+   "chaine_id": "UCXwDLMDV86ldKoFVc_g8P0g",
+   "chaine_url": "https://www.youtube.com/channel/UCXwDLMDV86ldKoFVc_g8P0g",
+   "ayant_droit": "BFMTV",
+   "duree_secondes": 2573,
+   "annee": 2026,
+   "description": "Le minot de Marseille devenu héros national en 1998, aujourd'hui sélectionneur des Bleus : portrait d'une légende, avec ses zones d'ombre.",
+   "disponible_jusqu_au": null,
+   "publie_le": "2026-08-03",
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "affiche": "affiches/nydU8ddqaKQ.webp",
+   "vignette": "vignettes/nydU8ddqaKQ.webp"
+  },
+  {
+   "slug": "gaba-le-nouveau-monde",
+   "titre": "Gaba, le nouveau monde",
+   "format": "unique",
+   "univers": "documentaires",
+   "genres": [
+    "sport"
+   ],
+   "tout_public": true,
+   "youtube_id": "ltKass-QFtw",
+   "chaine_nom": "RMC Sport",
+   "chaine_id": "UCR5V8BTvlkyYtw6T_9swNEw",
+   "chaine_url": "https://www.youtube.com/channel/UCR5V8BTvlkyYtw6T_9swNEw",
+   "ayant_droit": "RMC Sport",
+   "duree_secondes": 3061,
+   "annee": 2025,
+   "description": "Le judoka Joan-Benjamin Gaba, héros de la finale par équipes des JO de Paris 2024 : la revanche d'un « petit gros », un coma, et l'or.",
+   "disponible_jusqu_au": null,
+   "publie_le": "2025-06-06",
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "affiche": "affiches/ltKass-QFtw.webp",
+   "vignette": "vignettes/ltKass-QFtw.webp"
+  },
+  {
+   "slug": "guadeloupe-le-colombo",
+   "genres": [
+    "voyage",
+    "cuisine"
+   ]
+  },
+  {
+   "slug": "guadeloupe-le-tourment-d-amour",
+   "genres": [
+    "voyage",
+    "cuisine"
+   ]
+  }
+ ]
+}

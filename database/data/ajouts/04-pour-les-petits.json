@@ -1,0 +1,451 @@
+{
+ "genere_le": "2026-10-11",
+ "programmes": [
+  {
+   "slug": "titeuf",
+   "titre": "Titeuf",
+   "format": "serie",
+   "univers": "series",
+   "genres": [
+    "petits",
+    "comedie"
+   ],
+   "tout_public": true,
+   "youtube_id": null,
+   "chaine_nom": "Titeuf Saison 4 [Officiel]",
+   "chaine_id": "UCi1tP-Yo8zQhS9Jm-eWU2Sw",
+   "chaine_url": "https://www.youtube.com/channel/UCi1tP-Yo8zQhS9Jm-eWU2Sw",
+   "ayant_droit": "Chaîne officielle de la série (d'après Zep)",
+   "duree_secondes": 2520,
+   "annee": null,
+   "description": "Le petit héros à la mèche de Zep, ses copains Manu et Hugo, Nadia dont il est amoureux et les grands mystères de la vie… Dix compilations d'épisodes complets de la saison 4, de 45 min à 1 h.",
+   "disponible_jusqu_au": null,
+   "publie_le": "2024-09-24",
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "Aïe Aïe Aïe",
+     "youtube_id": "D93IehjZ1Uk",
+     "duree_secondes": 2520,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Aïe Aïe Aïe 💉😧  | Titeuf français | Episodes complets | 45 min | Saison 4 | Dessin animé pour ados",
+     "vignette": "vignettes/D93IehjZ1Uk.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "Les toilettes des filles",
+     "youtube_id": "e2Ag1zkCHjI",
+     "duree_secondes": 2520,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les toilettes des filles ♀️⛔👀 | Titeuf français | Episodes complets | 45 min | S4 | Dessin animé",
+     "vignette": "vignettes/e2Ag1zkCHjI.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 3,
+     "titre": "Mademoiselle Titeufette",
+     "youtube_id": "3R5IOyDSeJM",
+     "duree_secondes": 3780,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Mademoiselle Titeufette 👧😱 | Titeuf français | Episodes complets | 1H | S4 | Dessin animé",
+     "vignette": "vignettes/3R5IOyDSeJM.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 4,
+     "titre": "J'suis dans le cerveau de Nadia",
+     "youtube_id": "v4RYc3CDgJY",
+     "duree_secondes": 2520,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "J'suis dans le cerveau de Nadia !! 😱🧠| Titeuf français | Episodes complets | 45 min | S4",
+     "vignette": "vignettes/v4RYc3CDgJY.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 5,
+     "titre": "Thérèse la nouvelle",
+     "youtube_id": "5cbpSs2e_UY",
+     "duree_secondes": 2520,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Thérèse la nouvelle 🎒🏫  | Titeuf français | Episodes complets | 45 min | S4 | Dessin animé pour ados",
+     "vignette": "vignettes/5cbpSs2e_UY.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 6,
+     "titre": "Nadia dort chez Titeuf",
+     "youtube_id": "aXun3w7nEAE",
+     "duree_secondes": 2520,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Nadia dort chez Titeuf  🎒🌜 | Titeuf français | Episodes complets | 45 min | Saison 4 | Dessin animé",
+     "vignette": "vignettes/aXun3w7nEAE.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 7,
+     "titre": "Comme un homme",
+     "youtube_id": "UDxpU2aOh3k",
+     "duree_secondes": 2580,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Comme un homme 💪🐺 | Titeuf français | Episodes complets | 30 min | Saison 4 | Dessin animé",
+     "vignette": "vignettes/UDxpU2aOh3k.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 8,
+     "titre": "Papa est bizarre",
+     "youtube_id": "H8zqJ5VNSqQ",
+     "duree_secondes": 3780,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Papa est bizarre 🥴🩲 | Titeuf français | Episodes complets | 1H | Saison 4 | Dessin animé",
+     "vignette": "vignettes/H8zqJ5VNSqQ.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 9,
+     "titre": "Les mots d'amour",
+     "youtube_id": "XqNvOtGOsp8",
+     "duree_secondes": 2520,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les mots d'amour 💌🖋️ | Titeuf français | Episodes complets | 45 min | Saison 4 | Dessin animé",
+     "vignette": "vignettes/XqNvOtGOsp8.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 10,
+     "titre": "Le pipi dangereux",
+     "youtube_id": "sfkTTOMDDAI",
+     "duree_secondes": 3780,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le pipi dangereux ☠️💥 | Titeuf français | Episodes complets | 1H | S4 | Dessin animé",
+     "vignette": "vignettes/sfkTTOMDDAI.webp"
+    }
+   ],
+   "affiche": "affiches/D93IehjZ1Uk.webp",
+   "vignette": "vignettes/D93IehjZ1Uk.webp"
+  },
+  {
+   "slug": "lou",
+   "titre": "Lou !",
+   "format": "serie",
+   "univers": "series",
+   "genres": [
+    "petits",
+    "comedie"
+   ],
+   "tout_public": true,
+   "youtube_id": null,
+   "chaine_nom": "Lou! La Série [Officiel]",
+   "chaine_id": "UCvYqgo9dGBPVvaa4paVIhwQ",
+   "chaine_url": "https://www.youtube.com/channel/UCvYqgo9dGBPVvaa4paVIhwQ",
+   "ayant_droit": "Chaîne officielle de la série (d'après Julien Neel)",
+   "duree_secondes": 7601,
+   "annee": 2009,
+   "description": "Lou vit avec sa maman un peu fantasque, rêve du voisin d'en face et fait les quatre cents coups avec sa copine Mina. La série tirée de la BD de Julien Neel, en dix longues compilations d'épisodes complets.",
+   "disponible_jusqu_au": null,
+   "publie_le": "2024-05-24",
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "Lou veut changer d'air",
+     "youtube_id": "NaQ9nh9mtLg",
+     "duree_secondes": 6085,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Lou veut changer d'air 🩵✨| Lou! français | Episodes complets | 1H40 | Dessin animé pour enfants",
+     "vignette": "vignettes/NaQ9nh9mtLg.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "De mauvais poil",
+     "youtube_id": "jM2Ixa1X5vo",
+     "duree_secondes": 9125,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "De mauvais poil ! 😤💥 | Lou! français | Episodes complets | 2H30 | Dessin animé pour enfants",
+     "vignette": "vignettes/jM2Ixa1X5vo.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 3,
+     "titre": "La naissance de Lou",
+     "youtube_id": "x6ZwfUs23hk",
+     "duree_secondes": 9121,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "La naissance de Lou 🤘| Lou! français | Episodes complets | 2H30 | Dessin animé pour enfants",
+     "vignette": "vignettes/x6ZwfUs23hk.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 4,
+     "titre": "Vive les amies",
+     "youtube_id": "XwCFEG7KwbA",
+     "duree_secondes": 6085,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Vive les amies 🫂🫶 | Lou! français | Episodes complets | 1H40 | Dessin animé pour enfants",
+     "vignette": "vignettes/XwCFEG7KwbA.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 5,
+     "titre": "Que justice soit faite",
+     "youtube_id": "k9Gu9fTb5VU",
+     "duree_secondes": 9880,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Que justice soit faite ! 😁🎢| Lou! français | Episodes complets | 2H30 | Dessin animé pour enfants",
+     "vignette": "vignettes/k9Gu9fTb5VU.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 6,
+     "titre": "Le prince charmant",
+     "youtube_id": "NqA0CP-rMhs",
+     "duree_secondes": 7600,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le prince charmant 👑🏰| Lou! français | Episodes complets | 2H | Dessin animé pour enfants",
+     "vignette": "vignettes/NqA0CP-rMhs.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 7,
+     "titre": "Compilation de l'Hiver",
+     "youtube_id": "ibzg5VNfVIU",
+     "duree_secondes": 9880,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Compilation de l'Hiver ❄️🧤| Lou! français | Episodes complets | 2H45 | Dessin animé pour enfants",
+     "vignette": "vignettes/ibzg5VNfVIU.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 8,
+     "titre": "Le neveu de Richard",
+     "youtube_id": "SGZYO4R0Y6E",
+     "duree_secondes": 3045,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le neveu de Richard 🎒🚉| Lou! français | Episodes complets | 2H | Dessin animé pour enfants",
+     "vignette": "vignettes/SGZYO4R0Y6E.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 9,
+     "titre": "Bien chez soi",
+     "youtube_id": "adhzMIFKiDc",
+     "duree_secondes": 7601,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Bien chez soi ! 🏠🧹🍚 | LOU! Français Officielle | Episodes complets | 2H | Dessin animé pour ados",
+     "vignette": "vignettes/adhzMIFKiDc.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 10,
+     "titre": "Des bananes à la moutarde",
+     "youtube_id": "53NJrUjwOes",
+     "duree_secondes": 7601,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Des bananes à la moutarde 🍌🍯| Lou! français | Episodes complets | 2H | Dessin animé pour enfants",
+     "vignette": "vignettes/53NJrUjwOes.webp"
+    }
+   ],
+   "affiche": "affiches/NaQ9nh9mtLg.webp",
+   "vignette": "vignettes/NaQ9nh9mtLg.webp"
+  },
+  {
+   "slug": "bluey",
+   "titre": "Bluey",
+   "format": "serie",
+   "univers": "series",
+   "genres": [
+    "petits"
+   ],
+   "tout_public": true,
+   "youtube_id": null,
+   "chaine_nom": "Bluey - Français Chaîne Officielle",
+   "chaine_id": "UCrGR1w7FATM8OiK_EzN3GAw",
+   "chaine_url": "https://www.youtube.com/channel/UCrGR1w7FATM8OiK_EzN3GAw",
+   "ayant_droit": "Ludo Studio / BBC Studios (chaîne officielle)",
+   "duree_secondes": 3854,
+   "annee": 2018,
+   "description": "Bluey, petite chienne bleue de six ans, transforme chaque journée en jeu avec sa sœur Bingo et ses parents. Tendre et drôle, pour les petits… et les parents. Trois compilations d'épisodes complets.",
+   "disponible_jusqu_au": null,
+   "publie_le": "2026-03-31",
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "Balançoire et encore d'autres épisodes",
+     "youtube_id": "2uvZ80wE6o4",
+     "duree_secondes": 3854,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Balançoire + Encore ! | Bluey – L'intégrale de tous les épisodes | Bluey Français Chaîne Officielle",
+     "vignette": "vignettes/2uvZ80wE6o4.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "Les petites histoires de Bluey",
+     "youtube_id": "3fHlfXIVnHE",
+     "duree_secondes": 2447,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les Petites Histoires de Bluey | lots 1, 2 et 3 | Bluey Français Chaîne Officielle",
+     "vignette": "vignettes/3fHlfXIVnHE.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 3,
+     "titre": "Épisodes complets des saisons 1 à 3",
+     "youtube_id": "P6iSoaAbCeY",
+     "duree_secondes": 5731,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Saisons 1, 2, et 3 Full Episode Comp | Bluey Français Chaîne Officielle",
+     "vignette": "vignettes/P6iSoaAbCeY.webp"
+    }
+   ],
+   "affiche": "affiches/2uvZ80wE6o4.webp",
+   "vignette": "vignettes/2uvZ80wE6o4.webp"
+  },
+  {
+   "slug": "petit-poilu",
+   "titre": "Petit Poilu",
+   "format": "serie",
+   "univers": "series",
+   "genres": [
+    "petits"
+   ],
+   "tout_public": true,
+   "youtube_id": null,
+   "chaine_nom": "PETIT POILU OFFICIEL",
+   "chaine_id": "UCSJjzZmKpDFdUFKjgtdzp2A",
+   "chaine_url": "https://www.youtube.com/channel/UCSJjzZmKpDFdUFKjgtdzp2A",
+   "ayant_droit": "Chaîne officielle de la série (d'après Céline Fraipont et Pierre Bailly)",
+   "duree_secondes": 3408,
+   "annee": null,
+   "description": "Chaque matin, Petit Poilu part à l'école… et se retrouve embarqué dans une aventure extraordinaire. Des histoires sans paroles, parfaites pour les tout-petits. Huit compilations officielles.",
+   "disponible_jusqu_au": null,
+   "publie_le": "2026-03-07",
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "Nouvelle compilation",
+     "youtube_id": "M8TUaxwFuZI",
+     "duree_secondes": 3408,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "✨Nouvelle compilation Petit Poilu Officiel ! Épisodes complets✨ Dessin Animé pour enfant",
+     "vignette": "vignettes/M8TUaxwFuZI.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "Les aventures de Petit Poilu",
+     "youtube_id": "dIx1BAc-Urk",
+     "duree_secondes": 3834,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "🤩 Les aventures de Petit Poilu ! 🤩 Épisodes complets 💕 Dessin Animé pour enfant",
+     "vignette": "vignettes/dIx1BAc-Urk.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 3,
+     "titre": "Une heure avec Petit Poilu (n° 2)",
+     "youtube_id": "GDwFcmvIPcs",
+     "duree_secondes": 3408,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PETIT POILU - 1 Heure - Compilation #02",
+     "vignette": "vignettes/GDwFcmvIPcs.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 4,
+     "titre": "Nouveaux épisodes",
+     "youtube_id": "WxVb8bz_2x0",
+     "duree_secondes": 4261,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PETIT POILU OFFICIEL - NOUVEAUX ÉPISODES POUR ENFANT ! 💕",
+     "vignette": "vignettes/WxVb8bz_2x0.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 5,
+     "titre": "Une heure avec Petit Poilu (n° 1)",
+     "youtube_id": "yChhOya1X1E",
+     "duree_secondes": 3408,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PETIT POILU - 1 Heure - Compilation #01",
+     "vignette": "vignettes/yChhOya1X1E.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 6,
+     "titre": "Petit Poilu en Égypte",
+     "youtube_id": "qKPOW90gXMs",
+     "duree_secondes": 2556,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "🤩 Petit Poilu en Egypte ! 🤩 Nouvelle compilation - Dessin Animé pour enfant",
+     "vignette": "vignettes/qKPOW90gXMs.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 7,
+     "titre": "Une heure d'épisodes complets",
+     "youtube_id": "HB1DFl91FJw",
+     "duree_secondes": 3604,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "1 HEURE AVEC PETIT POILU 🥰 Épisodes complets",
+     "vignette": "vignettes/HB1DFl91FJw.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 8,
+     "titre": "Les aventures de Petit Poilu (2025)",
+     "youtube_id": "g61Nn0Two88",
+     "duree_secondes": 3408,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "⭐️ Les aventures de Petit Poilu ! ⭐️ Nouvelle compilation 2025 HD ✨ Épisodes complets pour enfant",
+     "vignette": "vignettes/g61Nn0Two88.webp"
+    }
+   ],
+   "affiche": "affiches/M8TUaxwFuZI.webp",
+   "vignette": "vignettes/M8TUaxwFuZI.webp"
+  },
+  {
+   "slug": "gumball-saison-1",
+   "titre": "Le Monde incroyable de Gumball — Saison 1",
+   "format": "unique",
+   "univers": "series",
+   "genres": [
+    "petits",
+    "comedie"
+   ],
+   "tout_public": true,
+   "youtube_id": "Py00rF5oNEU",
+   "chaine_nom": "Cartoon Network France",
+   "chaine_id": "UCO-sJY43ksC5ir_Jf1YJDew",
+   "chaine_url": "https://www.youtube.com/channel/UCO-sJY43ksC5ir_Jf1YJDew",
+   "ayant_droit": "Cartoon Network (chaîne officielle France)",
+   "duree_secondes": 3501,
+   "annee": 2011,
+   "description": "Gumball, chat bleu de 12 ans, et son meilleur ami Darwin, un poisson rouge à pattes, sèment la pagaille à Elmore. Les épisodes de la saison 1 enchaînés, en français.",
+   "disponible_jusqu_au": null,
+   "publie_le": "2026-10-04",
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "affiche": "affiches/Py00rF5oNEU.webp",
+   "vignette": "vignettes/Py00rF5oNEU.webp"
+  }
+ ]
+}

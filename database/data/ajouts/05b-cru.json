@@ -1,0 +1,453 @@
+{
+ "genere_le": "2026-10-11",
+ "programmes": [
+  {
+   "slug": "cru-tout-ce-que",
+   "titre": "CRU · Tout ce que…",
+   "format": "serie",
+   "univers": "documentaires",
+   "genres": [
+    "cru",
+    "societe"
+   ],
+   "tout_public": false,
+   "youtube_id": null,
+   "chaine_nom": "CRU",
+   "chaine_id": "UCDVsRG3knGOYJ4iJn6vScWQ",
+   "chaine_url": "https://www.youtube.com/channel/UCDVsRG3knGOYJ4iJn6vScWQ",
+   "ayant_droit": "CRU (média indépendant, chaîne officielle)",
+   "duree_secondes": 1165,
+   "annee": 2020,
+   "description": "Une personne, un parcours, toutes vos questions : ancien toxicomane, ex-Témoin de Jéhovah, employée d'EHPAD, détective privé, malade du cancer… Des témoignages bruts et sans filtre. Public adulte.",
+   "disponible_jusqu_au": null,
+   "publie_le": "2022-12-02",
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "Les addictions aux drogues, avec Laurent Gay",
+     "youtube_id": "HMY-0gfoc-o",
+     "duree_secondes": 1146,
+     "disponible_jusqu_au": null,
+     "description": "De la prison à l'église : le parcours d'un ancien toxicomane.",
+     "titre_youtube": "TCQ ❘ LES ADDICTIONS AUX DROGUES avec Laurent Gay",
+     "vignette": "vignettes/HMY-0gfoc-o.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "La vie chez les Témoins de Jéhovah",
+     "youtube_id": "Cia36uN9zdk",
+     "duree_secondes": 1391,
+     "disponible_jusqu_au": null,
+     "description": "Alexandre raconte son enfance et sa sortie du mouvement.",
+     "titre_youtube": "TCQ ❘ La vie chez les Témoins de Jéhovah",
+     "vignette": "vignettes/Cia36uN9zdk.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 3,
+     "titre": "Ancienne employée d'EHPAD",
+     "youtube_id": "yE-I2gLfiA8",
+     "duree_secondes": 953,
+     "disponible_jusqu_au": null,
+     "description": "Julia raconte ce qu'elle a vu en maison de retraite.",
+     "titre_youtube": "TCQ ❘ ANCIENNE EMPLOYÉE D'EHPAD avec Julia",
+     "vignette": "vignettes/yE-I2gLfiA8.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 4,
+     "titre": "Le cancer du sein, avec Tara",
+     "youtube_id": "vRdnMjniiOA",
+     "duree_secondes": 1159,
+     "disponible_jusqu_au": null,
+     "description": "Pour Octobre rose, Tara raconte sa maladie et son combat.",
+     "titre_youtube": "TCQ ❘ LE CANCER DU SEIN avec Tara",
+     "vignette": "vignettes/vRdnMjniiOA.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 5,
+     "titre": "Grossophobie et angiomes, avec Julie",
+     "youtube_id": "xm51WtlQWFw",
+     "duree_secondes": 932,
+     "disponible_jusqu_au": null,
+     "description": "Le regard des autres et l'acceptation de soi.",
+     "titre_youtube": "TCQ ❘ JULIE NOUS PARLE DE GROSSOPHOBIE ET DE SES ANGIOMES",
+     "vignette": "vignettes/xm51WtlQWFw.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 6,
+     "titre": "Aëla, transgenre",
+     "youtube_id": "pJWNeGHifZE",
+     "duree_secondes": 2460,
+     "disponible_jusqu_au": null,
+     "description": "Comprendre sa transition, ses questions, sa vie de tous les jours.",
+     "titre_youtube": "TCQ ❘ Aëla, transgenre",
+     "vignette": "vignettes/pJWNeGHifZE.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 7,
+     "titre": "La franc-maçonnerie, avec Vincent",
+     "youtube_id": "d5tseGG9u9g",
+     "duree_secondes": 1589,
+     "disponible_jusqu_au": null,
+     "description": "Ce qui se passe vraiment en loge, sans fantasmes.",
+     "titre_youtube": "TCQ ❘ LA FRANC-MAÇONNERIE avec Vincent",
+     "vignette": "vignettes/d5tseGG9u9g.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 8,
+     "titre": "Les tueurs en série, avec Jean-Luc Ployé",
+     "youtube_id": "lIbgj5dvLRg",
+     "duree_secondes": 928,
+     "disponible_jusqu_au": null,
+     "description": "Un expert judiciaire raconte son métier face aux grands criminels.",
+     "titre_youtube": "TCQ ❘ LES TUEURS EN SÉRIE avec Jean-Luc Ployé",
+     "vignette": "vignettes/lIbgj5dvLRg.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 9,
+     "titre": "Un détective privé répond à vos questions",
+     "youtube_id": "MIZG0jq0q3s",
+     "duree_secondes": 954,
+     "disponible_jusqu_au": null,
+     "description": "Thibault, ses filatures, les mythes et la réalité du métier.",
+     "titre_youtube": "UN DETECTIVE PRIVE REPOND A VOS QUESTIONS ❘ TCQ",
+     "vignette": "vignettes/MIZG0jq0q3s.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 10,
+     "titre": "PMA et FIV, avec François Olivennes",
+     "youtube_id": "TkZMXOiKQnw",
+     "duree_secondes": 1770,
+     "disponible_jusqu_au": null,
+     "description": "Le gynécologue qui a aidé des milliers de bébés à naître.",
+     "titre_youtube": "PMA/FIV - IL A AIDÉ 8000 BÉBÉS À ÊTRE CONÇUS",
+     "vignette": "vignettes/TkZMXOiKQnw.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 11,
+     "titre": "Le travail du sexe, avec Beverly",
+     "youtube_id": "nPf-ozbL3TQ",
+     "duree_secondes": 1254,
+     "disponible_jusqu_au": null,
+     "description": "Une travailleuse du sexe raconte sa profession, sans détour.",
+     "titre_youtube": "TCQ ❘ LE TRAVAIL DU S*XE avec Icy Diamond",
+     "vignette": "vignettes/nPf-ozbL3TQ.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 12,
+     "titre": "Patrice Franceschi raconte ses périples",
+     "youtube_id": "qVwX-ynyJtY",
+     "duree_secondes": 1702,
+     "disponible_jusqu_au": null,
+     "description": "L'aventurier et écrivain répond en direct aux questions.",
+     "titre_youtube": "Patrice Franceschi nous raconte ses périples ❘ TCQ",
+     "vignette": "vignettes/qVwX-ynyJtY.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 13,
+     "titre": "Alexis Landot, grimpeur urbain",
+     "youtube_id": "WlFaeO9xugM",
+     "duree_secondes": 1165,
+     "disponible_jusqu_au": null,
+     "description": "Escalader les monuments à mains nues : passion et risques.",
+     "titre_youtube": "TCQ : Alexis Landot , grimpeur urbain",
+     "vignette": "vignettes/WlFaeO9xugM.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 14,
+     "titre": "Lito, le tatoueur",
+     "youtube_id": "oeUmzD3Jj6I",
+     "duree_secondes": 951,
+     "disponible_jusqu_au": null,
+     "description": "Le métier de tatoueur raconté de l'intérieur.",
+     "titre_youtube": "TCQ I LITO, le tatoueur",
+     "vignette": "vignettes/oeUmzD3Jj6I.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 15,
+     "titre": "L'e-sport, avec Lowelo",
+     "youtube_id": "_GETJBnve7g",
+     "duree_secondes": 1303,
+     "disponible_jusqu_au": null,
+     "description": "De joueur professionnel à commentateur de compétitions.",
+     "titre_youtube": "TCQ ❘ Le E-SPORT avec Lowelo",
+     "vignette": "vignettes/_GETJBnve7g.webp"
+    }
+   ],
+   "affiche": "affiches/Cia36uN9zdk.webp",
+   "vignette": "vignettes/Cia36uN9zdk.webp"
+  },
+  {
+   "slug": "cru-les-100",
+   "titre": "CRU · Les 100",
+   "format": "serie",
+   "univers": "documentaires",
+   "genres": [
+    "cru",
+    "societe"
+   ],
+   "tout_public": false,
+   "youtube_id": null,
+   "chaine_nom": "CRU",
+   "chaine_id": "UCDVsRG3knGOYJ4iJn6vScWQ",
+   "chaine_url": "https://www.youtube.com/channel/UCDVsRG3knGOYJ4iJn6vScWQ",
+   "ayant_droit": "CRU (média indépendant, chaîne officielle)",
+   "duree_secondes": 1122,
+   "annee": 2020,
+   "description": "On pose la même question à cent personnes : le 13 novembre, la solitude, le courage, les agressions… Une mosaïque de vies françaises. Public adulte.",
+   "disponible_jusqu_au": null,
+   "publie_le": "2024-11-04",
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "Tu faisais quoi le 13 novembre ?",
+     "youtube_id": "if2WTFD602E",
+     "duree_secondes": 1122,
+     "disponible_jusqu_au": null,
+     "description": "Leurs souvenirs du soir des attentats de 2015.",
+     "titre_youtube": "TU FAISAIS QUOI LE 13 NOVEMBRE ?  ❘ Les 100",
+     "vignette": "vignettes/if2WTFD602E.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "Agression sexuelle",
+     "youtube_id": "5DDp8b66_5Q",
+     "duree_secondes": 939,
+     "disponible_jusqu_au": null,
+     "description": "Des témoignages bouleversants sur les violences sexuelles.",
+     "titre_youtube": "AGRESSION SEXUELLE ❘ Les 100",
+     "vignette": "vignettes/5DDp8b66_5Q.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 3,
+     "titre": "Est-ce que tu te sens seul·e ?",
+     "youtube_id": "9d9JdP9xHGo",
+     "duree_secondes": 1498,
+     "disponible_jusqu_au": null,
+     "description": "Cent personnes parlent de solitude.",
+     "titre_youtube": "EST-CE QUE TU TE SENS SEUL.E ? ❘ Les 100",
+     "vignette": "vignettes/9d9JdP9xHGo.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 4,
+     "titre": "Leurs actions les plus courageuses",
+     "youtube_id": "sI0c_n41DvE",
+     "duree_secondes": 1196,
+     "disponible_jusqu_au": null,
+     "description": "Petits et grands actes de courage.",
+     "titre_youtube": "LEURS ACTIONS LES PLUS COURAGEUSES ❘ Les 100",
+     "vignette": "vignettes/sI0c_n41DvE.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 5,
+     "titre": "Michael, deux ans après",
+     "youtube_id": "12KGHOqtim0",
+     "duree_secondes": 1064,
+     "disponible_jusqu_au": null,
+     "description": "Un habitué des 100 revient sur ses premières interventions.",
+     "titre_youtube": "RETOUR DU 100 ❘ Michael, 2 ans après",
+     "vignette": "vignettes/12KGHOqtim0.webp"
+    }
+   ],
+   "affiche": "affiches/if2WTFD602E.webp",
+   "vignette": "vignettes/if2WTFD602E.webp"
+  },
+  {
+   "slug": "cru-les-10",
+   "titre": "CRU · Les 10",
+   "format": "serie",
+   "univers": "documentaires",
+   "genres": [
+    "cru",
+    "societe"
+   ],
+   "tout_public": false,
+   "youtube_id": null,
+   "chaine_nom": "CRU",
+   "chaine_id": "UCDVsRG3knGOYJ4iJn6vScWQ",
+   "chaine_url": "https://www.youtube.com/channel/UCDVsRG3knGOYJ4iJn6vScWQ",
+   "ayant_droit": "CRU (média indépendant, chaîne officielle)",
+   "duree_secondes": 1336,
+   "annee": 2022,
+   "description": "Dix personnes qui partagent une même expérience racontent leur vie : le coming out, la cécité. Public adulte.",
+   "disponible_jusqu_au": null,
+   "publie_le": "2025-05-18",
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "Coming out",
+     "youtube_id": "XH61WjkIKgw",
+     "duree_secondes": 1336,
+     "disponible_jusqu_au": null,
+     "description": "Dix personnes racontent la découverte de leur orientation sexuelle.",
+     "titre_youtube": "LES 10 COMING OUT",
+     "vignette": "vignettes/XH61WjkIKgw.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "Aveugles et déficients visuels",
+     "youtube_id": "ey-WKmZ--xU",
+     "duree_secondes": 1279,
+     "disponible_jusqu_au": null,
+     "description": "« Ferme les yeux, écoute-moi » : dix personnes aveugles ou malvoyantes.",
+     "titre_youtube": "\"Ferme les yeux, écoute-moi\" – Les 10 : Aveugles & Déficients visuels (Épisode 1)",
+     "vignette": "vignettes/ey-WKmZ--xU.webp"
+    }
+   ],
+   "affiche": "affiches/ey-WKmZ--xU.webp",
+   "vignette": "vignettes/ey-WKmZ--xU.webp"
+  },
+  {
+   "slug": "cru-talks",
+   "titre": "CRU · Talks et débats",
+   "format": "serie",
+   "univers": "documentaires",
+   "genres": [
+    "cru",
+    "societe"
+   ],
+   "tout_public": false,
+   "youtube_id": null,
+   "chaine_nom": "CRU",
+   "chaine_id": "UCDVsRG3knGOYJ4iJn6vScWQ",
+   "chaine_url": "https://www.youtube.com/channel/UCDVsRG3knGOYJ4iJn6vScWQ",
+   "ayant_droit": "CRU (média indépendant, chaîne officielle)",
+   "duree_secondes": 2224,
+   "annee": 2020,
+   "description": "Autour d'une table, ils confrontent leurs vécus : harcèlement scolaire, conversion religieuse, clichés, violences en famille. Public adulte.",
+   "disponible_jusqu_au": null,
+   "publie_le": "2021-09-29",
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "Harcèlement scolaire",
+     "youtube_id": "6OtBNKAnQIQ",
+     "duree_secondes": 2126,
+     "disponible_jusqu_au": null,
+     "description": "Souvenirs et cicatrices du harcèlement à l'école.",
+     "titre_youtube": "TALK ❘ HARCELEMENT SCOLAIRE",
+     "vignette": "vignettes/6OtBNKAnQIQ.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "Conversion religieuse",
+     "youtube_id": "kie_DB07sfk",
+     "duree_secondes": 2224,
+     "disponible_jusqu_au": null,
+     "description": "Trois jeunes en pleine conversion face à un athée.",
+     "titre_youtube": "CONVERSION RELIGIEUSE ❘ TALK",
+     "vignette": "vignettes/kie_DB07sfk.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 3,
+     "titre": "Cliché : les Africains",
+     "youtube_id": "OQNOlyAgXbk",
+     "duree_secondes": 1537,
+     "disponible_jusqu_au": null,
+     "description": "Quatre invités démontent les clichés qui les visent.",
+     "titre_youtube": "LES AFRICAINS ❘ CLICHÉ",
+     "vignette": "vignettes/OQNOlyAgXbk.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 4,
+     "titre": "Podcast : violences intrafamiliales",
+     "youtube_id": "UFNJQWWZolk",
+     "duree_secondes": 3691,
+     "disponible_jusqu_au": null,
+     "description": "Des membres des 100 parlent des violences vécues en famille.",
+     "titre_youtube": "🎧 PODCAST CRU ❘ VIOLENCES INTRAFAMILIALES",
+     "vignette": "vignettes/UFNJQWWZolk.webp"
+    }
+   ],
+   "affiche": "affiches/6OtBNKAnQIQ.webp",
+   "vignette": "vignettes/6OtBNKAnQIQ.webp"
+  },
+  {
+   "slug": "cru-30-jours",
+   "titre": "CRU · 30 jours",
+   "format": "serie",
+   "univers": "documentaires",
+   "genres": [
+    "cru",
+    "societe"
+   ],
+   "tout_public": false,
+   "youtube_id": null,
+   "chaine_nom": "CRU",
+   "chaine_id": "UCDVsRG3knGOYJ4iJn6vScWQ",
+   "chaine_url": "https://www.youtube.com/channel/UCDVsRG3knGOYJ4iJn6vScWQ",
+   "ayant_droit": "CRU (média indépendant, chaîne officielle)",
+   "duree_secondes": 1519,
+   "annee": 2021,
+   "description": "Un défi, trente jours, une caméra : arrêter de fumer, arrêter l'alcool… et ce que ça change vraiment. Public adulte.",
+   "disponible_jusqu_au": null,
+   "publie_le": "2022-02-04",
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "Sans fumer, avec Barnabé",
+     "youtube_id": "ws6q38p6TMo",
+     "duree_secondes": 1519,
+     "disponible_jusqu_au": null,
+     "description": "Trente jours sans cigarette, puis ses réponses à vos questions.",
+     "titre_youtube": "30 JOURS ❘ SANS FUMER AVEC BARNABE",
+     "vignette": "vignettes/ws6q38p6TMo.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "Sans alcool, avec Carla",
+     "youtube_id": "YWfiIZturpU",
+     "duree_secondes": 1232,
+     "disponible_jusqu_au": null,
+     "description": "Trente jours sans une goutte d'alcool.",
+     "titre_youtube": "30 JOURS ❘ SANS ALCOOL avec Carla",
+     "vignette": "vignettes/YWfiIZturpU.webp"
+    }
+   ],
+   "affiche": "affiches/ws6q38p6TMo.webp",
+   "vignette": "vignettes/ws6q38p6TMo.webp"
+  }
+ ]
+}

@@ -1,0 +1,2383 @@
+{
+ "genere_le": "2026-10-11",
+ "programmes": [
+  {
+   "slug": "salut-les-muscles",
+   "titre": "Salut les Musclés",
+   "format": "serie",
+   "univers": "series",
+   "genres": [
+    "sitcoms-90",
+    "comedie"
+   ],
+   "tout_public": true,
+   "youtube_id": null,
+   "chaine_nom": "Génération Sitcoms",
+   "chaine_id": "UCVVubp6nL6vP8b6ls-Ybk-g",
+   "chaine_url": "https://www.youtube.com/channel/UCVVubp6nL6vP8b6ls-Ybk-g",
+   "ayant_droit": "AB Productions (chaîne officielle certifiée Génération Sitcoms)",
+   "duree_secondes": 1449,
+   "annee": 1989,
+   "description": "Les Musclés, les musiciens du Club Dorothée, dans leurs propres aventures loufoques. 261 épisodes, de 1989 au milieu des années 90.",
+   "disponible_jusqu_au": null,
+   "publie_le": null,
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "La bricoleuse",
+     "youtube_id": "nUln4E1BFOI",
+     "duree_secondes": 1299,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - EPISODE 1 - La bricoleuse",
+     "vignette": "vignettes/nUln4E1BFOI.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "Le gourou",
+     "youtube_id": "DHRk5w5pRss",
+     "duree_secondes": 934,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - EPISODE 2 - Le gourou"
+    },
+    {
+     "saison": 1,
+     "numero": 3,
+     "titre": "La voleuse (avec Christiane Jean)",
+     "youtube_id": "m5U3xur0Tqs",
+     "duree_secondes": 1447,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - EPISODE 3 - La voleuse (avec Christiane Jean)"
+    },
+    {
+     "saison": 1,
+     "numero": 4,
+     "titre": "La petite annonce",
+     "youtube_id": "wRG5t3p4BBk",
+     "duree_secondes": 1486,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - EPISODE 4 - La petite annonce"
+    },
+    {
+     "saison": 1,
+     "numero": 5,
+     "titre": "L'ange du foyer",
+     "youtube_id": "_9DMsLM7ynQ",
+     "duree_secondes": 1439,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - EPISODE 5 - L'ange du foyer"
+    },
+    {
+     "saison": 1,
+     "numero": 6,
+     "titre": "Mme Framboisier",
+     "youtube_id": "YbTCMIaNt7A",
+     "duree_secondes": 1383,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - EPISODE 6 - Mme Framboisier"
+    },
+    {
+     "saison": 1,
+     "numero": 7,
+     "titre": "Maman",
+     "youtube_id": "fKQ-eWiQnHY",
+     "duree_secondes": 1408,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - EPISODE 7 - Maman"
+    },
+    {
+     "saison": 1,
+     "numero": 8,
+     "titre": "Quelle famille",
+     "youtube_id": "ShFA0J272uk",
+     "duree_secondes": 1095,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - EPISODE 8 - Quelle famille"
+    },
+    {
+     "saison": 1,
+     "numero": 9,
+     "titre": "Docteur (avec Dorothée)",
+     "youtube_id": "P1fldw_R1E4",
+     "duree_secondes": 1337,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - EPISODE 9 - Docteur (avec Dorothée)"
+    },
+    {
+     "saison": 1,
+     "numero": 10,
+     "titre": "La milliardiare",
+     "youtube_id": "SPolKvyEQ2I",
+     "duree_secondes": 1363,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés : EPISODE 10 - La milliardiare"
+    },
+    {
+     "saison": 1,
+     "numero": 11,
+     "titre": "Providence",
+     "youtube_id": "oJ8dFi183es",
+     "duree_secondes": 1262,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 11 - Providence"
+    },
+    {
+     "saison": 1,
+     "numero": 12,
+     "titre": "Fais pas ton cinéma",
+     "youtube_id": "1Rn1zEb2V2Y",
+     "duree_secondes": 1058,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 12 - Fais pas ton cinéma"
+    },
+    {
+     "saison": 1,
+     "numero": 13,
+     "titre": "La révolutionnaire",
+     "youtube_id": "SK1QxNsv5ys",
+     "duree_secondes": 1256,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 13 - La révolutionnaire"
+    },
+    {
+     "saison": 1,
+     "numero": 14,
+     "titre": "La grande blonde avec un chapeau noir",
+     "youtube_id": "agGjGyidP9M",
+     "duree_secondes": 1428,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 14 - La grande blonde avec un chapeau noir"
+    },
+    {
+     "saison": 1,
+     "numero": 15,
+     "titre": "Leçon de maintien (avec Alexandra VANDERNOOT)",
+     "youtube_id": "YmcQlWRxjsI",
+     "duree_secondes": 1087,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 15 - Leçon de maintien (avec Alexandra VANDERNOOT)"
+    },
+    {
+     "saison": 1,
+     "numero": 16,
+     "titre": "La statue Inca",
+     "youtube_id": "oMxukZMoylA",
+     "duree_secondes": 1263,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 16 - La statue Inca"
+    },
+    {
+     "saison": 1,
+     "numero": 17,
+     "titre": "L'anniversaire de Minet",
+     "youtube_id": "eRmt0JbpQmE",
+     "duree_secondes": 1122,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 17 - L'anniversaire de Minet"
+    },
+    {
+     "saison": 1,
+     "numero": 18,
+     "titre": "Tout feu tout flamme",
+     "youtube_id": "OfXthbl1Krw",
+     "duree_secondes": 1107,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 18 - Tout feu tout flamme"
+    },
+    {
+     "saison": 1,
+     "numero": 19,
+     "titre": "Les tontons (1er épisode avec Justine)",
+     "youtube_id": "FaQlqHExv0g",
+     "duree_secondes": 1344,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 19 - Les tontons (1er épisode avec Justine)"
+    },
+    {
+     "saison": 1,
+     "numero": 20,
+     "titre": "La rentrée des classes",
+     "youtube_id": "Ij6KZFMka4M",
+     "duree_secondes": 1179,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 20 - La rentrée des classes"
+    },
+    {
+     "saison": 1,
+     "numero": 21,
+     "titre": "Changement de décor",
+     "youtube_id": "nP0fMA7ACOI",
+     "duree_secondes": 1327,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 21 - Changement de décor"
+    },
+    {
+     "saison": 1,
+     "numero": 22,
+     "titre": "Les fleurs",
+     "youtube_id": "hK16OQzXGTU",
+     "duree_secondes": 1233,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 22 - Les fleurs"
+    },
+    {
+     "saison": 1,
+     "numero": 23,
+     "titre": "Les oreillons",
+     "youtube_id": "Fzc_aNVldhU",
+     "duree_secondes": 1232,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 23 - Les oreillons"
+    },
+    {
+     "saison": 1,
+     "numero": 24,
+     "titre": "Le prof de math",
+     "youtube_id": "ARCz4xHgVyY",
+     "duree_secondes": 1210,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 24 - Le prof de math"
+    },
+    {
+     "saison": 1,
+     "numero": 25,
+     "titre": "La giga boum",
+     "youtube_id": "w-vM3hmkf9U",
+     "duree_secondes": 1543,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 25 - La giga boum"
+    },
+    {
+     "saison": 1,
+     "numero": 26,
+     "titre": "La femme idéale (partie 01)",
+     "youtube_id": "NnX4FjdAr74",
+     "duree_secondes": 1298,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 26 - La femme idéale (partie 01)"
+    },
+    {
+     "saison": 1,
+     "numero": 27,
+     "titre": "La femme idéale (partie 02)",
+     "youtube_id": "PLUvS0OuE-I",
+     "duree_secondes": 1268,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 27 - La femme idéale (partie 02)"
+    },
+    {
+     "saison": 1,
+     "numero": 28,
+     "titre": "Le téléphone de Justine",
+     "youtube_id": "4z_UcB6KLMQ",
+     "duree_secondes": 1149,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 28 - Le téléphone de Justine"
+    },
+    {
+     "saison": 1,
+     "numero": 29,
+     "titre": "Au régime (Partie 01)",
+     "youtube_id": "k2T5uDNiGvw",
+     "duree_secondes": 1117,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 29 - Au régime (Partie 01)"
+    },
+    {
+     "saison": 1,
+     "numero": 30,
+     "titre": "Au régime (Partie 02)",
+     "youtube_id": "dTVjUbgmFRw",
+     "duree_secondes": 853,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 30 - Au régime (Partie 02)"
+    },
+    {
+     "saison": 1,
+     "numero": 31,
+     "titre": "La bonne occase",
+     "youtube_id": "giHUuIJSk6k",
+     "duree_secondes": 1517,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 31 - La bonne occase"
+    },
+    {
+     "saison": 1,
+     "numero": 32,
+     "titre": "L'exposé",
+     "youtube_id": "WC46ZQ3OrYQ",
+     "duree_secondes": 1367,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 32 - L'exposé"
+    },
+    {
+     "saison": 1,
+     "numero": 33,
+     "titre": "L'auto-stoppeuse",
+     "youtube_id": "X3ZHUCUdE1M",
+     "duree_secondes": 1249,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 33 - L'auto-stoppeuse"
+    },
+    {
+     "saison": 1,
+     "numero": 34,
+     "titre": "La princesse Gwendoline (avec Hélène)",
+     "youtube_id": "lvowYA58wGc",
+     "duree_secondes": 1176,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 34 - La princesse Gwendoline (avec Hélène)"
+    },
+    {
+     "saison": 1,
+     "numero": 35,
+     "titre": "La propriétaire",
+     "youtube_id": "5draJ67V8tg",
+     "duree_secondes": 1392,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 35 - La propriétaire"
+    },
+    {
+     "saison": 1,
+     "numero": 36,
+     "titre": "Les Musclés",
+     "youtube_id": "GOPe0HEWgMY",
+     "duree_secondes": 1451,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les Musclés - Épisode 36 - L'argent de poche"
+    },
+    {
+     "saison": 1,
+     "numero": 37,
+     "titre": "Les loubards",
+     "youtube_id": "QA3WOr7Qpi0",
+     "duree_secondes": 1261,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 37 - Les loubards"
+    },
+    {
+     "saison": 1,
+     "numero": 38,
+     "titre": "La visiteuse",
+     "youtube_id": "wE6kDoHmy3A",
+     "duree_secondes": 1557,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 38 - La visiteuse"
+    },
+    {
+     "saison": 1,
+     "numero": 39,
+     "titre": "Coralie",
+     "youtube_id": "jNX81vJnjRg",
+     "duree_secondes": 1634,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 39 - Coralie"
+    },
+    {
+     "saison": 1,
+     "numero": 40,
+     "titre": "La photographe",
+     "youtube_id": "ykFXNH4lLqk",
+     "duree_secondes": 1288,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 40 - La photographe"
+    },
+    {
+     "saison": 1,
+     "numero": 41,
+     "titre": "Les miss",
+     "youtube_id": "SYIPhHfn1QM",
+     "duree_secondes": 1313,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 41 - Les miss"
+    },
+    {
+     "saison": 1,
+     "numero": 42,
+     "titre": "Le bébé de Minet",
+     "youtube_id": "w3yovRRxzLc",
+     "duree_secondes": 1608,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 42 - Le bébé de Minet"
+    },
+    {
+     "saison": 1,
+     "numero": 43,
+     "titre": "La demande en mariage",
+     "youtube_id": "h3bPgfZwRiI",
+     "duree_secondes": 1435,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 43 - La demande en mariage"
+    },
+    {
+     "saison": 1,
+     "numero": 44,
+     "titre": "Le choriste",
+     "youtube_id": "YjsxtnzhJLs",
+     "duree_secondes": 1225,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 44 - Le choriste"
+    },
+    {
+     "saison": 1,
+     "numero": 45,
+     "titre": "Eric et Géronimo",
+     "youtube_id": "hgmANXBvbJU",
+     "duree_secondes": 1495,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 45 - Eric et Géronimo"
+    },
+    {
+     "saison": 1,
+     "numero": 46,
+     "titre": "Le fils du Cheik (partie 01)",
+     "youtube_id": "W1jv2NZ1OeY",
+     "duree_secondes": 1064,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 46 - Le fils du Cheik (partie 01)"
+    },
+    {
+     "saison": 1,
+     "numero": 47,
+     "titre": "Le fils du Cheik (partie 02)",
+     "youtube_id": "PFE6yN5cXnM",
+     "duree_secondes": 1088,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 47 - Le fils du Cheik (partie 02)"
+    },
+    {
+     "saison": 1,
+     "numero": 48,
+     "titre": "La cousine de Sophie",
+     "youtube_id": "bFja3ELycGA",
+     "duree_secondes": 1587,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 48 - La cousine de Sophie"
+    },
+    {
+     "saison": 1,
+     "numero": 49,
+     "titre": "La Schkoumoune",
+     "youtube_id": "uGLWLs1KpmQ",
+     "duree_secondes": 1179,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut Les Musclés - Épisode 49 - La Schkoumoune"
+    },
+    {
+     "saison": 1,
+     "numero": 50,
+     "titre": "La tante Fanny",
+     "youtube_id": "FgV4b7NTsDc",
+     "duree_secondes": 1356,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut Les Musclés - Épisode 50 - La tante Fanny"
+    },
+    {
+     "saison": 1,
+     "numero": 51,
+     "titre": "Une interview musclée",
+     "youtube_id": "hPuFzNejzlo",
+     "duree_secondes": 1222,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut Les Musclés - Épisode 51 - Une interview musclée"
+    },
+    {
+     "saison": 1,
+     "numero": 52,
+     "titre": "L'étrangère (PARTIE 01)",
+     "youtube_id": "ey2rr-S9LsI",
+     "duree_secondes": 1218,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut Les Musclés - Épisode 52 - L'étrangère (PARTIE 01)"
+    },
+    {
+     "saison": 1,
+     "numero": 53,
+     "titre": "L'étrangère (PARTIE 02)",
+     "youtube_id": "TozDMQwM8ZM",
+     "duree_secondes": 1229,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut Les Musclés - Épisode 53 - L'étrangère (PARTIE 02)"
+    },
+    {
+     "saison": 1,
+     "numero": 54,
+     "titre": "La séduction",
+     "youtube_id": "_PhOzkUXlx8",
+     "duree_secondes": 1586,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut Les Musclés - Épisode 54 - La séduction"
+    },
+    {
+     "saison": 1,
+     "numero": 55,
+     "titre": "La leçon de musique",
+     "youtube_id": "TcKSsHQzXOE",
+     "duree_secondes": 1500,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut Les Musclés - Épisode 55 - La leçon de musique"
+    },
+    {
+     "saison": 1,
+     "numero": 56,
+     "titre": "Du super dans le réservoir (PARTIE 01)",
+     "youtube_id": "ZRml7i0Frq4",
+     "duree_secondes": 1350,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut Les Musclés - Épisode 56 - Du super dans le réservoir (PARTIE 01)"
+    },
+    {
+     "saison": 1,
+     "numero": 57,
+     "titre": "Du super dans le réservoir (PARTIE 02)",
+     "youtube_id": "Jod5ixJZ69s",
+     "duree_secondes": 1422,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut Les Musclés - Épisode 57 - Du super dans le réservoir (PARTIE 02)"
+    },
+    {
+     "saison": 1,
+     "numero": 58,
+     "titre": "Comment soulever les garçons",
+     "youtube_id": "9EV8yAHxghk",
+     "duree_secondes": 1237,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut Les Musclés - Épisode 58 - Comment soulever les garçons"
+    },
+    {
+     "saison": 1,
+     "numero": 59,
+     "titre": "Le coup de pompe",
+     "youtube_id": "mwbfmrBXKfo",
+     "duree_secondes": 1375,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut Les Musclés - Épisode 59 - Le coup de pompe"
+    },
+    {
+     "saison": 1,
+     "numero": 60,
+     "titre": "La quarantaine",
+     "youtube_id": "AWPsP8rGAlc",
+     "duree_secondes": 1424,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut Les Musclés - Épisode 60 - La quarantaine"
+    },
+    {
+     "saison": 1,
+     "numero": 61,
+     "titre": "Vega force one (partie 1)",
+     "youtube_id": "rCfpdfS4WBI",
+     "duree_secondes": 1187,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 61 - Vega force one (partie 1)"
+    },
+    {
+     "saison": 1,
+     "numero": 62,
+     "titre": "Vega force one (partie 2)",
+     "youtube_id": "4qfgkPh4v9c",
+     "duree_secondes": 1137,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 62 - Vega force one (partie 2)"
+    },
+    {
+     "saison": 1,
+     "numero": 63,
+     "titre": "Le bal masqué",
+     "youtube_id": "gb4qw9LaPwE",
+     "duree_secondes": 1308,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 63 - Le bal masqué"
+    },
+    {
+     "saison": 1,
+     "numero": 64,
+     "titre": "La fausse manoeuvre",
+     "youtube_id": "MZLQiI85H4Q",
+     "duree_secondes": 1284,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 64 - La fausse manoeuvre"
+    },
+    {
+     "saison": 1,
+     "numero": 65,
+     "titre": "Rencontre du 2ème type",
+     "youtube_id": "OmNtiHTYsZk",
+     "duree_secondes": 1543,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 65 - Rencontre du 2ème type"
+    },
+    {
+     "saison": 1,
+     "numero": 66,
+     "titre": "Un clown chasse l'autre",
+     "youtube_id": "MCIfAeFDyks",
+     "duree_secondes": 1233,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 66 - Un clown chasse l'autre"
+    },
+    {
+     "saison": 1,
+     "numero": 67,
+     "titre": "C'est le flash",
+     "youtube_id": "IjjmBkSbzyo",
+     "duree_secondes": 1274,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 67 - C'est le flash"
+    },
+    {
+     "saison": 1,
+     "numero": 68,
+     "titre": "Bleu, bleu, bleu",
+     "youtube_id": "CkqbaUk0yhc",
+     "duree_secondes": 1222,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 68 - Bleu, bleu, bleu"
+    },
+    {
+     "saison": 1,
+     "numero": 69,
+     "titre": "Sophie",
+     "youtube_id": "BpGvFsxFm0E",
+     "duree_secondes": 1524,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 69 - Sophie"
+    },
+    {
+     "saison": 1,
+     "numero": 70,
+     "titre": "L'amnésique",
+     "youtube_id": "uDNp5OH1a9k",
+     "duree_secondes": 1465,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 70 - L'amnésique"
+    },
+    {
+     "saison": 1,
+     "numero": 71,
+     "titre": "La saint Valentin",
+     "youtube_id": "sJ-XMepBvhU",
+     "duree_secondes": 1425,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 71 - La saint Valentin"
+    },
+    {
+     "saison": 1,
+     "numero": 72,
+     "titre": "Machine arrière",
+     "youtube_id": "Y6HqaLoyaD0",
+     "duree_secondes": 1412,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 72 - Machine arrière"
+    },
+    {
+     "saison": 1,
+     "numero": 73,
+     "titre": "Mademoiselle Li",
+     "youtube_id": "ttDVuG-siU0",
+     "duree_secondes": 1098,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 73 - Mademoiselle Li"
+    },
+    {
+     "saison": 1,
+     "numero": 74,
+     "titre": "Le théorème de Thalès",
+     "youtube_id": "HqR-diVyGdI",
+     "duree_secondes": 1450,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 74 - Le théorème de Thalès"
+    },
+    {
+     "saison": 1,
+     "numero": 75,
+     "titre": "Le blues",
+     "youtube_id": "0WYxWmERFdM",
+     "duree_secondes": 1341,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 75 - Le blues"
+    },
+    {
+     "saison": 1,
+     "numero": 76,
+     "titre": "Le pot de colle",
+     "youtube_id": "Aa77WEjPFn8",
+     "duree_secondes": 1076,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 76 - Le pot de colle"
+    },
+    {
+     "saison": 1,
+     "numero": 77,
+     "titre": "Départ en week-end",
+     "youtube_id": "Fmuuo2z8_vI",
+     "duree_secondes": 1380,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 77 - Départ en week-end"
+    },
+    {
+     "saison": 1,
+     "numero": 78,
+     "titre": "Le retour",
+     "youtube_id": "oT76aI301ek",
+     "duree_secondes": 1403,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 78 - Le retour"
+    },
+    {
+     "saison": 1,
+     "numero": 79,
+     "titre": "James",
+     "youtube_id": "D3Yx5n4ipDg",
+     "duree_secondes": 1226,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 79 - James"
+    },
+    {
+     "saison": 1,
+     "numero": 80,
+     "titre": "Pour l'honneur des Musclés",
+     "youtube_id": "fBdSJAvRl5g",
+     "duree_secondes": 1511,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 80 - Pour l'honneur des Musclés"
+    },
+    {
+     "saison": 1,
+     "numero": 81,
+     "titre": "Les Mousquetaires",
+     "youtube_id": "OZDfEaq5ixk",
+     "duree_secondes": 1356,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 81 - Les Mousquetaires"
+    },
+    {
+     "saison": 1,
+     "numero": 82,
+     "titre": "Le château du Loch Ness",
+     "youtube_id": "-bfByx91enU",
+     "duree_secondes": 1175,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 82 -Le château du Loch Ness"
+    },
+    {
+     "saison": 1,
+     "numero": 83,
+     "titre": "La morsure",
+     "youtube_id": "hsVSqkgE0Ok",
+     "duree_secondes": 1481,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 83 - La morsure"
+    },
+    {
+     "saison": 1,
+     "numero": 84,
+     "titre": "La gangsteuse",
+     "youtube_id": "t-I09tfB2_M",
+     "duree_secondes": 1437,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 84 - La gangsteuse"
+    },
+    {
+     "saison": 1,
+     "numero": 85,
+     "titre": "L'idylle",
+     "youtube_id": "jlVOq1zEEJ0",
+     "duree_secondes": 1284,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 85 - L'idylle"
+    },
+    {
+     "saison": 1,
+     "numero": 86,
+     "titre": "Gigi",
+     "youtube_id": "WqwIJQjEEFU",
+     "duree_secondes": 1465,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 86 - Gigi"
+    },
+    {
+     "saison": 1,
+     "numero": 87,
+     "titre": "Sainte Hilguegue",
+     "youtube_id": "VxEHC6Cp0zg",
+     "duree_secondes": 1494,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 87 - Sainte Hilguegue"
+    },
+    {
+     "saison": 1,
+     "numero": 88,
+     "titre": "Les pantoufles (part 1)",
+     "youtube_id": "tOUPvOvt60E",
+     "duree_secondes": 1401,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 88 - Les pantoufles (part 1)"
+    },
+    {
+     "saison": 1,
+     "numero": 89,
+     "titre": "Les pantoufles (part 2)",
+     "youtube_id": "2_dv4oHMjHs",
+     "duree_secondes": 1434,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 89 - Les pantoufles (part 2)"
+    },
+    {
+     "saison": 1,
+     "numero": 90,
+     "titre": "La bombe",
+     "youtube_id": "1ZYlOPWuElk",
+     "duree_secondes": 1309,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 90 - La bombe"
+    },
+    {
+     "saison": 1,
+     "numero": 91,
+     "titre": "Docteur René et mister hard",
+     "youtube_id": "MzUBCjGca3U",
+     "duree_secondes": 1467,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 91 - Docteur René et mister hard"
+    },
+    {
+     "saison": 1,
+     "numero": 92,
+     "titre": "Mission spéciale",
+     "youtube_id": "4aN-FWGX34k",
+     "duree_secondes": 1363,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 92 - Mission spéciale"
+    },
+    {
+     "saison": 1,
+     "numero": 93,
+     "titre": "Abeille mutine",
+     "youtube_id": "fZMp87BYncA",
+     "duree_secondes": 1471,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 93 - Abeille mutine"
+    },
+    {
+     "saison": 1,
+     "numero": 94,
+     "titre": "Retour aux sources",
+     "youtube_id": "6CL12dGW3Hc",
+     "duree_secondes": 1370,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 94 - Retour aux sources"
+    },
+    {
+     "saison": 1,
+     "numero": 95,
+     "titre": "Eric vend sa guitare",
+     "youtube_id": "OaJ1LD9xK0w",
+     "duree_secondes": 1519,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 95 - Eric vend sa guitare"
+    },
+    {
+     "saison": 1,
+     "numero": 96,
+     "titre": "L'enlèvement",
+     "youtube_id": "IZr-xNjw9tI",
+     "duree_secondes": 1410,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 96 - L'enlèvement"
+    },
+    {
+     "saison": 1,
+     "numero": 97,
+     "titre": "La panne",
+     "youtube_id": "YeCQmNvxZGs",
+     "duree_secondes": 1318,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 97 - La panne"
+    },
+    {
+     "saison": 1,
+     "numero": 98,
+     "titre": "Le choc",
+     "youtube_id": "mVe6prgRn68",
+     "duree_secondes": 1273,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 98 - Le choc"
+    },
+    {
+     "saison": 1,
+     "numero": 99,
+     "titre": "Des supers copines",
+     "youtube_id": "7ZkmWuzKVpI",
+     "duree_secondes": 1465,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 99 - Des supers copines"
+    },
+    {
+     "saison": 1,
+     "numero": 100,
+     "titre": "J'achète Framboisier",
+     "youtube_id": "On90ZfkerVo",
+     "duree_secondes": 1568,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 100 - J'achète Framboisier"
+    },
+    {
+     "saison": 1,
+     "numero": 101,
+     "titre": "La déesse Hilguegue",
+     "youtube_id": "B_o-2j_RRFE",
+     "duree_secondes": 1508,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 101 - La déesse Hilguegue"
+    },
+    {
+     "saison": 1,
+     "numero": 102,
+     "titre": "Le test de la marguerite",
+     "youtube_id": "RMzY_PL9KNA",
+     "duree_secondes": 1466,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 102 - Le test de la marguerite"
+    },
+    {
+     "saison": 1,
+     "numero": 103,
+     "titre": "Changement de programme",
+     "youtube_id": "_Qz2Bipr89o",
+     "duree_secondes": 1713,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 103 - Changement de programme"
+    },
+    {
+     "saison": 1,
+     "numero": 104,
+     "titre": "Une femme parfaite",
+     "youtube_id": "5GpQEhXVdiA",
+     "duree_secondes": 1369,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 104 - Une femme parfaite"
+    },
+    {
+     "saison": 1,
+     "numero": 105,
+     "titre": "Une robe à marier",
+     "youtube_id": "8st4E7rE4dc",
+     "duree_secondes": 1537,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 105 - Une robe à marier"
+    },
+    {
+     "saison": 1,
+     "numero": 106,
+     "titre": "Bon pour le service",
+     "youtube_id": "MSL5jC1w1mc",
+     "duree_secondes": 1513,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 106 - Bon pour le service"
+    },
+    {
+     "saison": 1,
+     "numero": 107,
+     "titre": "Les pleins pouvoirs",
+     "youtube_id": "mr5SlMbRSnw",
+     "duree_secondes": 1500,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 107 - Les pleins pouvoirs"
+    },
+    {
+     "saison": 1,
+     "numero": 108,
+     "titre": "Ollé",
+     "youtube_id": "JnHf5ZBsK80",
+     "duree_secondes": 1486,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 108 - Ollé"
+    },
+    {
+     "saison": 1,
+     "numero": 109,
+     "titre": "Mémé Joséphine",
+     "youtube_id": "4Zz6Z0fcV9M",
+     "duree_secondes": 1513,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 109 - Mémé Joséphine"
+    },
+    {
+     "saison": 1,
+     "numero": 110,
+     "titre": "L'amoureux",
+     "youtube_id": "bN5_ajTOmf8",
+     "duree_secondes": 1549,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 110 - L'amoureux"
+    },
+    {
+     "saison": 1,
+     "numero": 111,
+     "titre": "Gontran le sournois",
+     "youtube_id": "stWYYdeY30s",
+     "duree_secondes": 1460,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 111 - Gontran le sournois"
+    },
+    {
+     "saison": 1,
+     "numero": 112,
+     "titre": "Maman Noël",
+     "youtube_id": "G1uG0a1meoQ",
+     "duree_secondes": 1683,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 112 - Maman Noël"
+    },
+    {
+     "saison": 1,
+     "numero": 113,
+     "titre": "L'esquimaude",
+     "youtube_id": "58T4d9gmvJg",
+     "duree_secondes": 1432,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 113 - L'esquimaude"
+    },
+    {
+     "saison": 1,
+     "numero": 114,
+     "titre": "P'tit Gus (part 1)",
+     "youtube_id": "xVFXBm1GP5M",
+     "duree_secondes": 1600,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 114 - P'tit Gus (part 1)"
+    },
+    {
+     "saison": 1,
+     "numero": 115,
+     "titre": "P'tit Gus (part 2)",
+     "youtube_id": "r-jqfVccOr0",
+     "duree_secondes": 1427,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 115 - P'tit Gus (part 2)"
+    },
+    {
+     "saison": 1,
+     "numero": 116,
+     "titre": "La grosse tête",
+     "youtube_id": "Y5lnZmxoKzA",
+     "duree_secondes": 1592,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 116 - La grosse tête"
+    },
+    {
+     "saison": 1,
+     "numero": 117,
+     "titre": "La bonne année",
+     "youtube_id": "9Uj2ww8_pGI",
+     "duree_secondes": 1786,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 117 - La bonne année"
+    },
+    {
+     "saison": 1,
+     "numero": 118,
+     "titre": "La boule de cristal",
+     "youtube_id": "Zxw_cy4BhtY",
+     "duree_secondes": 1379,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 118 - La boule de cristal"
+    },
+    {
+     "saison": 1,
+     "numero": 119,
+     "titre": "Les groupies",
+     "youtube_id": "ydbqvRsojLo",
+     "duree_secondes": 1618,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 119 - Les groupies"
+    },
+    {
+     "saison": 1,
+     "numero": 120,
+     "titre": "La malédiction",
+     "youtube_id": "IdzEslVNx0w",
+     "duree_secondes": 1458,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 120 - La malédiction"
+    },
+    {
+     "saison": 1,
+     "numero": 121,
+     "titre": "Sos coeurs brisés",
+     "youtube_id": "udijSDMFUjY",
+     "duree_secondes": 1593,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 121 - Sos coeurs brisés"
+    },
+    {
+     "saison": 1,
+     "numero": 122,
+     "titre": "Carlos",
+     "youtube_id": "fLSQLjUmWg0",
+     "duree_secondes": 1514,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 122 - Carlos"
+    },
+    {
+     "saison": 1,
+     "numero": 123,
+     "titre": "Le cirque",
+     "youtube_id": "XAW91d_eu48",
+     "duree_secondes": 1693,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 123 - Le cirque"
+    },
+    {
+     "saison": 1,
+     "numero": 124,
+     "titre": "Vive la campagne",
+     "youtube_id": "-60M268X52w",
+     "duree_secondes": 1338,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 124 - Vive la campagne"
+    },
+    {
+     "saison": 1,
+     "numero": 125,
+     "titre": "Le choc des Titans",
+     "youtube_id": "DtLDZ_K4-Cg",
+     "duree_secondes": 1680,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 125 - Le choc des Titans"
+    },
+    {
+     "saison": 1,
+     "numero": 126,
+     "titre": "Haro sur le Minet (part 1)",
+     "youtube_id": "OS0f7G5NCnQ",
+     "duree_secondes": 1688,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 126 - Haro sur le Minet (part 1)"
+    },
+    {
+     "saison": 1,
+     "numero": 127,
+     "titre": "Haro sur le Minet (part 2)",
+     "youtube_id": "fIX_aoJpXQM",
+     "duree_secondes": 1622,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 127 - Haro sur le Minet (part 2)"
+    },
+    {
+     "saison": 1,
+     "numero": 128,
+     "titre": "Dossier A37",
+     "youtube_id": "DFqwCqVoRFQ",
+     "duree_secondes": 1436,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 128 - Dossier A37"
+    },
+    {
+     "saison": 1,
+     "numero": 129,
+     "titre": "Kitty big band",
+     "youtube_id": "wJlUGDOFg_A",
+     "duree_secondes": 1428,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 129 - Kitty big band"
+    },
+    {
+     "saison": 1,
+     "numero": 130,
+     "titre": "Gueguestra",
+     "youtube_id": "wniWCbG3WJw",
+     "duree_secondes": 1470,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 130 - Gueguestra"
+    },
+    {
+     "saison": 1,
+     "numero": 131,
+     "titre": "La fille du lit",
+     "youtube_id": "SLMG1-Bvbcw",
+     "duree_secondes": 1592,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 131 - La fille du lit"
+    },
+    {
+     "saison": 1,
+     "numero": 132,
+     "titre": "Retour en force",
+     "youtube_id": "mrxskb6mOQE",
+     "duree_secondes": 1656,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 132 - Retour en force"
+    },
+    {
+     "saison": 1,
+     "numero": 133,
+     "titre": "La kuizine",
+     "youtube_id": "pN5hg_xk64c",
+     "duree_secondes": 1426,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 133 - La kuizine"
+    },
+    {
+     "saison": 1,
+     "numero": 134,
+     "titre": "Encore un papa",
+     "youtube_id": "z-srqyLDKu0",
+     "duree_secondes": 1549,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 134 - Encore un papa"
+    },
+    {
+     "saison": 1,
+     "numero": 135,
+     "titre": "Gus à l'école",
+     "youtube_id": "01S4tXVH0ls",
+     "duree_secondes": 1405,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 135 - Gus à l'école"
+    },
+    {
+     "saison": 1,
+     "numero": 136,
+     "titre": "K2 piles",
+     "youtube_id": "ftPvOiFKm04",
+     "duree_secondes": 1390,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 136 - K2 piles"
+    },
+    {
+     "saison": 1,
+     "numero": 137,
+     "titre": "Méli-mélo",
+     "youtube_id": "rm-GhRCyjj8",
+     "duree_secondes": 1618,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 137 - Méli-mélo"
+    },
+    {
+     "saison": 1,
+     "numero": 138,
+     "titre": "Higulus et Juliette",
+     "youtube_id": "y0fJfjztRU4",
+     "duree_secondes": 1451,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 138 - Higulus et Juliette"
+    },
+    {
+     "saison": 1,
+     "numero": 139,
+     "titre": "Kung fu master",
+     "youtube_id": "5rPjqNMrocg",
+     "duree_secondes": 1595,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 139 - Kung fu master"
+    },
+    {
+     "saison": 1,
+     "numero": 140,
+     "titre": "Plan orsec",
+     "youtube_id": "TYcPH3weEKg",
+     "duree_secondes": 1404,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 140 - Plan orsec"
+    },
+    {
+     "saison": 1,
+     "numero": 141,
+     "titre": "Un portrait frappant",
+     "youtube_id": "XImep17LRJ4",
+     "duree_secondes": 1392,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 141 - Un portrait frappant"
+    },
+    {
+     "saison": 1,
+     "numero": 142,
+     "titre": "Sidney",
+     "youtube_id": "LUxWj-rK32w",
+     "duree_secondes": 1562,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 142 - Sidney"
+    },
+    {
+     "saison": 1,
+     "numero": 143,
+     "titre": "Mademoiselle Catherine",
+     "youtube_id": "JoAEnKSEBR0",
+     "duree_secondes": 1494,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Salut les Musclés - Épisode 143 - Mademoiselle Catherine"
+    },
+    {
+     "saison": 1,
+     "numero": 144,
+     "titre": "Cousine Betty",
+     "youtube_id": "5CLNVLcSmPw",
+     "duree_secondes": 1524,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Cousine Betty | EPISODE 144"
+    },
+    {
+     "saison": 1,
+     "numero": 145,
+     "titre": "Quel cinéma",
+     "youtube_id": "vq-mcSHFgbU",
+     "duree_secondes": 1648,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Quel cinéma | EPISODE 145"
+    },
+    {
+     "saison": 1,
+     "numero": 146,
+     "titre": "Un vrai cordon bleu",
+     "youtube_id": "7jNiELfUFL0",
+     "duree_secondes": 1427,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Un vrai cordon bleu | EPISODE 146"
+    },
+    {
+     "saison": 1,
+     "numero": 147,
+     "titre": "Vava",
+     "youtube_id": "xks5_h15Q1w",
+     "duree_secondes": 1623,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Vava | EPISODE 147"
+    },
+    {
+     "saison": 1,
+     "numero": 148,
+     "titre": "Angela D",
+     "youtube_id": "7G4x4aIpleU",
+     "duree_secondes": 1599,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Angela D | EPISODE 148"
+    },
+    {
+     "saison": 1,
+     "numero": 149,
+     "titre": "Le baiser de minuit",
+     "youtube_id": "nPV5EcVTJKM",
+     "duree_secondes": 1624,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Le baiser de minuit | EPISODE 149"
+    },
+    {
+     "saison": 1,
+     "numero": 150,
+     "titre": "Les musclettes balls",
+     "youtube_id": "9x33mRkYlPA",
+     "duree_secondes": 1495,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Les musclettes balls | EPISODE 150"
+    },
+    {
+     "saison": 1,
+     "numero": 151,
+     "titre": "La doublure",
+     "youtube_id": "IAzTdEV8VkQ",
+     "duree_secondes": 1617,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - La doublure | EPISODE 151"
+    },
+    {
+     "saison": 1,
+     "numero": 152,
+     "titre": "Le roi de coeur",
+     "youtube_id": "bvzLv5CgAZg",
+     "duree_secondes": 1599,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Le roi de coeur | EPISODE 152"
+    },
+    {
+     "saison": 1,
+     "numero": 153,
+     "titre": "Bon anniversaire",
+     "youtube_id": "1_wZCHD01xU",
+     "duree_secondes": 1570,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Bon anniversaire | EPISODE 153"
+    },
+    {
+     "saison": 1,
+     "numero": 154,
+     "titre": "Camille",
+     "youtube_id": "ojyfPUGh1S8",
+     "duree_secondes": 1459,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Camille | EPISODE 154"
+    },
+    {
+     "saison": 1,
+     "numero": 155,
+     "titre": "Rock'n roll",
+     "youtube_id": "FihhFndg1P8",
+     "duree_secondes": 1591,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Rock'n roll | EPISODE 155"
+    },
+    {
+     "saison": 1,
+     "numero": 156,
+     "titre": "Une main innocente",
+     "youtube_id": "VkJ5OJ-4FPk",
+     "duree_secondes": 1606,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Une main innocente | EPISODE 156"
+    },
+    {
+     "saison": 1,
+     "numero": 157,
+     "titre": "Mimi (part 1)",
+     "youtube_id": "wYbha8_LQnY",
+     "duree_secondes": 1622,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Mimi (part 1) | EPISODE 157"
+    },
+    {
+     "saison": 1,
+     "numero": 158,
+     "titre": "Mimi (part 2)",
+     "youtube_id": "_7Lt9a1Yl3Q",
+     "duree_secondes": 1547,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Mimi (part 2) | EPISODE 158"
+    },
+    {
+     "saison": 1,
+     "numero": 159,
+     "titre": "Un concours boiteux",
+     "youtube_id": "219LTLfNHSo",
+     "duree_secondes": 1496,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Un concours boiteux | EPISODE 159"
+    },
+    {
+     "saison": 1,
+     "numero": 160,
+     "titre": "Hector",
+     "youtube_id": "M5M8SucRBDs",
+     "duree_secondes": 1662,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Hector | EPISODE 160"
+    },
+    {
+     "saison": 1,
+     "numero": 163,
+     "titre": "Le clin d'oeil",
+     "youtube_id": "S8WFHCZV8-Y",
+     "duree_secondes": 1473,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Le clin d'oeil | EPISODE 163"
+    },
+    {
+     "saison": 1,
+     "numero": 164,
+     "titre": "Un noël enchanté",
+     "youtube_id": "6pzzlHKWwoY",
+     "duree_secondes": 1503,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Un noël enchanté | EPISODE 164"
+    },
+    {
+     "saison": 1,
+     "numero": 165,
+     "titre": "Le coup de soleil",
+     "youtube_id": "NoXJnpmuILo",
+     "duree_secondes": 1587,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Le coup de soleil | EPISODE 165"
+    },
+    {
+     "saison": 1,
+     "numero": 166,
+     "titre": "La fille du clair de lune",
+     "youtube_id": "N0WvVPMX09I",
+     "duree_secondes": 1626,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - La fille du clair de lune | EPISODE 166"
+    },
+    {
+     "saison": 1,
+     "numero": 167,
+     "titre": "Musklouskouiou",
+     "youtube_id": "M7MbGCMQ8wE",
+     "duree_secondes": 1616,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Musklouskouiou | EPISODE 167"
+    },
+    {
+     "saison": 1,
+     "numero": 168,
+     "titre": "Le blâme (part 1)",
+     "youtube_id": "NyvXfs1RgmI",
+     "duree_secondes": 1552,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Le blâme (part 1) | EPISODE 168"
+    },
+    {
+     "saison": 1,
+     "numero": 169,
+     "titre": "Le blâme (part 2)",
+     "youtube_id": "vgYvJOkBDAQ",
+     "duree_secondes": 1478,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Le blâme (part 2) | EPISODE 169"
+    },
+    {
+     "saison": 1,
+     "numero": 170,
+     "titre": "Celles qu'on n'oublie pas",
+     "youtube_id": "zNwTklEAamk",
+     "duree_secondes": 1609,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Celles qu'on n'oublie pas | EPISODE 170"
+    },
+    {
+     "saison": 1,
+     "numero": 171,
+     "titre": "Le fiancé de mademoiselle Catherine",
+     "youtube_id": "B45z4O0lgCs",
+     "duree_secondes": 1450,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Le fiancé de mademoiselle Catherine | EPISODE 171"
+    },
+    {
+     "saison": 1,
+     "numero": 172,
+     "titre": "Hello Susy",
+     "youtube_id": "f-JeHA_wMuU",
+     "duree_secondes": 1630,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Hello Susy | EPISODE 172"
+    },
+    {
+     "saison": 1,
+     "numero": 173,
+     "titre": "Htb cherche jf jolie",
+     "youtube_id": "5QRCq3LYa94",
+     "duree_secondes": 1438,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Htb cherche jf jolie| EPISODE 173"
+    },
+    {
+     "saison": 1,
+     "numero": 174,
+     "titre": "Olga",
+     "youtube_id": "REyod6sh_EU",
+     "duree_secondes": 1439,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Olga| EPISODE 174"
+    },
+    {
+     "saison": 1,
+     "numero": 175,
+     "titre": "Je veux grandir",
+     "youtube_id": "1BSCucKiNXU",
+     "duree_secondes": 1530,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Je veux grandir | EPISODE 175"
+    },
+    {
+     "saison": 1,
+     "numero": 176,
+     "titre": "La boxeuse",
+     "youtube_id": "wQid-rMPUTQ",
+     "duree_secondes": 1226,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - La boxeuse| EPISODE 176"
+    },
+    {
+     "saison": 1,
+     "numero": 177,
+     "titre": "Le monde à l'envers",
+     "youtube_id": "yD0EfyggimM",
+     "duree_secondes": 1571,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Le monde à l'envers | EPISODE 177"
+    },
+    {
+     "saison": 1,
+     "numero": 178,
+     "titre": "Les mains dans la farine",
+     "youtube_id": "4FqLPF0pn6A",
+     "duree_secondes": 1396,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Les mains dans la farine | EPISODE 178"
+    },
+    {
+     "saison": 1,
+     "numero": 179,
+     "titre": "Beeeh !!!",
+     "youtube_id": "c1chbsMNeWg",
+     "duree_secondes": 1415,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Beeeh !!! | EPISODE 179"
+    },
+    {
+     "saison": 1,
+     "numero": 180,
+     "titre": "Le fils de Géronimo",
+     "youtube_id": "NPuYtqXqcy0",
+     "duree_secondes": 1395,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Le fils de Géronimo| EPISODE 180"
+    },
+    {
+     "saison": 1,
+     "numero": 181,
+     "titre": "Attila est là",
+     "youtube_id": "deXYwmZJ_AA",
+     "duree_secondes": 1468,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Attila est là | EPISODE 181"
+    },
+    {
+     "saison": 1,
+     "numero": 182,
+     "titre": "Les geishas des papas",
+     "youtube_id": "XaBU47Hu5Qw",
+     "duree_secondes": 1550,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Les geishas des papas | EPISODE 182"
+    },
+    {
+     "saison": 1,
+     "numero": 183,
+     "titre": "La canadienne",
+     "youtube_id": "gk-yoOi1KzM",
+     "duree_secondes": 1507,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - La canadienne | EPISODE 183"
+    },
+    {
+     "saison": 1,
+     "numero": 184,
+     "titre": "Le vernissage",
+     "youtube_id": "HzF9vN4Zw7Q",
+     "duree_secondes": 1616,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Le vernissage | EPISODE 184"
+    },
+    {
+     "saison": 1,
+     "numero": 185,
+     "titre": "La cure de santé",
+     "youtube_id": "o-RHegaTGPc",
+     "duree_secondes": 1540,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - La cure de santé | EPISODE 185"
+    },
+    {
+     "saison": 1,
+     "numero": 186,
+     "titre": "Quand on veut le Pérou",
+     "youtube_id": "r6UX2MmAao4",
+     "duree_secondes": 1498,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Quand on veut le Pérou | EPISODE 186"
+    },
+    {
+     "saison": 1,
+     "numero": 187,
+     "titre": "Le gros lot",
+     "youtube_id": "bvfvOpxpXBc",
+     "duree_secondes": 1472,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Le gros lot | EPISODE 187"
+    },
+    {
+     "saison": 1,
+     "numero": 188,
+     "titre": "Le cours de danse",
+     "youtube_id": "gKVYYPYPB-A",
+     "duree_secondes": 1479,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Le cours de danse | EPISODE 188"
+    },
+    {
+     "saison": 1,
+     "numero": 189,
+     "titre": "La b.a",
+     "youtube_id": "8c7-dP7W9Oo",
+     "duree_secondes": 1449,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - La b.a | EPISODE 189"
+    },
+    {
+     "saison": 1,
+     "numero": 190,
+     "titre": "Sauce à la napolitaine",
+     "youtube_id": "5HJ7hRFcgKM",
+     "duree_secondes": 1535,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Sauce à la napolitaine | EPISODE 190"
+    },
+    {
+     "saison": 1,
+     "numero": 191,
+     "titre": "La gomina de Minet",
+     "youtube_id": "QyR7ztKAmPQ",
+     "duree_secondes": 1403,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - La gomina de Minet | EPISODE 191"
+    },
+    {
+     "saison": 1,
+     "numero": 192,
+     "titre": "La fille du bédoin",
+     "youtube_id": "YCXDk_yXoAg",
+     "duree_secondes": 1450,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - La fille du bédoin | EPISODE 192"
+    },
+    {
+     "saison": 1,
+     "numero": 193,
+     "titre": "Honk honk",
+     "youtube_id": "QL1fjqJRFro",
+     "duree_secondes": 1435,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Honk honk| EPISODE 193"
+    },
+    {
+     "saison": 1,
+     "numero": 194,
+     "titre": "Les hommes objets",
+     "youtube_id": "lMQX8hogMv8",
+     "duree_secondes": 1435,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Les hommes objets | EPISODE 194"
+    },
+    {
+     "saison": 1,
+     "numero": 195,
+     "titre": "Attachez vos ceintures",
+     "youtube_id": "7t1CJTlarzw",
+     "duree_secondes": 1427,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Attachez vos ceintures | EPISODE 195"
+    },
+    {
+     "saison": 1,
+     "numero": 196,
+     "titre": "Cherchez la femme",
+     "youtube_id": "Wa2E3uSSoOA",
+     "duree_secondes": 1449,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Cherchez la femme | EPISODE 196"
+    },
+    {
+     "saison": 1,
+     "numero": 197,
+     "titre": "Les rollers maids",
+     "youtube_id": "O24GpZi-XPs",
+     "duree_secondes": 1486,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Les rollers maids | EPISODE 197"
+    },
+    {
+     "saison": 1,
+     "numero": 198,
+     "titre": "Néfertiti",
+     "youtube_id": "G7Z_6JMK0dQ",
+     "duree_secondes": 1414,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Néfertiti | EPISODE 198"
+    },
+    {
+     "saison": 1,
+     "numero": 199,
+     "titre": "Le karma de mademoiselle Catherine",
+     "youtube_id": "-iuJiVgdbpU",
+     "duree_secondes": 1498,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Le karma de mademoiselle Catherine | EPISODE 199"
+    },
+    {
+     "saison": 1,
+     "numero": 200,
+     "titre": "Copies conformes",
+     "youtube_id": "rLKOcX_wfxM",
+     "duree_secondes": 1460,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Copies conformes | EPISODE 200"
+    },
+    {
+     "saison": 1,
+     "numero": 201,
+     "titre": "Tant qu'il y aura des Musclés",
+     "youtube_id": "CJ1_WCHnKGM",
+     "duree_secondes": 1449,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Tant qu'il y aura des Musclés | EPISODE 201"
+    },
+    {
+     "saison": 1,
+     "numero": 202,
+     "titre": "Pour quelques signatures",
+     "youtube_id": "0Joxz6zgTZg",
+     "duree_secondes": 1490,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Pour quelques signatures | EPISODE 202"
+    },
+    {
+     "saison": 1,
+     "numero": 203,
+     "titre": "La fille d'en face",
+     "youtube_id": "LliabzIVBEk",
+     "duree_secondes": 1463,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - La fille d'en face | EPISODE 203"
+    },
+    {
+     "saison": 1,
+     "numero": 204,
+     "titre": "Le baby sitting",
+     "youtube_id": "GpoNpepJVUM",
+     "duree_secondes": 1399,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Le baby sitting | EPISODE 204"
+    },
+    {
+     "saison": 1,
+     "numero": 205,
+     "titre": "Les comptes de Peggy",
+     "youtube_id": "P5fIeUe_JoE",
+     "duree_secondes": 1558,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Les comptes de Peggy | EPISODE 205"
+    },
+    {
+     "saison": 1,
+     "numero": 206,
+     "titre": "Mercredi 17 heures",
+     "youtube_id": "0_aat3YsIG8",
+     "duree_secondes": 1391,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Mercredi 17 heures | EPISODE 206"
+    },
+    {
+     "saison": 1,
+     "numero": 207,
+     "titre": "La fille du major",
+     "youtube_id": "r8__xd6CdTA",
+     "duree_secondes": 1476,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - La fille du major  | EPISODE 207"
+    },
+    {
+     "saison": 1,
+     "numero": 208,
+     "titre": "Mimi s'ennuie",
+     "youtube_id": "toyPeHP-uD4",
+     "duree_secondes": 1426,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Mimi s'ennuie | EPISODE 208"
+    },
+    {
+     "saison": 1,
+     "numero": 209,
+     "titre": "Les oreillons de Gus",
+     "youtube_id": "4G6xKhZl5u4",
+     "duree_secondes": 1473,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Les oreillons de Gus | EPISODE 209"
+    },
+    {
+     "saison": 1,
+     "numero": 210,
+     "titre": "La maladie de René",
+     "youtube_id": "ooBXw7uHrh8",
+     "duree_secondes": 1506,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - La maladie de René | EPISODE 210"
+    },
+    {
+     "saison": 1,
+     "numero": 211,
+     "titre": "Bazooka",
+     "youtube_id": "4nwQFS27Xmw",
+     "duree_secondes": 1573,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Bazooka | EPISODE 211"
+    },
+    {
+     "saison": 1,
+     "numero": 212,
+     "titre": "Le tombeur",
+     "youtube_id": "_SBbbj_8QFY",
+     "duree_secondes": 1571,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Le tombeur | EPISODE 212"
+    },
+    {
+     "saison": 1,
+     "numero": 213,
+     "titre": "Sar bischnou",
+     "youtube_id": "OrbnY_mSuds",
+     "duree_secondes": 1620,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Sar bischnou | EPISODE 213"
+    },
+    {
+     "saison": 1,
+     "numero": 214,
+     "titre": "La carte à puce",
+     "youtube_id": "EaCnH6Of024",
+     "duree_secondes": 1485,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - La carte à puce | EPISODE 214"
+    },
+    {
+     "saison": 1,
+     "numero": 215,
+     "titre": "Un évènement très important",
+     "youtube_id": "TSGyFIasdKs",
+     "duree_secondes": 1426,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Un évènement très important | EPISODE 215"
+    },
+    {
+     "saison": 1,
+     "numero": 216,
+     "titre": "Le baiser de la pampa",
+     "youtube_id": "WrVkxFxye_E",
+     "duree_secondes": 1499,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Le baiser de la pampa | EPISODE 216"
+    },
+    {
+     "saison": 1,
+     "numero": 217,
+     "titre": "Satisfaction",
+     "youtube_id": "rcc03U_3iVg",
+     "duree_secondes": 1401,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Satisfaction | EPISODE 217"
+    },
+    {
+     "saison": 1,
+     "numero": 218,
+     "titre": "Valy a disparu",
+     "youtube_id": "3GiXtHUXWJU",
+     "duree_secondes": 1555,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Valy a disparu| EPISODE 218"
+    },
+    {
+     "saison": 1,
+     "numero": 219,
+     "titre": "Scarlett",
+     "youtube_id": "tjw4H61NXq8",
+     "duree_secondes": 1447,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Scarlett | EPISODE 219"
+    },
+    {
+     "saison": 1,
+     "numero": 220,
+     "titre": "Oeil pour oeil",
+     "youtube_id": "BbldFAv20eQ",
+     "duree_secondes": 1397,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Oeil pour oeil | EPISODE 220"
+    },
+    {
+     "saison": 1,
+     "numero": 221,
+     "titre": "Christophine et Nuoc Nam",
+     "youtube_id": "O8XccEqm2yE",
+     "duree_secondes": 1460,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Christophine et Nuoc Nam | EPISODE 221"
+    },
+    {
+     "saison": 1,
+     "numero": 222,
+     "titre": "Bob Lornac de Longjumeau (part 1)",
+     "youtube_id": "BcQQYZ074rQ",
+     "duree_secondes": 1394,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Bob Lornac de Longjumeau (part 1) | EPISODE 222"
+    },
+    {
+     "saison": 1,
+     "numero": 223,
+     "titre": "Les planeuses",
+     "youtube_id": "cTcTatH9sFU",
+     "duree_secondes": 1442,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Les planeuses | EPISODE 223"
+    },
+    {
+     "saison": 1,
+     "numero": 224,
+     "titre": "À l'abordage",
+     "youtube_id": "BwmQcY-Qm1w",
+     "duree_secondes": 1479,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - À l'abordage | EPISODE 224"
+    },
+    {
+     "saison": 1,
+     "numero": 225,
+     "titre": "Le sixième Musclé",
+     "youtube_id": "0jv5XtAgENU",
+     "duree_secondes": 1357,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Le sixième Musclé | EPISODE 225"
+    },
+    {
+     "saison": 1,
+     "numero": 226,
+     "titre": "Le bébé d'Hilguegue",
+     "youtube_id": "6_ZrExqto5Y",
+     "duree_secondes": 1537,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Le bébé d'Hilguegue | EPISODE 226"
+    },
+    {
+     "saison": 1,
+     "numero": 227,
+     "titre": "Bob Lornac de Longjumeau (part 2)",
+     "youtube_id": "Ase7A94tIJI",
+     "duree_secondes": 1428,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Bob Lornac de Longjumeau (part 2) | EPISODE 227"
+    },
+    {
+     "saison": 1,
+     "numero": 228,
+     "titre": "Le crampon",
+     "youtube_id": "9UjEurSfcVY",
+     "duree_secondes": 1454,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Le crampon | EPISODE 228"
+    },
+    {
+     "saison": 1,
+     "numero": 229,
+     "titre": "La fiancée de Bob Lornac (part 1)",
+     "youtube_id": "C538cIJ315Y",
+     "duree_secondes": 1395,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - La fiancée de Bob Lornac (part 1) | EPISODE 229"
+    },
+    {
+     "saison": 1,
+     "numero": 230,
+     "titre": "Le chevalier blanc",
+     "youtube_id": "GLPZz109s2M",
+     "duree_secondes": 1427,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Le chevalier blanc | EPISODE 230"
+    },
+    {
+     "saison": 1,
+     "numero": 231,
+     "titre": "Monsieur Toto",
+     "youtube_id": "IiT2WXldn3E",
+     "duree_secondes": 1410,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Monsieur Toto | EPISODE 231"
+    },
+    {
+     "saison": 1,
+     "numero": 232,
+     "titre": "Un amour de vacances",
+     "youtube_id": "rIsf9hgeFvc",
+     "duree_secondes": 1485,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Un amour de vacances | EPISODE 232"
+    },
+    {
+     "saison": 1,
+     "numero": 233,
+     "titre": "Le philtre d'amour",
+     "youtube_id": "jIqjMs_ad9Y",
+     "duree_secondes": 1435,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Le philtre d'amour | EPISODE 233"
+    },
+    {
+     "saison": 1,
+     "numero": 234,
+     "titre": "A cause d'une fille",
+     "youtube_id": "HSoKFQ0ByPE",
+     "duree_secondes": 1240,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - A cause d'une fille | EPISODE 234"
+    },
+    {
+     "saison": 1,
+     "numero": 235,
+     "titre": "Chien rose",
+     "youtube_id": "_v9xQ35GviE",
+     "duree_secondes": 1419,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Chien rose | EPISODE 235"
+    },
+    {
+     "saison": 1,
+     "numero": 236,
+     "titre": "La fiancée de Bob Lornac (part 2)",
+     "youtube_id": "JOcVBJ_JW20",
+     "duree_secondes": 1422,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - La fiancée de Bob Lornac (part 2) | EPISODE 236"
+    },
+    {
+     "saison": 1,
+     "numero": 237,
+     "titre": "Dure journée pour Minet",
+     "youtube_id": "veI7gtsVx8A",
+     "duree_secondes": 1414,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Dure journée pour Minet | EPISODE 237"
+    },
+    {
+     "saison": 1,
+     "numero": 238,
+     "titre": "Musclosaurus",
+     "youtube_id": "V8kBf3f5eLc",
+     "duree_secondes": 1456,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Musclosaurus | EPISODE 238"
+    },
+    {
+     "saison": 1,
+     "numero": 239,
+     "titre": "Le gagnant",
+     "youtube_id": "SXd4Gh_NRoI",
+     "duree_secondes": 1427,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Le gagnant | EPISODE 239"
+    },
+    {
+     "saison": 1,
+     "numero": 240,
+     "titre": "Toutes folles de lui",
+     "youtube_id": "dK143Ke-Fhk",
+     "duree_secondes": 1371,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Toutes folles de lui | EPISODE 240"
+    },
+    {
+     "saison": 1,
+     "numero": 241,
+     "titre": "L'alsacienne",
+     "youtube_id": "V7lrMByEN-I",
+     "duree_secondes": 1522,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - L'alsacienne | EPISODE 241"
+    },
+    {
+     "saison": 1,
+     "numero": 242,
+     "titre": "Caroline",
+     "youtube_id": "u6hkHUzEIYU",
+     "duree_secondes": 1491,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Caroline | EPISODE 242"
+    },
+    {
+     "saison": 1,
+     "numero": 243,
+     "titre": "Mariages",
+     "youtube_id": "S0HNNRGcEVU",
+     "duree_secondes": 1358,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Mariages | EPISODE 243"
+    },
+    {
+     "saison": 1,
+     "numero": 244,
+     "titre": "Une recette infaillible",
+     "youtube_id": "OFv9hV9oRz4",
+     "duree_secondes": 1314,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Une recette infaillible | EPISODE 244"
+    },
+    {
+     "saison": 1,
+     "numero": 245,
+     "titre": "La garde du corps",
+     "youtube_id": "WtXP8hue55w",
+     "duree_secondes": 1370,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - La garde du corps | EPISODE 245"
+    },
+    {
+     "saison": 1,
+     "numero": 246,
+     "titre": "La fille du geolier",
+     "youtube_id": "hFyQJgxH0jo",
+     "duree_secondes": 1471,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - La fille du geolier | EPISODE 246"
+    },
+    {
+     "saison": 1,
+     "numero": 247,
+     "titre": "Le chant des sirènes",
+     "youtube_id": "s8YQsFuQxv4",
+     "duree_secondes": 1421,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Le chant des sirènes | EPISODE 247"
+    },
+    {
+     "saison": 1,
+     "numero": 248,
+     "titre": "Chuuut",
+     "youtube_id": "RimNdTyWif0",
+     "duree_secondes": 1336,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Chuuut | EPISODE 248"
+    },
+    {
+     "saison": 1,
+     "numero": 249,
+     "titre": "Oui docteur...",
+     "youtube_id": "5po-jw6S1nA",
+     "duree_secondes": 1462,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Oui docteur...| EPISODE 249"
+    },
+    {
+     "saison": 1,
+     "numero": 250,
+     "titre": "Quand les filles s'en mêlent",
+     "youtube_id": "wV84_5zpSag",
+     "duree_secondes": 1457,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Quand les filles s'en mêlent | EPISODE 250"
+    },
+    {
+     "saison": 1,
+     "numero": 251,
+     "titre": "Jojo",
+     "youtube_id": "9e4Y0E40G5c",
+     "duree_secondes": 1472,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Jojo | EPISODE 251"
+    },
+    {
+     "saison": 1,
+     "numero": 252,
+     "titre": "Pascale",
+     "youtube_id": "Lg6FSiuj_kk",
+     "duree_secondes": 1383,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Pascale | EPISODE 252"
+    },
+    {
+     "saison": 1,
+     "numero": 253,
+     "titre": "Le look musclé",
+     "youtube_id": "fl_-KYrySq4",
+     "duree_secondes": 1496,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Le look musclé | EPISODE 253"
+    },
+    {
+     "saison": 1,
+     "numero": 254,
+     "titre": "Les écossaises",
+     "youtube_id": "HAiiJSTKPHE",
+     "duree_secondes": 1397,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Les écossaises | EPISODE 254"
+    },
+    {
+     "saison": 1,
+     "numero": 255,
+     "titre": "Le sport d'abord",
+     "youtube_id": "eBphtm-JvGo",
+     "duree_secondes": 1316,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Le sport d'abord| EPISODE 255"
+    },
+    {
+     "saison": 1,
+     "numero": 256,
+     "titre": "La déprime",
+     "youtube_id": "vTF7M08ned4",
+     "duree_secondes": 1491,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - La déprime| EPISODE 256"
+    },
+    {
+     "saison": 1,
+     "numero": 257,
+     "titre": "Gilda",
+     "youtube_id": "v4KmOTx2mNs",
+     "duree_secondes": 1467,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Gilda | EPISODE 257"
+    },
+    {
+     "saison": 1,
+     "numero": 258,
+     "titre": "Régime sans elle",
+     "youtube_id": "XMtenu9-Z5U",
+     "duree_secondes": 1481,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Régime sans elle | EPISODE 258"
+    },
+    {
+     "saison": 1,
+     "numero": 259,
+     "titre": "La remplaçante",
+     "youtube_id": "5GWcymu9Adk",
+     "duree_secondes": 1465,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - La remplaçante | EPISODE 259"
+    },
+    {
+     "saison": 1,
+     "numero": 260,
+     "titre": "Les mignonnes",
+     "youtube_id": "YifkoksgD4M",
+     "duree_secondes": 1443,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Les mignonnes | EPISODE 260"
+    },
+    {
+     "saison": 1,
+     "numero": 261,
+     "titre": "Le traitre",
+     "youtube_id": "m5iROmpfFWo",
+     "duree_secondes": 1486,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Le traitre| EPISODE 261"
+    },
+    {
+     "saison": 1,
+     "numero": 262,
+     "titre": "Top model",
+     "youtube_id": "d4cyslN8iyA",
+     "duree_secondes": 1472,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - Top model | EPISODE 262"
+    },
+    {
+     "saison": 1,
+     "numero": 263,
+     "titre": "L'oiseau rare",
+     "youtube_id": "uyKxF-kwjxY",
+     "duree_secondes": 1521,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SALUT LES MUSCLÉS - L'oiseau rare | EPISODE 263 | Dernier épisode"
+    }
+   ],
+   "affiche": "affiches/nUln4E1BFOI.webp",
+   "vignette": "vignettes/nUln4E1BFOI.webp"
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+// ---------- Pages : parcourir, ma liste, à propos, pied de page ----------
+.entete-page {
+    padding: 2rem var(--gutter) 1.25rem;
+    h1 { font-size: clamp(1.9rem, 5vw, 3rem); margin-bottom: .35rem; }
+    .hand { color: $jaune; font-size: 1.3rem; }
+    p { color: $sable; max-width: 44rem; margin: 0; }
+}
+
+.filtres {
+    margin: 0 var(--gutter) 1.75rem;
+    padding: 1rem;
+    border-radius: $border-radius-lg;
+    background: rgba($creme, .04);
+    border: 1px solid rgba($creme, .09);
+    .form-label { font-size: .82rem; margin-bottom: .3rem; }
+    .form-control, .form-select { border-radius: .7rem; }
+    .form-select option { background: $velours; color: $creme; }
+}
+.puces-univers {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .4rem;
+    padding: 0 var(--gutter);
+    margin-bottom: 1rem;
+    a {
+        padding: .35rem .9rem;
+        border-radius: 999px;
+        border: 1px solid rgba($creme, .18);
+        color: $sable;
+        font-weight: 650;
+        font-size: .9rem;
+        &:hover { color: $creme; border-color: rgba($creme, .4); }
+        &.is-actif { background: $bordeaux; border-color: $bordeaux; color: $creme; }
+    }
+}
+.resultats { padding: 0 var(--gutter) 2rem; }
+.resultats-compte { color: $sable-2; font-size: .9rem; margin-bottom: 1rem; }
+
+.texte-page {
+    padding: 0 var(--gutter) 3rem;
+    max-width: 52rem;
+    h2 { font-size: 1.5rem; margin: 2rem 0 .75rem; }
+    p, li { color: rgba($creme, .9); }
+}
+.tableau-sources {
+    display: grid;
+    gap: .5rem;
+    list-style: none;
+    padding: 0;
+    li {
+        display: flex;
+        justify-content: space-between;
+        gap: 1rem;
+        padding: .55rem .8rem;
+        border-radius: .6rem;
+        background: rgba($creme, .04);
+        a { font-weight: 700; }
+        span { color: $sable-2; font-size: .88rem; white-space: nowrap; }
+    }
+}
+
+// Pied de page
+.pied {
+    margin-top: 2rem;
+    background: $nuit-2;
+    border-top: 1px solid rgba($creme, .06);
+}
+.pied-interieur {
+    padding: 2rem var(--gutter) 1.5rem;
+    display: grid;
+    gap: 1.5rem;
+    @include media-breakpoint-up(lg) { grid-template-columns: 1.1fr 1.6fr 1fr; align-items: start; }
+}
+.pied-logo { width: 190px; height: auto; }
+.pied-avertissement {
+    font-size: .92rem;
+    color: $sable;
+    strong { color: $creme; }
+}
+.pied-liens {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    gap: .35rem;
+    a { color: $sable; &:hover { color: $creme; } }
+}
+.pied-bas {
+    padding: .9rem var(--gutter) 1.25rem;
+    border-top: 1px solid rgba($creme, .06);
+    font-size: .82rem;
+    color: $sable-2;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: .5rem;
+    a { color: $sable; }
+}

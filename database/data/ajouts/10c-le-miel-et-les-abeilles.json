@@ -1,0 +1,1835 @@
+{
+ "genere_le": "2026-10-11",
+ "programmes": [
+  {
+   "slug": "le-miel-et-les-abeilles",
+   "titre": "Le Miel et les abeilles",
+   "format": "serie",
+   "univers": "series",
+   "genres": [
+    "sitcoms-90",
+    "romance",
+    "comedie"
+   ],
+   "tout_public": true,
+   "youtube_id": null,
+   "chaine_nom": "Génération Sitcoms",
+   "chaine_id": "UCVVubp6nL6vP8b6ls-Ybk-g",
+   "chaine_url": "https://www.youtube.com/channel/UCVVubp6nL6vP8b6ls-Ybk-g",
+   "ayant_droit": "AB Productions (chaîne officielle certifiée Génération Sitcoms)",
+   "duree_secondes": 1453,
+   "annee": 1992,
+   "description": "Les Abeilles, un groupe de chanteuses, et leurs voisins les garçons : répétitions, rivalités et amourettes. La série intégrale, 200 épisodes.",
+   "disponible_jusqu_au": null,
+   "publie_le": null,
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "Les abeilles attaquent",
+     "youtube_id": "qC2rHnfyD4s",
+     "duree_secondes": 1500,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - EPISODE 1 - Les abeilles attaquent",
+     "vignette": "vignettes/qC2rHnfyD4s.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "Les abeilles vengeresses",
+     "youtube_id": "XhrVtiDSwP8",
+     "duree_secondes": 1378,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - EPISODE 2 - Les abeilles vengeresses"
+    },
+    {
+     "saison": 1,
+     "numero": 3,
+     "titre": "Lune de miel à la ruche",
+     "youtube_id": "YRNDETNrzC8",
+     "duree_secondes": 1541,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - EPISODE 3 - Lune de miel à la ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 4,
+     "titre": "Travaux à la ruche",
+     "youtube_id": "hYR_MZgpVZc",
+     "duree_secondes": 1447,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - EPISODE 4 - Travaux à la ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 5,
+     "titre": "Tempête à la ruche",
+     "youtube_id": "8tq_EUsYKmA",
+     "duree_secondes": 1309,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - EPISODE 5 - Tempête à la ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 6,
+     "titre": "Pour l'honneur de la ruche",
+     "youtube_id": "fgpAQxf3Lok",
+     "duree_secondes": 1430,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - EPISODE 6 - Pour l'honneur de la ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 7,
+     "titre": "Bourdon chez les abeilles",
+     "youtube_id": "BLzIkPlLzVo",
+     "duree_secondes": 1387,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - EPISODE 7 - Bourdon chez les abeilles"
+    },
+    {
+     "saison": 1,
+     "numero": 8,
+     "titre": "Le coup du bourdon",
+     "youtube_id": "FqpP5LwQ9_c",
+     "duree_secondes": 1413,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - EPISODE 8 - Le coup du bourdon"
+    },
+    {
+     "saison": 1,
+     "numero": 9,
+     "titre": "L'abeille sans logis",
+     "youtube_id": "cUTw6cHJ0W8",
+     "duree_secondes": 1426,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - EPISODE 9 - L'abeille sans logis"
+    },
+    {
+     "saison": 1,
+     "numero": 10,
+     "titre": "L'abeille nouvelle",
+     "youtube_id": "3oho6xIkCV0",
+     "duree_secondes": 1437,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - EPISODE 10 - L'abeille nouvelle"
+    },
+    {
+     "saison": 1,
+     "numero": 11,
+     "titre": "L'ours et le miel",
+     "youtube_id": "LHdTHNOQfhw",
+     "duree_secondes": 1431,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 11 - L'ours et le miel"
+    },
+    {
+     "saison": 1,
+     "numero": 12,
+     "titre": "Coup de blues à la ruche",
+     "youtube_id": "KnfbIB0SQhA",
+     "duree_secondes": 1501,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 12 - Coup de blues à la ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 13,
+     "titre": "L'autre miel",
+     "youtube_id": "EP1BjCgNNTA",
+     "duree_secondes": 1375,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 13 - L'autre miel"
+    },
+    {
+     "saison": 1,
+     "numero": 14,
+     "titre": "Anne et le bourdon",
+     "youtube_id": "t9Sd58Ra_NM",
+     "duree_secondes": 1622,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 14 - Anne et le bourdon"
+    },
+    {
+     "saison": 1,
+     "numero": 15,
+     "titre": "Tel est pris",
+     "youtube_id": "L9u6bmziLr4",
+     "duree_secondes": 1547,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 15 - Tel est pris"
+    },
+    {
+     "saison": 1,
+     "numero": 16,
+     "titre": "Le miel amer",
+     "youtube_id": "Nl77jnC-6vg",
+     "duree_secondes": 1485,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 16 - Le miel amer"
+    },
+    {
+     "saison": 1,
+     "numero": 17,
+     "titre": "Amour quand tu nous piques",
+     "youtube_id": "ptrETpslLEU",
+     "duree_secondes": 1515,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 17 - Amour quand tu nous piques"
+    },
+    {
+     "saison": 1,
+     "numero": 18,
+     "titre": "Diner à la ruche",
+     "youtube_id": "z1dAwx_vkoY",
+     "duree_secondes": 1474,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 18 - Diner à la ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 19,
+     "titre": "Le papillon",
+     "youtube_id": "9ewBe_shak0",
+     "duree_secondes": 1618,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 19 - Le papillon"
+    },
+    {
+     "saison": 1,
+     "numero": 20,
+     "titre": "Cousine ! Cousine !",
+     "youtube_id": "NI3YphYgZm4",
+     "duree_secondes": 1416,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 20 - Cousine ! Cousine !"
+    },
+    {
+     "saison": 1,
+     "numero": 21,
+     "titre": "Cousine copine !",
+     "youtube_id": "Ac_9Uo6SDF0",
+     "duree_secondes": 1443,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 21 - Cousine copine !"
+    },
+    {
+     "saison": 1,
+     "numero": 22,
+     "titre": "Tristesse à la ruche",
+     "youtube_id": "enUCUiLsLso",
+     "duree_secondes": 1539,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles : Épisode 22 - Tristesse à la ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 23,
+     "titre": "Piqure d'amour",
+     "youtube_id": "6JIlPsdL2XQ",
+     "duree_secondes": 1474,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles : Épisode 23 - Piqure d'amour"
+    },
+    {
+     "saison": 1,
+     "numero": 24,
+     "titre": "Roulette ruche",
+     "youtube_id": "Ho6I_QazklU",
+     "duree_secondes": 1496,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 24 - Roulette ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 25,
+     "titre": "Tatoo",
+     "youtube_id": "HJyyredJ3Dk",
+     "duree_secondes": 1393,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 25 - Tatoo"
+    },
+    {
+     "saison": 1,
+     "numero": 26,
+     "titre": "Maladie d'abeille",
+     "youtube_id": "umwHZgE1TgY",
+     "duree_secondes": 1444,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 26 - Maladie d'abeille"
+    },
+    {
+     "saison": 1,
+     "numero": 27,
+     "titre": "Rock à la ruche",
+     "youtube_id": "ZK-Z8mh9XiA",
+     "duree_secondes": 1356,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 27 - Rock à la ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 28,
+     "titre": "Chauffe Antoine",
+     "youtube_id": "2u3Nilnj2i8",
+     "duree_secondes": 1471,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 28 - Chauffe Antoine"
+    },
+    {
+     "saison": 1,
+     "numero": 29,
+     "titre": "Invité encombrant",
+     "youtube_id": "tiBgPiz8Los",
+     "duree_secondes": 1541,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 29 - Invité encombrant"
+    },
+    {
+     "saison": 1,
+     "numero": 30,
+     "titre": "Rock'n'ruche",
+     "youtube_id": "mSVlO07-tfA",
+     "duree_secondes": 1424,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 30 - Rock'n'ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 31,
+     "titre": "Une araignée à la ruche",
+     "youtube_id": "r0Tp85cg2Xg",
+     "duree_secondes": 1475,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 31 - Une araignée à la ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 32,
+     "titre": "Amour de miel",
+     "youtube_id": "YoRS3N-H72U",
+     "duree_secondes": 1513,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 32 - Amour de miel"
+    },
+    {
+     "saison": 1,
+     "numero": 33,
+     "titre": "L'abeille et la bête",
+     "youtube_id": "f7D1dzgclHY",
+     "duree_secondes": 1513,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 33 - L'abeille et la bête"
+    },
+    {
+     "saison": 1,
+     "numero": 34,
+     "titre": "Larmes de miel",
+     "youtube_id": "iE8LFI3Cr2M",
+     "duree_secondes": 1531,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 34 - Larmes de miel"
+    },
+    {
+     "saison": 1,
+     "numero": 35,
+     "titre": "Bonheur de miel",
+     "youtube_id": "dL1gvjxG-pQ",
+     "duree_secondes": 1488,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 35 - Bonheur de miel"
+    },
+    {
+     "saison": 1,
+     "numero": 36,
+     "titre": "Ruche en folie",
+     "youtube_id": "3oSgpRsYJV8",
+     "duree_secondes": 1510,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 36 - Ruche en folie"
+    },
+    {
+     "saison": 1,
+     "numero": 37,
+     "titre": "Retour à la ruche",
+     "youtube_id": "JW8KHBW7LtY",
+     "duree_secondes": 1500,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 37 - Retour à la ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 38,
+     "titre": "Une soeur de miel",
+     "youtube_id": "TlOpW_LFf8c",
+     "duree_secondes": 1498,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 38 - Une soeur de miel"
+    },
+    {
+     "saison": 1,
+     "numero": 39,
+     "titre": "Rame de miel",
+     "youtube_id": "-PE3gt-C0rU",
+     "duree_secondes": 1406,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 39 - Rame de miel"
+    },
+    {
+     "saison": 1,
+     "numero": 40,
+     "titre": "Prise au piège",
+     "youtube_id": "o3xPKjiU6EU",
+     "duree_secondes": 1511,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 40 - Prise au piège"
+    },
+    {
+     "saison": 1,
+     "numero": 41,
+     "titre": "L'abeille sauvage",
+     "youtube_id": "fT8V3m6uNRg",
+     "duree_secondes": 1438,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 41 - L'abeille sauvage"
+    },
+    {
+     "saison": 1,
+     "numero": 42,
+     "titre": "Papa voleur",
+     "youtube_id": "4rzi8C3XXB4",
+     "duree_secondes": 1468,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 42 - Papa voleur"
+    },
+    {
+     "saison": 1,
+     "numero": 43,
+     "titre": "Peau de miel",
+     "youtube_id": "KpgCvN6A5Rw",
+     "duree_secondes": 1331,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 43 - Peau de miel"
+    },
+    {
+     "saison": 1,
+     "numero": 44,
+     "titre": "Miel sauvage",
+     "youtube_id": "TOFjnmd4lQc",
+     "duree_secondes": 1461,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 44 - Miel sauvage"
+    },
+    {
+     "saison": 1,
+     "numero": 45,
+     "titre": "Le congrès incongru",
+     "youtube_id": "BmCJDSZw0PU",
+     "duree_secondes": 1450,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 45 - Le congrès incongru"
+    },
+    {
+     "saison": 1,
+     "numero": 46,
+     "titre": "Congrès rock'n roll",
+     "youtube_id": "womCaDAqN04",
+     "duree_secondes": 1497,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 46 - Congrès rock'n roll"
+    },
+    {
+     "saison": 1,
+     "numero": 47,
+     "titre": "Jalousie et rock'n roll",
+     "youtube_id": "B4oxpPTn7kg",
+     "duree_secondes": 1438,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 47 - Jalousie et rock'n roll"
+    },
+    {
+     "saison": 1,
+     "numero": 48,
+     "titre": "Contre attaque",
+     "youtube_id": "k8W4f2EsQ58",
+     "duree_secondes": 1442,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 48 - Contre attaque"
+    },
+    {
+     "saison": 1,
+     "numero": 49,
+     "titre": "Le complot",
+     "youtube_id": "dCAckzumJm4",
+     "duree_secondes": 1451,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 49 - Le complot"
+    },
+    {
+     "saison": 1,
+     "numero": 50,
+     "titre": "Examen de passage",
+     "youtube_id": "b9zGVwD6RKM",
+     "duree_secondes": 1440,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 50 - Examen de passage"
+    },
+    {
+     "saison": 1,
+     "numero": 51,
+     "titre": "Johnny be good",
+     "youtube_id": "WVORIzUuNyY",
+     "duree_secondes": 1415,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 51 - Johnny be good"
+    },
+    {
+     "saison": 1,
+     "numero": 52,
+     "titre": "Clic clac merci lola",
+     "youtube_id": "RYX2GuydfBw",
+     "duree_secondes": 1393,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 52 - Clic clac merci lola"
+    },
+    {
+     "saison": 1,
+     "numero": 53,
+     "titre": "Violence de miel",
+     "youtube_id": "FbZIKtyBHls",
+     "duree_secondes": 1402,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 53 - Violence de miel"
+    },
+    {
+     "saison": 1,
+     "numero": 54,
+     "titre": "Gueule d'amour",
+     "youtube_id": "QFwVtNyHOkA",
+     "duree_secondes": 1459,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 54 - Gueule d'amour"
+    },
+    {
+     "saison": 1,
+     "numero": 55,
+     "titre": "Courrier à la ruche",
+     "youtube_id": "BUkE-mwzlvA",
+     "duree_secondes": 1444,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 55 - Courrier à la ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 56,
+     "titre": "L’indiscrétion",
+     "youtube_id": "eaIVVJBiGhE",
+     "duree_secondes": 1401,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 56 - L’indiscrétion"
+    },
+    {
+     "saison": 1,
+     "numero": 57,
+     "titre": "Surprise",
+     "youtube_id": "EI1X8P83iCk",
+     "duree_secondes": 1443,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 57 - Surprise"
+    },
+    {
+     "saison": 1,
+     "numero": 58,
+     "titre": "Mutation à la ruche",
+     "youtube_id": "wuiwmbtijow",
+     "duree_secondes": 1507,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 58 - Mutation à la ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 59,
+     "titre": "La solitude n'existe pas",
+     "youtube_id": "40YwUf4TuxI",
+     "duree_secondes": 1417,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 59 - La solitude n'existe pas"
+    },
+    {
+     "saison": 1,
+     "numero": 60,
+     "titre": "La fête à la ruche",
+     "youtube_id": "fgysSgSZTD4",
+     "duree_secondes": 1492,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 60 - La fête à la ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 61,
+     "titre": "L'abeille fûtée",
+     "youtube_id": "Jxql5OVxI7o",
+     "duree_secondes": 1442,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 61 - L'abeille fûtée"
+    },
+    {
+     "saison": 1,
+     "numero": 62,
+     "titre": "Compétition d'abeilles",
+     "youtube_id": "GsRCef1dcl0",
+     "duree_secondes": 1441,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 62 - Compétition d'abeilles"
+    },
+    {
+     "saison": 1,
+     "numero": 63,
+     "titre": "Guitare de miel",
+     "youtube_id": "MlaXe7nADrM",
+     "duree_secondes": 1481,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 63 - Guitare de miel"
+    },
+    {
+     "saison": 1,
+     "numero": 64,
+     "titre": "Pot de miel",
+     "youtube_id": "l6na1DjGHSk",
+     "duree_secondes": 1418,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 64 - Pot de miel"
+    },
+    {
+     "saison": 1,
+     "numero": 65,
+     "titre": "Echange de miel",
+     "youtube_id": "MNz4-2Y0dCA",
+     "duree_secondes": 1420,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 65 - Echange de miel"
+    },
+    {
+     "saison": 1,
+     "numero": 66,
+     "titre": "Rendez-vous à la ruche",
+     "youtube_id": "0yNgNeUNU7s",
+     "duree_secondes": 1409,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 66 - Rendez-vous à la ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 67,
+     "titre": "L'abeille de l'air",
+     "youtube_id": "p0naewvqTNE",
+     "duree_secondes": 1482,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 67 - L'abeille de l'air"
+    },
+    {
+     "saison": 1,
+     "numero": 68,
+     "titre": "Le vol du bourbon",
+     "youtube_id": "IpFAVJeEbq8",
+     "duree_secondes": 1448,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 68 - Le vol du bourbon"
+    },
+    {
+     "saison": 1,
+     "numero": 69,
+     "titre": "Nouveau miel",
+     "youtube_id": "NcYt3t0LQzo",
+     "duree_secondes": 1434,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 69 - Nouveau miel"
+    },
+    {
+     "saison": 1,
+     "numero": 70,
+     "titre": "Le miel le plus doux",
+     "youtube_id": "nJEvb0NRPGU",
+     "duree_secondes": 1445,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 70 - Le miel le plus doux"
+    },
+    {
+     "saison": 1,
+     "numero": 71,
+     "titre": "Miel indigeste",
+     "youtube_id": "uTU62HD0Qp8",
+     "duree_secondes": 1464,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 71 - Miel indigeste"
+    },
+    {
+     "saison": 1,
+     "numero": 72,
+     "titre": "Le miel collant",
+     "youtube_id": "dUnaGiWT_4g",
+     "duree_secondes": 1429,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 72 - Le miel collant"
+    },
+    {
+     "saison": 1,
+     "numero": 73,
+     "titre": "Alibis",
+     "youtube_id": "hue8ORYDIFM",
+     "duree_secondes": 1457,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 73 - Alibis"
+    },
+    {
+     "saison": 1,
+     "numero": 74,
+     "titre": "Miel alors !",
+     "youtube_id": "0stqxhx6s8Y",
+     "duree_secondes": 1372,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 74 - Miel alors !"
+    },
+    {
+     "saison": 1,
+     "numero": 75,
+     "titre": "Mère de miel",
+     "youtube_id": "y33stg2K_xY",
+     "duree_secondes": 1413,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 75 - Mère de miel"
+    },
+    {
+     "saison": 1,
+     "numero": 76,
+     "titre": "Jalousies",
+     "youtube_id": "oSVr9QOPnW8",
+     "duree_secondes": 1409,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 76 - Jalousies"
+    },
+    {
+     "saison": 1,
+     "numero": 77,
+     "titre": "Ruptures",
+     "youtube_id": "UE1hhsZSEp8",
+     "duree_secondes": 1461,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 77 - Ruptures"
+    },
+    {
+     "saison": 1,
+     "numero": 78,
+     "titre": "Brouille et embrouille",
+     "youtube_id": "G6tLzNA4dXc",
+     "duree_secondes": 1466,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 78 - Brouille et embrouille"
+    },
+    {
+     "saison": 1,
+     "numero": 79,
+     "titre": "L'abeille mystérieuse",
+     "youtube_id": "jPCwkSvH09w",
+     "duree_secondes": 1511,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 79 - L'abeille mystérieuse"
+    },
+    {
+     "saison": 1,
+     "numero": 80,
+     "titre": "Mystère encore",
+     "youtube_id": "QtN1G2Yxlec",
+     "duree_secondes": 1505,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 80 - Mystère encore"
+    },
+    {
+     "saison": 1,
+     "numero": 81,
+     "titre": "Erreur de miel",
+     "youtube_id": "x-IkTv5ExCk",
+     "duree_secondes": 1467,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 81 - Erreur de miel"
+    },
+    {
+     "saison": 1,
+     "numero": 82,
+     "titre": "L'abeille gagnante",
+     "youtube_id": "mHGFGHpLmRA",
+     "duree_secondes": 1503,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 82 - L'abeille gagnante"
+    },
+    {
+     "saison": 1,
+     "numero": 83,
+     "titre": "Remords",
+     "youtube_id": "hzpdiNdbe28",
+     "duree_secondes": 1443,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 83 - Remords"
+    },
+    {
+     "saison": 1,
+     "numero": 84,
+     "titre": "La correspondante",
+     "youtube_id": "8rX_VHeAj4A",
+     "duree_secondes": 1474,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 84 - La correspondante"
+    },
+    {
+     "saison": 1,
+     "numero": 85,
+     "titre": "Le miel en doute (partie 1)",
+     "youtube_id": "UZAIJwkP2hc",
+     "duree_secondes": 1453,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 85 - Le miel en doute (partie 1)"
+    },
+    {
+     "saison": 1,
+     "numero": 86,
+     "titre": "Le miel en doute (partie 2)",
+     "youtube_id": "bJtnj3687Ig",
+     "duree_secondes": 1428,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 86 - Le miel en doute (partie 2)"
+    },
+    {
+     "saison": 1,
+     "numero": 87,
+     "titre": "Ruée sur la ruche",
+     "youtube_id": "c4VGaqH7M1I",
+     "duree_secondes": 1511,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 87 - Ruée sur la ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 88,
+     "titre": "Flirt à la ruche",
+     "youtube_id": "3yy2ZC9N7DE",
+     "duree_secondes": 1407,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 88 - Flirt à la ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 89,
+     "titre": "Jalousie de miel",
+     "youtube_id": "Dc5eF65i7bc",
+     "duree_secondes": 1410,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 89 - Jalousie de miel"
+    },
+    {
+     "saison": 1,
+     "numero": 90,
+     "titre": "Rayon de soleil",
+     "youtube_id": "MsybK-yT_0Y",
+     "duree_secondes": 1486,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 90 - Rayon de soleil"
+    },
+    {
+     "saison": 1,
+     "numero": 91,
+     "titre": "Un collector fracassant",
+     "youtube_id": "46zymlFo80U",
+     "duree_secondes": 1437,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 91 - Un collector fracassant"
+    },
+    {
+     "saison": 1,
+     "numero": 92,
+     "titre": "Révolution à la ruche",
+     "youtube_id": "M5gKm7w8Xps",
+     "duree_secondes": 1428,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 92 - Révolution à la ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 93,
+     "titre": "Folie rock à la ruche",
+     "youtube_id": "qXrzgmSRazQ",
+     "duree_secondes": 1540,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 93 - Folie rock à la ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 94,
+     "titre": "Le miel adoucit les peines",
+     "youtube_id": "gQZ2zN7AAQU",
+     "duree_secondes": 1412,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 94 - Le miel adoucit les peines"
+    },
+    {
+     "saison": 1,
+     "numero": 95,
+     "titre": "Combat à la ruche",
+     "youtube_id": "cXNfdJpAjM0",
+     "duree_secondes": 1405,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 95 - Combat à la ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 96,
+     "titre": "Chanson inachevée",
+     "youtube_id": "HCUCC-8ZP7U",
+     "duree_secondes": 1506,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 96 - Chanson inachevée"
+    },
+    {
+     "saison": 1,
+     "numero": 97,
+     "titre": "Abeilles au féminin",
+     "youtube_id": "NkIcWBiRAE0",
+     "duree_secondes": 1398,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 97 - Abeilles au féminin"
+    },
+    {
+     "saison": 1,
+     "numero": 98,
+     "titre": "Love love love",
+     "youtube_id": "2BntWh6MHIU",
+     "duree_secondes": 1477,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 98 - Love love love"
+    },
+    {
+     "saison": 1,
+     "numero": 99,
+     "titre": "Ruche annexe",
+     "youtube_id": "BlrvQu8IXUM",
+     "duree_secondes": 1428,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 99 - Ruche annexe"
+    },
+    {
+     "saison": 1,
+     "numero": 100,
+     "titre": "Local d'enfer",
+     "youtube_id": "8jS6yNRsnSw",
+     "duree_secondes": 1512,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 100 - Local d'enfer"
+    },
+    {
+     "saison": 1,
+     "numero": 101,
+     "titre": "Miracle de l'amour",
+     "youtube_id": "RqByhF7lc5Q",
+     "duree_secondes": 1387,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 101 - Miracle de l'amour"
+    },
+    {
+     "saison": 1,
+     "numero": 102,
+     "titre": "Hippies partout",
+     "youtube_id": "LAVRxdaO9kc",
+     "duree_secondes": 1395,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 102 - Hippies partout"
+    },
+    {
+     "saison": 1,
+     "numero": 103,
+     "titre": "Elvis",
+     "youtube_id": "unEH2OIxRzQ",
+     "duree_secondes": 1467,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 103 - Elvis"
+    },
+    {
+     "saison": 1,
+     "numero": 104,
+     "titre": "Dou dou dou",
+     "youtube_id": "2w6Ue-PCPjA",
+     "duree_secondes": 1393,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 104 - Dou dou dou"
+    },
+    {
+     "saison": 1,
+     "numero": 105,
+     "titre": "Explications à la ruche",
+     "youtube_id": "yo2eWjqQL78",
+     "duree_secondes": 1451,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 105 - Explications à la ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 106,
+     "titre": "Grincement de ruche",
+     "youtube_id": "apxEEtIpqsc",
+     "duree_secondes": 1502,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 106 - Grincement de ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 107,
+     "titre": "Musique à la ruche",
+     "youtube_id": "PshlbQPHmEM",
+     "duree_secondes": 1516,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 107 - Musique à la ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 108,
+     "titre": "Amour et chansons",
+     "youtube_id": "JCuiYnCWnD0",
+     "duree_secondes": 1508,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 108 - Amour et chansons"
+    },
+    {
+     "saison": 1,
+     "numero": 109,
+     "titre": "Rentrée à la ruche",
+     "youtube_id": "j2aK4F6ruHI",
+     "duree_secondes": 1507,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 109 - Rentrée à la ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 110,
+     "titre": "Exotisme à la ruche",
+     "youtube_id": "tjMGHK7P1yM",
+     "duree_secondes": 1504,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 110 - Exotisme à la ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 111,
+     "titre": "Fortune Lily",
+     "youtube_id": "prVHe5aqJzg",
+     "duree_secondes": 1414,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 111 - Fortune Lily"
+    },
+    {
+     "saison": 1,
+     "numero": 112,
+     "titre": "La main de ma tante",
+     "youtube_id": "5SrHVHiGjv4",
+     "duree_secondes": 1453,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 112 - La main de ma tante"
+    },
+    {
+     "saison": 1,
+     "numero": 113,
+     "titre": "Sentimental blues",
+     "youtube_id": "to5e_yVS5-s",
+     "duree_secondes": 1432,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 113 - Sentimental blues"
+    },
+    {
+     "saison": 1,
+     "numero": 114,
+     "titre": "Le garçon de la plage",
+     "youtube_id": "3cahx_wgKbI",
+     "duree_secondes": 1419,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 114 - Le garçon de la plage"
+    },
+    {
+     "saison": 1,
+     "numero": 115,
+     "titre": "Emotions",
+     "youtube_id": "73Gq9FjN5pA",
+     "duree_secondes": 1464,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 115 - Emotions"
+    },
+    {
+     "saison": 1,
+     "numero": 116,
+     "titre": "La revanche de Jacky le rouge",
+     "youtube_id": "sOa5yucNexc",
+     "duree_secondes": 1498,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 116 - La revanche de Jacky le rouge"
+    },
+    {
+     "saison": 1,
+     "numero": 117,
+     "titre": "Théâtre à la ruche",
+     "youtube_id": "hecX3n176lU",
+     "duree_secondes": 1443,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 117 - Théâtre à la ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 118,
+     "titre": "Art dramatique",
+     "youtube_id": "zz4D0Q7Z7zM",
+     "duree_secondes": 1498,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 118 - Art dramatique"
+    },
+    {
+     "saison": 1,
+     "numero": 119,
+     "titre": "Plus dramatique qu'art",
+     "youtube_id": "nJEUT39GLxE",
+     "duree_secondes": 1475,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 119 - Plus dramatique qu'art"
+    },
+    {
+     "saison": 1,
+     "numero": 120,
+     "titre": "Paix à la ruche",
+     "youtube_id": "ZPgC7FXYmD8",
+     "duree_secondes": 1432,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 120 - Paix à la ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 121,
+     "titre": "Expériences",
+     "youtube_id": "nSNHfX3yZ5g",
+     "duree_secondes": 1406,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 121 - Expériences"
+    },
+    {
+     "saison": 1,
+     "numero": 122,
+     "titre": "Frissons à la ruche",
+     "youtube_id": "eZwLKBF9QdY",
+     "duree_secondes": 1411,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 122 - Frissons à la ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 123,
+     "titre": "La cup transat en solitaire",
+     "youtube_id": "LLACRkUS1mc",
+     "duree_secondes": 1487,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 123 - La cup transat en solitaire"
+    },
+    {
+     "saison": 1,
+     "numero": 124,
+     "titre": "Orage à la ruche",
+     "youtube_id": "XU5p5iGQNww",
+     "duree_secondes": 1448,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 124 - Orage à la ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 125,
+     "titre": "Le sar dîne à la ruche",
+     "youtube_id": "eTGFzqP8rYE",
+     "duree_secondes": 1473,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 125 - Le sar dîne à la ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 126,
+     "titre": "Le père solitaire",
+     "youtube_id": "8w5P0UJSu68",
+     "duree_secondes": 1517,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 126 - Le père solitaire"
+    },
+    {
+     "saison": 1,
+     "numero": 127,
+     "titre": "Déprime",
+     "youtube_id": "ZLARDr6aV4w",
+     "duree_secondes": 1495,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 127 - Déprime"
+    },
+    {
+     "saison": 1,
+     "numero": 128,
+     "titre": "Un rêve éveillé",
+     "youtube_id": "BRHwToGPZNg",
+     "duree_secondes": 1512,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 128 - Un rêve éveillé"
+    },
+    {
+     "saison": 1,
+     "numero": 129,
+     "titre": "Un secret",
+     "youtube_id": "ZeWml-Nbm0E",
+     "duree_secondes": 1489,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 129 - Un secret"
+    },
+    {
+     "saison": 1,
+     "numero": 130,
+     "titre": "Tartine d'amour",
+     "youtube_id": "jfnFx5O96ek",
+     "duree_secondes": 1498,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 130 - Tartine d'amour"
+    },
+    {
+     "saison": 1,
+     "numero": 131,
+     "titre": "Le régime d'Eugénie",
+     "youtube_id": "DdIE4ZOYroM",
+     "duree_secondes": 1415,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 131 - Le régime d'Eugénie"
+    },
+    {
+     "saison": 1,
+     "numero": 132,
+     "titre": "Bool de gum",
+     "youtube_id": "iS7ms4t9IuI",
+     "duree_secondes": 1514,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 132 - Bool de gum"
+    },
+    {
+     "saison": 1,
+     "numero": 133,
+     "titre": "Pagaille à la ruche",
+     "youtube_id": "DdxvKwmTO5w",
+     "duree_secondes": 1420,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 133 - Pagaille à la ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 134,
+     "titre": "L'anicroche",
+     "youtube_id": "GMHB48Ls89w",
+     "duree_secondes": 1510,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 134 - L'anicroche"
+    },
+    {
+     "saison": 1,
+     "numero": 135,
+     "titre": "Vent de jeunesse à la ruche",
+     "youtube_id": "TwHMhvgjwRM",
+     "duree_secondes": 1492,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 135 - Vent de jeunesse à la ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 136,
+     "titre": "Vol d'abeilles",
+     "youtube_id": "E3ZfL6JTJX0",
+     "duree_secondes": 1469,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 136 - Vol d'abeilles"
+    },
+    {
+     "saison": 1,
+     "numero": 137,
+     "titre": "Amours secrets",
+     "youtube_id": "3G36chmh26s",
+     "duree_secondes": 1396,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 137 - Amours secrets"
+    },
+    {
+     "saison": 1,
+     "numero": 138,
+     "titre": "La ruche déserte",
+     "youtube_id": "818dVwMjtq8",
+     "duree_secondes": 1521,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 138 - La ruche déserte"
+    },
+    {
+     "saison": 1,
+     "numero": 139,
+     "titre": "La ruche s'anime",
+     "youtube_id": "3kMi77i1TQU",
+     "duree_secondes": 1437,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 139 - La ruche s'anime"
+    },
+    {
+     "saison": 1,
+     "numero": 140,
+     "titre": "Surpeuplement",
+     "youtube_id": "7xH4_VHnil0",
+     "duree_secondes": 1388,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 140 - Surpeuplement"
+    },
+    {
+     "saison": 1,
+     "numero": 141,
+     "titre": "Prise de conscience",
+     "youtube_id": "6poaMlO7T40",
+     "duree_secondes": 1477,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 141 - Prise de conscience"
+    },
+    {
+     "saison": 1,
+     "numero": 142,
+     "titre": "Retour au calme",
+     "youtube_id": "sM8FT2VUsbY",
+     "duree_secondes": 1509,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 142 - Retour au calme"
+    },
+    {
+     "saison": 1,
+     "numero": 143,
+     "titre": "Guerre des tranchées",
+     "youtube_id": "snS1zoXQ35U",
+     "duree_secondes": 1486,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 143 - Guerre des tranchées"
+    },
+    {
+     "saison": 1,
+     "numero": 144,
+     "titre": "Méli mélo",
+     "youtube_id": "qe6JYY0OTjU",
+     "duree_secondes": 1453,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 144 - Méli mélo"
+    },
+    {
+     "saison": 1,
+     "numero": 145,
+     "titre": "Chansons à la ruche",
+     "youtube_id": "a9YDuNO7S8o",
+     "duree_secondes": 1494,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 145 - Chansons à la ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 146,
+     "titre": "Craquerie",
+     "youtube_id": "uFq6t_BGU_k",
+     "duree_secondes": 1399,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 146 - Craquerie"
+    },
+    {
+     "saison": 1,
+     "numero": 147,
+     "titre": "Evidence",
+     "youtube_id": "R8xtKlm9SSY",
+     "duree_secondes": 1394,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 147 - Evidence"
+    },
+    {
+     "saison": 1,
+     "numero": 148,
+     "titre": "Le tube du siècle",
+     "youtube_id": "8KZvW1N42rk",
+     "duree_secondes": 1423,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 148 - Le tube du siècle"
+    },
+    {
+     "saison": 1,
+     "numero": 149,
+     "titre": "Retour à la raison",
+     "youtube_id": "c6iSUP4GvBM",
+     "duree_secondes": 1491,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 149 - Retour à la raison"
+    },
+    {
+     "saison": 1,
+     "numero": 150,
+     "titre": "Recherches",
+     "youtube_id": "YoVtGzzGf-w",
+     "duree_secondes": 1449,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 150 - Recherches"
+    },
+    {
+     "saison": 1,
+     "numero": 151,
+     "titre": "Présentation à la ruche",
+     "youtube_id": "euRaa1mXsYc",
+     "duree_secondes": 1526,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 151 - Présentation à la ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 152,
+     "titre": "Monique à la ruche",
+     "youtube_id": "Q1ujS0Ht83g",
+     "duree_secondes": 1474,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 152 - Monique à la ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 153,
+     "titre": "La reconquête",
+     "youtube_id": "qr-WBqaePLk",
+     "duree_secondes": 1462,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 153 - La reconquête"
+    },
+    {
+     "saison": 1,
+     "numero": 154,
+     "titre": "La ruche sans homme",
+     "youtube_id": "W7i1vtFWjK0",
+     "duree_secondes": 1430,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 154 - La ruche sans homme"
+    },
+    {
+     "saison": 1,
+     "numero": 155,
+     "titre": "Tonton bourdon",
+     "youtube_id": "NkbHM4D5-IQ",
+     "duree_secondes": 1419,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 155 - Tonton bourdon"
+    },
+    {
+     "saison": 1,
+     "numero": 156,
+     "titre": "Le monde à l'envers",
+     "youtube_id": "R02m1_QezrQ",
+     "duree_secondes": 1419,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 156 - Le monde à l'envers"
+    },
+    {
+     "saison": 1,
+     "numero": 157,
+     "titre": "Le neurone",
+     "youtube_id": "uomEmFq3eDo",
+     "duree_secondes": 1401,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 157 - Le neurone"
+    },
+    {
+     "saison": 1,
+     "numero": 158,
+     "titre": "Les documents",
+     "youtube_id": "BnXLzs01vM8",
+     "duree_secondes": 1424,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 158 - Les documents"
+    },
+    {
+     "saison": 1,
+     "numero": 159,
+     "titre": "Week-end à la ruche",
+     "youtube_id": "yG-MmjXS83g",
+     "duree_secondes": 1502,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 159 - Week-end à la ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 160,
+     "titre": "Soupçons à la ruche",
+     "youtube_id": "rA6f4rLusqU",
+     "duree_secondes": 1422,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 160 - Soupçons à la ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 161,
+     "titre": "Général",
+     "youtube_id": "0gHpLIWogF8",
+     "duree_secondes": 1395,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 161 - Général"
+    },
+    {
+     "saison": 1,
+     "numero": 162,
+     "titre": "Cendrillon",
+     "youtube_id": "hAJbpbVBiQ8",
+     "duree_secondes": 1368,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 162 - Cendrillon"
+    },
+    {
+     "saison": 1,
+     "numero": 163,
+     "titre": "Le baiser le plus long",
+     "youtube_id": "Fc_62t0kuPo",
+     "duree_secondes": 1412,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 163 - Le baiser le plus long"
+    },
+    {
+     "saison": 1,
+     "numero": 164,
+     "titre": "Les envahisseurs",
+     "youtube_id": "MFYexWWiZNk",
+     "duree_secondes": 1393,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 164 - Les envahisseurs"
+    },
+    {
+     "saison": 1,
+     "numero": 165,
+     "titre": "Retour express",
+     "youtube_id": "fKnrbm4gFRw",
+     "duree_secondes": 1469,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 165 - Retour express"
+    },
+    {
+     "saison": 1,
+     "numero": 166,
+     "titre": "L'insupportable abeille",
+     "youtube_id": "CV9kESrph6Q",
+     "duree_secondes": 1483,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 166 - L'insupportable abeille"
+    },
+    {
+     "saison": 1,
+     "numero": 167,
+     "titre": "Miraculeuse abeille",
+     "youtube_id": "wfPQAFu6a4c",
+     "duree_secondes": 1412,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 167 - Miraculeuse abeille"
+    },
+    {
+     "saison": 1,
+     "numero": 168,
+     "titre": "Poulet à la ruche",
+     "youtube_id": "wqs0dM9SZio",
+     "duree_secondes": 1393,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 168 - Poulet à la ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 169,
+     "titre": "Match au sommet",
+     "youtube_id": "jVEyaVkM3EM",
+     "duree_secondes": 1401,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 169 - Match au sommet"
+    },
+    {
+     "saison": 1,
+     "numero": 170,
+     "titre": "Indigestion",
+     "youtube_id": "gWfKxpfZK58",
+     "duree_secondes": 1486,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 170 - Indigestion"
+    },
+    {
+     "saison": 1,
+     "numero": 171,
+     "titre": "Clandestins",
+     "youtube_id": "aB91m5UBUbA",
+     "duree_secondes": 1394,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 171 - Clandestins"
+    },
+    {
+     "saison": 1,
+     "numero": 172,
+     "titre": "Revenir le rock'n roll",
+     "youtube_id": "aWn9ua8M9o0",
+     "duree_secondes": 1403,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 172 - Revenir le rock'n roll"
+    },
+    {
+     "saison": 1,
+     "numero": 173,
+     "titre": "Silence forcé",
+     "youtube_id": "cTHFM7mmq0o",
+     "duree_secondes": 1428,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 173 - Silence forcé"
+    },
+    {
+     "saison": 1,
+     "numero": 174,
+     "titre": "Chute libre",
+     "youtube_id": "bmhlHFcMdN4",
+     "duree_secondes": 1502,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 174 - Chute libre"
+    },
+    {
+     "saison": 1,
+     "numero": 175,
+     "titre": "Perte de mémoire",
+     "youtube_id": "fytTuy7KfSM",
+     "duree_secondes": 1446,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 175 - Perte de mémoire"
+    },
+    {
+     "saison": 1,
+     "numero": 176,
+     "titre": "Hésitations",
+     "youtube_id": "9lGm9x9LbKQ",
+     "duree_secondes": 1397,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 176 - Hésitations"
+    },
+    {
+     "saison": 1,
+     "numero": 177,
+     "titre": "Rêve fou",
+     "youtube_id": "YEsJdz4zFqc",
+     "duree_secondes": 1448,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 177 - Rêve fou"
+    },
+    {
+     "saison": 1,
+     "numero": 178,
+     "titre": "Screaming Nadia",
+     "youtube_id": "OkVwugC8_zc",
+     "duree_secondes": 1420,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 178 - Screaming Nadia"
+    },
+    {
+     "saison": 1,
+     "numero": 179,
+     "titre": "D'égouts et des couleurs",
+     "youtube_id": "5r8d_PeLMqo",
+     "duree_secondes": 1496,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 179 - D'égouts et des couleurs"
+    },
+    {
+     "saison": 1,
+     "numero": 180,
+     "titre": "Assistance à la ruche",
+     "youtube_id": "gBKL28L4ikU",
+     "duree_secondes": 1428,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 180 - Assistance à la ruche"
+    },
+    {
+     "saison": 1,
+     "numero": 181,
+     "titre": "Etat de guerre",
+     "youtube_id": "fd0uvpUbqpw",
+     "duree_secondes": 1429,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 181 - Etat de guerre"
+    },
+    {
+     "saison": 1,
+     "numero": 182,
+     "titre": "Le propre piège",
+     "youtube_id": "3xQ3Vp9SRWI",
+     "duree_secondes": 1384,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 182 - Le propre piège"
+    },
+    {
+     "saison": 1,
+     "numero": 183,
+     "titre": "Le contre-pied",
+     "youtube_id": "GE3afjQht6U",
+     "duree_secondes": 1502,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 183 - Le contre-pied"
+    },
+    {
+     "saison": 1,
+     "numero": 184,
+     "titre": "Fans et semoule",
+     "youtube_id": "AzgyysvM2w4",
+     "duree_secondes": 1479,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 184 - Fans et semoule"
+    },
+    {
+     "saison": 1,
+     "numero": 185,
+     "titre": "Star et serpent",
+     "youtube_id": "5U3sbppFH-8",
+     "duree_secondes": 1497,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 185 - Star et serpent"
+    },
+    {
+     "saison": 1,
+     "numero": 186,
+     "titre": "Le talon de Lola",
+     "youtube_id": "FYrbgXL-scA",
+     "duree_secondes": 1427,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 186 - Le talon de Lola"
+    },
+    {
+     "saison": 1,
+     "numero": 187,
+     "titre": "Le printemps revient",
+     "youtube_id": "p30nNImTyvo",
+     "duree_secondes": 1451,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 187 - Le printemps revient"
+    },
+    {
+     "saison": 1,
+     "numero": 188,
+     "titre": "La paix retrouvée",
+     "youtube_id": "ykPmsZNSUMo",
+     "duree_secondes": 1500,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 188 - La paix retrouvée"
+    },
+    {
+     "saison": 1,
+     "numero": 189,
+     "titre": "Le bébé d'amour",
+     "youtube_id": "6phM4ieLWkQ",
+     "duree_secondes": 1453,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 189 - Le bébé d'amour"
+    },
+    {
+     "saison": 1,
+     "numero": 190,
+     "titre": "Le bon prétexte",
+     "youtube_id": "KWiqwwVJt2s",
+     "duree_secondes": 1505,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 190 - Le bon prétexte"
+    },
+    {
+     "saison": 1,
+     "numero": 191,
+     "titre": "Au bord du gouffre",
+     "youtube_id": "lNE9qBvh59A",
+     "duree_secondes": 1490,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 191 - Au bord du gouffre"
+    },
+    {
+     "saison": 1,
+     "numero": 192,
+     "titre": "La petite étincelle",
+     "youtube_id": "N_X_-apPYSg",
+     "duree_secondes": 1503,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 192 - La petite étincelle"
+    },
+    {
+     "saison": 1,
+     "numero": 193,
+     "titre": "Le pull marine",
+     "youtube_id": "ZsLJFUSLpvg",
+     "duree_secondes": 1468,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 193 - Le pull marine"
+    },
+    {
+     "saison": 1,
+     "numero": 194,
+     "titre": "Le philtre d'amour",
+     "youtube_id": "VpvBgId3oAk",
+     "duree_secondes": 1461,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 194 - Le philtre d'amour"
+    },
+    {
+     "saison": 1,
+     "numero": 195,
+     "titre": "Le bon résultat",
+     "youtube_id": "7q4VuaspOPM",
+     "duree_secondes": 1486,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 195 - Le bon résultat"
+    },
+    {
+     "saison": 1,
+     "numero": 196,
+     "titre": "Urgence paramédicale",
+     "youtube_id": "fRC2gIuwI68",
+     "duree_secondes": 1503,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 196 - Urgence paramédicale"
+    },
+    {
+     "saison": 1,
+     "numero": 197,
+     "titre": "Le choc",
+     "youtube_id": "DEYXoQn5_sM",
+     "duree_secondes": 1480,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 197 - Le choc"
+    },
+    {
+     "saison": 1,
+     "numero": 198,
+     "titre": "Le contre-coup",
+     "youtube_id": "p2wVxABC7QI",
+     "duree_secondes": 1479,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 198 - Le contre-coup"
+    },
+    {
+     "saison": 1,
+     "numero": 199,
+     "titre": "Le milliardaire",
+     "youtube_id": "M85vZmBEQx8",
+     "duree_secondes": 1503,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 199 - Le milliardaire"
+    },
+    {
+     "saison": 1,
+     "numero": 200,
+     "titre": "C'est fini",
+     "youtube_id": "--FSdMM4DkI",
+     "duree_secondes": 1485,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miel et les abeilles - Épisode 200 - C'est fini"
+    }
+   ],
+   "affiche": "affiches/qC2rHnfyD4s.webp",
+   "vignette": "vignettes/qC2rHnfyD4s.webp"
+  }
+ ]
+}

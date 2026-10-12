@@ -1,0 +1,354 @@
+// ---------- Accès famille, profils « Ki moun ka gadé ? », avatars, gestion ----------
+
+// Avatar rond, liseré à la couleur du profil
+.avatar {
+    --accent: #{$jaune};
+    --taille: 64px;
+    display: inline-grid;
+    place-items: center;
+    flex: none;
+    width: var(--taille);
+    height: var(--taille);
+    border-radius: 50%;
+    overflow: hidden;
+    background: $velours;
+    box-shadow: 0 0 0 3px var(--accent);
+    img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    &.avatar-sm { --taille: 36px; box-shadow: 0 0 0 2px var(--accent); }
+    &.avatar-md { --taille: 64px; }
+    &.avatar-lg { --taille: clamp(92px, 26vw, 150px); box-shadow: 0 0 0 4px var(--accent); }
+}
+.avatar-ajout {
+    color: $sable;
+    background: rgba($creme, .05);
+    box-shadow: 0 0 0 3px rgba($creme, .2) !important;
+    svg { width: 42%; height: 42%; }
+}
+
+// Menu du profil (en-tête)
+.menu-profil { position: relative; }
+.menu-profil-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: .2rem;
+    padding: 3px;
+    border: 0;
+    border-radius: 999px;
+    background: transparent;
+    color: $creme;
+    .menu-profil-chevron { width: 14px; height: 14px; transition: transform .25s var(--ease-out); }
+    &[aria-expanded='true'] .menu-profil-chevron { transform: rotate(180deg); }
+    @media (max-width: 380px) { .menu-profil-chevron { display: none; } }
+}
+.menu-profil-liste {
+    position: absolute;
+    right: 0;
+    top: calc(100% + .6rem);
+    z-index: 1040;
+    width: min(250px, calc(100vw - 2rem));
+    padding: .5rem;
+    border-radius: $border-radius;
+    background: $velours;
+    border: 1px solid rgba($creme, .14);
+    box-shadow: 0 24px 48px -18px #000;
+    a, button {
+        display: block;
+        width: 100%;
+        padding: .55rem .75rem;
+        border: 0;
+        border-radius: .55rem;
+        background: none;
+        color: $creme;
+        font-weight: 600;
+        text-align: left;
+        &:hover, &:focus-visible { background: rgba($creme, .08); color: $jaune; }
+    }
+    form { margin: .25rem 0 0; padding-top: .25rem; border-top: 1px solid rgba($creme, .1); }
+}
+.menu-profil-qui {
+    margin: 0 0 .35rem;
+    padding: .35rem .75rem .55rem;
+    border-bottom: 1px solid rgba($creme, .1);
+    strong { display: block; font-family: $font-titre; font-weight: 400; font-size: 1.15rem; }
+    span { font-size: .8rem; color: $sable-2; }
+}
+
+// Page publique et connexion
+.acces {
+    min-height: calc(100vh - var(--header-h) - 2rem);
+    min-height: calc(100svh - var(--header-h) - 2rem);
+    display: grid;
+    place-items: center;
+    padding: 2rem var(--gutter);
+    background:
+        radial-gradient(600px 320px at 50% 0%, rgba($jaune, .12), transparent 70%);
+}
+.acces-carte {
+    width: min(100%, 440px);
+    padding: 2rem 1.5rem;
+    border-radius: $border-radius-lg;
+    background: rgba($velours, .88);
+    border: 1px solid rgba($creme, .1);
+    box-shadow: 0 30px 60px -30px #000;
+    text-align: center;
+    @include media-breakpoint-up(md) { padding: 2.5rem 2.25rem; }
+}
+.acces-signe { width: 84px; height: 84px; margin-bottom: .75rem; }
+.acces-titre {
+    font-size: clamp(2.2rem, 9vw, 3rem);
+    margin: 0;
+    span { display: block; font-family: $font-main-hand; font-weight: 700; font-size: 1.3rem; color: $jaune; margin-top: .25rem; }
+}
+.acces-creole { color: $sable; font-size: 1.15rem; margin: .5rem 0 .75rem; }
+.acces-texte { color: $sable; margin-bottom: 1.5rem; }
+.acces-formulaire h1 { margin-top: .25rem; }
+
+// Écran « Ki moun ka gadé ? »
+.profils {
+    min-height: calc(100vh - var(--header-h) - 4rem);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2.5rem var(--gutter) 3rem;
+    text-align: center;
+}
+.profils-titre { font-size: clamp(2rem, 7vw, 3.4rem); margin: 0; }
+.profils-sous-titre { color: $sable; margin: .35rem 0 2rem; font-size: 1.05rem; }
+.profils-aide { color: $sable-2; font-size: .85rem; margin: .75rem 0 0; max-width: 30rem; }
+.profils-grille {
+    list-style: none;
+    margin: 0 0 2.25rem;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.5rem 1.25rem;
+    max-width: 1120px;
+    form { margin: 0; }
+    @include media-breakpoint-up(md) { gap: 2rem 2.25rem; }
+}
+.profil-choix {
+    --accent: #{$jaune};
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: .7rem;
+    padding: .35rem;
+    border: 0;
+    border-radius: $border-radius-lg;
+    background: none;
+    color: $sable;
+    text-decoration: none;
+    cursor: pointer;
+    .avatar {
+        box-shadow: 0 0 0 3px transparent;
+        transition: transform .35s var(--ease-out), box-shadow .3s;
+    }
+    .profil-prenom {
+        font-weight: 700;
+        font-size: 1.05rem;
+        transition: color .2s;
+        max-width: 11ch;
+        overflow-wrap: anywhere;
+    }
+    &:hover, &:focus-visible {
+        color: $creme;
+        outline: none;
+        .avatar { transform: translateY(-4px) scale(1.06) rotate(-2deg); box-shadow: 0 0 0 4px var(--accent), 0 18px 34px -16px var(--accent); }
+        .profil-prenom { color: $creme; }
+    }
+    &:focus-visible .avatar { box-shadow: 0 0 0 4px $nuit, 0 0 0 8px $jaune; }
+    @media (prefers-reduced-motion: reduce) {
+        &:hover .avatar, &:focus-visible .avatar { transform: none; }
+    }
+    &.is-edition .avatar img { filter: brightness(.6); }
+    &.is-ajout .avatar { transition: background .2s; }
+    &.is-ajout:hover .avatar { background: rgba($creme, .12); }
+}
+.profil-crayon {
+    position: absolute;
+    top: calc(clamp(92px, 26vw, 150px) / 2 - 18px + .35rem);
+    left: 50%;
+    transform: translateX(-50%);
+    display: grid;
+    place-items: center;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    border: 2px solid $creme;
+    color: $creme;
+    pointer-events: none;
+    svg { width: 18px; height: 18px; }
+}
+.profil-cadenas {
+    position: absolute;
+    top: .2rem;
+    right: .2rem;
+    display: grid;
+    place-items: center;
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    background: $nuit;
+    color: $jaune;
+    box-shadow: 0 0 0 2px rgba($creme, .2);
+    svg { width: 15px; height: 15px; }
+}
+.profil-badge {
+    margin-top: -.35rem;
+    padding: .1rem .55rem;
+    border-radius: 999px;
+    font-size: .72rem;
+    font-weight: 800;
+    letter-spacing: .02em;
+    background: rgba($vert-clair, .2);
+    color: #bdf0cb;
+    &.is-mere { background: rgba($jaune, .18); color: $jaune-clair; }
+}
+.btn-contour {
+    --bs-btn-color: #{$sable};
+    --bs-btn-border-color: #{rgba($creme, .4)};
+    --bs-btn-hover-color: #{$creme};
+    --bs-btn-hover-border-color: #{$creme};
+    --bs-btn-hover-bg: transparent;
+    --bs-btn-border-radius: .2rem;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    font-size: .88rem;
+}
+.btn-lien-danger {
+    --bs-btn-color: #ffb3a8;
+    --bs-btn-hover-color: #{$rouge-vif};
+    background: none;
+    border: 0;
+    text-decoration: underline;
+}
+
+// PIN
+.pin-formulaire { width: min(100%, 320px); }
+.pin-champ {
+    width: 100%;
+    padding: .6rem 1rem;
+    border-radius: $border-radius;
+    border: 2px solid rgba($creme, .25);
+    background: rgba($creme, .06);
+    color: $creme;
+    font-size: 2rem;
+    letter-spacing: .8em;
+    text-align: center;
+    text-indent: .8em;
+    &:focus { outline: none; border-color: $jaune; box-shadow: 0 0 0 .2rem rgba($jaune, .25); }
+    &.is-invalid { border-color: $rouge-vif; }
+}
+.pin-erreur { min-height: 1.5rem; margin-top: .5rem; color: #ffb3a8; font-weight: 600; font-size: .92rem; }
+
+// Formulaire d'un profil
+.profil-edition {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 2rem var(--gutter) 3rem;
+    .profils-titre { text-align: center; margin-bottom: 1.75rem; }
+}
+.profil-edition-grille {
+    display: grid;
+    gap: 1.5rem;
+    align-items: start;
+    @include media-breakpoint-up(md) { grid-template-columns: 180px minmax(0, 1fr); }
+}
+.couleurs { display: flex; flex-wrap: wrap; gap: .6rem; }
+.couleur {
+    position: relative;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: var(--c);
+    cursor: pointer;
+    box-shadow: inset 0 0 0 2px rgba(#000, .2);
+    input { position: absolute; inset: 0; opacity: 0; cursor: pointer; }
+    &:has(input:checked) { box-shadow: 0 0 0 3px $nuit, 0 0 0 6px $creme; }
+    &:has(input:focus-visible) { outline: 3px solid $jaune; outline-offset: 5px; }
+}
+
+// Galerie « Choisir un avatar »
+.avatars { padding: 1.5rem var(--gutter) 3rem; max-width: 1100px; margin: 0 auto; }
+.avatars-entete {
+    position: sticky;
+    top: var(--header-h);
+    z-index: 5;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin: 0 calc(var(--gutter) * -1) 1.5rem;
+    padding: .9rem var(--gutter);
+    background: rgba($nuit, .94);
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid rgba($creme, .08);
+    .avatar-lg { --taille: clamp(72px, 20vw, 120px); }
+    h1 { font-size: clamp(1.4rem, 5vw, 2.1rem); }
+    .text-creme { color: $creme; }
+    .btn { --bs-btn-padding-y: .45rem; --bs-btn-padding-x: 1rem; }
+}
+.avatars-texte { min-width: 0; .hand { font-size: 1.1rem; } }
+.avatars-theme {
+    margin-bottom: 1.75rem;
+    legend { display: flex; flex-wrap: wrap; align-items: baseline; gap: .25rem .75rem; margin-bottom: .9rem; float: none; }
+}
+.avatars-theme-titre { font-family: $font-titre; font-size: 1.45rem; }
+.avatars-theme-texte { color: $sable-2; font-size: .9rem; }
+.avatars-grille {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(84px, 1fr));
+    gap: 1rem .75rem;
+    @include media-breakpoint-up(md) { grid-template-columns: repeat(auto-fill, minmax(112px, 1fr)); gap: 1.25rem 1rem; }
+}
+.avatar-option {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: .4rem;
+    cursor: pointer;
+    input { position: absolute; opacity: 0; width: 1px; height: 1px; }
+    img {
+        width: 100%;
+        aspect-ratio: 1;
+        border-radius: 50%;
+        box-shadow: 0 0 0 3px transparent;
+        transition: transform .3s var(--ease-out), box-shadow .2s;
+    }
+    &:hover img { transform: scale(1.06); box-shadow: 0 0 0 3px rgba($creme, .5); }
+    &:has(input:checked) img { box-shadow: 0 0 0 4px $jaune; transform: scale(1.04); }
+    &:has(input:checked) .avatar-option-nom { color: $jaune; }
+    &:has(input:focus-visible) img { outline: 3px solid $jaune; outline-offset: 4px; }
+}
+.avatar-option-nom { font-size: .8rem; font-weight: 650; color: $sable; text-align: center; line-height: 1.2; }
+.avatars-pied { text-align: center; margin-top: 1rem; }
+
+// Compte et gestion
+.compte { max-width: 760px; padding-bottom: 2rem; }
+.activite-grille {
+    display: grid;
+    gap: 1rem;
+    padding-bottom: 2rem;
+    @include media-breakpoint-up(lg) { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .panneau { margin-bottom: 0; }
+}
+.activite { border-top: 3px solid var(--accent); }
+.activite-entete { display: flex; align-items: center; gap: 1rem; .avatar-md { --taille: 56px; } }
+.activite-liste {
+    list-style: none;
+    margin: 1rem 0 0;
+    padding: 0;
+    display: grid;
+    gap: .5rem;
+    li { display: grid; grid-template-columns: 80px minmax(0, 1fr); gap: .7rem; align-items: center; }
+    img { width: 80px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: .4rem; }
+}
+.activite-titre { display: block; font-weight: 700; line-height: 1.25; }
+.activite-meta { font-size: .8rem; color: $sable-2; }
+
+// En-tête minimal (visiteur, connexion, choix du profil) : action calée à droite
+.entete-actions.is-minimal { margin-left: auto !important; }
+.profil-edition legend.form-label { font-family: $font-main; font-size: .95rem; float: none; margin-bottom: .5rem; }

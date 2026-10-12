@@ -1,0 +1,414 @@
+{
+ "genere_le": "2026-10-11",
+ "programmes": [
+  {
+   "slug": "bron",
+   "maj": [
+    "description"
+   ],
+   "description": "Un corps est retrouvé sur le pont qui relie la Suède au Danemark. Saga Norén et Martin Rohde, que tout oppose, traquent un tueur aux motivations politiques, puis d'autres affaires sur quatre saisons. Le polar nordique de référence, en version française. Les quatre saisons sont annoncées par ARTE jusqu'au 17/11/2026.",
+   "episodes": [
+    {
+     "saison": 2,
+     "numero": 1,
+     "titre": "Épisode 1",
+     "youtube_id": "M-1lxXz3qxo",
+     "duree_secondes": 3476,
+     "disponible_jusqu_au": "2026-11-17",
+     "description": "Saison 2 : un navire échoué au pied du pont, cinq jeunes enchaînés dans la cale.",
+     "titre_youtube": "BRON | Saison 2 | Épisode 1/10 | ARTE Séries",
+     "vignette": "vignettes/M-1lxXz3qxo.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 2,
+     "titre": "Épisode 2",
+     "youtube_id": "vTpWyr1YgUA",
+     "duree_secondes": 3478,
+     "disponible_jusqu_au": "2026-11-17",
+     "titre_youtube": "BRON | Saison 2 | Épisode 2/10 | ARTE Séries",
+     "vignette": "vignettes/vTpWyr1YgUA.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 3,
+     "titre": "Épisode 3",
+     "youtube_id": "chcN43fcwuE",
+     "duree_secondes": 3483,
+     "disponible_jusqu_au": "2026-11-17",
+     "titre_youtube": "BRON | Saison 2 | Épisode 3/10 | ARTE Séries",
+     "vignette": "vignettes/chcN43fcwuE.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 4,
+     "titre": "Épisode 4",
+     "youtube_id": "H7t2DSR7Ets",
+     "duree_secondes": 3522,
+     "disponible_jusqu_au": "2026-11-17",
+     "titre_youtube": "BRON | Saison 2 | Épisode 4/10 | ARTE Séries",
+     "vignette": "vignettes/H7t2DSR7Ets.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 5,
+     "titre": "Épisode 5",
+     "youtube_id": "TZiyK5TWKeo",
+     "duree_secondes": 3493,
+     "disponible_jusqu_au": "2026-11-17",
+     "titre_youtube": "BRON | Saison 2 | Épisode 5/10 | ARTE Séries",
+     "vignette": "vignettes/TZiyK5TWKeo.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 6,
+     "titre": "Épisode 6",
+     "youtube_id": "NfWvmJx-mjk",
+     "duree_secondes": 3502,
+     "disponible_jusqu_au": "2026-11-17",
+     "titre_youtube": "BRON | Saison 2 | Épisode 6/10 | ARTE Séries",
+     "vignette": "vignettes/NfWvmJx-mjk.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 7,
+     "titre": "Épisode 7",
+     "youtube_id": "l0BmEXupLJ4",
+     "duree_secondes": 3495,
+     "disponible_jusqu_au": "2026-11-17",
+     "titre_youtube": "BRON | Saison 2 | Épisode 7/10 | ARTE Séries",
+     "vignette": "vignettes/l0BmEXupLJ4.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 8,
+     "titre": "Épisode 8",
+     "youtube_id": "8zk1-PPLrbg",
+     "duree_secondes": 3477,
+     "disponible_jusqu_au": "2026-11-17",
+     "titre_youtube": "BRON | Saison 2 | Épisode 8/10 | ARTE Séries",
+     "vignette": "vignettes/8zk1-PPLrbg.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 9,
+     "titre": "Épisode 9",
+     "youtube_id": "g198pyZdm9g",
+     "duree_secondes": 3477,
+     "disponible_jusqu_au": "2026-11-17",
+     "titre_youtube": "BRON | Saison 2 | Épisode 9/10 | ARTE Séries",
+     "vignette": "vignettes/g198pyZdm9g.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 10,
+     "titre": "Épisode 10",
+     "youtube_id": "VQ6TTPz8GIE",
+     "duree_secondes": 3499,
+     "disponible_jusqu_au": "2026-11-17",
+     "titre_youtube": "BRON | Saison 2 | Épisode 10/10 | ARTE Séries",
+     "vignette": "vignettes/VQ6TTPz8GIE.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 1,
+     "titre": "Épisode 1",
+     "youtube_id": "LD5PAPuSuT8",
+     "duree_secondes": 3516,
+     "disponible_jusqu_au": "2026-11-17",
+     "description": "Saison 3 : à Malmö, une mise en scène macabre sous les projecteurs ; Saga change de coéquipier.",
+     "titre_youtube": "BRON | Saison 3 | Épisode 1/10 | ARTE Séries",
+     "vignette": "vignettes/LD5PAPuSuT8.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 2,
+     "titre": "Épisode 2",
+     "youtube_id": "O6uWH9QAlQg",
+     "duree_secondes": 3519,
+     "disponible_jusqu_au": "2026-11-17",
+     "titre_youtube": "BRON | Saison 3 | Épisode 2/10 | ARTE Séries",
+     "vignette": "vignettes/O6uWH9QAlQg.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 3,
+     "titre": "Épisode 3",
+     "youtube_id": "W3I0O-MiqlQ",
+     "duree_secondes": 3515,
+     "disponible_jusqu_au": "2026-11-17",
+     "titre_youtube": "BRON | Saison 3 | Épisode 3/10 | ARTE Séries",
+     "vignette": "vignettes/W3I0O-MiqlQ.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 4,
+     "titre": "Épisode 4",
+     "youtube_id": "n68mwdCjX-I",
+     "duree_secondes": 3529,
+     "disponible_jusqu_au": "2026-11-17",
+     "titre_youtube": "BRON | Saison 3 | Épisode 4/10 | ARTE Séries",
+     "vignette": "vignettes/n68mwdCjX-I.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 5,
+     "titre": "Épisode 5",
+     "youtube_id": "Cn9kWefUuqc",
+     "duree_secondes": 3530,
+     "disponible_jusqu_au": "2026-11-17",
+     "titre_youtube": "BRON | Saison 3 | Épisode 5/10 | ARTE Séries",
+     "vignette": "vignettes/Cn9kWefUuqc.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 6,
+     "titre": "Épisode 6",
+     "youtube_id": "jWYEftYJFi0",
+     "duree_secondes": 3519,
+     "disponible_jusqu_au": "2026-11-17",
+     "titre_youtube": "BRON | Saison 3 | Épisode 6/10 | ARTE Séries",
+     "vignette": "vignettes/jWYEftYJFi0.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 7,
+     "titre": "Épisode 7",
+     "youtube_id": "_vq7xzuBoAE",
+     "duree_secondes": 3517,
+     "disponible_jusqu_au": "2026-11-17",
+     "titre_youtube": "BRON | Saison 3 | Épisode 7/10 | ARTE Séries",
+     "vignette": "vignettes/_vq7xzuBoAE.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 8,
+     "titre": "Épisode 8",
+     "youtube_id": "ROrF9IZAmJc",
+     "duree_secondes": 3522,
+     "disponible_jusqu_au": "2026-11-17",
+     "titre_youtube": "BRON | Saison 3 | Épisode 8/10 | ARTE Séries",
+     "vignette": "vignettes/ROrF9IZAmJc.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 9,
+     "titre": "Épisode 9",
+     "youtube_id": "K-WkDBcQI-Q",
+     "duree_secondes": 3515,
+     "disponible_jusqu_au": "2026-11-17",
+     "titre_youtube": "BRON | Saison 3 | Épisode 9/10 | ARTE Séries",
+     "vignette": "vignettes/K-WkDBcQI-Q.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 10,
+     "titre": "Épisode 10",
+     "youtube_id": "0wZOijTsfHY",
+     "duree_secondes": 3524,
+     "disponible_jusqu_au": "2026-11-17",
+     "titre_youtube": "BRON | Saison 3 | Épisode 10/10 | ARTE Séries",
+     "vignette": "vignettes/0wZOijTsfHY.webp"
+    },
+    {
+     "saison": 4,
+     "numero": 1,
+     "titre": "Épisode 1",
+     "youtube_id": "5TGEgy9Dy7k",
+     "duree_secondes": 3472,
+     "disponible_jusqu_au": "2026-11-17",
+     "description": "Saison 4 : une directrice de l'Immigration danoise retrouvée lapidée sur l'île de Peberholm.",
+     "titre_youtube": "BRON | Saison 4 | Épisode 1/8 | ARTE Séries",
+     "vignette": "vignettes/5TGEgy9Dy7k.webp"
+    },
+    {
+     "saison": 4,
+     "numero": 2,
+     "titre": "Épisode 2",
+     "youtube_id": "HUXIfuWCdrA",
+     "duree_secondes": 3485,
+     "disponible_jusqu_au": "2026-11-17",
+     "titre_youtube": "BRON | Saison 4 | Épisode 2/8 | ARTE Séries",
+     "vignette": "vignettes/HUXIfuWCdrA.webp"
+    },
+    {
+     "saison": 4,
+     "numero": 3,
+     "titre": "Épisode 3",
+     "youtube_id": "rzgiBU7bhQo",
+     "duree_secondes": 3499,
+     "disponible_jusqu_au": "2026-11-17",
+     "titre_youtube": "BRON | Saison 4 | Épisode 3/8 | ARTE Séries",
+     "vignette": "vignettes/rzgiBU7bhQo.webp"
+    },
+    {
+     "saison": 4,
+     "numero": 4,
+     "titre": "Épisode 4",
+     "youtube_id": "PW8TBcG2wsI",
+     "duree_secondes": 3530,
+     "disponible_jusqu_au": "2026-11-17",
+     "titre_youtube": "BRON | Saison 4 | Épisode 4/8 | ARTE Séries",
+     "vignette": "vignettes/PW8TBcG2wsI.webp"
+    },
+    {
+     "saison": 4,
+     "numero": 5,
+     "titre": "Épisode 5",
+     "youtube_id": "lhy1B-lYbo0",
+     "duree_secondes": 3530,
+     "disponible_jusqu_au": "2026-11-17",
+     "titre_youtube": "BRON | Saison 4 | Épisode 5/8 | ARTE Séries",
+     "vignette": "vignettes/lhy1B-lYbo0.webp"
+    },
+    {
+     "saison": 4,
+     "numero": 6,
+     "titre": "Épisode 6",
+     "youtube_id": "k8Q9zxl12WE",
+     "duree_secondes": 3528,
+     "disponible_jusqu_au": "2026-11-17",
+     "titre_youtube": "BRON | Saison 4 | Épisode 6/8 | ARTE Séries",
+     "vignette": "vignettes/k8Q9zxl12WE.webp"
+    },
+    {
+     "saison": 4,
+     "numero": 7,
+     "titre": "Épisode 7",
+     "youtube_id": "5HtStHSbEeA",
+     "duree_secondes": 3520,
+     "disponible_jusqu_au": "2026-11-17",
+     "titre_youtube": "BRON | Saison 4 | Épisode 7/8 | ARTE Séries",
+     "vignette": "vignettes/5HtStHSbEeA.webp"
+    },
+    {
+     "saison": 4,
+     "numero": 8,
+     "titre": "Épisode 8",
+     "youtube_id": "sN1I2B9els4",
+     "duree_secondes": 3527,
+     "disponible_jusqu_au": "2026-11-17",
+     "titre_youtube": "BRON | Saison 4 | Épisode 8/8 | ARTE Séries",
+     "vignette": "vignettes/sN1I2B9els4.webp"
+    }
+   ]
+  },
+  {
+   "slug": "meurtres-a-sandhamn",
+   "maj": [
+    "description"
+   ],
+   "description": "Sur une île de l'archipel de Stockholm, l'inspecteur Thomas Andreasson puis Alexander Forsmann enquêtent avec Nora sur des meurtres en plein été suédois. Chaque saison est une enquête complète (VF) : saisons 1 à 11.",
+   "episodes": [
+    {
+     "saison": 2,
+     "numero": 1,
+     "titre": "Saison 2 en intégrale",
+     "youtube_id": "ztxu6NnO1ns",
+     "duree_secondes": 7865,
+     "disponible_jusqu_au": "2026-12-28",
+     "description": "Thomas et Nora face à de mystérieux assassinats dans la haute société de l'île.",
+     "titre_youtube": "MEURTRES À SANDHAMN | Saison 2 | Intégrale | ARTE Séries",
+     "vignette": "vignettes/ztxu6NnO1ns.webp"
+    },
+    {
+     "saison": 5,
+     "numero": 1,
+     "titre": "Saison 5 en intégrale",
+     "youtube_id": "vNOd_T4fz0U",
+     "duree_secondes": 7911,
+     "disponible_jusqu_au": "2026-12-28",
+     "description": "Un été paisible jusqu'à la découverte du corps d'un jeune vacancier.",
+     "titre_youtube": "Ils ont tous une version différente de la soirée | MEURTRES À SANDHAMN | Saison 5 | ARTE Séries",
+     "vignette": "vignettes/vNOd_T4fz0U.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 1,
+     "titre": "Saison 6 en intégrale",
+     "youtube_id": "xlqG_iRZwxE",
+     "duree_secondes": 21238,
+     "disponible_jusqu_au": "2026-12-28",
+     "description": "Un gamin pyromane, des jalousies et un parvenu tapageur : l'île idyllique devient périlleuse.",
+     "titre_youtube": "MEURTRES À SANDHAMN | Saison 6 | ARTE Séries",
+     "vignette": "vignettes/xlqG_iRZwxE.webp"
+    },
+    {
+     "saison": 7,
+     "numero": 1,
+     "titre": "Saison 7 en intégrale",
+     "youtube_id": "eTpc59V5AUI",
+     "duree_secondes": 21316,
+     "disponible_jusqu_au": "2026-12-28",
+     "description": "Avec un nouvel inspecteur, Alexander Forsman, Nora affronte les dealers liés à la disparition de sa fille.",
+     "titre_youtube": "MEURTRES À SANDHAMN | Saison 7 | ARTE Séries",
+     "vignette": "vignettes/eTpc59V5AUI.webp"
+    },
+    {
+     "saison": 8,
+     "numero": 1,
+     "titre": "Saison 8 en intégrale",
+     "youtube_id": "Sr9AxTpuUdA",
+     "duree_secondes": 15962,
+     "disponible_jusqu_au": "2026-12-28",
+     "description": "La réouverture d'un cold case relance Nora et Alexander.",
+     "titre_youtube": "La réouverture d'un cold case | Meurtres à Sandhamn | Saison 8 | ARTE Séries",
+     "vignette": "vignettes/Sr9AxTpuUdA.webp"
+    },
+    {
+     "saison": 9,
+     "numero": 1,
+     "titre": "Saison 9 en intégrale",
+     "youtube_id": "J4iP8gLTRjw",
+     "duree_secondes": 15954,
+     "disponible_jusqu_au": "2026-12-28",
+     "description": "Nora et Alexander face à de nouvelles affaires diaboliques.",
+     "titre_youtube": "MEURTRES À SANDHAMN | Saison 9 | ARTE Séries",
+     "vignette": "vignettes/J4iP8gLTRjw.webp"
+    },
+    {
+     "saison": 10,
+     "numero": 1,
+     "titre": "Saison 10 en intégrale",
+     "youtube_id": "izvRSZCNp90",
+     "duree_secondes": 15957,
+     "disponible_jusqu_au": "2026-12-28",
+     "description": "Victime d'un attentat, Forsman lutte pour sa survie quand une patiente est assassinée dans sa clinique.",
+     "titre_youtube": "MEURTRES À SANDHAMN | Saison 10 | Intégrale | ARTE Séries",
+     "vignette": "vignettes/izvRSZCNp90.webp"
+    },
+    {
+     "saison": 11,
+     "numero": 1,
+     "titre": "Saison 11 · épisode 1",
+     "youtube_id": "u-mwV8iUsvI",
+     "duree_secondes": 5335,
+     "disponible_jusqu_au": "2026-12-28",
+     "description": "Trois enquêtes : la mort d'un riche entrepreneur, une cheffe de police mêlée à un meurtre, un braquage qui tourne au kidnapping.",
+     "titre_youtube": "Meurtres à Sandhamn | Saison 11 | ARTE Séries",
+     "vignette": "vignettes/u-mwV8iUsvI.webp"
+    },
+    {
+     "saison": 11,
+     "numero": 2,
+     "titre": "Saison 11 · épisode 2",
+     "youtube_id": "EfD-c-i9ISc",
+     "duree_secondes": 5331,
+     "disponible_jusqu_au": "2026-12-28",
+     "titre_youtube": "Meurtres à Sandhamn | Saison 11 | Épisode 2 | ARTE Séries",
+     "vignette": "vignettes/EfD-c-i9ISc.webp"
+    },
+    {
+     "saison": 11,
+     "numero": 3,
+     "titre": "Saison 11 · épisode 3",
+     "youtube_id": "2LQi66Z2uag",
+     "duree_secondes": 5332,
+     "disponible_jusqu_au": "2026-12-28",
+     "titre_youtube": "Meurtres à Sandhamn | Saison 11 | Épisode 3 | ARTE Séries",
+     "vignette": "vignettes/2LQi66Z2uag.webp"
+    }
+   ]
+  }
+ ]
+}

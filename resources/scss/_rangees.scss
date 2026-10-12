@@ -1,0 +1,211 @@
+// ---------- Rangées horizontales (le débordement reste DANS la rangée) ----------
+.rangee {
+    position: relative;
+    margin: 0 0 2.1rem;
+    max-width: 100%;
+    &.is-madras .rangee-titre::before {
+        content: '';
+        display: inline-block;
+        width: 22px;
+        height: 22px;
+        margin-right: .6rem;
+        vertical-align: -2px;
+        border-radius: 6px;
+        @include madras(22px);
+    }
+}
+.rangee-entete {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 0 var(--gutter);
+    margin-bottom: .75rem;
+}
+.rangee-titre {
+    margin: 0;
+    font-size: clamp(1.3rem, 3.4vw, 1.75rem);
+}
+.rangee-sous-titre { margin: .15rem 0 0; color: $sable-2; font-size: .92rem; }
+.rangee-outils {
+    display: flex;
+    align-items: center;
+    gap: .4rem;
+    flex: none;
+    a.tout-voir { font-weight: 700; font-size: .92rem; white-space: nowrap; margin-right: .25rem; }
+}
+.fleche {
+    display: none;
+    place-items: center;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    border: 1px solid rgba($creme, .2);
+    background: rgba($creme, .05);
+    color: $creme;
+    transition: background .2s, opacity .2s;
+    svg { width: 16px; height: 16px; }
+    &:hover:not(:disabled) { background: rgba($creme, .15); }
+    &:disabled { opacity: .3; cursor: default; }
+    @media (hover: hover) and (pointer: fine) { display: grid; }
+    @include media-breakpoint-down(md) { display: none !important; }
+}
+
+.piste {
+    display: flex;
+    gap: .85rem;
+    width: 100%;
+    overflow-x: auto;
+    overflow-y: hidden;
+    overscroll-behavior-x: contain;
+    scroll-snap-type: x mandatory;
+    scroll-padding-inline: var(--gutter);
+    padding: .4rem var(--gutter) .9rem;
+    margin: 0;
+    list-style: none;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: thin;
+    &:focus-visible { outline-offset: -3px; }
+    > li { flex: 0 0 var(--carte-w); scroll-snap-align: start; }
+    @include media-breakpoint-up(md) { gap: 1.1rem; }
+}
+
+// ---------- Carte programme ----------
+.carte {
+    position: relative;
+    display: block;
+    color: $creme;
+    &:hover, &:focus-visible { color: $creme; }
+    &:focus-visible { outline: none; .carte-image { outline: 3px solid $jaune; outline-offset: 3px; } }
+}
+.carte-image {
+    position: relative;
+    aspect-ratio: 16 / 9;
+    border-radius: $border-radius;
+    overflow: hidden;
+    background: $velours;
+    box-shadow: 0 12px 26px -18px #000, inset 0 0 0 1px rgba($creme, .08);
+    transition: transform .45s var(--ease-out), box-shadow .45s var(--ease-out);
+    img { width: 100%; height: 100%; object-fit: cover; transition: transform .6s var(--ease-out), filter .4s; }
+    &::after {
+        content: '';
+        position: absolute;
+        inset: 0;
+        background: linear-gradient(180deg, transparent 55%, rgba($nuit, .75));
+        pointer-events: none;
+    }
+}
+.carte:hover .carte-image, .carte:focus-visible .carte-image {
+    transform: translateY(-4px);
+    box-shadow: 0 22px 34px -18px rgba(#000, .9), 0 0 0 2px rgba($jaune, .85), 0 0 40px -10px rgba($jaune, .45);
+    img { transform: scale(1.05); }
+}
+.carte-lecture {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    z-index: 2;
+    display: grid;
+    place-items: center;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background: rgba($jaune, .95);
+    color: $nuit;
+    opacity: 0;
+    transform: translate(-50%, -40%) scale(.85);
+    transition: opacity .3s, transform .4s var(--ease-out);
+    svg { width: 20px; height: 20px; margin-left: 3px; }
+}
+.carte:hover .carte-lecture, .carte:focus-visible .carte-lecture { opacity: 1; transform: translate(-50%, -50%) scale(1); }
+
+.carte-badges {
+    position: absolute;
+    left: .45rem;
+    top: .45rem;
+    z-index: 2;
+    display: flex;
+    gap: .3rem;
+}
+.badge-carte {
+    padding: .12rem .5rem;
+    border-radius: 999px;
+    font-size: .7rem;
+    font-weight: 800;
+    letter-spacing: .02em;
+    background: rgba($nuit, .78);
+    color: $creme;
+    backdrop-filter: blur(4px);
+    &.serie { background: rgba($bordeaux, .92); }
+    &.famille { background: rgba($vert, .92); }
+}
+.carte-duree {
+    position: absolute;
+    right: .45rem;
+    bottom: .45rem;
+    z-index: 2;
+    padding: .1rem .45rem;
+    border-radius: .35rem;
+    background: rgba($nuit, .82);
+    font-size: .75rem;
+    font-weight: 700;
+    color: $creme;
+}
+.carte-progression {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 3;
+    height: 4px;
+    background: rgba($creme, .2);
+    span { display: block; height: 100%; background: $rouge-vif; }
+}
+.carte-titre {
+    margin: .6rem 0 .1rem;
+    font-family: $font-main;
+    font-size: .98rem;
+    font-weight: 700;
+    line-height: 1.3;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+.carte-meta { margin: 0; color: $sable-2; font-size: .82rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+// Grille (parcourir, ma liste)
+.grille {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.25rem .85rem;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    @include media-breakpoint-up(sm) { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    @include media-breakpoint-up(lg) { grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1.6rem 1.1rem; }
+    @include media-breakpoint-up(xxl) { grid-template-columns: repeat(5, minmax(0, 1fr)); }
+}
+
+.rangee[hidden] { display: none; }
+
+// Section « Nouveaux riches » : un éclat doré, sans casser l'ambiance salle de cinéma
+.rangee.is-richesse {
+    padding: 1.1rem 0 .2rem;
+    margin-inline: 0;
+    background:
+        linear-gradient(90deg, rgba($jaune, .10), rgba($jaune, .02) 55%, transparent),
+        linear-gradient(180deg, rgba($jaune, .06), transparent 70%);
+    border-top: 1px solid rgba($jaune, .25);
+    border-bottom: 1px solid rgba($jaune, .12);
+    .rangee-titre { color: $jaune-clair; }
+}
+.rangee-icone { width: 1.05em; height: 1.05em; margin-right: .45rem; vertical-align: -.12em; color: $jaune; }
+.rangee-accroche {
+    margin: .35rem 0 0;
+    max-width: 46rem;
+    font-size: .92rem;
+    color: $sable;
+    .hand { color: $jaune; font-size: 1.08rem; }
+    .rangee-accroche-fr { color: $sable-2; }
+}

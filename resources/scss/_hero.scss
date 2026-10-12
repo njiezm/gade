@@ -1,0 +1,145 @@
+// ---------- À la une ----------
+.une {
+    position: relative;
+    isolation: isolate;
+    margin-bottom: 1.5rem;
+}
+.une-slide {
+    position: relative;
+    display: none;
+    &.is-active { display: block; animation: une-in .8s var(--ease-out); }
+}
+@keyframes une-in { from { opacity: 0; } }
+
+.une-image {
+    position: relative;
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+    img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+    &::after {
+        content: '';
+        position: absolute;
+        inset: 0;
+        background:
+            linear-gradient(180deg, rgba($nuit, 0) 45%, rgba($nuit, .85) 85%, $nuit 100%);
+    }
+    @include media-breakpoint-up(lg) {
+        aspect-ratio: auto;
+        height: min(78vh, 760px);
+        min-height: 520px;
+        img { object-position: center 25%; }
+        &::after {
+            background:
+                linear-gradient(90deg, rgba($nuit, .96) 0%, rgba($nuit, .82) 30%, rgba($nuit, .25) 62%, rgba($nuit, .1) 100%),
+                linear-gradient(180deg, rgba($nuit, 0) 60%, $nuit 100%);
+        }
+    }
+}
+
+.une-contenu {
+    position: relative;
+    padding: 0 var(--gutter) 1rem;
+    margin-top: -3.5rem;
+    z-index: 2;
+    @include media-breakpoint-up(lg) {
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        top: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-top: 0;
+        max-width: min(46rem, 52vw);
+        padding: 2rem var(--gutter) 5.5rem;
+    }
+}
+.une-etiquette {
+    display: inline-flex;
+    align-items: center;
+    gap: .6rem;
+    margin-bottom: .75rem;
+    font-family: $font-main-hand;
+    font-size: 1.15rem;
+    color: $jaune;
+    &::before { content: ''; width: 34px; @include madras(6px); border-radius: 3px; }
+}
+.une-titre {
+    font-size: clamp(2rem, 7vw, 4.2rem);
+    line-height: 1.02;
+    margin-bottom: .75rem;
+    text-shadow: 0 4px 30px rgba(#000, .5);
+    text-wrap: balance;
+}
+.une-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .4rem;
+    margin-bottom: 1rem;
+}
+.une-desc {
+    max-width: 38rem;
+    color: rgba($creme, .9);
+    font-size: 1.04rem;
+    margin-bottom: 1.25rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    @include media-breakpoint-up(lg) { font-size: 1.1rem; -webkit-line-clamp: 3; }
+}
+.une-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .6rem;
+    @include media-breakpoint-down(md) {
+        .btn-lg { --bs-btn-padding-y: .6rem; --bs-btn-padding-x: .95rem; --bs-btn-font-size: .98rem; }
+    }
+}
+
+.une-choix {
+    display: flex;
+    gap: .5rem;
+    padding: .25rem var(--gutter) 0;
+    overflow-x: auto;
+    scrollbar-width: none;
+    &::-webkit-scrollbar { display: none; }
+    @include media-breakpoint-up(lg) {
+        position: absolute;
+        right: var(--gutter);
+        bottom: 1.75rem;
+        z-index: 3;
+        padding: 0;
+        max-width: 48vw;
+    }
+    button {
+        flex: none;
+        display: flex;
+        align-items: center;
+        gap: .5rem;
+        padding: .3rem .8rem .3rem .3rem;
+        border-radius: 999px;
+        border: 1px solid rgba($creme, .2);
+        background: rgba($nuit, .6);
+        color: $sable;
+        font-size: .85rem;
+        font-weight: 600;
+        backdrop-filter: blur(6px);
+        transition: border-color .2s, color .2s, background .2s;
+        img { width: 46px; height: 26px; object-fit: cover; border-radius: 999px; }
+        span { max-width: 13rem; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+        &[aria-pressed='true'] { border-color: $jaune; color: $creme; background: rgba($bordeaux, .7); }
+        &:hover { color: $creme; }
+    }
+}
+
+// Accueil : message de bienvenue créole
+.bienvenue {
+    padding: .5rem var(--gutter) 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: .25rem 1rem;
+    .hand { font-size: clamp(1.5rem, 4vw, 2.1rem); color: $jaune; }
+    p { margin: 0; color: $sable; }
+}

@@ -1,0 +1,383 @@
+{
+ "genere_le": "2026-10-11",
+ "programmes": [
+  {
+   "slug": "l-ecole-des-passions",
+   "titre": "L'École des passions",
+   "format": "serie",
+   "univers": "series",
+   "genres": [
+    "sitcoms-90",
+    "romance"
+   ],
+   "tout_public": true,
+   "youtube_id": null,
+   "chaine_nom": "Génération Sitcoms",
+   "chaine_id": "UCVVubp6nL6vP8b6ls-Ybk-g",
+   "chaine_url": "https://www.youtube.com/channel/UCVVubp6nL6vP8b6ls-Ybk-g",
+   "ayant_droit": "AB Productions (chaîne officielle certifiée Génération Sitcoms)",
+   "duree_secondes": 1461,
+   "annee": null,
+   "description": "Dans une pension d'artistes, de jeunes talents prennent des cours, passent des auditions et vivent leurs premières passions. La série intégrale, 35 épisodes.",
+   "disponible_jusqu_au": null,
+   "publie_le": null,
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "La pension des jonquilles",
+     "youtube_id": "o5-1fYjrswM",
+     "duree_secondes": 1413,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'ECOLE DES PASSIONS - La pension des jonquilles | EPISODE 01",
+     "vignette": "vignettes/o5-1fYjrswM.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "Le premier cours",
+     "youtube_id": "vScMWkKplNM",
+     "duree_secondes": 1500,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'ECOLE DES PASSIONS - Le premier cours | EPISODE 02",
+     "vignette": "vignettes/vScMWkKplNM.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 3,
+     "titre": "L'audition",
+     "youtube_id": "EfkrtJiFUR8",
+     "duree_secondes": 1461,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'ECOLE DES PASSIONS - L'audition | EPISODE 03",
+     "vignette": "vignettes/EfkrtJiFUR8.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 4,
+     "titre": "Histoire de jupons",
+     "youtube_id": "G0uekPrHB4k",
+     "duree_secondes": 1460,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'ECOLE DES PASSIONS - Histoire de jupons | EPISODE 04",
+     "vignette": "vignettes/G0uekPrHB4k.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 5,
+     "titre": "Scène de ménage",
+     "youtube_id": "Llb1dwYxkYE",
+     "duree_secondes": 1366,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'ECOLE DES PASSIONS - Scène de ménage | EPISODE 05",
+     "vignette": "vignettes/Llb1dwYxkYE.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 6,
+     "titre": "La société des auteurs",
+     "youtube_id": "U28O_37NFvg",
+     "duree_secondes": 1408,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'ECOLE DES PASSIONS - La société des auteurs | EPISODE 06",
+     "vignette": "vignettes/U28O_37NFvg.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 7,
+     "titre": "C'est relâche",
+     "youtube_id": "_3ZHVECYby8",
+     "duree_secondes": 1379,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'ECOLE DES PASSIONS - C'est relâche | EPISODE 07",
+     "vignette": "vignettes/_3ZHVECYby8.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 8,
+     "titre": "Confidence pour confidence",
+     "youtube_id": "1-37veFEJDw",
+     "duree_secondes": 1500,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'ECOLE DES PASSIONS - Confidence pour confidence | EPISODE 08",
+     "vignette": "vignettes/1-37veFEJDw.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 9,
+     "titre": "Ombres et lumière",
+     "youtube_id": "U6ozsC4uxXY",
+     "duree_secondes": 1398,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'ECOLE DES PASSIONS - Ombres et lumière | EPISODE 09",
+     "vignette": "vignettes/U6ozsC4uxXY.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 10,
+     "titre": "Il ne faut jamais dire fontaine…",
+     "youtube_id": "u1cfDBS01fo",
+     "duree_secondes": 1466,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'ECOLE DES PASSIONS - Il ne faut jamais dire fontaine… | EPISODE 10",
+     "vignette": "vignettes/u1cfDBS01fo.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 11,
+     "titre": "Ah si tu m'aimais comme je t'aime",
+     "youtube_id": "OuBiMhlqJ5Y",
+     "duree_secondes": 1488,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'ECOLE DES PASSIONS - Ah si tu m'aimais comme je t'aime | EPISODE 11",
+     "vignette": "vignettes/OuBiMhlqJ5Y.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 12,
+     "titre": "Secrets et mensonges",
+     "youtube_id": "bA3sdXCIZgE",
+     "duree_secondes": 1531,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'ECOLE DES PASSIONS - Secrets et mensonges | EPISODE 12",
+     "vignette": "vignettes/bA3sdXCIZgE.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 13,
+     "titre": "Un poing c'est tout",
+     "youtube_id": "mGRa5AwD8I8",
+     "duree_secondes": 1379,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'ECOLE DES PASSIONS - Un poing c'est tout | EPISODE 13",
+     "vignette": "vignettes/mGRa5AwD8I8.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 14,
+     "titre": "Du goût et des saveurs",
+     "youtube_id": "jfpqgXfAv_c",
+     "duree_secondes": 1441,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'ECOLE DES PASSIONS - Du goût et des saveurs | EPISODE 14",
+     "vignette": "vignettes/jfpqgXfAv_c.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 15,
+     "titre": "D'Éric et des claques",
+     "youtube_id": "6Lp8nnvDeeM",
+     "duree_secondes": 1464,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'ECOLE DES PASSIONS - D'Éric et des claques | EPISODE 15",
+     "vignette": "vignettes/6Lp8nnvDeeM.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 16,
+     "titre": "Le rap des villes et le rap des banlieues",
+     "youtube_id": "bP6l5Dt-lXI",
+     "duree_secondes": 1505,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'ECOLE DES PASSIONS - Le rap des villes et le rap des banlieues | EPISODE 16",
+     "vignette": "vignettes/bP6l5Dt-lXI.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 17,
+     "titre": "Une avant premiere",
+     "youtube_id": "xTNHVTcnHB4",
+     "duree_secondes": 1501,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'ECOLE DES PASSIONS - Une avant premiere | EPISODE 17",
+     "vignette": "vignettes/xTNHVTcnHB4.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 18,
+     "titre": "De querelles d'heures en querelleurs",
+     "youtube_id": "YqKk0Pns8js",
+     "duree_secondes": 1393,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'ECOLE DES PASSIONS - De querelles d'heures en querelleurs | EPISODE 18",
+     "vignette": "vignettes/YqKk0Pns8js.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 19,
+     "titre": "L' arrivée d'Agnès",
+     "youtube_id": "AicIUkRqRLQ",
+     "duree_secondes": 1456,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'ECOLE DES PASSIONS - L' arrivée d'Agnès | EPISODE 19",
+     "vignette": "vignettes/AicIUkRqRLQ.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 20,
+     "titre": "Plus on est de fous moins on rit",
+     "youtube_id": "qaPM9dXFB7Q",
+     "duree_secondes": 1503,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'ECOLE DES PASSIONS - Plus on est de fous moins on rit | EPISODE 20",
+     "vignette": "vignettes/qaPM9dXFB7Q.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 21,
+     "titre": "Les mauvais coeurs",
+     "youtube_id": "zdjoccVnTcU",
+     "duree_secondes": 1345,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'ECOLE DES PASSIONS - Les mauvais coeurs | EPISODE 21",
+     "vignette": "vignettes/zdjoccVnTcU.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 22,
+     "titre": "A trop jouer...",
+     "youtube_id": "Yp2j2KAvC2s",
+     "duree_secondes": 1503,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'ECOLE DES PASSIONS - A trop jouer... | EPISODE 22",
+     "vignette": "vignettes/Yp2j2KAvC2s.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 23,
+     "titre": "C'est la vie",
+     "youtube_id": "NKS3wd2xWU0",
+     "duree_secondes": 1427,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'ECOLE DES PASSIONS - C'est la vie | EPISODE 23",
+     "vignette": "vignettes/NKS3wd2xWU0.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 24,
+     "titre": "Casting",
+     "youtube_id": "q_A4v4Mvbsw",
+     "duree_secondes": 1457,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'ECOLE DES PASSIONS - Casting | EPISODE 24",
+     "vignette": "vignettes/q_A4v4Mvbsw.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 25,
+     "titre": "Le jeu et l'amour",
+     "youtube_id": "JSmp5nAcnPA",
+     "duree_secondes": 1506,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'ECOLE DES PASSIONS - Le jeu et l'amour | EPISODE 25",
+     "vignette": "vignettes/JSmp5nAcnPA.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 26,
+     "titre": "L'illusion n'est pas comique",
+     "youtube_id": "0u5eGl9CmmM",
+     "duree_secondes": 1450,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'ECOLE DES PASSIONS - L'illusion n'est pas comique | EPISODE 26",
+     "vignette": "vignettes/0u5eGl9CmmM.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 27,
+     "titre": "Un perd et passe",
+     "youtube_id": "v04Z3l0Qeys",
+     "duree_secondes": 1478,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'ECOLE DES PASSIONS - Un perd et passe | EPISODE 27",
+     "vignette": "vignettes/v04Z3l0Qeys.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 28,
+     "titre": "J'ai un projet",
+     "youtube_id": "cBmP7-vJUAs",
+     "duree_secondes": 1480,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'ECOLE DES PASSIONS - J'ai un projet | EPISODE 28",
+     "vignette": "vignettes/cBmP7-vJUAs.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 29,
+     "titre": "Tragi-comédie",
+     "youtube_id": "7TxhYkGVO1c",
+     "duree_secondes": 1464,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'ECOLE DES PASSIONS - Tragi-comédie | EPISODE 29",
+     "vignette": "vignettes/7TxhYkGVO1c.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 30,
+     "titre": "L'épreuve",
+     "youtube_id": "FB7lTexWSC8",
+     "duree_secondes": 1492,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'ECOLE DES PASSIONS - L'épreuve | EPISODE 30",
+     "vignette": "vignettes/FB7lTexWSC8.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 31,
+     "titre": "La lecture",
+     "youtube_id": "Q0oqVP3OgRs",
+     "duree_secondes": 1500,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'ECOLE DES PASSIONS - La lecture | EPISODE 31",
+     "vignette": "vignettes/Q0oqVP3OgRs.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 32,
+     "titre": "Enfin seuls",
+     "youtube_id": "vIFcOnqKzvs",
+     "duree_secondes": 1410,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'ECOLE DES PASSIONS - Enfin seuls | EPISODE 32",
+     "vignette": "vignettes/vIFcOnqKzvs.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 33,
+     "titre": "Surprise poker",
+     "youtube_id": "VTawGszTIm8",
+     "duree_secondes": 1361,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'ECOLE DES PASSIONS - Surprise poker | EPISODE 33",
+     "vignette": "vignettes/VTawGszTIm8.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 34,
+     "titre": "Un certain goût pour l'amour…",
+     "youtube_id": "_FGQZO6To3E",
+     "duree_secondes": 1447,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'ECOLE DES PASSIONS - Un certain goût pour l'amour… | EPISODE 34",
+     "vignette": "vignettes/_FGQZO6To3E.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 35,
+     "titre": "In fine",
+     "youtube_id": "iZkRBcFjDpU",
+     "duree_secondes": 1485,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'ECOLE DES PASSIONS - In fine | EPISODE 35",
+     "vignette": "vignettes/iZkRBcFjDpU.webp"
+    }
+   ],
+   "affiche": "affiches/o5-1fYjrswM.webp",
+   "vignette": "vignettes/o5-1fYjrswM.webp"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+// =====================================================================
+// GADÉ — palette « salle de cinéma lakay » : brun nuit, velours, madras
+// =====================================================================
+
+$nuit: #160e0b;        // brun nuit (fond)
+$nuit-2: #1f1410;      // fond des sections
+$velours: #2b1613;     // cartes, panneaux
+$velours-2: #3a1d19;   // survol
+$bordeaux: #6e1c27;    // velours de rideau
+$rouge: #c8322b;       // rouge madras
+$rouge-vif: #e0483c;
+$jaune: #f2b53a;       // jaune madras / lumière de projecteur
+$jaune-clair: #ffd27a;
+$vert: #2f7d4a;        // vert créole
+$vert-clair: #5fb47a;
+$creme: #f7ecd9;       // texte principal
+$sable: #cdb89a;       // texte secondaire
+$sable-2: #a8937a;     // texte discret (contraste AA sur $nuit)
+
+$font-titre: 'Young Serif', Georgia, 'Times New Roman', serif;
+$font-main: 'Figtree Variable', 'Segoe UI', system-ui, -apple-system, sans-serif;
+$font-main-hand: 'Kalam', 'Comic Sans MS', cursive;
+
+// --- Bootstrap ---
+$enable-shadows: false;
+$enable-negative-margins: true;
+$color-mode-type: data;
+
+$primary: $jaune;
+$secondary: $bordeaux;
+$success: $vert;
+$danger: $rouge;
+$warning: $jaune;
+$dark: $nuit;
+$light: $creme;
+
+$body-bg: $nuit;
+$body-color: $creme;
+$body-secondary-color: $sable;
+$link-color: $jaune;
+$link-hover-color: $jaune-clair;
+$link-decoration: none;
+
+$font-family-sans-serif: $font-main;
+$headings-font-family: $font-titre;
+$headings-font-weight: 400;
+$headings-line-height: 1.15;
+$font-size-base: 1rem;
+$line-height-base: 1.6;
+
+$border-radius: .75rem;
+$border-radius-sm: .5rem;
+$border-radius-lg: 1.1rem;
+$border-color: rgba($creme, .12);
+
+$input-bg: rgba($creme, .06);
+$input-color: $creme;
+$input-border-color: rgba($creme, .2);
+$input-focus-bg: rgba($creme, .09);
+$input-focus-border-color: $jaune;
+$input-focus-box-shadow: 0 0 0 .2rem rgba($jaune, .25);
+$input-placeholder-color: $sable-2;
+$form-select-indicator-color: $sable;
+$form-check-input-bg: rgba($creme, .08);
+$form-check-input-border: 1px solid rgba($creme, .35);
+$form-check-input-checked-bg-color: $jaune;
+$form-check-input-checked-border-color: $jaune;
+$form-label-color: $sable;
+$form-label-font-weight: 600;
+
+$btn-font-weight: 700;
+$btn-padding-y: .65rem;
+$btn-padding-x: 1.25rem;
+$btn-border-radius: 999px;
+$btn-border-radius-sm: 999px;
+$btn-border-radius-lg: 999px;
+
+$navbar-dark-color: rgba($creme, .82);
+$navbar-dark-hover-color: $creme;
+$navbar-dark-active-color: $jaune;
+
+$container-max-widths: (sm: 540px, md: 720px, lg: 960px, xl: 1180px, xxl: 1400px);

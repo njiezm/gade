@@ -1,0 +1,1465 @@
+{
+ "genere_le": "2026-10-11",
+ "programmes": [
+  {
+   "slug": "le-miracle-de-l-amour",
+   "titre": "Le Miracle de l'amour",
+   "format": "serie",
+   "univers": "series",
+   "genres": [
+    "sitcoms-90",
+    "romance"
+   ],
+   "tout_public": true,
+   "youtube_id": null,
+   "chaine_nom": "Génération Sitcoms",
+   "chaine_id": "UCVVubp6nL6vP8b6ls-Ybk-g",
+   "chaine_url": "https://www.youtube.com/channel/UCVVubp6nL6vP8b6ls-Ybk-g",
+   "ayant_droit": "AB Productions (chaîne officielle certifiée Génération Sitcoms)",
+   "duree_secondes": 1433,
+   "annee": 1995,
+   "description": "La suite d'Hélène et les garçons : la bande a grandi, mais les histoires de cœur continuent. La série intégrale, 159 épisodes.",
+   "disponible_jusqu_au": null,
+   "publie_le": null,
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "Emménagement",
+     "youtube_id": "1ONfx0eUmyU",
+     "duree_secondes": 1439,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 01 - Emménagement",
+     "vignette": "vignettes/1ONfx0eUmyU.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "L'une pour l'autre",
+     "youtube_id": "Npwg2K7riBE",
+     "duree_secondes": 1395,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 02 - L'une pour l'autre"
+    },
+    {
+     "saison": 1,
+     "numero": 3,
+     "titre": "Les fraises",
+     "youtube_id": "BkVWnn_sVOE",
+     "duree_secondes": 1395,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 03 - Les fraises"
+    },
+    {
+     "saison": 1,
+     "numero": 4,
+     "titre": "Les grands travaux",
+     "youtube_id": "C639lQ9tK9o",
+     "duree_secondes": 1401,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 04 - Les grands travaux"
+    },
+    {
+     "saison": 1,
+     "numero": 5,
+     "titre": "A un poil près",
+     "youtube_id": "EWmmzm_hPHk",
+     "duree_secondes": 1492,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 05 - A un poil près"
+    },
+    {
+     "saison": 1,
+     "numero": 6,
+     "titre": "Le ticket",
+     "youtube_id": "bNnIIR2hF6A",
+     "duree_secondes": 1449,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 06 - Le ticket"
+    },
+    {
+     "saison": 1,
+     "numero": 7,
+     "titre": "Zéro lave plus blanc",
+     "youtube_id": "-UOW7mwVSvs",
+     "duree_secondes": 1398,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 07 - Zéro lave plus blanc"
+    },
+    {
+     "saison": 1,
+     "numero": 8,
+     "titre": "Petite gueule d'amour",
+     "youtube_id": "yrKG54oRnRc",
+     "duree_secondes": 1396,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 08 - Petite gueule d'amour"
+    },
+    {
+     "saison": 1,
+     "numero": 9,
+     "titre": "Drame familial",
+     "youtube_id": "tUb1z03KTPM",
+     "duree_secondes": 1508,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 09 - Drame familial"
+    },
+    {
+     "saison": 1,
+     "numero": 10,
+     "titre": "Chère cousine",
+     "youtube_id": "-pWyYho6vTo",
+     "duree_secondes": 1455,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 10 - Chère cousine"
+    },
+    {
+     "saison": 1,
+     "numero": 11,
+     "titre": "Combat de coqs",
+     "youtube_id": "NvG3Py6Z3WY",
+     "duree_secondes": 1416,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 11 - Combat de coqs"
+    },
+    {
+     "saison": 1,
+     "numero": 12,
+     "titre": "Des souris et des garçons",
+     "youtube_id": "vzRdCszQH1g",
+     "duree_secondes": 1384,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 12 - Des souris et des garçons"
+    },
+    {
+     "saison": 1,
+     "numero": 13,
+     "titre": "La bonne affaire",
+     "youtube_id": "lkNdm4Ugt34",
+     "duree_secondes": 1446,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 13 - La bonne affaire"
+    },
+    {
+     "saison": 1,
+     "numero": 14,
+     "titre": "Un copain encombrant",
+     "youtube_id": "HEMjc2CBz54",
+     "duree_secondes": 1456,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 14 - Un copain encombrant"
+    },
+    {
+     "saison": 1,
+     "numero": 15,
+     "titre": "Tendres adieux",
+     "youtube_id": "GnobxVeBTqw",
+     "duree_secondes": 1444,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 15 - Tendres adieux"
+    },
+    {
+     "saison": 1,
+     "numero": 16,
+     "titre": "Les gaz toxiques",
+     "youtube_id": "ke_oTsiWYMA",
+     "duree_secondes": 1439,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 16 - Les gaz toxiques"
+    },
+    {
+     "saison": 1,
+     "numero": 17,
+     "titre": "Insistance",
+     "youtube_id": "LPKhTSO_Ifc",
+     "duree_secondes": 1413,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 17 - Insistance"
+    },
+    {
+     "saison": 1,
+     "numero": 18,
+     "titre": "Fâchés",
+     "youtube_id": "_2H4SXgVqyY",
+     "duree_secondes": 1480,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 18 - Fâchés"
+    },
+    {
+     "saison": 1,
+     "numero": 19,
+     "titre": "Séparation",
+     "youtube_id": "YUfhSYG2FIM",
+     "duree_secondes": 1412,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 19 - Séparation"
+    },
+    {
+     "saison": 1,
+     "numero": 20,
+     "titre": "Confidences",
+     "youtube_id": "qYR0QL0FnHE",
+     "duree_secondes": 1516,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 20 - Confidences"
+    },
+    {
+     "saison": 1,
+     "numero": 21,
+     "titre": "Les rames",
+     "youtube_id": "wmWVd8JwPlk",
+     "duree_secondes": 1438,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 21 - Les rames"
+    },
+    {
+     "saison": 1,
+     "numero": 22,
+     "titre": "Le groupe",
+     "youtube_id": "DxtvAm1mX-s",
+     "duree_secondes": 1511,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 22 - Le groupe"
+    },
+    {
+     "saison": 1,
+     "numero": 23,
+     "titre": "Chimères",
+     "youtube_id": "PiwW3_w1rG8",
+     "duree_secondes": 1471,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 23 - Chimères"
+    },
+    {
+     "saison": 1,
+     "numero": 24,
+     "titre": "Le bonheur pour tout le monde",
+     "youtube_id": "BfDFMg3_gEY",
+     "duree_secondes": 1399,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 24 - Le bonheur pour tout le monde"
+    },
+    {
+     "saison": 1,
+     "numero": 25,
+     "titre": "Le petit poète",
+     "youtube_id": "O9c9bybAOyw",
+     "duree_secondes": 1391,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 25 - Le petit poète"
+    },
+    {
+     "saison": 1,
+     "numero": 26,
+     "titre": "Retrouvailles",
+     "youtube_id": "Yr2NzjVfi8Q",
+     "duree_secondes": 1391,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 26 - Retrouvailles"
+    },
+    {
+     "saison": 1,
+     "numero": 27,
+     "titre": "Feuilles de route",
+     "youtube_id": "UKQFW9YOAwc",
+     "duree_secondes": 1536,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 27 - Feuilles de route"
+    },
+    {
+     "saison": 1,
+     "numero": 28,
+     "titre": "Solitudes",
+     "youtube_id": "eYqPeOGm7XE",
+     "duree_secondes": 1442,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 28 - Solitudes"
+    },
+    {
+     "saison": 1,
+     "numero": 29,
+     "titre": "Les cartes",
+     "youtube_id": "10zY-Cn6dO4",
+     "duree_secondes": 1458,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 29 - Les cartes"
+    },
+    {
+     "saison": 1,
+     "numero": 30,
+     "titre": "Engagement volontaire",
+     "youtube_id": "7gIPTePmJ44",
+     "duree_secondes": 1396,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 30 - Engagement volontaire"
+    },
+    {
+     "saison": 1,
+     "numero": 31,
+     "titre": "L'Allemagne",
+     "youtube_id": "tCMGFcSiL68",
+     "duree_secondes": 1476,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 31 - L'Allemagne"
+    },
+    {
+     "saison": 1,
+     "numero": 32,
+     "titre": "Contre-poison",
+     "youtube_id": "Zb8CD8YPcCE",
+     "duree_secondes": 1394,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 32 - Contre-poison"
+    },
+    {
+     "saison": 1,
+     "numero": 33,
+     "titre": "Le pantalon",
+     "youtube_id": "IyrLVTIhryo",
+     "duree_secondes": 1378,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 33 - Le pantalon"
+    },
+    {
+     "saison": 1,
+     "numero": 34,
+     "titre": "La punition",
+     "youtube_id": "SXUI_Zljs28",
+     "duree_secondes": 1464,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 34 - La punition"
+    },
+    {
+     "saison": 1,
+     "numero": 35,
+     "titre": "Comme frère et sœur",
+     "youtube_id": "Pftkmob5gjM",
+     "duree_secondes": 1433,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 35 - Comme frère et sœur"
+    },
+    {
+     "saison": 1,
+     "numero": 36,
+     "titre": "Coeur d'artichaut",
+     "youtube_id": "zAsDMO4ZvBs",
+     "duree_secondes": 1347,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 36 - Coeur d'artichaut"
+    },
+    {
+     "saison": 1,
+     "numero": 37,
+     "titre": "Le goût de vivre",
+     "youtube_id": "w2uQURprbSY",
+     "duree_secondes": 1416,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 37 - Le goût de vivre"
+    },
+    {
+     "saison": 1,
+     "numero": 38,
+     "titre": "Une matinée agitée",
+     "youtube_id": "KVoN-jDzTyQ",
+     "duree_secondes": 1385,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 38 - Une matinée agitée"
+    },
+    {
+     "saison": 1,
+     "numero": 39,
+     "titre": "Les relous",
+     "youtube_id": "sDCq3QNvgJ4",
+     "duree_secondes": 1493,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 39 - Les relous"
+    },
+    {
+     "saison": 1,
+     "numero": 40,
+     "titre": "Top models",
+     "youtube_id": "pV_TJGKHLPk",
+     "duree_secondes": 1433,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 40 - Top models"
+    },
+    {
+     "saison": 1,
+     "numero": 41,
+     "titre": "Retour de tournée",
+     "youtube_id": "qyB0xpoVL-w",
+     "duree_secondes": 1436,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 41 - Retour de tournée"
+    },
+    {
+     "saison": 1,
+     "numero": 42,
+     "titre": "L'enfant prodigue",
+     "youtube_id": "ON-hUMosJBQ",
+     "duree_secondes": 1487,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 42 - L'enfant prodigue"
+    },
+    {
+     "saison": 1,
+     "numero": 43,
+     "titre": "L'indiscrète",
+     "youtube_id": "TmqjJAIT9UI",
+     "duree_secondes": 1476,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 43 - L'indiscrète"
+    },
+    {
+     "saison": 1,
+     "numero": 44,
+     "titre": "Le changement",
+     "youtube_id": "DJsEjT67Ct8",
+     "duree_secondes": 1407,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 44 - Le changement"
+    },
+    {
+     "saison": 1,
+     "numero": 45,
+     "titre": "Disparitions",
+     "youtube_id": "TFfo264XcyU",
+     "duree_secondes": 1520,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 45 - Disparitions"
+    },
+    {
+     "saison": 1,
+     "numero": 46,
+     "titre": "La honte",
+     "youtube_id": "DskFFT-ZIE0",
+     "duree_secondes": 1456,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 46 - La honte"
+    },
+    {
+     "saison": 1,
+     "numero": 47,
+     "titre": "Les cadeaux",
+     "youtube_id": "1_aJ7aAgynE",
+     "duree_secondes": 1441,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 47 - Les cadeaux"
+    },
+    {
+     "saison": 1,
+     "numero": 48,
+     "titre": "Un barbu",
+     "youtube_id": "2xlKl1ZgpTg",
+     "duree_secondes": 1394,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 48 - Un barbu"
+    },
+    {
+     "saison": 1,
+     "numero": 49,
+     "titre": "Les tarots",
+     "youtube_id": "RnTkF7S6I_0",
+     "duree_secondes": 1472,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 49 - Les tarots"
+    },
+    {
+     "saison": 1,
+     "numero": 50,
+     "titre": "Un grand brun",
+     "youtube_id": "745Hx1-73Vk",
+     "duree_secondes": 1372,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 50 - Un grand brun"
+    },
+    {
+     "saison": 1,
+     "numero": 51,
+     "titre": "L'erreur",
+     "youtube_id": "kg1MyvmhGBM",
+     "duree_secondes": 1479,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 51 - L'erreur"
+    },
+    {
+     "saison": 1,
+     "numero": 52,
+     "titre": "La peine",
+     "youtube_id": "rzrAtpsbKh0",
+     "duree_secondes": 1502,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 52 - La peine"
+    },
+    {
+     "saison": 1,
+     "numero": 53,
+     "titre": "Copain copain",
+     "youtube_id": "SFyLp4NTipo",
+     "duree_secondes": 1365,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 53 - Copain copain"
+    },
+    {
+     "saison": 1,
+     "numero": 54,
+     "titre": "Méli mélo",
+     "youtube_id": "iaf5pZK163Q",
+     "duree_secondes": 1337,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 54 - Méli mélo"
+    },
+    {
+     "saison": 1,
+     "numero": 55,
+     "titre": "Encombrement",
+     "youtube_id": "KsZVEcGnB9A",
+     "duree_secondes": 1333,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 55 - Encombrement"
+    },
+    {
+     "saison": 1,
+     "numero": 56,
+     "titre": "La solution",
+     "youtube_id": "OUmNN9N5mDs",
+     "duree_secondes": 1364,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 56 - La solution"
+    },
+    {
+     "saison": 1,
+     "numero": 57,
+     "titre": "Trafic",
+     "youtube_id": "wi5cwNWqi9I",
+     "duree_secondes": 1315,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 57 - Trafic"
+    },
+    {
+     "saison": 1,
+     "numero": 58,
+     "titre": "Enquête",
+     "youtube_id": "D-t8F7KJdgs",
+     "duree_secondes": 1399,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 58 - Enquête"
+    },
+    {
+     "saison": 1,
+     "numero": 59,
+     "titre": "La passionnée",
+     "youtube_id": "xpsPQoR1mPU",
+     "duree_secondes": 1414,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 59 - La passionnée"
+    },
+    {
+     "saison": 1,
+     "numero": 60,
+     "titre": "La crise de foie",
+     "youtube_id": "k3kxQWjPLcM",
+     "duree_secondes": 1416,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 60 - La crise de foie"
+    },
+    {
+     "saison": 1,
+     "numero": 61,
+     "titre": "Confusion",
+     "youtube_id": "L6xYBIP0GqE",
+     "duree_secondes": 1480,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 61 - Confusion"
+    },
+    {
+     "saison": 1,
+     "numero": 62,
+     "titre": "Le soupirant",
+     "youtube_id": "fNzumHiP508",
+     "duree_secondes": 1450,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 62 - Le soupirant"
+    },
+    {
+     "saison": 1,
+     "numero": 63,
+     "titre": "Le producteur",
+     "youtube_id": "WGn8NqJE0Aw",
+     "duree_secondes": 1420,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 63 - Le producteur"
+    },
+    {
+     "saison": 1,
+     "numero": 64,
+     "titre": "Un manager pas comme les autres",
+     "youtube_id": "TMLuc6vuDlE",
+     "duree_secondes": 1440,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 64 - Un manager pas comme les autres"
+    },
+    {
+     "saison": 1,
+     "numero": 65,
+     "titre": "L'amour fou",
+     "youtube_id": "DudjnHtbvp8",
+     "duree_secondes": 1393,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 65 - L'amour fou"
+    },
+    {
+     "saison": 1,
+     "numero": 66,
+     "titre": "Imprévus",
+     "youtube_id": "u1iBTyE9TmQ",
+     "duree_secondes": 1465,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 66 - Imprévus"
+    },
+    {
+     "saison": 1,
+     "numero": 67,
+     "titre": "Curiosité",
+     "youtube_id": "_aZ2SQf5ps0",
+     "duree_secondes": 1525,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 67 - Curiosité"
+    },
+    {
+     "saison": 1,
+     "numero": 68,
+     "titre": "Rendez-vous",
+     "youtube_id": "-9DCcAr1GM8",
+     "duree_secondes": 1417,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 68 - Rendez-vous"
+    },
+    {
+     "saison": 1,
+     "numero": 69,
+     "titre": "Le bracelet",
+     "youtube_id": "hWQtrwMzfl0",
+     "duree_secondes": 1455,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 69 - Le bracelet"
+    },
+    {
+     "saison": 1,
+     "numero": 70,
+     "titre": "Ballades",
+     "youtube_id": "9KzgWy8tGCI",
+     "duree_secondes": 1344,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 70 - Ballades"
+    },
+    {
+     "saison": 1,
+     "numero": 71,
+     "titre": "Giroflées",
+     "youtube_id": "DWV7G-O9p70",
+     "duree_secondes": 1486,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 71 - Giroflées"
+    },
+    {
+     "saison": 1,
+     "numero": 72,
+     "titre": "Le clash",
+     "youtube_id": "48mhACbkTr8",
+     "duree_secondes": 1445,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 72 - Le clash"
+    },
+    {
+     "saison": 1,
+     "numero": 73,
+     "titre": "La réconciliation impossible",
+     "youtube_id": "MQGJNtT2AsQ",
+     "duree_secondes": 1425,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 73 - La réconciliation impossible"
+    },
+    {
+     "saison": 1,
+     "numero": 74,
+     "titre": "Le retour",
+     "youtube_id": "9SbhV8IUBdY",
+     "duree_secondes": 1445,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 74 - Le retour"
+    },
+    {
+     "saison": 1,
+     "numero": 75,
+     "titre": "Nouvelle chanson",
+     "youtube_id": "obK1TKQAM2M",
+     "duree_secondes": 1393,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 75 - Nouvelle chanson"
+    },
+    {
+     "saison": 1,
+     "numero": 76,
+     "titre": "Imagine",
+     "youtube_id": "GA0kzCYS54w",
+     "duree_secondes": 1532,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 76 - Imagine"
+    },
+    {
+     "saison": 1,
+     "numero": 77,
+     "titre": "Excuses",
+     "youtube_id": "fyTnbyScBpw",
+     "duree_secondes": 1313,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 77 - Excuses"
+    },
+    {
+     "saison": 1,
+     "numero": 78,
+     "titre": "Miracle",
+     "youtube_id": "rv0r27t_TcY",
+     "duree_secondes": 1458,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 78 - Miracle"
+    },
+    {
+     "saison": 1,
+     "numero": 79,
+     "titre": "Reprise",
+     "youtube_id": "pOTDoMAppak",
+     "duree_secondes": 1327,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 79 - Reprise"
+    },
+    {
+     "saison": 1,
+     "numero": 80,
+     "titre": "Catastrophes",
+     "youtube_id": "z1fWXt-WS4U",
+     "duree_secondes": 1340,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 80 - Catastrophes"
+    },
+    {
+     "saison": 1,
+     "numero": 81,
+     "titre": "Gaffeur",
+     "youtube_id": "oPSYi4941hY",
+     "duree_secondes": 1347,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 81 - Gaffeur"
+    },
+    {
+     "saison": 1,
+     "numero": 82,
+     "titre": "Soupçons",
+     "youtube_id": "doHY1KhlSRA",
+     "duree_secondes": 1372,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 82 - Soupçons"
+    },
+    {
+     "saison": 1,
+     "numero": 83,
+     "titre": "Ménage",
+     "youtube_id": "2vGUqkbLykQ",
+     "duree_secondes": 1393,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 83 - Ménage"
+    },
+    {
+     "saison": 1,
+     "numero": 84,
+     "titre": "La nouvelle",
+     "youtube_id": "K7ecJad5Pbs",
+     "duree_secondes": 1267,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 84 - La nouvelle"
+    },
+    {
+     "saison": 1,
+     "numero": 85,
+     "titre": "Boule de neige",
+     "youtube_id": "uammsC79po4",
+     "duree_secondes": 1373,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 85 - Boule de neige"
+    },
+    {
+     "saison": 1,
+     "numero": 86,
+     "titre": "Sauvetage",
+     "youtube_id": "N7ORTIPbN_M",
+     "duree_secondes": 1216,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 86 - Sauvetage"
+    },
+    {
+     "saison": 1,
+     "numero": 87,
+     "titre": "Le nouveau guitariste",
+     "youtube_id": "-xapgHz19ss",
+     "duree_secondes": 1346,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 87 - Le nouveau guitariste"
+    },
+    {
+     "saison": 1,
+     "numero": 88,
+     "titre": "Remous",
+     "youtube_id": "42o3j8UubHo",
+     "duree_secondes": 1295,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 88 - Remous"
+    },
+    {
+     "saison": 1,
+     "numero": 89,
+     "titre": "Le piège",
+     "youtube_id": "eLGDAboxVuE",
+     "duree_secondes": 1460,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 89 - Le piège"
+    },
+    {
+     "saison": 1,
+     "numero": 90,
+     "titre": "Nouveau départ",
+     "youtube_id": "sXQABx_c1rY",
+     "duree_secondes": 1402,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 90 - Nouveau départ"
+    },
+    {
+     "saison": 1,
+     "numero": 91,
+     "titre": "La belle vie",
+     "youtube_id": "bgGbvV_qrxM",
+     "duree_secondes": 1413,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 91 - La belle vie"
+    },
+    {
+     "saison": 1,
+     "numero": 92,
+     "titre": "La voleuse",
+     "youtube_id": "3-8opLEsqGw",
+     "duree_secondes": 1493,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 92 - La voleuse"
+    },
+    {
+     "saison": 1,
+     "numero": 93,
+     "titre": "Mensonge",
+     "youtube_id": "1UPjJ4Oziq8",
+     "duree_secondes": 1415,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 93 - Mensonge"
+    },
+    {
+     "saison": 1,
+     "numero": 94,
+     "titre": "Un drôle de coco",
+     "youtube_id": "9yNwk9ZDGpA",
+     "duree_secondes": 1509,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 94 - Un drôle de coco"
+    },
+    {
+     "saison": 1,
+     "numero": 95,
+     "titre": "La vengeance",
+     "youtube_id": "hXwCVJYuzg8",
+     "duree_secondes": 1486,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 95 - La vengeance"
+    },
+    {
+     "saison": 1,
+     "numero": 96,
+     "titre": "Etrange souvenir",
+     "youtube_id": "mszSCGmRVrA",
+     "duree_secondes": 1480,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 96 - Etrange souvenir"
+    },
+    {
+     "saison": 1,
+     "numero": 97,
+     "titre": "Cas de conscience",
+     "youtube_id": "fBKs3Ge_sK8",
+     "duree_secondes": 1389,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 97 - Cas de conscience"
+    },
+    {
+     "saison": 1,
+     "numero": 98,
+     "titre": "José",
+     "youtube_id": "UYNUo9PihLc",
+     "duree_secondes": 1385,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 98 - José"
+    },
+    {
+     "saison": 1,
+     "numero": 99,
+     "titre": "La disparition",
+     "youtube_id": "ArGFkjzQ0nw",
+     "duree_secondes": 1394,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 99 - La disparition"
+    },
+    {
+     "saison": 1,
+     "numero": 100,
+     "titre": "Le pendule",
+     "youtube_id": "jN5vRdjqRdA",
+     "duree_secondes": 1536,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 100 - Le pendule"
+    },
+    {
+     "saison": 1,
+     "numero": 101,
+     "titre": "La décision",
+     "youtube_id": "LLwF2uT1qLE",
+     "duree_secondes": 1477,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 101 - La décision"
+    },
+    {
+     "saison": 1,
+     "numero": 102,
+     "titre": "Dépression",
+     "youtube_id": "k5XsAxlkxUY",
+     "duree_secondes": 1467,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 102 - Dépression"
+    },
+    {
+     "saison": 1,
+     "numero": 103,
+     "titre": "Loto",
+     "youtube_id": "2t0u8eCTPoM",
+     "duree_secondes": 1439,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 103 - Loto"
+    },
+    {
+     "saison": 1,
+     "numero": 104,
+     "titre": "Nouvelle passion",
+     "youtube_id": "LTLlgoDipE0",
+     "duree_secondes": 1398,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 104 - Nouvelle passion"
+    },
+    {
+     "saison": 1,
+     "numero": 105,
+     "titre": "Le démon",
+     "youtube_id": "JlfdtON3f3o",
+     "duree_secondes": 1382,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 105 - Le démon"
+    },
+    {
+     "saison": 1,
+     "numero": 106,
+     "titre": "Le vent du désespoir",
+     "youtube_id": "sA4e0EFSJXs",
+     "duree_secondes": 1406,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 106 - Le vent du désespoir"
+    },
+    {
+     "saison": 1,
+     "numero": 107,
+     "titre": "Pris au piège",
+     "youtube_id": "qp-efSiHeqA",
+     "duree_secondes": 1432,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 107 - Pris au piège"
+    },
+    {
+     "saison": 1,
+     "numero": 108,
+     "titre": "La milliardaire",
+     "youtube_id": "V2sWA8yY_xQ",
+     "duree_secondes": 1489,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 108 - La milliardaire"
+    },
+    {
+     "saison": 1,
+     "numero": 109,
+     "titre": "Une fugue inaperçue",
+     "youtube_id": "xEVoLt1CwVI",
+     "duree_secondes": 1407,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 109 - Une fugue inaperçue"
+    },
+    {
+     "saison": 1,
+     "numero": 110,
+     "titre": "Course poursuite",
+     "youtube_id": "klWoNFH1eXo",
+     "duree_secondes": 1461,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 110 - Course poursuite"
+    },
+    {
+     "saison": 1,
+     "numero": 111,
+     "titre": "Vietnam",
+     "youtube_id": "wriQA9AK_V8",
+     "duree_secondes": 1480,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 111 - Vietnam"
+    },
+    {
+     "saison": 1,
+     "numero": 112,
+     "titre": "Aveux difficiles",
+     "youtube_id": "Pb4d9l-QZRg",
+     "duree_secondes": 1503,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 112 - Aveux difficiles"
+    },
+    {
+     "saison": 1,
+     "numero": 113,
+     "titre": "La dentiste",
+     "youtube_id": "u3BCPKSNvuc",
+     "duree_secondes": 1445,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 113 - La dentiste"
+    },
+    {
+     "saison": 1,
+     "numero": 114,
+     "titre": "Juste à temps",
+     "youtube_id": "MOpFcgyL3WQ",
+     "duree_secondes": 1471,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 114 - Juste à temps"
+    },
+    {
+     "saison": 1,
+     "numero": 115,
+     "titre": "L'activateur de passion",
+     "youtube_id": "_M7EL1iSpRQ",
+     "duree_secondes": 1458,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 115 - L'activateur de passion"
+    },
+    {
+     "saison": 1,
+     "numero": 116,
+     "titre": "Départ et jalousie",
+     "youtube_id": "bi1ixLla8cI",
+     "duree_secondes": 1448,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 116 - Départ et jalousie"
+    },
+    {
+     "saison": 1,
+     "numero": 117,
+     "titre": "Valentin",
+     "youtube_id": "X8zmwG4Cuak",
+     "duree_secondes": 1406,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 117 - Valentin"
+    },
+    {
+     "saison": 1,
+     "numero": 118,
+     "titre": "L'ami",
+     "youtube_id": "GQvqAxp96n0",
+     "duree_secondes": 1451,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 118 - L'ami"
+    },
+    {
+     "saison": 1,
+     "numero": 119,
+     "titre": "Laly...le retour",
+     "youtube_id": "VLStI8Kj1q4",
+     "duree_secondes": 1382,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 119 - Laly...le retour"
+    },
+    {
+     "saison": 1,
+     "numero": 120,
+     "titre": "Un film presque parfait",
+     "youtube_id": "sVL8GR9DLLo",
+     "duree_secondes": 1433,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 120 - Un film presque parfait"
+    },
+    {
+     "saison": 1,
+     "numero": 121,
+     "titre": "Règlement de comptes",
+     "youtube_id": "XhsX-MBbPhM",
+     "duree_secondes": 1281,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 121 - Règlement de comptes"
+    },
+    {
+     "saison": 1,
+     "numero": 122,
+     "titre": "Action",
+     "youtube_id": "TfHR0J54Cr8",
+     "duree_secondes": 1383,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 122 - Action"
+    },
+    {
+     "saison": 1,
+     "numero": 123,
+     "titre": "Drame",
+     "youtube_id": "vCAkHg6BU1s",
+     "duree_secondes": 1425,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 123 - Drame"
+    },
+    {
+     "saison": 1,
+     "numero": 124,
+     "titre": "A l'écoute",
+     "youtube_id": "JZtQQVz7qD4",
+     "duree_secondes": 1412,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 124 - A l'écoute"
+    },
+    {
+     "saison": 1,
+     "numero": 125,
+     "titre": "Aline",
+     "youtube_id": "Seh3KwkFDD0",
+     "duree_secondes": 1397,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 125 - Aline"
+    },
+    {
+     "saison": 1,
+     "numero": 126,
+     "titre": "Confidences",
+     "youtube_id": "dYnL4t7Jb4U",
+     "duree_secondes": 1415,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 126 - Confidences"
+    },
+    {
+     "saison": 1,
+     "numero": 127,
+     "titre": "Le doute",
+     "youtube_id": "EZ3ZIm_ZQX8",
+     "duree_secondes": 1381,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 127 - Le doute"
+    },
+    {
+     "saison": 1,
+     "numero": 128,
+     "titre": "Regrets",
+     "youtube_id": "3N0piSl6gGc",
+     "duree_secondes": 1497,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 128 - Regrets"
+    },
+    {
+     "saison": 1,
+     "numero": 129,
+     "titre": "Retour à la vie",
+     "youtube_id": "mrwtnHIe1_s",
+     "duree_secondes": 1501,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 129 - Retour à la vie"
+    },
+    {
+     "saison": 1,
+     "numero": 130,
+     "titre": "Adieux",
+     "youtube_id": "Xo_VwsJY8xE",
+     "duree_secondes": 1511,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 130 - Adieux"
+    },
+    {
+     "saison": 1,
+     "numero": 131,
+     "titre": "La coupe est pleine",
+     "youtube_id": "lv3PE2535HE",
+     "duree_secondes": 1499,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 131 - La coupe est pleine"
+    },
+    {
+     "saison": 1,
+     "numero": 132,
+     "titre": "Un amour pour deux",
+     "youtube_id": "3tU7Fek5kEU",
+     "duree_secondes": 1485,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 132 - Un amour pour deux"
+    },
+    {
+     "saison": 1,
+     "numero": 133,
+     "titre": "Amour perdu",
+     "youtube_id": "gSmr3UdlmSQ",
+     "duree_secondes": 1384,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 133 - Amour perdu"
+    },
+    {
+     "saison": 1,
+     "numero": 134,
+     "titre": "Décision",
+     "youtube_id": "I5bu9HZdaYY",
+     "duree_secondes": 1437,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 134 - Décision"
+    },
+    {
+     "saison": 1,
+     "numero": 135,
+     "titre": "Le choix de sébastien",
+     "youtube_id": "Mr9h6oYbW38",
+     "duree_secondes": 1443,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 135 - Le choix de sébastien"
+    },
+    {
+     "saison": 1,
+     "numero": 136,
+     "titre": "Le fond du désespoir",
+     "youtube_id": "xhONAG3he6k",
+     "duree_secondes": 1461,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 136 - Le fond du désespoir"
+    },
+    {
+     "saison": 1,
+     "numero": 137,
+     "titre": "Trouv'bonheur",
+     "youtube_id": "DYSITXPAva8",
+     "duree_secondes": 1450,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 137 - Trouv'bonheur"
+    },
+    {
+     "saison": 1,
+     "numero": 138,
+     "titre": "Baba cool",
+     "youtube_id": "0_l8FHFPuVA",
+     "duree_secondes": 1448,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 138 - Baba cool"
+    },
+    {
+     "saison": 1,
+     "numero": 139,
+     "titre": "Pas cool",
+     "youtube_id": "-fYR9IeG3Ro",
+     "duree_secondes": 1404,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 139 - Pas cool"
+    },
+    {
+     "saison": 1,
+     "numero": 140,
+     "titre": "Une nouvelle histoire",
+     "youtube_id": "6kLAIyeOfu8",
+     "duree_secondes": 1438,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 140 - Une nouvelle histoire"
+    },
+    {
+     "saison": 1,
+     "numero": 141,
+     "titre": "Le choc",
+     "youtube_id": "n5Phv27QOz0",
+     "duree_secondes": 1485,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 141 - Le choc"
+    },
+    {
+     "saison": 1,
+     "numero": 142,
+     "titre": "La descente",
+     "youtube_id": "nQqRzUW046E",
+     "duree_secondes": 1466,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 142 - La descente"
+    },
+    {
+     "saison": 1,
+     "numero": 143,
+     "titre": "Pente dangereuse",
+     "youtube_id": "l16ZqQ-PGSM",
+     "duree_secondes": 1427,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 143 - Pente dangereuse"
+    },
+    {
+     "saison": 1,
+     "numero": 144,
+     "titre": "L'enfer",
+     "youtube_id": "-QnxKkzhrmA",
+     "duree_secondes": 1503,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 144 - L'enfer"
+    },
+    {
+     "saison": 1,
+     "numero": 145,
+     "titre": "Remontée",
+     "youtube_id": "ZHDW9EnTEXg",
+     "duree_secondes": 1469,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 145 - Remontée"
+    },
+    {
+     "saison": 1,
+     "numero": 146,
+     "titre": "Armaguedon",
+     "youtube_id": "y7iWIw8Jbs0",
+     "duree_secondes": 1368,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 146 - Armaguedon"
+    },
+    {
+     "saison": 1,
+     "numero": 147,
+     "titre": "Mode d'emploi",
+     "youtube_id": "z87eHC60atk",
+     "duree_secondes": 1483,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 147 - Mode d'emploi"
+    },
+    {
+     "saison": 1,
+     "numero": 148,
+     "titre": "Comme ma sœur",
+     "youtube_id": "SCQLQZujalQ",
+     "duree_secondes": 1439,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 148 - Comme ma sœur"
+    },
+    {
+     "saison": 1,
+     "numero": 149,
+     "titre": "Irrésistible",
+     "youtube_id": "6CuHiyP25gA",
+     "duree_secondes": 1331,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 149 - Irrésistible"
+    },
+    {
+     "saison": 1,
+     "numero": 150,
+     "titre": "Deux",
+     "youtube_id": "FRe1wKPyo40",
+     "duree_secondes": 1327,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 150 - Deux"
+    },
+    {
+     "saison": 1,
+     "numero": 151,
+     "titre": "Complications",
+     "youtube_id": "EiFCgdFb-eE",
+     "duree_secondes": 1240,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 151 - Complications"
+    },
+    {
+     "saison": 1,
+     "numero": 152,
+     "titre": "Fracture",
+     "youtube_id": "7rdD0aa7j9Q",
+     "duree_secondes": 1412,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 152 - Fracture"
+    },
+    {
+     "saison": 1,
+     "numero": 153,
+     "titre": "Envoûtement",
+     "youtube_id": "8guZDCnyvZc",
+     "duree_secondes": 1497,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 153 - Envoûtement"
+    },
+    {
+     "saison": 1,
+     "numero": 154,
+     "titre": "Folie",
+     "youtube_id": "OAqJz-nqycI",
+     "duree_secondes": 1403,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 154 - Folie"
+    },
+    {
+     "saison": 1,
+     "numero": 155,
+     "titre": "Convalescence",
+     "youtube_id": "bMVOjp7O7RQ",
+     "duree_secondes": 1340,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 155 - Convalescence"
+    },
+    {
+     "saison": 1,
+     "numero": 156,
+     "titre": "Une belle histoire",
+     "youtube_id": "YnnFVGBBmZk",
+     "duree_secondes": 1371,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 156 - Une belle histoire"
+    },
+    {
+     "saison": 1,
+     "numero": 157,
+     "titre": "Faux frère",
+     "youtube_id": "y6i4ZTtPIOM",
+     "duree_secondes": 1392,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 157 - Faux frère"
+    },
+    {
+     "saison": 1,
+     "numero": 158,
+     "titre": "Amour impossible",
+     "youtube_id": "UD4EFqH8RBg",
+     "duree_secondes": 1364,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 158 - Amour impossible"
+    },
+    {
+     "saison": 1,
+     "numero": 159,
+     "titre": "Le gros lot",
+     "youtube_id": "xWCFwwmUC8k",
+     "duree_secondes": 1467,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le miracle de l'amour - Épisode 159 - Le gros lot"
+    }
+   ],
+   "affiche": "affiches/1ONfx0eUmyU.webp",
+   "vignette": "vignettes/1ONfx0eUmyU.webp"
+  }
+ ]
+}

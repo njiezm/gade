@@ -1,0 +1,2999 @@
+{
+ "genere_le": "2026-10-11",
+ "programmes": [
+  {
+   "slug": "les-filles-d-a-cote",
+   "titre": "Les Filles d'à côté",
+   "format": "serie",
+   "univers": "series",
+   "genres": [
+    "sitcoms-90",
+    "comedie",
+    "romance"
+   ],
+   "tout_public": true,
+   "youtube_id": null,
+   "chaine_nom": "Génération Sitcoms",
+   "chaine_id": "UCVVubp6nL6vP8b6ls-Ybk-g",
+   "chaine_url": "https://www.youtube.com/channel/UCVVubp6nL6vP8b6ls-Ybk-g",
+   "ayant_droit": "AB Productions (chaîne officielle certifiée Génération Sitcoms)",
+   "duree_secondes": 1463,
+   "annee": 1993,
+   "description": "Trois copines emménagent à côté de trois garçons : quiproquos, séduction et éclats de rire à chaque épisode. La série intégrale, 170 épisodes.",
+   "disponible_jusqu_au": null,
+   "publie_le": null,
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "Un appartement de rêve",
+     "youtube_id": "BswBi01Z3So",
+     "duree_secondes": 1480,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "💋 LES FILLES D'À CÔTÉ | Un appartement de rêve | ÉPISODE 1",
+     "vignette": "vignettes/BswBi01Z3So.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "Des voisins charmants",
+     "youtube_id": "-yoBk5DTwbw",
+     "duree_secondes": 1430,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "💋 LES FILLES D'À CÔTÉ | Des voisins charmants | ÉPISODE 2"
+    },
+    {
+     "saison": 1,
+     "numero": 3,
+     "titre": "Les clés mentent",
+     "youtube_id": "sZpb9HHNGCA",
+     "duree_secondes": 1466,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "💋 LES FILLES D'À CÔTÉ | Les clés mentent | ÉPISODE 3"
+    },
+    {
+     "saison": 1,
+     "numero": 4,
+     "titre": "Panne de télé",
+     "youtube_id": "zA_rpxTb6OQ",
+     "duree_secondes": 1416,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à coté - Épisode 4 - Panne de télé"
+    },
+    {
+     "saison": 1,
+     "numero": 5,
+     "titre": "Jalousies",
+     "youtube_id": "_VLNyADAj2k",
+     "duree_secondes": 1404,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à coté - Épisode  5 - Jalousies"
+    },
+    {
+     "saison": 1,
+     "numero": 6,
+     "titre": "Electroménager",
+     "youtube_id": "6EADkic0JkA",
+     "duree_secondes": 1438,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à coté - Épisode  6 - Electroménager"
+    },
+    {
+     "saison": 1,
+     "numero": 7,
+     "titre": "Un gros chagrin",
+     "youtube_id": "OS5H7jM2rNk",
+     "duree_secondes": 1496,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 7 - Un gros chagrin"
+    },
+    {
+     "saison": 1,
+     "numero": 8,
+     "titre": "Le petit monstre",
+     "youtube_id": "0VWJogHCNbU",
+     "duree_secondes": 1440,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à coté - Épisode 8 - Le petit monstre"
+    },
+    {
+     "saison": 1,
+     "numero": 9,
+     "titre": "L'amour, toujours l'amour",
+     "youtube_id": "iLRXezwyVW4",
+     "duree_secondes": 1510,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode  9 - L'amour, toujours l'amour"
+    },
+    {
+     "saison": 1,
+     "numero": 10,
+     "titre": "L'inconnu",
+     "youtube_id": "I3vkPFY-nU0",
+     "duree_secondes": 1360,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à coté - Épisode 10 - L'inconnu"
+    },
+    {
+     "saison": 1,
+     "numero": 11,
+     "titre": "Une belle histoire",
+     "youtube_id": "aCxJLnCBYZ0",
+     "duree_secondes": 1455,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 11 - Une belle histoire"
+    },
+    {
+     "saison": 1,
+     "numero": 12,
+     "titre": "Faux-frères",
+     "youtube_id": "gSfiX6L_KJk",
+     "duree_secondes": 1401,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 12 - Faux-frères"
+    },
+    {
+     "saison": 1,
+     "numero": 13,
+     "titre": "Surppression générale",
+     "youtube_id": "KbOW5914xos",
+     "duree_secondes": 1395,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 13 - Surppression générale"
+    },
+    {
+     "saison": 1,
+     "numero": 14,
+     "titre": "Lettre d'amour",
+     "youtube_id": "BrGDI6Cr1Lo",
+     "duree_secondes": 1445,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 14 - Lettre d'amour"
+    },
+    {
+     "saison": 1,
+     "numero": 15,
+     "titre": "Accident",
+     "youtube_id": "Vf83b6yfB_w",
+     "duree_secondes": 1416,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 15 - Accident"
+    },
+    {
+     "saison": 1,
+     "numero": 16,
+     "titre": "Un cœur tendre",
+     "youtube_id": "azgUDio5Zuk",
+     "duree_secondes": 1398,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 16 - Un cœur tendre"
+    },
+    {
+     "saison": 1,
+     "numero": 17,
+     "titre": "Les fleurs",
+     "youtube_id": "cnBihFzFy9E",
+     "duree_secondes": 1513,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 17 - Les fleurs"
+    },
+    {
+     "saison": 1,
+     "numero": 18,
+     "titre": "Une bonne copine",
+     "youtube_id": "3cq3s-F-RUc",
+     "duree_secondes": 1437,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 18 - Une bonne copine"
+    },
+    {
+     "saison": 1,
+     "numero": 19,
+     "titre": "Question d'humanité",
+     "youtube_id": "6nhO9EvZCZE",
+     "duree_secondes": 1460,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 19 - Question d'humanité"
+    },
+    {
+     "saison": 1,
+     "numero": 20,
+     "titre": "Sauvetage amer",
+     "youtube_id": "JDLcTKoh9uE",
+     "duree_secondes": 1420,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 20 - Sauvetage amer"
+    },
+    {
+     "saison": 1,
+     "numero": 21,
+     "titre": "Rumeurs",
+     "youtube_id": "-Z-HZCYAuwc",
+     "duree_secondes": 1490,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 21 - Rumeurs"
+    },
+    {
+     "saison": 1,
+     "numero": 22,
+     "titre": "Un plan génial",
+     "youtube_id": "ZOJVFBhFeLA",
+     "duree_secondes": 1463,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 22 - Un plan génial"
+    },
+    {
+     "saison": 1,
+     "numero": 23,
+     "titre": "La foulure",
+     "youtube_id": "gyxXIPq6iD8",
+     "duree_secondes": 1386,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 23 - La foulure"
+    },
+    {
+     "saison": 1,
+     "numero": 24,
+     "titre": "Mauvaise humeur",
+     "youtube_id": "b_B7-RyYk-I",
+     "duree_secondes": 1500,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 24 - Mauvaise humeur"
+    },
+    {
+     "saison": 1,
+     "numero": 25,
+     "titre": "Le rival",
+     "youtube_id": "t-Wt5M3L5J8",
+     "duree_secondes": 1477,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 25 - Le rival"
+    },
+    {
+     "saison": 1,
+     "numero": 26,
+     "titre": "La tombola",
+     "youtube_id": "IFFyeX3ghs0",
+     "duree_secondes": 1469,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 26 - La tombola"
+    },
+    {
+     "saison": 1,
+     "numero": 27,
+     "titre": "Cocooning",
+     "youtube_id": "3JhnPuNp1_k",
+     "duree_secondes": 1504,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 27 - Cocooning"
+    },
+    {
+     "saison": 1,
+     "numero": 28,
+     "titre": "Compensations",
+     "youtube_id": "3lDw1B8ocYs",
+     "duree_secondes": 1474,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 28 - Compensations"
+    },
+    {
+     "saison": 1,
+     "numero": 29,
+     "titre": "Damnation",
+     "youtube_id": "R4qI5Lb-UeA",
+     "duree_secondes": 1407,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 29 - Damnation"
+    },
+    {
+     "saison": 1,
+     "numero": 30,
+     "titre": "La danse",
+     "youtube_id": "9ZVQr5yOMpU",
+     "duree_secondes": 1495,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 30 - La danse"
+    },
+    {
+     "saison": 1,
+     "numero": 31,
+     "titre": "Tension",
+     "youtube_id": "jA8Wzdq33Ok",
+     "duree_secondes": 1501,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 31 - Tension"
+    },
+    {
+     "saison": 1,
+     "numero": 32,
+     "titre": "Lis tes ratures",
+     "youtube_id": "1yoN3KcmZ4w",
+     "duree_secondes": 1421,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 32 - Lis tes ratures"
+    },
+    {
+     "saison": 1,
+     "numero": 33,
+     "titre": "Les Excuses",
+     "youtube_id": "dxE0D9Sflic",
+     "duree_secondes": 1455,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 33 - Les Excuses"
+    },
+    {
+     "saison": 1,
+     "numero": 34,
+     "titre": "La caméra vidéo",
+     "youtube_id": "GdrbaAiBs2U",
+     "duree_secondes": 1339,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 34 - La caméra vidéo"
+    },
+    {
+     "saison": 1,
+     "numero": 35,
+     "titre": "La cabine de bronzage",
+     "youtube_id": "NEA0JAchHpA",
+     "duree_secondes": 1439,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 35 - La cabine de bronzage"
+    },
+    {
+     "saison": 1,
+     "numero": 36,
+     "titre": "L'idole (avec Mallaury Nataf)",
+     "youtube_id": "Sbl0HGIXo-s",
+     "duree_secondes": 1472,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 36 - L'idole (avec Mallaury Nataf)"
+    },
+    {
+     "saison": 1,
+     "numero": 37,
+     "titre": "L'homme de ma vie",
+     "youtube_id": "bclY5YrivIA",
+     "duree_secondes": 1461,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 37 - L'homme de ma vie"
+    },
+    {
+     "saison": 1,
+     "numero": 38,
+     "titre": "Le placard",
+     "youtube_id": "3_rJh-kkAtI",
+     "duree_secondes": 1498,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 38 - Le placard"
+    },
+    {
+     "saison": 1,
+     "numero": 39,
+     "titre": "La séance photo",
+     "youtube_id": "K4BrjkkYT9g",
+     "duree_secondes": 1423,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 39 - La séance photo"
+    },
+    {
+     "saison": 1,
+     "numero": 40,
+     "titre": "Expérience explosive",
+     "youtube_id": "cgtTVay9PVc",
+     "duree_secondes": 1402,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 40 - Expérience explosive"
+    },
+    {
+     "saison": 1,
+     "numero": 41,
+     "titre": "Ça minerve",
+     "youtube_id": "255lMWIZap4",
+     "duree_secondes": 1474,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 41 - Ça minerve"
+    },
+    {
+     "saison": 1,
+     "numero": 42,
+     "titre": "L'ascenseur",
+     "youtube_id": "nhx2S1PDjyA",
+     "duree_secondes": 1411,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 42 - L'ascenseur"
+    },
+    {
+     "saison": 1,
+     "numero": 43,
+     "titre": "Casting",
+     "youtube_id": "miq2CqFiZIw",
+     "duree_secondes": 1396,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 43 - Casting"
+    },
+    {
+     "saison": 1,
+     "numero": 44,
+     "titre": "La gagnante",
+     "youtube_id": "Tl3ddfe-qws",
+     "duree_secondes": 1438,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 44 - La gagnante"
+    },
+    {
+     "saison": 1,
+     "numero": 45,
+     "titre": "Les parallèles se rencontrent",
+     "youtube_id": "KaDhol-GYek",
+     "duree_secondes": 1505,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 45 - Les parallèles se rencontrent"
+    },
+    {
+     "saison": 1,
+     "numero": 46,
+     "titre": "Soupçons",
+     "youtube_id": "N4TbURjC8DY",
+     "duree_secondes": 1452,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 46 - Soupçons"
+    },
+    {
+     "saison": 1,
+     "numero": 47,
+     "titre": "Blocage",
+     "youtube_id": "04LSfxj1QBA",
+     "duree_secondes": 1395,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 47 - Blocage"
+    },
+    {
+     "saison": 1,
+     "numero": 48,
+     "titre": "Trois nourrices pour un bébé",
+     "youtube_id": "tCT4_ORt024",
+     "duree_secondes": 1474,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 48 - Trois nourrices pour un bébé"
+    },
+    {
+     "saison": 1,
+     "numero": 49,
+     "titre": "Du muscle",
+     "youtube_id": "5xNUX-lJNvM",
+     "duree_secondes": 1489,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 49 - Du muscle"
+    },
+    {
+     "saison": 1,
+     "numero": 50,
+     "titre": "L'avocat",
+     "youtube_id": "959c1zBHKoo",
+     "duree_secondes": 1492,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 50 - L'avocat"
+    },
+    {
+     "saison": 1,
+     "numero": 51,
+     "titre": "Les décibels",
+     "youtube_id": "kDFzEurLxJ8",
+     "duree_secondes": 1448,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 51 - Les décibels"
+    },
+    {
+     "saison": 1,
+     "numero": 52,
+     "titre": "Miss club",
+     "youtube_id": "nKwvaNO1qmE",
+     "duree_secondes": 1506,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 52 - Miss club"
+    },
+    {
+     "saison": 1,
+     "numero": 53,
+     "titre": "La fée du logis",
+     "youtube_id": "pQZvCbc6k20",
+     "duree_secondes": 1463,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 53 - La fée du logis"
+    },
+    {
+     "saison": 1,
+     "numero": 54,
+     "titre": "La réaction",
+     "youtube_id": "9MxdGvW63iQ",
+     "duree_secondes": 1507,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 54 - La réaction"
+    },
+    {
+     "saison": 1,
+     "numero": 55,
+     "titre": "Fulvia",
+     "youtube_id": "pQRrOIvkc7c",
+     "duree_secondes": 1501,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 55 - Fulvia"
+    },
+    {
+     "saison": 1,
+     "numero": 56,
+     "titre": "La championne",
+     "youtube_id": "ZDxneBjvLQs",
+     "duree_secondes": 1514,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 56 - La championne"
+    },
+    {
+     "saison": 1,
+     "numero": 57,
+     "titre": "Un homme, un vrai...",
+     "youtube_id": "gbShMMjvSbA",
+     "duree_secondes": 1466,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 57 - Un homme, un vrai..."
+    },
+    {
+     "saison": 1,
+     "numero": 58,
+     "titre": "Baby sitting",
+     "youtube_id": "H76W8r3W24c",
+     "duree_secondes": 1532,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 58 - Baby sitting"
+    },
+    {
+     "saison": 1,
+     "numero": 59,
+     "titre": "Le talent d'Achille",
+     "youtube_id": "0fcpZd5o7MI",
+     "duree_secondes": 1472,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 59 - Le talent d'Achille"
+    },
+    {
+     "saison": 1,
+     "numero": 60,
+     "titre": "Copain, Copine",
+     "youtube_id": "R1QFEcPmuSs",
+     "duree_secondes": 1512,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 60 - Copain, Copine"
+    },
+    {
+     "saison": 1,
+     "numero": 61,
+     "titre": "La chaîne",
+     "youtube_id": "3lq3tkMbvmI",
+     "duree_secondes": 1400,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 61 - La chaîne"
+    },
+    {
+     "saison": 1,
+     "numero": 62,
+     "titre": "Coups sans blessure",
+     "youtube_id": "hNeN6MuAAUw",
+     "duree_secondes": 1401,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 62 - Coups sans blessure"
+    },
+    {
+     "saison": 1,
+     "numero": 63,
+     "titre": "Les roses",
+     "youtube_id": "JBisSqFw_Kw",
+     "duree_secondes": 1508,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 63 - Les roses"
+    },
+    {
+     "saison": 1,
+     "numero": 64,
+     "titre": "L'anniversaire",
+     "youtube_id": "2CScMg_Fgm8",
+     "duree_secondes": 1411,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 64 - L'anniversaire"
+    },
+    {
+     "saison": 1,
+     "numero": 65,
+     "titre": "Le héros du jour",
+     "youtube_id": "F6CSlzk_H_E",
+     "duree_secondes": 1495,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 65 - Le héros du jour"
+    },
+    {
+     "saison": 1,
+     "numero": 66,
+     "titre": "La leçon de séduction",
+     "youtube_id": "LoG37nf4sxI",
+     "duree_secondes": 1411,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 66 - La leçon de séduction"
+    },
+    {
+     "saison": 1,
+     "numero": 67,
+     "titre": "La cassette",
+     "youtube_id": "nS6_DK7eyrU",
+     "duree_secondes": 1476,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 67 - La cassette"
+    },
+    {
+     "saison": 1,
+     "numero": 68,
+     "titre": "A Sec !",
+     "youtube_id": "IOfvu2aOPLM",
+     "duree_secondes": 1408,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 68 - A Sec !"
+    },
+    {
+     "saison": 1,
+     "numero": 69,
+     "titre": "Au coin de l'oeil",
+     "youtube_id": "4z7Vx56q1FA",
+     "duree_secondes": 1423,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 69 - Au coin de l'oeil"
+    },
+    {
+     "saison": 1,
+     "numero": 70,
+     "titre": "Le duo de l'âne",
+     "youtube_id": "RM6CycBF_7k",
+     "duree_secondes": 1500,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 70 - Le duo de l'âne"
+    },
+    {
+     "saison": 1,
+     "numero": 71,
+     "titre": "La petite",
+     "youtube_id": "DIxI26yp1II",
+     "duree_secondes": 1485,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 71 - La petite"
+    },
+    {
+     "saison": 1,
+     "numero": 72,
+     "titre": "Erreur fatale",
+     "youtube_id": "iZcExH_fIbI",
+     "duree_secondes": 1396,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 72 - Erreur fatale"
+    },
+    {
+     "saison": 1,
+     "numero": 73,
+     "titre": "La stratégie Mac Mahon",
+     "youtube_id": "-I_O4I9foAU",
+     "duree_secondes": 1470,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 73 - La stratégie Mac Mahon"
+    },
+    {
+     "saison": 1,
+     "numero": 74,
+     "titre": "Quelle élégance",
+     "youtube_id": "1p0oh8fWFW4",
+     "duree_secondes": 1489,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 74 - Quelle élégance"
+    },
+    {
+     "saison": 1,
+     "numero": 75,
+     "titre": "Golden Marc",
+     "youtube_id": "2rv1IPfgS0M",
+     "duree_secondes": 1477,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 75 - Golden Marc"
+    },
+    {
+     "saison": 1,
+     "numero": 76,
+     "titre": "La charité",
+     "youtube_id": "2eV1TKNNlOY",
+     "duree_secondes": 1471,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 76 - La charité"
+    },
+    {
+     "saison": 1,
+     "numero": 77,
+     "titre": "Le grand amour",
+     "youtube_id": "zCnIsiyLlBM",
+     "duree_secondes": 1499,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 77 - Le grand amour"
+    },
+    {
+     "saison": 1,
+     "numero": 78,
+     "titre": "Super copine",
+     "youtube_id": "2vHx5pPQn40",
+     "duree_secondes": 1418,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 78 - Super copine"
+    },
+    {
+     "saison": 1,
+     "numero": 79,
+     "titre": "Illusion perdue",
+     "youtube_id": "qE5bNpmCo3w",
+     "duree_secondes": 1435,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 79 - Illusion perdue"
+    },
+    {
+     "saison": 1,
+     "numero": 80,
+     "titre": "Amie Amie",
+     "youtube_id": "fcVWipTis0U",
+     "duree_secondes": 1404,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 80 - Amie Amie"
+    },
+    {
+     "saison": 1,
+     "numero": 81,
+     "titre": "Conflit intérieur",
+     "youtube_id": "Eo0xzozjiLI",
+     "duree_secondes": 1422,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 81 - Conflit intérieur"
+    },
+    {
+     "saison": 1,
+     "numero": 82,
+     "titre": "L'invitation",
+     "youtube_id": "bDSLnlhCom8",
+     "duree_secondes": 1487,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 82 - L'invitation"
+    },
+    {
+     "saison": 1,
+     "numero": 83,
+     "titre": "Les garçons se cachent pour pleurer (avec Christophe Rippert)",
+     "youtube_id": "VG7DlthGrqg",
+     "duree_secondes": 1341,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 83 - Les garçons se cachent pour pleurer (avec Christophe Rippert)"
+    },
+    {
+     "saison": 1,
+     "numero": 84,
+     "titre": "L’œil de boeuf",
+     "youtube_id": "EssPKfl2BiA",
+     "duree_secondes": 1396,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 84 - L’œil de boeuf"
+    },
+    {
+     "saison": 1,
+     "numero": 85,
+     "titre": "La boum",
+     "youtube_id": "0s57_z8H2Fo",
+     "duree_secondes": 1435,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 85 - La boum"
+    },
+    {
+     "saison": 1,
+     "numero": 86,
+     "titre": "Le nirvana",
+     "youtube_id": "_wkP5gvnuwk",
+     "duree_secondes": 1529,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 86 - Le nirvana"
+    },
+    {
+     "saison": 1,
+     "numero": 87,
+     "titre": "Résultats confidentiels",
+     "youtube_id": "JCksEIFa6JE",
+     "duree_secondes": 1517,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 87 - Résultats confidentiels"
+    },
+    {
+     "saison": 1,
+     "numero": 88,
+     "titre": "Conflits",
+     "youtube_id": "kgPjVjcY7vs",
+     "duree_secondes": 1429,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 88 - Conflits"
+    },
+    {
+     "saison": 1,
+     "numero": 89,
+     "titre": "Coups de cafard",
+     "youtube_id": "kT7-QYEJaOc",
+     "duree_secondes": 1378,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 89 - Coups de cafard"
+    },
+    {
+     "saison": 1,
+     "numero": 90,
+     "titre": "Le bal masqué",
+     "youtube_id": "udYdkblBOcA",
+     "duree_secondes": 1439,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 90 - Le bal masqué"
+    },
+    {
+     "saison": 1,
+     "numero": 91,
+     "titre": "Pub frappante",
+     "youtube_id": "f6IsYYAX4gs",
+     "duree_secondes": 1426,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 91 - Pub frappante"
+    },
+    {
+     "saison": 1,
+     "numero": 92,
+     "titre": "Le pari",
+     "youtube_id": "ScYnj5_aKU8",
+     "duree_secondes": 1434,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 92 - Le pari"
+    },
+    {
+     "saison": 1,
+     "numero": 93,
+     "titre": "Le navigateur solitaire",
+     "youtube_id": "93C6t-PU3eI",
+     "duree_secondes": 1490,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 93 - Le navigateur solitaire"
+    },
+    {
+     "saison": 1,
+     "numero": 94,
+     "titre": "Abus dangereux !",
+     "youtube_id": "xiS1Yfw0NxQ",
+     "duree_secondes": 1384,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 94 - Abus dangereux !"
+    },
+    {
+     "saison": 1,
+     "numero": 95,
+     "titre": "La rougeole",
+     "youtube_id": "fqARC6PzE28",
+     "duree_secondes": 1476,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 95 - La rougeole"
+    },
+    {
+     "saison": 1,
+     "numero": 96,
+     "titre": "Jour noir jour bleu",
+     "youtube_id": "6AecUSeu67k",
+     "duree_secondes": 1434,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 96 - Jour noir jour bleu"
+    },
+    {
+     "saison": 1,
+     "numero": 97,
+     "titre": "Générations spontanées",
+     "youtube_id": "xBMD5O6xwhY",
+     "duree_secondes": 1476,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 97 - Générations spontanées"
+    },
+    {
+     "saison": 1,
+     "numero": 98,
+     "titre": "Question d'éducation",
+     "youtube_id": "VbfTFPhp6SE",
+     "duree_secondes": 1513,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 98 - Question d'éducation"
+    },
+    {
+     "saison": 1,
+     "numero": 99,
+     "titre": "Chasse croisé",
+     "youtube_id": "mSOVDegyMwY",
+     "duree_secondes": 1491,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 99 - Chasse croisé"
+    },
+    {
+     "saison": 1,
+     "numero": 100,
+     "titre": "Couple",
+     "youtube_id": "p7fymmVNBvg",
+     "duree_secondes": 1451,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 100 - Couple"
+    },
+    {
+     "saison": 1,
+     "numero": 101,
+     "titre": "Panique",
+     "youtube_id": "jJ0Z8na6UvM",
+     "duree_secondes": 1395,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 101 - Panique"
+    },
+    {
+     "saison": 1,
+     "numero": 102,
+     "titre": "Trop c'est trop",
+     "youtube_id": "bcmLUPpb_G8",
+     "duree_secondes": 1486,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 102 - Trop c'est trop"
+    },
+    {
+     "saison": 1,
+     "numero": 103,
+     "titre": "Nostalgie",
+     "youtube_id": "3D12cwsnJ1Q",
+     "duree_secondes": 1461,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 103 - Nostalgie"
+    },
+    {
+     "saison": 1,
+     "numero": 104,
+     "titre": "Détournement",
+     "youtube_id": "stL-xX0hgcw",
+     "duree_secondes": 1510,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 104 - Détournement"
+    },
+    {
+     "saison": 1,
+     "numero": 105,
+     "titre": "Chicago Bulls",
+     "youtube_id": "79ZqWv2NzaM",
+     "duree_secondes": 1345,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 105 - Chicago Bulls"
+    },
+    {
+     "saison": 1,
+     "numero": 106,
+     "titre": "Tours de taille",
+     "youtube_id": "Ear61WlDqj4",
+     "duree_secondes": 1497,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 106 - Tours de taille"
+    },
+    {
+     "saison": 1,
+     "numero": 107,
+     "titre": "Magie noire",
+     "youtube_id": "pV4kBKHhgaA",
+     "duree_secondes": 1453,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 107 - Magie noire"
+    },
+    {
+     "saison": 1,
+     "numero": 108,
+     "titre": "Le mauvais joint",
+     "youtube_id": "eBBoLSCG9w4",
+     "duree_secondes": 1488,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 108 - Le mauvais joint"
+    },
+    {
+     "saison": 1,
+     "numero": 109,
+     "titre": "Chanteur de blues",
+     "youtube_id": "SVN1jAu8pMA",
+     "duree_secondes": 1487,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 109 - Chanteur de blues"
+    },
+    {
+     "saison": 1,
+     "numero": 110,
+     "titre": "Happy few",
+     "youtube_id": "yJdp7eR_tTo",
+     "duree_secondes": 1415,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 110 - Happy few"
+    },
+    {
+     "saison": 1,
+     "numero": 111,
+     "titre": "Dépannage",
+     "youtube_id": "AQ1ZIAfgdN4",
+     "duree_secondes": 1440,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 111 - Dépannage"
+    },
+    {
+     "saison": 1,
+     "numero": 112,
+     "titre": "Belle, grande et bronzé",
+     "youtube_id": "hQdWlVZV-OA",
+     "duree_secondes": 1395,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 112 - Belle, grande et bronzé"
+    },
+    {
+     "saison": 1,
+     "numero": 113,
+     "titre": "Question de vie ou de mort",
+     "youtube_id": "XpBeUVf6WmQ",
+     "duree_secondes": 1514,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 113 - Question de vie ou de mort"
+    },
+    {
+     "saison": 1,
+     "numero": 114,
+     "titre": "Le rôle biologique",
+     "youtube_id": "D1nmPyZC4_I",
+     "duree_secondes": 1466,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 114 - Le rôle biologique"
+    },
+    {
+     "saison": 1,
+     "numero": 115,
+     "titre": "Coup de fouet",
+     "youtube_id": "jf-fHoH7iLc",
+     "duree_secondes": 1479,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 115 - Coup de fouet"
+    },
+    {
+     "saison": 1,
+     "numero": 116,
+     "titre": "Marié sans enfant",
+     "youtube_id": "j6KIulnk_rU",
+     "duree_secondes": 1516,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 116 - Marié sans enfant"
+    },
+    {
+     "saison": 1,
+     "numero": 117,
+     "titre": "Séminaire",
+     "youtube_id": "WRhvCE57wHY",
+     "duree_secondes": 1508,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'a côté - Épisode 117 - Séminaire"
+    },
+    {
+     "saison": 1,
+     "numero": 118,
+     "titre": "Jamais deux sans trois",
+     "youtube_id": "7mN0MfnlwB8",
+     "duree_secondes": 1500,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'a côté - Épisode 118 - Jamais deux sans trois"
+    },
+    {
+     "saison": 1,
+     "numero": 119,
+     "titre": "Une femme à homme",
+     "youtube_id": "WV7Wg-ECAks",
+     "duree_secondes": 1484,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'a côté - Épisode 119 - Une femme à homme"
+    },
+    {
+     "saison": 1,
+     "numero": 120,
+     "titre": "Un homme chasse l'autre",
+     "youtube_id": "CAuS7Qr3AFc",
+     "duree_secondes": 1342,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'a côté - Épisode 120 - Un homme chasse l'autre"
+    },
+    {
+     "saison": 1,
+     "numero": 121,
+     "titre": "Impossible challenge",
+     "youtube_id": "LHCCYHXZodc",
+     "duree_secondes": 1448,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'a côté - Épisode 121 - Impossible challenge"
+    },
+    {
+     "saison": 1,
+     "numero": 122,
+     "titre": "Le choix de Sabine",
+     "youtube_id": "aew50zQaVKo",
+     "duree_secondes": 1435,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'a côté - Épisode 122 - Le choix de Sabine"
+    },
+    {
+     "saison": 1,
+     "numero": 123,
+     "titre": "Guillaume",
+     "youtube_id": "pI8dgwpnDQo",
+     "duree_secondes": 1435,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'a côté - Épisode 123 - Guillaume"
+    },
+    {
+     "saison": 1,
+     "numero": 124,
+     "titre": "Le retour de fanny",
+     "youtube_id": "353fLE4ajdo",
+     "duree_secondes": 1512,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'a côté - Épisode 124 - Le retour de fanny"
+    },
+    {
+     "saison": 1,
+     "numero": 125,
+     "titre": "Violences",
+     "youtube_id": "04Gfca7y13A",
+     "duree_secondes": 1491,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'a côté - Épisode 125 - Violences"
+    },
+    {
+     "saison": 1,
+     "numero": 126,
+     "titre": "Politique fiction",
+     "youtube_id": "uxkcOL645Q8",
+     "duree_secondes": 1541,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'a côté - Épisode 126 - Politique fiction"
+    },
+    {
+     "saison": 1,
+     "numero": 127,
+     "titre": "A fleur de peau",
+     "youtube_id": "xYAcBifXtHQ",
+     "duree_secondes": 1447,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 127 - A fleur de peau"
+    },
+    {
+     "saison": 1,
+     "numero": 128,
+     "titre": "Chat perché",
+     "youtube_id": "wke8B-tVUmM",
+     "duree_secondes": 1512,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 128 - Chat perché"
+    },
+    {
+     "saison": 1,
+     "numero": 129,
+     "titre": "Outrage",
+     "youtube_id": "GFPCk1tlfek",
+     "duree_secondes": 1507,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 129 - Outrage"
+    },
+    {
+     "saison": 1,
+     "numero": 130,
+     "titre": "Déprimes conjuguées",
+     "youtube_id": "YaMKDd_ftAw",
+     "duree_secondes": 1431,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 130 - Déprimes conjuguées"
+    },
+    {
+     "saison": 1,
+     "numero": 131,
+     "titre": "Retour de vacances",
+     "youtube_id": "OMWUvdcbyqM",
+     "duree_secondes": 1508,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 131 - Retour de vacances"
+    },
+    {
+     "saison": 1,
+     "numero": 132,
+     "titre": "Patricia",
+     "youtube_id": "TSAm-CzJXm4",
+     "duree_secondes": 1455,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 132 - Patricia"
+    },
+    {
+     "saison": 1,
+     "numero": 133,
+     "titre": "S.O.S. mari en détresse",
+     "youtube_id": "nobKzOnss9o",
+     "duree_secondes": 1488,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 133 - S.O.S. mari en détresse"
+    },
+    {
+     "saison": 1,
+     "numero": 134,
+     "titre": "Boulversements",
+     "youtube_id": "pZeUQgBX7vw",
+     "duree_secondes": 1315,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 134 - Boulversements"
+    },
+    {
+     "saison": 1,
+     "numero": 135,
+     "titre": "Les Apaches",
+     "youtube_id": "dCcomv7VqYQ",
+     "duree_secondes": 1480,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 135 - Les Apaches"
+    },
+    {
+     "saison": 1,
+     "numero": 136,
+     "titre": "Départ sans fanfare",
+     "youtube_id": "oNP3N2SdPIU",
+     "duree_secondes": 1498,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 136 - Départ sans fanfare"
+    },
+    {
+     "saison": 1,
+     "numero": 137,
+     "titre": "Libres échanges",
+     "youtube_id": "-pZUBVp5A4I",
+     "duree_secondes": 1492,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 137 - Libres échanges"
+    },
+    {
+     "saison": 1,
+     "numero": 138,
+     "titre": "Le nouveau",
+     "youtube_id": "FDozsedj0XU",
+     "duree_secondes": 1454,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 138 - Le nouveau"
+    },
+    {
+     "saison": 1,
+     "numero": 139,
+     "titre": "L'égorgeur fou",
+     "youtube_id": "JxWGvTt_6_8",
+     "duree_secondes": 1362,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 139 - L'égorgeur fou"
+    },
+    {
+     "saison": 1,
+     "numero": 140,
+     "titre": "L'insulte",
+     "youtube_id": "xhpbJmkTm48",
+     "duree_secondes": 1360,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 140 - L'insulte"
+    },
+    {
+     "saison": 1,
+     "numero": 141,
+     "titre": "Une bonne journée",
+     "youtube_id": "NHMO6OU0vuI",
+     "duree_secondes": 1500,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 141 - Une bonne journée"
+    },
+    {
+     "saison": 1,
+     "numero": 142,
+     "titre": "Adeline",
+     "youtube_id": "TSeqoa6zMnc",
+     "duree_secondes": 1355,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 142 - Adeline"
+    },
+    {
+     "saison": 1,
+     "numero": 143,
+     "titre": "Une filleule dangereuse",
+     "youtube_id": "w92uAIpc1zI",
+     "duree_secondes": 1467,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 143 - Une filleule dangereuse"
+    },
+    {
+     "saison": 1,
+     "numero": 144,
+     "titre": "La demande en mariage",
+     "youtube_id": "r_Pb3LUpWDc",
+     "duree_secondes": 1463,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 144 - La demande en mariage"
+    },
+    {
+     "saison": 1,
+     "numero": 145,
+     "titre": "Le remplaçant",
+     "youtube_id": "nrL2t_ybXr0",
+     "duree_secondes": 1363,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 145 - Le remplaçant"
+    },
+    {
+     "saison": 1,
+     "numero": 146,
+     "titre": "Les chiens de faïence",
+     "youtube_id": "UujXKEKL468",
+     "duree_secondes": 1439,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 146 - Les chiens de faïence"
+    },
+    {
+     "saison": 1,
+     "numero": 147,
+     "titre": "Réceptions",
+     "youtube_id": "mrinG8l07P8",
+     "duree_secondes": 1465,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 147 - Réceptions"
+    },
+    {
+     "saison": 1,
+     "numero": 148,
+     "titre": "Des conseils avisés",
+     "youtube_id": "4A9Gkk7q3Rw",
+     "duree_secondes": 1464,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 148 - Des conseils avisés"
+    },
+    {
+     "saison": 1,
+     "numero": 149,
+     "titre": "La boom de Minuit",
+     "youtube_id": "pXegwiZP26U",
+     "duree_secondes": 1463,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 149 - La boom de Minuit"
+    },
+    {
+     "saison": 1,
+     "numero": 150,
+     "titre": "Les naufragés",
+     "youtube_id": "mhueWdjU7fQ",
+     "duree_secondes": 1400,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 150 - Les naufragés"
+    },
+    {
+     "saison": 1,
+     "numero": 151,
+     "titre": "José",
+     "youtube_id": "FMZlTQ8Obkw",
+     "duree_secondes": 1437,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 151 - José"
+    },
+    {
+     "saison": 1,
+     "numero": 152,
+     "titre": "Dans le dos des copines",
+     "youtube_id": "-xmyWUTfWKg",
+     "duree_secondes": 1501,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 152 - Dans le dos des copines"
+    },
+    {
+     "saison": 1,
+     "numero": 153,
+     "titre": "Entre copains",
+     "youtube_id": "FeQ626hWm5k",
+     "duree_secondes": 1462,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 153 - Entre copains"
+    },
+    {
+     "saison": 1,
+     "numero": 154,
+     "titre": "Star de la pub",
+     "youtube_id": "2_JSaNxLDSI",
+     "duree_secondes": 1461,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 154 - Star de la pub"
+    },
+    {
+     "saison": 1,
+     "numero": 155,
+     "titre": "Une sœur comme les autres",
+     "youtube_id": "8RjPamdURLo",
+     "duree_secondes": 1366,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 155 - Une sœur comme les autres"
+    },
+    {
+     "saison": 1,
+     "numero": 156,
+     "titre": "Attaques personelles",
+     "youtube_id": "aQ1x8krei5I",
+     "duree_secondes": 1492,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 156 - Attaques personelles"
+    },
+    {
+     "saison": 1,
+     "numero": 157,
+     "titre": "Le choc des Titans",
+     "youtube_id": "AtGvMiVP14Y",
+     "duree_secondes": 1504,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 157 - Le choc des Titans"
+    },
+    {
+     "saison": 1,
+     "numero": 158,
+     "titre": "Petit bout de banane",
+     "youtube_id": "SXtUuJlbqSE",
+     "duree_secondes": 1422,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 158 - Petit bout de banane"
+    },
+    {
+     "saison": 1,
+     "numero": 159,
+     "titre": "La lettre",
+     "youtube_id": "CkzvD9XoSgY",
+     "duree_secondes": 1495,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 159 - La lettre"
+    },
+    {
+     "saison": 1,
+     "numero": 160,
+     "titre": "Changement de locataire",
+     "youtube_id": "Js9P5Bn1A8k",
+     "duree_secondes": 1437,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 160 - Changement de locataire"
+    },
+    {
+     "saison": 1,
+     "numero": 161,
+     "titre": "Le bon moment",
+     "youtube_id": "I4Hp0fh7ai4",
+     "duree_secondes": 1507,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 161 - Le bon moment"
+    },
+    {
+     "saison": 1,
+     "numero": 162,
+     "titre": "Le loup garou",
+     "youtube_id": "gDklFFlX6Ek",
+     "duree_secondes": 1507,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 162 - Le loup garou"
+    },
+    {
+     "saison": 1,
+     "numero": 163,
+     "titre": "Cartes sur table",
+     "youtube_id": "85HseO9oiKE",
+     "duree_secondes": 1491,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 163 - Cartes sur table"
+    },
+    {
+     "saison": 1,
+     "numero": 164,
+     "titre": "Adeline revient",
+     "youtube_id": "ZmIprKwnqXE",
+     "duree_secondes": 1471,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 164 - Adeline revient"
+    },
+    {
+     "saison": 1,
+     "numero": 165,
+     "titre": "La fuite",
+     "youtube_id": "eooXRnCMvyU",
+     "duree_secondes": 1483,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 165 - La fuite"
+    },
+    {
+     "saison": 1,
+     "numero": 166,
+     "titre": "La vie continue",
+     "youtube_id": "f0BUrNB3Xo8",
+     "duree_secondes": 1436,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 166 - La vie continue"
+    },
+    {
+     "saison": 1,
+     "numero": 167,
+     "titre": "Entrevue",
+     "youtube_id": "t2rpKwZllhE",
+     "duree_secondes": 1496,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 167 - Entrevue"
+    },
+    {
+     "saison": 1,
+     "numero": 168,
+     "titre": "L'huissier",
+     "youtube_id": "nSxnnS-kCM4",
+     "duree_secondes": 1475,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 168 - L'huissier"
+    },
+    {
+     "saison": 1,
+     "numero": 169,
+     "titre": "Le secret",
+     "youtube_id": "qOQi_I4gC2Y",
+     "duree_secondes": 1459,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 169 - Le secret"
+    },
+    {
+     "saison": 1,
+     "numero": 170,
+     "titre": "Le pote",
+     "youtube_id": "Veov_ajQFD0",
+     "duree_secondes": 1417,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les filles d'à côté - Épisode 170 - Le pote"
+    }
+   ],
+   "affiche": "affiches/BswBi01Z3So.webp",
+   "vignette": "vignettes/BswBi01Z3So.webp"
+  },
+  {
+   "slug": "les-nouvelles-filles-d-a-cote",
+   "titre": "Les Nouvelles Filles d'à côté",
+   "format": "serie",
+   "univers": "series",
+   "genres": [
+    "sitcoms-90",
+    "comedie",
+    "romance"
+   ],
+   "tout_public": true,
+   "youtube_id": null,
+   "chaine_nom": "Génération Sitcoms",
+   "chaine_id": "UCVVubp6nL6vP8b6ls-Ybk-g",
+   "chaine_url": "https://www.youtube.com/channel/UCVVubp6nL6vP8b6ls-Ybk-g",
+   "ayant_droit": "AB Productions (chaîne officielle certifiée Génération Sitcoms)",
+   "duree_secondes": 1467,
+   "annee": 1995,
+   "description": "La suite des Filles d'à côté, avec de nouvelles voisines pour les garçons. La série intégrale, 156 épisodes.",
+   "disponible_jusqu_au": null,
+   "publie_le": null,
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "Aménagements",
+     "youtube_id": "-8sL9qHtgqQ",
+     "duree_secondes": 1459,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 01 - Aménagements",
+     "vignette": "vignettes/-8sL9qHtgqQ.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "Installation",
+     "youtube_id": "ip75YazP-iE",
+     "duree_secondes": 1385,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 02 - Installation"
+    },
+    {
+     "saison": 1,
+     "numero": 3,
+     "titre": "La poubelle",
+     "youtube_id": "OMomMHPU4ho",
+     "duree_secondes": 1502,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 03 - La poubelle"
+    },
+    {
+     "saison": 1,
+     "numero": 4,
+     "titre": "L'importun",
+     "youtube_id": "-dW-RH_Ayzs",
+     "duree_secondes": 1397,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 04 - L'importun"
+    },
+    {
+     "saison": 1,
+     "numero": 5,
+     "titre": "Révolution",
+     "youtube_id": "VDNsmIEgfs8",
+     "duree_secondes": 1413,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 05 - Révolution"
+    },
+    {
+     "saison": 1,
+     "numero": 6,
+     "titre": "La septième symphonie",
+     "youtube_id": "MN1fNRvw3QI",
+     "duree_secondes": 1423,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 06 - La septième symphonie"
+    },
+    {
+     "saison": 1,
+     "numero": 7,
+     "titre": "Coup de théâtre",
+     "youtube_id": "6gv81jI6HFc",
+     "duree_secondes": 1504,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 07 - Coup de théâtre"
+    },
+    {
+     "saison": 1,
+     "numero": 8,
+     "titre": "Les pantoufles",
+     "youtube_id": "vAKj2GXE59k",
+     "duree_secondes": 1466,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 08 - Les pantoufles"
+    },
+    {
+     "saison": 1,
+     "numero": 9,
+     "titre": "La crémaillère",
+     "youtube_id": "0DfMKzY7mkI",
+     "duree_secondes": 1480,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 09 - La crémaillère"
+    },
+    {
+     "saison": 1,
+     "numero": 10,
+     "titre": "Inquiétude",
+     "youtube_id": "0UJ5moxfAJY",
+     "duree_secondes": 1527,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 10 - Inquiétude"
+    },
+    {
+     "saison": 1,
+     "numero": 11,
+     "titre": "Le trou dans la caisse",
+     "youtube_id": "RqqYVp9ag10",
+     "duree_secondes": 1391,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 11 - Le trou dans la caisse"
+    },
+    {
+     "saison": 1,
+     "numero": 12,
+     "titre": "Kidnapping",
+     "youtube_id": "_bdgUKHfzTE",
+     "duree_secondes": 1393,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 12 - Kidnapping"
+    },
+    {
+     "saison": 1,
+     "numero": 13,
+     "titre": "Scène de ménage",
+     "youtube_id": "kWrywe01qTA",
+     "duree_secondes": 1410,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 13 - Scène de ménage"
+    },
+    {
+     "saison": 1,
+     "numero": 14,
+     "titre": "La statue",
+     "youtube_id": "OS36518V-yA",
+     "duree_secondes": 1488,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 14 - La statue"
+    },
+    {
+     "saison": 1,
+     "numero": 15,
+     "titre": "Le fantôme du 14ème",
+     "youtube_id": "tO3e_iradVs",
+     "duree_secondes": 1405,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 15 - Le fantôme du 14ème"
+    },
+    {
+     "saison": 1,
+     "numero": 16,
+     "titre": "Disparition",
+     "youtube_id": "QKiMcYOevGM",
+     "duree_secondes": 1437,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 16 - Disparition"
+    },
+    {
+     "saison": 1,
+     "numero": 17,
+     "titre": "L'invité mystère",
+     "youtube_id": "x4cJFdENdyE",
+     "duree_secondes": 1386,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 17 - L'invité mystère"
+    },
+    {
+     "saison": 1,
+     "numero": 18,
+     "titre": "Rupture",
+     "youtube_id": "PTfXDb7kasQ",
+     "duree_secondes": 1505,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 18 - Rupture"
+    },
+    {
+     "saison": 1,
+     "numero": 19,
+     "titre": "Comme une sœur",
+     "youtube_id": "UHGjLb-XT-0",
+     "duree_secondes": 1479,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 19 - Comme une sœur"
+    },
+    {
+     "saison": 1,
+     "numero": 20,
+     "titre": "La girouette",
+     "youtube_id": "-_CdQUDx-N8",
+     "duree_secondes": 1514,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 20 - La girouette"
+    },
+    {
+     "saison": 1,
+     "numero": 21,
+     "titre": "Le bout du monde",
+     "youtube_id": "yV1ygv9SZqU",
+     "duree_secondes": 1418,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 21 - Le bout du monde"
+    },
+    {
+     "saison": 1,
+     "numero": 22,
+     "titre": "Le gangster",
+     "youtube_id": "lNy_SSVeZZM",
+     "duree_secondes": 1433,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 22 - Le gangster"
+    },
+    {
+     "saison": 1,
+     "numero": 23,
+     "titre": "Le chagrin de Gérard",
+     "youtube_id": "aPzdYQiJNOE",
+     "duree_secondes": 1434,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 23 - Le chagrin de Gérard"
+    },
+    {
+     "saison": 1,
+     "numero": 24,
+     "titre": "La crise",
+     "youtube_id": "Ns9xmmpEGG4",
+     "duree_secondes": 1511,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 24 - La crise"
+    },
+    {
+     "saison": 1,
+     "numero": 25,
+     "titre": "Adeline forever",
+     "youtube_id": "1L2wcJPPi8Q",
+     "duree_secondes": 1421,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 25 - Adeline forever"
+    },
+    {
+     "saison": 1,
+     "numero": 26,
+     "titre": "La balance",
+     "youtube_id": "m4tKGkYWJMw",
+     "duree_secondes": 1484,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 26 - La balance"
+    },
+    {
+     "saison": 1,
+     "numero": 27,
+     "titre": "Rendez-vous secrets",
+     "youtube_id": "MKC8rUwSIDo",
+     "duree_secondes": 1390,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 27 - Rendez-vous secrets"
+    },
+    {
+     "saison": 1,
+     "numero": 28,
+     "titre": "La femme de Marc",
+     "youtube_id": "H77Ll_stk3c",
+     "duree_secondes": 1504,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 28 - La femme de Marc"
+    },
+    {
+     "saison": 1,
+     "numero": 29,
+     "titre": "L'amour toujours l'amour",
+     "youtube_id": "ZWIMc19n8XI",
+     "duree_secondes": 1460,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 29 - L'amour toujours l'amour"
+    },
+    {
+     "saison": 1,
+     "numero": 30,
+     "titre": "Retour en chaîne",
+     "youtube_id": "mfKJESIYcaY",
+     "duree_secondes": 1501,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 30 - Retour en chaîne"
+    },
+    {
+     "saison": 1,
+     "numero": 31,
+     "titre": "Les nouveaux pères",
+     "youtube_id": "4dwAODZafVU",
+     "duree_secondes": 1453,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 31 - Les nouveaux pères"
+    },
+    {
+     "saison": 1,
+     "numero": 32,
+     "titre": "Le permis moto",
+     "youtube_id": "3gfYdzr5U6k",
+     "duree_secondes": 1514,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 32 - Le permis moto"
+    },
+    {
+     "saison": 1,
+     "numero": 33,
+     "titre": "Conflits de sœurs",
+     "youtube_id": "P_NvTPFYTLo",
+     "duree_secondes": 1508,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 33 - Conflits de sœurs"
+    },
+    {
+     "saison": 1,
+     "numero": 34,
+     "titre": "Les bons comptes",
+     "youtube_id": "l9k1YVUkMIQ",
+     "duree_secondes": 1491,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 34 - Les bons comptes"
+    },
+    {
+     "saison": 1,
+     "numero": 35,
+     "titre": "Le cousin",
+     "youtube_id": "xemFGMFcmhU",
+     "duree_secondes": 1441,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 35 - Le cousin"
+    },
+    {
+     "saison": 1,
+     "numero": 36,
+     "titre": "Le vice secret",
+     "youtube_id": "_b0R3ybAD50",
+     "duree_secondes": 1384,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 36 - Le vice secret"
+    },
+    {
+     "saison": 1,
+     "numero": 37,
+     "titre": "Le moustachu",
+     "youtube_id": "dXRtSOTRICM",
+     "duree_secondes": 1410,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 37 - Le moustachu"
+    },
+    {
+     "saison": 1,
+     "numero": 38,
+     "titre": "Tout pour séduire",
+     "youtube_id": "wbLR3x99u2w",
+     "duree_secondes": 1444,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 38 - Tout pour séduire"
+    },
+    {
+     "saison": 1,
+     "numero": 39,
+     "titre": "Le piège à hommes",
+     "youtube_id": "jb8jtuEnD3w",
+     "duree_secondes": 1458,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 39 - Le piège à hommes"
+    },
+    {
+     "saison": 1,
+     "numero": 40,
+     "titre": "Cours de tennis",
+     "youtube_id": "GpvP4xI5phk",
+     "duree_secondes": 1507,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 40 - Cours de tennis"
+    },
+    {
+     "saison": 1,
+     "numero": 41,
+     "titre": "Baby-sitting",
+     "youtube_id": "aQ5JZ1R9u4k",
+     "duree_secondes": 1497,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 41 - Baby-sitting"
+    },
+    {
+     "saison": 1,
+     "numero": 42,
+     "titre": "Emilie",
+     "youtube_id": "x5RRezp9Bqs",
+     "duree_secondes": 1450,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 42 - Emilie"
+    },
+    {
+     "saison": 1,
+     "numero": 43,
+     "titre": "Le concours",
+     "youtube_id": "vTuJijG3zkg",
+     "duree_secondes": 1460,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 43 - Le concours"
+    },
+    {
+     "saison": 1,
+     "numero": 44,
+     "titre": "Les statuettes Ming",
+     "youtube_id": "xEMh2CR7ygk",
+     "duree_secondes": 1425,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 44 - Les statuettes Ming"
+    },
+    {
+     "saison": 1,
+     "numero": 45,
+     "titre": "Mystérieuse disparition",
+     "youtube_id": "zpmlNmUzzeU",
+     "duree_secondes": 1425,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 45 - Mystérieuse disparition"
+    },
+    {
+     "saison": 1,
+     "numero": 46,
+     "titre": "Fascination",
+     "youtube_id": "QVV3p9upqBs",
+     "duree_secondes": 1505,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 46 - Fascination"
+    },
+    {
+     "saison": 1,
+     "numero": 47,
+     "titre": "Le satyre",
+     "youtube_id": "Mzibkaj_y2M",
+     "duree_secondes": 1416,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 47 - Le satyre"
+    },
+    {
+     "saison": 1,
+     "numero": 48,
+     "titre": "La vengeance",
+     "youtube_id": "8SIEt8ylGg0",
+     "duree_secondes": 1451,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 48 - La vengeance"
+    },
+    {
+     "saison": 1,
+     "numero": 49,
+     "titre": "L'aspirateur",
+     "youtube_id": "iocuZI6p7Uc",
+     "duree_secondes": 1408,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 49 - L'aspirateur"
+    },
+    {
+     "saison": 1,
+     "numero": 50,
+     "titre": "Confusion",
+     "youtube_id": "KpkZWCQJ3AQ",
+     "duree_secondes": 1489,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 50 - Confusion"
+    },
+    {
+     "saison": 1,
+     "numero": 51,
+     "titre": "La fièvre",
+     "youtube_id": "g-u3WH85hPw",
+     "duree_secondes": 1519,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 51 - La fièvre"
+    },
+    {
+     "saison": 1,
+     "numero": 52,
+     "titre": "La déprime",
+     "youtube_id": "vbHsZKDoIdM",
+     "duree_secondes": 1461,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 52 - La déprime"
+    },
+    {
+     "saison": 1,
+     "numero": 53,
+     "titre": "La star",
+     "youtube_id": "x0sdU_z0oO8",
+     "duree_secondes": 1401,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 53 - La star"
+    },
+    {
+     "saison": 1,
+     "numero": 54,
+     "titre": "Le minitel",
+     "youtube_id": "U2ovB0Yy2GM",
+     "duree_secondes": 1513,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 54 - Le minitel"
+    },
+    {
+     "saison": 1,
+     "numero": 55,
+     "titre": "La stratégie",
+     "youtube_id": "znKlJJiZMXI",
+     "duree_secondes": 1508,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 55 - La stratégie"
+    },
+    {
+     "saison": 1,
+     "numero": 56,
+     "titre": "Présentation",
+     "youtube_id": "V16oZ4zahOU",
+     "duree_secondes": 1434,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 56 - Présentation"
+    },
+    {
+     "saison": 1,
+     "numero": 57,
+     "titre": "La solution",
+     "youtube_id": "s6J_RNTyxK8",
+     "duree_secondes": 1480,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 57 - La solution"
+    },
+    {
+     "saison": 1,
+     "numero": 58,
+     "titre": "Le blouson",
+     "youtube_id": "COVheDVmWMk",
+     "duree_secondes": 1412,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 58 - Le blouson"
+    },
+    {
+     "saison": 1,
+     "numero": 59,
+     "titre": "L'autre Gérard",
+     "youtube_id": "z7J4zGLB8Us",
+     "duree_secondes": 1509,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 59 - L'autre Gérard"
+    },
+    {
+     "saison": 1,
+     "numero": 60,
+     "titre": "L'huissier",
+     "youtube_id": "zYz0wkZDwzc",
+     "duree_secondes": 1521,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 60 - L'huissier"
+    },
+    {
+     "saison": 1,
+     "numero": 61,
+     "titre": "La boum",
+     "youtube_id": "IOnLLZ3S1bY",
+     "duree_secondes": 1372,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 61 - La boum"
+    },
+    {
+     "saison": 1,
+     "numero": 62,
+     "titre": "La victoire",
+     "youtube_id": "Jqu77XgFdCc",
+     "duree_secondes": 1345,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 62 - La victoire"
+    },
+    {
+     "saison": 1,
+     "numero": 63,
+     "titre": "Un rêve prémonitoire",
+     "youtube_id": "rnKGpYCMsPQ",
+     "duree_secondes": 1474,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 63 - Un rêve prémonitoire"
+    },
+    {
+     "saison": 1,
+     "numero": 64,
+     "titre": "Les deux petits oiseaux",
+     "youtube_id": "LR5SROadS0o",
+     "duree_secondes": 1433,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 64 - Les deux petits oiseaux"
+    },
+    {
+     "saison": 1,
+     "numero": 65,
+     "titre": "Tendrement",
+     "youtube_id": "T-36O8IGWSM",
+     "duree_secondes": 1540,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 65 - Tendrement"
+    },
+    {
+     "saison": 1,
+     "numero": 66,
+     "titre": "Alliance objective",
+     "youtube_id": "qMuAM_bYfs0",
+     "duree_secondes": 1481,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 66 - Alliance objective"
+    },
+    {
+     "saison": 1,
+     "numero": 67,
+     "titre": "Benoît",
+     "youtube_id": "f1E-69XG9Ro",
+     "duree_secondes": 1440,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 67 - Benoît"
+    },
+    {
+     "saison": 1,
+     "numero": 68,
+     "titre": "Machination",
+     "youtube_id": "F7laD2f4LuE",
+     "duree_secondes": 1447,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 68 - Machination"
+    },
+    {
+     "saison": 1,
+     "numero": 69,
+     "titre": "Le piège à filles",
+     "youtube_id": "HmkvboWDcrQ",
+     "duree_secondes": 1420,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 69 - Le piège à filles"
+    },
+    {
+     "saison": 1,
+     "numero": 70,
+     "titre": "Oeil de faucon",
+     "youtube_id": "7IOn-PxpzmU",
+     "duree_secondes": 1391,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 70 - Oeil de faucon"
+    },
+    {
+     "saison": 1,
+     "numero": 71,
+     "titre": "Question de volonté",
+     "youtube_id": "iQ4E89Srqus",
+     "duree_secondes": 1401,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 71 - Question de volonté"
+    },
+    {
+     "saison": 1,
+     "numero": 72,
+     "titre": "Sacrifices",
+     "youtube_id": "yy0u1OC7Gt8",
+     "duree_secondes": 1421,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 72 - Sacrifices"
+    },
+    {
+     "saison": 1,
+     "numero": 73,
+     "titre": "Le trou de balle",
+     "youtube_id": "evCa3h-CC8Y",
+     "duree_secondes": 1411,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 73 - Le trou de balle"
+    },
+    {
+     "saison": 1,
+     "numero": 74,
+     "titre": "L'amie du patron",
+     "youtube_id": "ucWVK0nqc6w",
+     "duree_secondes": 1544,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 74 - L'amie du patron"
+    },
+    {
+     "saison": 1,
+     "numero": 75,
+     "titre": "Le choc",
+     "youtube_id": "P5TsdWeTmiU",
+     "duree_secondes": 1505,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 75 - Le choc"
+    },
+    {
+     "saison": 1,
+     "numero": 76,
+     "titre": "Le milliardaire",
+     "youtube_id": "uIbG3vWp6zE",
+     "duree_secondes": 1446,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 76 - Le milliardaire"
+    },
+    {
+     "saison": 1,
+     "numero": 77,
+     "titre": "L'émission (partie 1)",
+     "youtube_id": "kB-GVgAn5LY",
+     "duree_secondes": 1467,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 77 - L'émission (partie 1)"
+    },
+    {
+     "saison": 1,
+     "numero": 78,
+     "titre": "L'émission (partie 2)",
+     "youtube_id": "8phNXjl8ciA",
+     "duree_secondes": 1476,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 78 - L'émission (partie 2)"
+    },
+    {
+     "saison": 1,
+     "numero": 79,
+     "titre": "L'agent secret",
+     "youtube_id": "tdMmUuMcPa4",
+     "duree_secondes": 1508,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 79 - L'agent secret"
+    },
+    {
+     "saison": 1,
+     "numero": 80,
+     "titre": "Rencontre d'un certain type",
+     "youtube_id": "hkgjYYQABko",
+     "duree_secondes": 1488,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 80 - Rencontre d'un certain type"
+    },
+    {
+     "saison": 1,
+     "numero": 81,
+     "titre": "Voyage",
+     "youtube_id": "iVkWoZUwjNc",
+     "duree_secondes": 1487,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 81 - Voyage"
+    },
+    {
+     "saison": 1,
+     "numero": 82,
+     "titre": "Amélie",
+     "youtube_id": "h6-C3zTRVwg",
+     "duree_secondes": 1490,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 82 - Amélie"
+    },
+    {
+     "saison": 1,
+     "numero": 83,
+     "titre": "La révélation",
+     "youtube_id": "6E7e4FbqKAY",
+     "duree_secondes": 1439,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 83 - La révélation"
+    },
+    {
+     "saison": 1,
+     "numero": 84,
+     "titre": "Monsieur Malloy conseil",
+     "youtube_id": "b4dqK8X5JYM",
+     "duree_secondes": 1474,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 84 - Monsieur Malloy conseil"
+    },
+    {
+     "saison": 1,
+     "numero": 85,
+     "titre": "Le boucher",
+     "youtube_id": "y7i3Gjieo3o",
+     "duree_secondes": 1493,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 85 - Le boucher"
+    },
+    {
+     "saison": 1,
+     "numero": 86,
+     "titre": "Le départ",
+     "youtube_id": "akzKGOQ1jOQ",
+     "duree_secondes": 1509,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 86 - Le départ"
+    },
+    {
+     "saison": 1,
+     "numero": 87,
+     "titre": "Qui trop conseille, mal étreint",
+     "youtube_id": "G_WZ8gXwNBE",
+     "duree_secondes": 1479,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 87 - Qui trop conseille, mal étreint"
+    },
+    {
+     "saison": 1,
+     "numero": 88,
+     "titre": "Une de perdue...",
+     "youtube_id": "VLrDt_RseUY",
+     "duree_secondes": 1481,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 88 - Une de perdue..."
+    },
+    {
+     "saison": 1,
+     "numero": 89,
+     "titre": "Cathy",
+     "youtube_id": "PGkrH2pC4gI",
+     "duree_secondes": 1475,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 89 - Cathy"
+    },
+    {
+     "saison": 1,
+     "numero": 90,
+     "titre": "Une histoire d'hormones",
+     "youtube_id": "LcB2gdI7VR8",
+     "duree_secondes": 1432,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 90 - Une histoire d'hormones"
+    },
+    {
+     "saison": 1,
+     "numero": 91,
+     "titre": "Plan de guerre",
+     "youtube_id": "gXwKtw4b2SE",
+     "duree_secondes": 1441,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 91 - Plan de guerre"
+    },
+    {
+     "saison": 1,
+     "numero": 92,
+     "titre": "Marcelle",
+     "youtube_id": "jkko_3sGAwo",
+     "duree_secondes": 1510,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 92 - Marcelle"
+    },
+    {
+     "saison": 1,
+     "numero": 93,
+     "titre": "Le roi de la danse",
+     "youtube_id": "VHT0t4bJ5qQ",
+     "duree_secondes": 1398,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 93 - Le roi de la danse"
+    },
+    {
+     "saison": 1,
+     "numero": 94,
+     "titre": "Désespoir",
+     "youtube_id": "wG48_022cYc",
+     "duree_secondes": 1482,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 94 - Désespoir"
+    },
+    {
+     "saison": 1,
+     "numero": 95,
+     "titre": "L'hidalgo",
+     "youtube_id": "etSYVB82cEc",
+     "duree_secondes": 1464,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 95 - L'hidalgo"
+    },
+    {
+     "saison": 1,
+     "numero": 96,
+     "titre": "La stratégie du lapin",
+     "youtube_id": "H5Ljt0oycBw",
+     "duree_secondes": 1399,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 96 - La stratégie du lapin"
+    },
+    {
+     "saison": 1,
+     "numero": 97,
+     "titre": "Le duel",
+     "youtube_id": "z95XMA-DUss",
+     "duree_secondes": 1439,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 97 - Le duel"
+    },
+    {
+     "saison": 1,
+     "numero": 98,
+     "titre": "Le diable",
+     "youtube_id": "HNQL2Hv0Wno",
+     "duree_secondes": 1509,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 98 - Le diable"
+    },
+    {
+     "saison": 1,
+     "numero": 99,
+     "titre": "Une histoire de look",
+     "youtube_id": "x_VAM7Z8gXw",
+     "duree_secondes": 1486,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 99 - Une histoire de look"
+    },
+    {
+     "saison": 1,
+     "numero": 100,
+     "titre": "Flamenco",
+     "youtube_id": "BcUjLEHDGOQ",
+     "duree_secondes": 1475,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 100 - Flamenco"
+    },
+    {
+     "saison": 1,
+     "numero": 101,
+     "titre": "Le bonheur de l'une…",
+     "youtube_id": "lvrh4d5NA_I",
+     "duree_secondes": 1484,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 101 - Le bonheur de l'une…"
+    },
+    {
+     "saison": 1,
+     "numero": 102,
+     "titre": "Court-circuit",
+     "youtube_id": "lAQLD0RorVU",
+     "duree_secondes": 1423,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 102 - Court-circuit"
+    },
+    {
+     "saison": 1,
+     "numero": 103,
+     "titre": "Fleur des îles",
+     "youtube_id": "BCHCRYkqLsY",
+     "duree_secondes": 1417,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 103 - Fleur des îles"
+    },
+    {
+     "saison": 1,
+     "numero": 104,
+     "titre": "Bond'chanze",
+     "youtube_id": "XK9WSJ4m_VU",
+     "duree_secondes": 1478,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 104 - Bond'chanze"
+    },
+    {
+     "saison": 1,
+     "numero": 105,
+     "titre": "Esprit de famille",
+     "youtube_id": "WRVtIsqryqI",
+     "duree_secondes": 1449,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 105 - Esprit de famille"
+    },
+    {
+     "saison": 1,
+     "numero": 106,
+     "titre": "La danse du soleil",
+     "youtube_id": "qnkiitMiWi0",
+     "duree_secondes": 1327,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 106 - La danse du soleil"
+    },
+    {
+     "saison": 1,
+     "numero": 107,
+     "titre": "Le temps passé",
+     "youtube_id": "YttVeQ3c56k",
+     "duree_secondes": 1603,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 107 - Le temps passé"
+    },
+    {
+     "saison": 1,
+     "numero": 108,
+     "titre": "Refroidissement",
+     "youtube_id": "snu5hPFO2I0",
+     "duree_secondes": 1324,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 108 - Refroidissement"
+    },
+    {
+     "saison": 1,
+     "numero": 109,
+     "titre": "Lettres d'amour",
+     "youtube_id": "GKE2x-AUjRw",
+     "duree_secondes": 1400,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 109 - Lettres d'amour"
+    },
+    {
+     "saison": 1,
+     "numero": 110,
+     "titre": "La grippe",
+     "youtube_id": "3OnN5Epjrhs",
+     "duree_secondes": 1488,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 110 - La grippe"
+    },
+    {
+     "saison": 1,
+     "numero": 111,
+     "titre": "Les factures sonnent toujours deux fois",
+     "youtube_id": "2xUdEoYrZOs",
+     "duree_secondes": 1364,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 111 - Les factures sonnent toujours deux fois"
+    },
+    {
+     "saison": 1,
+     "numero": 112,
+     "titre": "S.O.S docteurs",
+     "youtube_id": "ysLDx9EzAmQ",
+     "duree_secondes": 1476,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 112 - S.O.S docteurs"
+    },
+    {
+     "saison": 1,
+     "numero": 113,
+     "titre": "Où est passé Théo",
+     "youtube_id": "EwM_34N4Mvw",
+     "duree_secondes": 1455,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 113 - Où est passé Théo"
+    },
+    {
+     "saison": 1,
+     "numero": 114,
+     "titre": "La dose prescrite",
+     "youtube_id": "4IlrVyzEwCs",
+     "duree_secondes": 1482,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 114 - La dose prescrite"
+    },
+    {
+     "saison": 1,
+     "numero": 115,
+     "titre": "Troublante ressemblance",
+     "youtube_id": "mPT0S-YUhfE",
+     "duree_secondes": 1416,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 115 - Troublante ressemblance"
+    },
+    {
+     "saison": 1,
+     "numero": 116,
+     "titre": "Berny",
+     "youtube_id": "AUsXcxOOPfg",
+     "duree_secondes": 1409,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 116 - Berny"
+    },
+    {
+     "saison": 1,
+     "numero": 117,
+     "titre": "Réconciliation",
+     "youtube_id": "KVKAX7lCZhM",
+     "duree_secondes": 1438,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 117 - Réconciliation"
+    },
+    {
+     "saison": 1,
+     "numero": 118,
+     "titre": "La mygale menvotre",
+     "youtube_id": "Ckv-8peKROs",
+     "duree_secondes": 1445,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 118 - La mygale menvotre"
+    },
+    {
+     "saison": 1,
+     "numero": 119,
+     "titre": "Le sauveur",
+     "youtube_id": "i4zYonzPwt8",
+     "duree_secondes": 1408,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 119 - Le sauveur"
+    },
+    {
+     "saison": 1,
+     "numero": 120,
+     "titre": "Nathalie",
+     "youtube_id": "gf9cGD5LeB0",
+     "duree_secondes": 1377,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 120 - Nathalie"
+    },
+    {
+     "saison": 1,
+     "numero": 121,
+     "titre": "Jour de chance",
+     "youtube_id": "PYrwnesMjTE",
+     "duree_secondes": 1487,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 121 - Jour de chance"
+    },
+    {
+     "saison": 1,
+     "numero": 122,
+     "titre": "La chevalière",
+     "youtube_id": "joNxXaDsVvo",
+     "duree_secondes": 1420,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 122 - La chevalière"
+    },
+    {
+     "saison": 1,
+     "numero": 123,
+     "titre": "Le prince de cœur",
+     "youtube_id": "1FjaxQUrfb0",
+     "duree_secondes": 1462,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 123 - Le prince de cœur"
+    },
+    {
+     "saison": 1,
+     "numero": 124,
+     "titre": "Surprise",
+     "youtube_id": "eckQdMu4DKI",
+     "duree_secondes": 1348,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 124 - Surprise"
+    },
+    {
+     "saison": 1,
+     "numero": 125,
+     "titre": "Mon mari",
+     "youtube_id": "-3hh9YsAunM",
+     "duree_secondes": 1499,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 125 - Mon mari"
+    },
+    {
+     "saison": 1,
+     "numero": 126,
+     "titre": "Cousine Christelle",
+     "youtube_id": "KsJoiLILpS8",
+     "duree_secondes": 1509,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 126 - Cousine Christelle"
+    },
+    {
+     "saison": 1,
+     "numero": 127,
+     "titre": "Cindy",
+     "youtube_id": "s25Okd-cMDA",
+     "duree_secondes": 1494,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 127 - Cindy"
+    },
+    {
+     "saison": 1,
+     "numero": 128,
+     "titre": "C'est le plombier",
+     "youtube_id": "1D7GZuCP7AE",
+     "duree_secondes": 1474,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 128 - C'est le plombier"
+    },
+    {
+     "saison": 1,
+     "numero": 129,
+     "titre": "Ramirez",
+     "youtube_id": "BceyFXQ6-XY",
+     "duree_secondes": 1491,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 129 - Ramirez"
+    },
+    {
+     "saison": 1,
+     "numero": 130,
+     "titre": "Opération séduction",
+     "youtube_id": "GCT3aYFZvDA",
+     "duree_secondes": 1499,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 130 - Opération séduction"
+    },
+    {
+     "saison": 1,
+     "numero": 131,
+     "titre": "Les frères",
+     "youtube_id": "RT40BlTKC30",
+     "duree_secondes": 1438,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 131 - Les frères"
+    },
+    {
+     "saison": 1,
+     "numero": 132,
+     "titre": "Le plan de bataille",
+     "youtube_id": "ShDj8Jzui0I",
+     "duree_secondes": 1503,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 132 - Le plan de bataille"
+    },
+    {
+     "saison": 1,
+     "numero": 133,
+     "titre": "Sauve qui peut",
+     "youtube_id": "CDo-P-E2j6Q",
+     "duree_secondes": 1389,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 133 - Sauve qui peut"
+    },
+    {
+     "saison": 1,
+     "numero": 134,
+     "titre": "Ah les belles photos",
+     "youtube_id": "AZGwGToeGsk",
+     "duree_secondes": 1435,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 134 - Ah les belles photos"
+    },
+    {
+     "saison": 1,
+     "numero": 135,
+     "titre": "Cours de danse",
+     "youtube_id": "I_dmGdRn9Jc",
+     "duree_secondes": 1505,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 135 - Cours de danse"
+    },
+    {
+     "saison": 1,
+     "numero": 136,
+     "titre": "L'ex de Pierre",
+     "youtube_id": "h4b_eCz--hU",
+     "duree_secondes": 1474,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 136 - L'ex de Pierre"
+    },
+    {
+     "saison": 1,
+     "numero": 137,
+     "titre": "Une femme parfaite",
+     "youtube_id": "AFJNaG9Ix2o",
+     "duree_secondes": 1476,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 137 - Une femme parfaite"
+    },
+    {
+     "saison": 1,
+     "numero": 138,
+     "titre": "La déprime de Cindy",
+     "youtube_id": "68HWcaf2bZw",
+     "duree_secondes": 1506,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 138 - La déprime de Cindy"
+    },
+    {
+     "saison": 1,
+     "numero": 139,
+     "titre": "Les annonces",
+     "youtube_id": "Ebey0ApfR-I",
+     "duree_secondes": 1501,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 139 - Les annonces"
+    },
+    {
+     "saison": 1,
+     "numero": 140,
+     "titre": "Souvenirs de jeunesse",
+     "youtube_id": "1nrbwsm5NbU",
+     "duree_secondes": 1531,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 140 - Souvenirs de jeunesse"
+    },
+    {
+     "saison": 1,
+     "numero": 141,
+     "titre": "L'interdit",
+     "youtube_id": "gP_0GL6GXaU",
+     "duree_secondes": 1487,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 141 - L'interdit"
+    },
+    {
+     "saison": 1,
+     "numero": 142,
+     "titre": "La crème du docteur Gérard",
+     "youtube_id": "liwz-r9SNuw",
+     "duree_secondes": 1397,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 142 - La crème du docteur Gérard"
+    },
+    {
+     "saison": 1,
+     "numero": 143,
+     "titre": "La panne",
+     "youtube_id": "FUqRZIM5rNk",
+     "duree_secondes": 1463,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 143 - La panne"
+    },
+    {
+     "saison": 1,
+     "numero": 144,
+     "titre": "La musique adoucit les meufs",
+     "youtube_id": "pj_ZDxWsCVs",
+     "duree_secondes": 1463,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 144 - La musique adoucit les meufs"
+    },
+    {
+     "saison": 1,
+     "numero": 145,
+     "titre": "La frontière",
+     "youtube_id": "6UlCzYKgQX8",
+     "duree_secondes": 1463,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 145 - La frontière"
+    },
+    {
+     "saison": 1,
+     "numero": 146,
+     "titre": "L'élevage",
+     "youtube_id": "EmJnh0L0bD8",
+     "duree_secondes": 1514,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 146 - L'élevage"
+    },
+    {
+     "saison": 1,
+     "numero": 147,
+     "titre": "Tel mâle, telle femelle",
+     "youtube_id": "CbOGEYaDMHM",
+     "duree_secondes": 1547,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 147 - Tel mâle, telle femelle"
+    },
+    {
+     "saison": 1,
+     "numero": 148,
+     "titre": "L'héritage",
+     "youtube_id": "0IrPwAew4Qo",
+     "duree_secondes": 1491,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 148 - L'héritage"
+    },
+    {
+     "saison": 1,
+     "numero": 149,
+     "titre": "Ruines",
+     "youtube_id": "Dtv4RIEUXaY",
+     "duree_secondes": 1495,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 149 - Ruines"
+    },
+    {
+     "saison": 1,
+     "numero": 150,
+     "titre": "Besoin d'air",
+     "youtube_id": "AY26exZVyKM",
+     "duree_secondes": 1513,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 150 - Besoin d'air"
+    },
+    {
+     "saison": 1,
+     "numero": 151,
+     "titre": "Le décoinçage",
+     "youtube_id": "RgGli8mKUng",
+     "duree_secondes": 1507,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 151 - Le décoinçage"
+    },
+    {
+     "saison": 1,
+     "numero": 152,
+     "titre": "Les représentants",
+     "youtube_id": "pYOjSDm6F_g",
+     "duree_secondes": 1494,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 152 - Les représentants"
+    },
+    {
+     "saison": 1,
+     "numero": 153,
+     "titre": "Coup pour coup",
+     "youtube_id": "A7joiEsPuk0",
+     "duree_secondes": 1515,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 153 - Coup pour coup"
+    },
+    {
+     "saison": 1,
+     "numero": 154,
+     "titre": "Les infirmières",
+     "youtube_id": "-Eja4dMeb3g",
+     "duree_secondes": 1442,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 154 - Les infirmières"
+    },
+    {
+     "saison": 1,
+     "numero": 155,
+     "titre": "Tout pour la galerie",
+     "youtube_id": "biHgNgdFE9Q",
+     "duree_secondes": 1509,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 155 - Tout pour la galerie"
+    },
+    {
+     "saison": 1,
+     "numero": 156,
+     "titre": "Tout est possible",
+     "youtube_id": "U97itSekfMI",
+     "duree_secondes": 1523,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les nouvelles filles d'à côté - Épisode 156 - Tout est possible | Dernier épisode"
+    }
+   ],
+   "affiche": "affiches/-8sL9qHtgqQ.webp",
+   "vignette": "vignettes/-8sL9qHtgqQ.webp"
+  }
+ ]
+}

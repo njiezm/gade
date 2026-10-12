@@ -1,0 +1,1691 @@
+{
+ "genere_le": "2026-10-11",
+ "programmes": [
+  {
+   "slug": "un-gars-une-fille",
+   "titre": "Un gars, une fille",
+   "format": "serie",
+   "univers": "series",
+   "genres": [
+    "comedie",
+    "romance"
+   ],
+   "tout_public": true,
+   "youtube_id": null,
+   "chaine_nom": "Un gars une fille | Officiel",
+   "chaine_id": "UCYS9w8hrXKvq9iSeAhSjDDA",
+   "chaine_url": "https://www.youtube.com/channel/UCYS9w8hrXKvq9iSeAhSjDDA",
+   "ayant_droit": "Chaîne officielle de la série",
+   "duree_secondes": 3305,
+   "annee": 1999,
+   "description": "Jean Dujardin et Alexandra Lamy sont Loulou et Chouchou : le couple le plus drôle de la télé, de la salle de bain aux vacances. Les épisodes de quelques minutes réunis en compilations d'une heure, par thème.",
+   "disponible_jusqu_au": null,
+   "publie_le": "2026-03-17",
+   "a_la_une": true,
+   "ordre": 15,
+   "source_officielle": true,
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "Les vacances",
+     "youtube_id": "WaCdejmKS0o",
+     "duree_secondes": 4544,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Un gars une fille - les vacances - 1 heure",
+     "vignette": "vignettes/WaCdejmKS0o.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "En privé",
+     "youtube_id": "A_3tK3Oh5mo",
+     "duree_secondes": 4590,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Un gars une fille - en privé - 1 heure",
+     "vignette": "vignettes/A_3tK3Oh5mo.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 3,
+     "titre": "Les voyages",
+     "youtube_id": "fY8XJXDJVrY",
+     "duree_secondes": 5548,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Un gars une fille - les voyages - 1 heure",
+     "vignette": "vignettes/fY8XJXDJVrY.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 4,
+     "titre": "La famille & les amis",
+     "youtube_id": "yMqa1DKm3mE",
+     "duree_secondes": 4496,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Un gars une fille - La famille & les amis - 1 heure",
+     "vignette": "vignettes/yMqa1DKm3mE.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 5,
+     "titre": "Les plaisirs les galères",
+     "youtube_id": "NA7VHJ4ukhA",
+     "duree_secondes": 4287,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Un gars une fille - les plaisirs les galères - 1 heure",
+     "vignette": "vignettes/NA7VHJ4ukhA.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 6,
+     "titre": "En société",
+     "youtube_id": "0nLUH2NEaaE",
+     "duree_secondes": 3983,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Un gars une fille - en société - 1 heure",
+     "vignette": "vignettes/0nLUH2NEaaE.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 7,
+     "titre": "Les loisirs",
+     "youtube_id": "96dMutNkdVI",
+     "duree_secondes": 4528,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Un gars une fille - les loisirs - 1 heure",
+     "vignette": "vignettes/96dMutNkdVI.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 8,
+     "titre": "Compilation d'une heure",
+     "youtube_id": "Ht_yIua5Rck",
+     "duree_secondes": 3005,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Un gars une fille - compilation - 1 heure",
+     "vignette": "vignettes/Ht_yIua5Rck.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 9,
+     "titre": "Reçoivent",
+     "youtube_id": "L9_4UDiCsRI",
+     "duree_secondes": 3305,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Un gars une fille - reçoivent - compilation",
+     "vignette": "vignettes/L9_4UDiCsRI.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 10,
+     "titre": "La séparation",
+     "youtube_id": "6texDhl-TSM",
+     "duree_secondes": 2669,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Un gars une fille - la séparation - compilation",
+     "vignette": "vignettes/6texDhl-TSM.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 11,
+     "titre": "Les magasins",
+     "youtube_id": "g8d4633m3C8",
+     "duree_secondes": 2718,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Un gars une fille - les magasins - compilation",
+     "vignette": "vignettes/g8d4633m3C8.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 12,
+     "titre": "Et la médecine",
+     "youtube_id": "jFhMEYvn_gk",
+     "duree_secondes": 2995,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Un gars une fille - et la médecine - compilation",
+     "vignette": "vignettes/jFhMEYvn_gk.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 13,
+     "titre": "Les Seychelles",
+     "youtube_id": "2VZeqvGxqss",
+     "duree_secondes": 3373,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Un gars une fille - Les Seychelles - Ste Anne - compilation",
+     "vignette": "vignettes/2VZeqvGxqss.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 14,
+     "titre": "Dans la salle de bain",
+     "youtube_id": "eMzNAUkf0qA",
+     "duree_secondes": 2559,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Un gars une fille - dans la salle de bain - compilation",
+     "vignette": "vignettes/eMzNAUkf0qA.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 15,
+     "titre": "Dans la salle de bain",
+     "youtube_id": "A8QI4_Pteyk",
+     "duree_secondes": 3071,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Un gars une fille - dans la salle de bain - compilation",
+     "vignette": "vignettes/A8QI4_Pteyk.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 16,
+     "titre": "Hong-Kong",
+     "youtube_id": "2MSg7Vc6H6Y",
+     "duree_secondes": 2474,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Un gars une fille - Hong-Kong - compilation",
+     "vignette": "vignettes/2MSg7Vc6H6Y.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 17,
+     "titre": "Au Maroc",
+     "youtube_id": "utkl0FCGBo8",
+     "duree_secondes": 2406,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Un Gars, Une Fille - Au Maroc | Entre couscous et génie magique | COMPILATION",
+     "vignette": "vignettes/utkl0FCGBo8.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 18,
+     "titre": "Un Gars, Une Fille – Couple en cuisine : entre amour et prises de tête !",
+     "youtube_id": "yWbcBR7nf5s",
+     "duree_secondes": 2763,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Un Gars, Une Fille – Couple en cuisine : entre amour et prises de tête ! | COMPILATION",
+     "vignette": "vignettes/yWbcBR7nf5s.webp"
+    }
+   ],
+   "affiche": "affiches/WaCdejmKS0o.webp",
+   "vignette": "vignettes/WaCdejmKS0o.webp"
+  },
+  {
+   "slug": "scenes-de-menages",
+   "titre": "Scènes de ménages",
+   "format": "serie",
+   "univers": "series",
+   "genres": [
+    "comedie"
+   ],
+   "tout_public": true,
+   "youtube_id": null,
+   "chaine_nom": "Scènes de ménages - M6+",
+   "chaine_id": "UCgL4BYu0PhQqCbQiIqXs30Q",
+   "chaine_url": "https://www.youtube.com/channel/UCgL4BYu0PhQqCbQiIqXs30Q",
+   "ayant_droit": "Groupe M6 (chaîne officielle)",
+   "duree_secondes": 2487,
+   "annee": 2009,
+   "description": "Raymond et Huguette, José et Liliane, Cédric et Marion… Les couples de M6 et leurs petites guerres du quotidien, en compilations d'épisodes, saison par saison (saisons 1 à 7).",
+   "disponible_jusqu_au": null,
+   "publie_le": "2026-10-11",
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "Épisode 1",
+     "youtube_id": "ZfgiL2llrxU",
+     "duree_secondes": 1157,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SCÈNES DE MÉNAGES - LES PREMIERS SKETCHS DE LA SÉRIE - SAISON 1 | EPISODE 1",
+     "vignette": "vignettes/ZfgiL2llrxU.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "Épisode 2",
+     "youtube_id": "mOaK-Ah1taA",
+     "duree_secondes": 1176,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SCÈNES DE MÉNAGES - SAISON 1 | ÉPISODE 2",
+     "vignette": "vignettes/mOaK-Ah1taA.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 3,
+     "titre": "Épisode 3",
+     "youtube_id": "KB7YkbyLK04",
+     "duree_secondes": 1176,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SCÈNES DE MÉNAGES - SAISON 1 | ÉPISODE 3",
+     "vignette": "vignettes/KB7YkbyLK04.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 4,
+     "titre": "Épisode 4",
+     "youtube_id": "BiC606X32Nk",
+     "duree_secondes": 1193,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SCÈNES DE MÉNAGES - SAISON 1 | ÉPISODE 4",
+     "vignette": "vignettes/BiC606X32Nk.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 5,
+     "titre": "Épisode 5",
+     "youtube_id": "IlIkZbN19So",
+     "duree_secondes": 1177,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SCÈNES DE MÉNAGES - SAISON 1 | ÉPISODE 5",
+     "vignette": "vignettes/IlIkZbN19So.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 6,
+     "titre": "Épisode 6",
+     "youtube_id": "k67KKCzIVDY",
+     "duree_secondes": 1069,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SCÈNES DE MÉNAGES - SAISON 1 | ÉPISODE 6",
+     "vignette": "vignettes/k67KKCzIVDY.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 7,
+     "titre": "Épisode 7",
+     "youtube_id": "orFARmQUVho",
+     "duree_secondes": 1139,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SCÈNES DE MÉNAGES - SAISON 1 | ÉPISODE 7",
+     "vignette": "vignettes/orFARmQUVho.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 8,
+     "titre": "Épisode 8",
+     "youtube_id": "6LR1jbGyoWs",
+     "duree_secondes": 1119,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SCÈNES DE MÉNAGES - SAISON 1 | ÉPISODE 8",
+     "vignette": "vignettes/6LR1jbGyoWs.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 9,
+     "titre": "Épisode 9",
+     "youtube_id": "YYHMs2k8eqo",
+     "duree_secondes": 1125,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SCÈNES DE MÉNAGES - SAISON 1 | ÉPISODE 9",
+     "vignette": "vignettes/YYHMs2k8eqo.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 10,
+     "titre": "Épisode 10",
+     "youtube_id": "D3U51QbsfAE",
+     "duree_secondes": 1089,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SCÈNES DE MÉNAGES - SAISON 1 | ÉPISODE 10",
+     "vignette": "vignettes/D3U51QbsfAE.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 11,
+     "titre": "Épisode 11",
+     "youtube_id": "3UjISmOHKlM",
+     "duree_secondes": 1086,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SCÈNES DE MÉNAGES - SAISON 1 | ÉPISODE 11",
+     "vignette": "vignettes/3UjISmOHKlM.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 12,
+     "titre": "Épisode 12",
+     "youtube_id": "UGnws0cpQb0",
+     "duree_secondes": 1085,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SCÈNES DE MÉNAGES - SAISON 1 | ÉPISODE 12",
+     "vignette": "vignettes/UGnws0cpQb0.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 1,
+     "titre": "L'amour à l'infini",
+     "youtube_id": "i6NGZl-wZUQ",
+     "duree_secondes": 1269,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'amour à l'infini | SAISON 2 - ÉPISODE 1 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/i6NGZl-wZUQ.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 2,
+     "titre": "Tatouage, coup de vice et escroquerie !",
+     "youtube_id": "zdifZUnmr8k",
+     "duree_secondes": 1239,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Tatouage, coup de vice et escroquerie ! | SAISON 2 - ÉPISODE 2 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/zdifZUnmr8k.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 3,
+     "titre": "Huguette et Raymond perdent le sens commun !",
+     "youtube_id": "yoFiXPs7pAg",
+     "duree_secondes": 1216,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Huguette et Raymond perdent le sens commun ! | SAISON 2 - ÉPISODE 3 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/yoFiXPs7pAg.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 4,
+     "titre": "Very Bad Trip",
+     "youtube_id": "r_RRbLOcuWc",
+     "duree_secondes": 1201,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Very Bad Trip | SAISON 2 - ÉPISODE 4 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/r_RRbLOcuWc.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 5,
+     "titre": "Sale journée, blague à deux balles et gym du visage",
+     "youtube_id": "llykvwqRflE",
+     "duree_secondes": 1202,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Sale journée, blague à deux balles et gym du visage | SAISON 2 - ÉPISODE 5 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/llykvwqRflE.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 6,
+     "titre": "Une sage décision",
+     "youtube_id": "i1WWYCHTXdk",
+     "duree_secondes": 1112,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Une sage décision | SAISON 2 - ÉPISODE 6 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/i1WWYCHTXdk.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 7,
+     "titre": "Le remède miracle pour détendre Marion",
+     "youtube_id": "3OD-6JxAyE8",
+     "duree_secondes": 1192,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le remède miracle pour détendre Marion | SAISON 2 - ÉPISODE 7 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/3OD-6JxAyE8.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 8,
+     "titre": "Excusez-moi d'être ce que je suis, car je suis JOSÉ !",
+     "youtube_id": "y9jvnXcnnEo",
+     "duree_secondes": 1157,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "\"Excusez-moi d'être ce que je suis, car je suis JOSÉ ! \" | SAISON 2 - ÉPISODE 9 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/y9jvnXcnnEo.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 9,
+     "titre": "Raymond is the new Jean Rochefort",
+     "youtube_id": "vSsEz1NnfNI",
+     "duree_secondes": 1084,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Raymond is the new Jean Rochefort | SAISON 2 - EPISODE 10 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/vSsEz1NnfNI.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 10,
+     "titre": "Cédric et Marion bientôt parents ?",
+     "youtube_id": "aesI3W25Lqo",
+     "duree_secondes": 1201,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cédric et Marion bientôt parents ? | SAISON 2 - ÉPISODE 11 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/aesI3W25Lqo.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 11,
+     "titre": "L'arroseur arrosé",
+     "youtube_id": "RSmykfmoFok",
+     "duree_secondes": 1204,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'arroseur arrosé | SAISON 2 - ÉPISODE 12 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/RSmykfmoFok.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 12,
+     "titre": "Fausse alerte",
+     "youtube_id": "29JbFNEMiVs",
+     "duree_secondes": 1111,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Fausse alerte | SAISON 2 - ÉPISODE 13 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/29JbFNEMiVs.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 13,
+     "titre": "Huguette et Raymond rendent dingue la femme de ménage !",
+     "youtube_id": "hfHTRV6D1ho",
+     "duree_secondes": 1193,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Huguette et Raymond rendent dingue la femme de ménage ! | SAISON 2 - ÉPISODE 14 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/hfHTRV6D1ho.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 14,
+     "titre": "Sans foi ni loi",
+     "youtube_id": "_AEoDtUtwMw",
+     "duree_secondes": 928,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Sans foi ni loi | SAISON 2 - ÉPISODE 15 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/_AEoDtUtwMw.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 15,
+     "titre": "L'éponge spéciale José, réservée pour les WC !",
+     "youtube_id": "lxYdyxYY1sg",
+     "duree_secondes": 1119,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "\"L'éponge spéciale José, réservée pour les WC !\" | SAISON 2 - ÉPISODE 16 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/lxYdyxYY1sg.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 1,
+     "titre": "Grosse boulette, merci Huguette et signal d'alarme",
+     "youtube_id": "oGU-8Db-JvU",
+     "duree_secondes": 1290,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Grosse boulette, merci Huguette et signal d'alarme | SAISON 3 - ÉPISODE 1 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/oGU-8Db-JvU.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 2,
+     "titre": "Découverte inquiétante sur le passé de Raymond...",
+     "youtube_id": "BpMqACAhWew",
+     "duree_secondes": 1151,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Découverte inquiétante sur le passé de Raymond... | SAISON 3 - ÉPISODE 2 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/BpMqACAhWew.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 3,
+     "titre": "José et Liliane s'essaient à la webcam coquine !",
+     "youtube_id": "0x_5uS0tih8",
+     "duree_secondes": 1121,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "José et Liliane s'essaient à la webcam coquine ! | SAISON 3 - ÉPISODE 3 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/0x_5uS0tih8.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 4,
+     "titre": "Coup de gueule, rap mythique et galères du quotidien",
+     "youtube_id": "Z0dzNiLKn24",
+     "duree_secondes": 1198,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Coup de gueule, rap mythique et galères du quotidien | SAISON 3 - ÉPISODE 4 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/Z0dzNiLKn24.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 5,
+     "titre": "Ça se voit que ton coiffeur n'aime pas les femmes !",
+     "youtube_id": "_rj65tsNId8",
+     "duree_secondes": 1241,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "\"Ça se voit que ton coiffeur n'aime pas les femmes !\" | SAISON 3 - ÉPISODE 5 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/_rj65tsNId8.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 6,
+     "titre": "José victime d'un infarctus...suspect !",
+     "youtube_id": "ftCdqvHjUWw",
+     "duree_secondes": 1444,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "José victime d'un infarctus...suspect ! | SAISON 3 - ÉPISODE 6 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/ftCdqvHjUWw.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 7,
+     "titre": "Fabien se révèle, José se dope au pinot...",
+     "youtube_id": "63JmvkxXM5U",
+     "duree_secondes": 1191,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Fabien se révèle, José se dope au pinot... | SAISON 3 - ÉPISODE 7 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/63JmvkxXM5U.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 8,
+     "titre": "Cédric pris en flagrant délit au pire des moments !",
+     "youtube_id": "XCdoCRK6FLw",
+     "duree_secondes": 1206,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Cédric pris en flagrant délit au pire des moments ! | SAISON 3 - ÉPISODE 8 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/XCdoCRK6FLw.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 9,
+     "titre": "Accident domestique, cache-misère et cornichons mortels",
+     "youtube_id": "Pp_BVQC3_GY",
+     "duree_secondes": 1243,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Accident domestique, cache-misère et cornichons mortels | SAISON 3 - ÉPISODE 9 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/Pp_BVQC3_GY.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 10,
+     "titre": "Camille Cottin se paye Fabien après la grossesse d'Emma",
+     "youtube_id": "1oYMGH1KmTI",
+     "duree_secondes": 1410,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Camille Cottin se paye Fabien après la grossesse d'Emma | SAISON 3 - ÉPISODE 10 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/1oYMGH1KmTI.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 11,
+     "titre": "Quand Liliane teste l'intelligence de José",
+     "youtube_id": "aphPaOctnrk",
+     "duree_secondes": 1247,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Quand Liliane teste l'intelligence de José | SAISON 3 - ÉPISODE 11 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/aphPaOctnrk.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 12,
+     "titre": "Souvenir traumatique, grosse annonce & erreur de casting",
+     "youtube_id": "fhQYWaRcND8",
+     "duree_secondes": 1229,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Souvenir traumatique, grosse annonce & erreur de casting | SAISON 3 - ÉPISODE 12 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/fhQYWaRcND8.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 13,
+     "titre": "Vision de l'horreur, histoire croustillante et accident",
+     "youtube_id": "Y3o800G10hk",
+     "duree_secondes": 1084,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Vision de l'horreur, histoire croustillante et accident | SAISON 3 - ÉPISODE 13 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/Y3o800G10hk.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 14,
+     "titre": "Fou rire, rêve de gosse et encastrement existentiel",
+     "youtube_id": "hiILAkFaTCQ",
+     "duree_secondes": 1269,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Fou rire, rêve de gosse et encastrement existentiel | SAISON 3 - ÉPISODE 14 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/hiILAkFaTCQ.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 15,
+     "titre": "Liliane commet une grosse boulette avec sa voiture...",
+     "youtube_id": "kCJZXfi_3ek",
+     "duree_secondes": 1159,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Liliane commet une grosse boulette avec sa voiture... | SAISON 3 - ÉPISODE 15 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/kCJZXfi_3ek.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 16,
+     "titre": "Raymond est fatigué d'emm**der les gens !",
+     "youtube_id": "dGI-8ILwOH4",
+     "duree_secondes": 1207,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Raymond est fatigué d'emm**der les gens ! | SAISON 3 - ÉPISODE 16 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/dGI-8ILwOH4.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 17,
+     "titre": "José pousse Liliane à bout...",
+     "youtube_id": "HX9J2GjJh7U",
+     "duree_secondes": 1131,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "José pousse Liliane à bout... | SAISON 3 - ÉPISODE 17 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/HX9J2GjJh7U.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 18,
+     "titre": "La parade ultime pour se détacher d'Huguette",
+     "youtube_id": "tXwEmB78I54",
+     "duree_secondes": 1482,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "La parade ultime pour se détacher d'Huguette | SAISON 3 - ÉPISODE 18 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/tXwEmB78I54.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 19,
+     "titre": "Concours de blagues, mensonges et trahisons !",
+     "youtube_id": "qoyBSsutd0Y",
+     "duree_secondes": 1376,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Concours de blagues, mensonges et trahisons ! | SAISON 3 - ÉPISODE 19 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/qoyBSsutd0Y.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 20,
+     "titre": "José victime du gag de l'année",
+     "youtube_id": "-8e1_FbhwWM",
+     "duree_secondes": 1366,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "José victime du gag de l'année 😂 | SAISON 3 - ÉPISODE 20 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/-8e1_FbhwWM.webp"
+    },
+    {
+     "saison": 4,
+     "numero": 1,
+     "titre": "L'amour, c'est tout un art (et beaucoup de mauvaise foi)",
+     "youtube_id": "gBl9Sm7nxcg",
+     "duree_secondes": 3255,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L'amour, c'est tout un art (et beaucoup de mauvaise foi) | SAISON 4 - ÉPISODE 1 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/gBl9Sm7nxcg.webp"
+    },
+    {
+     "saison": 4,
+     "numero": 2,
+     "titre": "Entre thérapies de couple et vilaines vacheries",
+     "youtube_id": "jF_khmhr-ng",
+     "duree_secondes": 2996,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Entre thérapies de couple et vilaines vacheries 🤫 | SAISON 4 - ÉPISODE 2 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/jF_khmhr-ng.webp"
+    },
+    {
+     "saison": 4,
+     "numero": 3,
+     "titre": "J’imite ton grand-père MORT\" : Le jeu tourne au RÈGLEMENT DE COMPTES",
+     "youtube_id": "wfNr4F5jFd0",
+     "duree_secondes": 3325,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "\"J’imite ton grand-père MORT\" : Le jeu tourne au RÈGLEMENT DE COMPTES | S4 - EP3 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/wfNr4F5jFd0.webp"
+    },
+    {
+     "saison": 4,
+     "numero": 4,
+     "titre": "Coup de foudre dans l’Orient Express !",
+     "youtube_id": "Il8emUwB7l4",
+     "duree_secondes": 3186,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Coup de foudre dans l’Orient Express ! | SAISON 4 - ÉPISODE 4 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/Il8emUwB7l4.webp"
+    },
+    {
+     "saison": 4,
+     "numero": 5,
+     "titre": "Le choc des cultures : Trop d'expos, pas assez d'apéro !",
+     "youtube_id": "7Bqt4J3nvo8",
+     "duree_secondes": 3217,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le choc des cultures : Trop d'expos, pas assez d'apéro ! | SAISON 4 - ÉPISODE 5 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/7Bqt4J3nvo8.webp"
+    },
+    {
+     "saison": 4,
+     "numero": 6,
+     "titre": "Quand l'astrologie sème la zizanie",
+     "youtube_id": "27ilbwVMq5I",
+     "duree_secondes": 1836,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Quand l'astrologie sème la zizanie ♈️ | SAISON 4 - ÉPISODE 7 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/27ilbwVMq5I.webp"
+    },
+    {
+     "saison": 5,
+     "numero": 1,
+     "titre": "Le changement c'est maintenant",
+     "youtube_id": "FQURZ_xnW8I",
+     "duree_secondes": 3350,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le changement c'est maintenant | SAISON 5 - ÉPISODE 1 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/FQURZ_xnW8I.webp"
+    },
+    {
+     "saison": 5,
+     "numero": 2,
+     "titre": "C'est pas un GPS qui va faire la loi dans ma voiture !",
+     "youtube_id": "bVKlBygGcy4",
+     "duree_secondes": 3363,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "\"C'est pas un GPS qui va faire la loi dans ma voiture !\" | SAISON 5 - ÉPISODE 2 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/bVKlBygGcy4.webp"
+    },
+    {
+     "saison": 5,
+     "numero": 3,
+     "titre": "Comment José est parvenu à séduire Liliane",
+     "youtube_id": "ItJ6gjo5PLM",
+     "duree_secondes": 3357,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Comment José est parvenu à séduire Liliane | SAISON 5 - ÉPISODE 3 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/ItJ6gjo5PLM.webp"
+    },
+    {
+     "saison": 5,
+     "numero": 4,
+     "titre": "Petits mensonges et grandes vérités !",
+     "youtube_id": "pXLp8UcVlqQ",
+     "duree_secondes": 3339,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Petits mensonges et grandes vérités ! | SAISON 5 - ÉPISODE 4 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/pXLp8UcVlqQ.webp"
+    },
+    {
+     "saison": 5,
+     "numero": 5,
+     "titre": "Chroniques d'un bonheur mouvementé",
+     "youtube_id": "ARK_eTEEksk",
+     "duree_secondes": 3317,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Chroniques d'un bonheur mouvementé | SAISON 5 - ÉPISODE 5 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/ARK_eTEEksk.webp"
+    },
+    {
+     "saison": 5,
+     "numero": 6,
+     "titre": "Amnésie sélective, théorie absurde et crise existentielle",
+     "youtube_id": "p79lCujk6bQ",
+     "duree_secondes": 3236,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Amnésie sélective, théorie absurde et crise existentielle | SAISON 5 - ÉPISODE 6 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/p79lCujk6bQ.webp"
+    },
+    {
+     "saison": 5,
+     "numero": 7,
+     "titre": "El dictator, jumelles d'intérieur et footing du c*l",
+     "youtube_id": "pIP1QOr01yk",
+     "duree_secondes": 3252,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "El dictator, jumelles d'intérieur et footing du c*l | SAISON 5 - ÉPISODE 7 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/pIP1QOr01yk.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 1,
+     "titre": "L’espace fumeur, le poker interdit et Radio Moustache",
+     "youtube_id": "zE7jLAg-J_M",
+     "duree_secondes": 2640,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "L’espace fumeur, le poker interdit et Radio Moustache | S6 | Sketchs SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/zE7jLAg-J_M.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 2,
+     "titre": "La théorie des Chloé, mémoire qui flanche et panique générale",
+     "youtube_id": "FqepbuEzUN8",
+     "duree_secondes": 2736,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "La théorie des Chloé, mémoire qui flanche et panique générale | SAISON 6 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/FqepbuEzUN8.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 3,
+     "titre": "Voisins envahissants, couples en crise et parents débordés",
+     "youtube_id": "mt1rLlf74p8",
+     "duree_secondes": 2624,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Voisins envahissants, couples en crise et parents débordés | SAISON 6 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/mt1rLlf74p8.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 4,
+     "titre": "Ragots, voyages imaginaires et quiproquos en série",
+     "youtube_id": "60mozRaq6sY",
+     "duree_secondes": 2710,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Ragots, voyages imaginaires et quiproquos en série | SAISON 6 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/60mozRaq6sY.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 5,
+     "titre": "Retrouvailles gênantes, parents dépassés et héros du quotidien",
+     "youtube_id": "lF6o3OBgGDc",
+     "duree_secondes": 2761,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Retrouvailles gênantes, parents dépassés et héros du quotidien | SAISON 6 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/lF6o3OBgGDc.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 6,
+     "titre": "Changement de vie, vacances à la mer et gros quiproquos",
+     "youtube_id": "NGeqJNrig_Q",
+     "duree_secondes": 2586,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Changement de vie, vacances à la mer et gros quiproquos | SAISON 6 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/NGeqJNrig_Q.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 7,
+     "titre": "Invitations annulées, détective amateur et grosses maladresses",
+     "youtube_id": "-2gUAxs-7YE",
+     "duree_secondes": 2553,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Invitations annulées, détective amateur et grosses maladresses | SAISON 6 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/-2gUAxs-7YE.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 8,
+     "titre": "La méthode du palais mental, déclarations d'amour et quiproquos",
+     "youtube_id": "njFQGya9yI4",
+     "duree_secondes": 2555,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "La méthode du palais mental, déclarations d'amour et quiproquos | SAISON 6 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/njFQGya9yI4.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 9,
+     "titre": "Entrepreneurs motivés, voisins indiscrets et idées absurdes",
+     "youtube_id": "ZrMfRYwVWyo",
+     "duree_secondes": 2653,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Entrepreneurs motivés, voisins indiscrets et idées absurdes | SAISON 6 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/ZrMfRYwVWyo.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 10,
+     "titre": "Notes parfaites, couples déjantés et vacances improbables",
+     "youtube_id": "CdD_UXM_zz0",
+     "duree_secondes": 2516,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Notes parfaites, couples déjantés et vacances improbables | SAISON 6 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/CdD_UXM_zz0.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 11,
+     "titre": "Disputes de couple, objets introuvables et galères du quotidien",
+     "youtube_id": "XuNDDuB4zs4",
+     "duree_secondes": 2728,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Disputes de couple, objets introuvables et galères du quotidien | SAISON 6 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/XuNDDuB4zs4.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 12,
+     "titre": "Bébés ingérables, cadeaux ratés et disputes de couple",
+     "youtube_id": "7i0zxRbY0Ec",
+     "duree_secondes": 2752,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Bébés ingérables, cadeaux ratés et disputes de couple | SAISON 6 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/7i0zxRbY0Ec.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 13,
+     "titre": "Le cadeau est très mal interprété…",
+     "youtube_id": "hHEb3dl7Fro",
+     "duree_secondes": 2613,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le cadeau est très mal interprété… | S6 | Scènes de Ménages",
+     "vignette": "vignettes/hHEb3dl7Fro.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 14,
+     "titre": "Elle ramène une ogive nucléaire à la maison !",
+     "youtube_id": "GOGUGQHzANY",
+     "duree_secondes": 2730,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Elle ramène une ogive nucléaire à la maison ! | S6 | Scènes de Ménages",
+     "vignette": "vignettes/GOGUGQHzANY.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 15,
+     "titre": "Il envoie un faux CV… à son propre patron !",
+     "youtube_id": "LCV6SfGzCKQ",
+     "duree_secondes": 2754,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Il envoie un faux CV… à son propre patron ! | S6 | Scènes de Ménages",
+     "vignette": "vignettes/LCV6SfGzCKQ.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 16,
+     "titre": "Vacances ratées, disputes de couple et grosses boulettes",
+     "youtube_id": "22Y8-Y8uQCA",
+     "duree_secondes": 2621,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Vacances ratées, disputes de couple et grosses boulettes | SAISON 6 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/22Y8-Y8uQCA.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 17,
+     "titre": "Grosses boulettes, disputes de couple et situations absurdes",
+     "youtube_id": "BIWQeEzdPBw",
+     "duree_secondes": 2563,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Grosses boulettes, disputes de couple et situations absurdes | SAISON 6 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/BIWQeEzdPBw.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 18,
+     "titre": "Radio Moustache, vacances ratées et disputes de couple",
+     "youtube_id": "7Auqe05x2KA",
+     "duree_secondes": 2536,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Radio Moustache, vacances ratées et disputes de couple | SAISON 6 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/7Auqe05x2KA.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 19,
+     "titre": "La cabane de Fabien, voisins pénibles et disputes sans fin",
+     "youtube_id": "xglCPV421G4",
+     "duree_secondes": 2570,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "La cabane de Fabien, voisins pénibles et disputes sans fin | SAISON 6 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/xglCPV421G4.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 20,
+     "titre": "Huguette demande à Raymond de la décrire en un mot…",
+     "youtube_id": "0JBxPyoCSp8",
+     "duree_secondes": 2504,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Huguette demande à Raymond de la décrire en un mot… | SAISON 6 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/0JBxPyoCSp8.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 21,
+     "titre": "Chloé chez papi et mamie, jalousie et chien impossible",
+     "youtube_id": "t80406HxPUc",
+     "duree_secondes": 2492,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Chloé chez papi et mamie, jalousie et chien impossible | SAISON 6 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/t80406HxPUc.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 22,
+     "titre": "Mariage en vue, accidents à répétition et nerfs à vif",
+     "youtube_id": "giD23oO5b0A",
+     "duree_secondes": 2543,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Mariage en vue, accidents à répétition et nerfs à vif | SAISON 6 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/giD23oO5b0A.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 23,
+     "titre": "Vocations improbables, cadeaux ratés et projets complètement fous",
+     "youtube_id": "7yu8Vu193Eg",
+     "duree_secondes": 2629,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Vocations improbables, cadeaux ratés et projets complètement fous | SAISON 6 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/7yu8Vu193Eg.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 24,
+     "titre": "Voisins pénibles, petites angoisses et grandes décisions",
+     "youtube_id": "_dGGN_7CpPc",
+     "duree_secondes": 2748,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Voisins pénibles, petites angoisses et grandes décisions | SAISON 6 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/_dGGN_7CpPc.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 25,
+     "titre": "Mariage sous tension, tombeau de luxe et extraterrestres",
+     "youtube_id": "mMrBOwBozT4",
+     "duree_secondes": 1502,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Mariage sous tension, tombeau de luxe et extraterrestres | SAISON 6 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/mMrBOwBozT4.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 26,
+     "titre": "Mariage de folie, voyance et fin du monde",
+     "youtube_id": "gGnz9xJATe0",
+     "duree_secondes": 2641,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Mariage de folie, voyance et fin du monde | SAISON 6 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/gGnz9xJATe0.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 27,
+     "titre": "Huguette se lance sur YouTube… Raymond imagine déjà le pire",
+     "youtube_id": "Z7pKTqnyv0E",
+     "duree_secondes": 2613,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Huguette se lance sur YouTube… Raymond imagine déjà le pire | SAISON 6 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/Z7pKTqnyv0E.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 28,
+     "titre": "José tente de remonter le moral de son ami",
+     "youtube_id": "Si214k0Y9nY",
+     "duree_secondes": 2680,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "José tente de remonter le moral de son ami | SAISON 6 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/Si214k0Y9nY.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 29,
+     "titre": "Un inconnu prête son GPS à Marion : très mauvaise idée",
+     "youtube_id": "FklYvfx1pYE",
+     "duree_secondes": 2590,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Un inconnu prête son GPS à Marion : très mauvaise idée | SAISON 6 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/FklYvfx1pYE.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 30,
+     "titre": "Le traitement d’Huguette a des effets inattendus",
+     "youtube_id": "MSGokQUml38",
+     "duree_secondes": 2593,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le traitement d’Huguette a des effets inattendus | SAISON 6 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/MSGokQUml38.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 31,
+     "titre": "José célèbre une défaite 12-0 comme une victoire",
+     "youtube_id": "2U5b2upirmQ",
+     "duree_secondes": 2819,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "José célèbre une défaite 12-0 comme une victoire | SAISON 6 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/2U5b2upirmQ.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 32,
+     "titre": "Sous la douche, José fait une découverte complètement inutile",
+     "youtube_id": "Hi5Ss6jYZ9U",
+     "duree_secondes": 3299,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Sous la douche, José fait une découverte complètement inutile | SAISON 6 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/Hi5Ss6jYZ9U.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 33,
+     "titre": "Raymond nie avoir eu peur d’un chien… Huguette insiste",
+     "youtube_id": "xaGkMVNR3lE",
+     "duree_secondes": 3156,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Raymond nie avoir eu peur d’un chien… Huguette insiste | SAISON 6 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/xaGkMVNR3lE.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 34,
+     "titre": "José et Liliane font un break… mais il oublie de partir",
+     "youtube_id": "2jP5ZdQG58Y",
+     "duree_secondes": 2952,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "José et Liliane font un break… mais il oublie de partir | SAISON 6 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/2jP5ZdQG58Y.webp"
+    },
+    {
+     "saison": 7,
+     "numero": 1,
+     "titre": "Et si Cédric disait « non » le jour de leur mariage ?",
+     "youtube_id": "tH4aKM3gX_4",
+     "duree_secondes": 2649,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Et si Cédric disait « non » le jour de leur mariage ? | SAISON 7 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/tH4aKM3gX_4.webp"
+    },
+    {
+     "saison": 7,
+     "numero": 2,
+     "titre": "Camille veut inviter tous ses ex à son mariage avec Philippe",
+     "youtube_id": "m39NLlDkFPI",
+     "duree_secondes": 2815,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Camille veut inviter tous ses ex à son mariage avec Philippe | SAISON 7 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/m39NLlDkFPI.webp"
+    },
+    {
+     "saison": 7,
+     "numero": 3,
+     "titre": "La mère de José est beaucoup trop gentille… Liliane trouve ça louche",
+     "youtube_id": "bhCknW2DfFs",
+     "duree_secondes": 2487,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "La mère de José est beaucoup trop gentille… Liliane trouve ça louche | SAISON 7 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/bhCknW2DfFs.webp"
+    },
+    {
+     "saison": 7,
+     "numero": 4,
+     "titre": "Une publicité coupe l’appétit de Philippe en plein repas",
+     "youtube_id": "bZ33Hp-vaPk",
+     "duree_secondes": 2566,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Une publicité coupe l’appétit de Philippe en plein repas | SAISON 7 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/bZ33Hp-vaPk.webp"
+    },
+    {
+     "saison": 7,
+     "numero": 5,
+     "titre": "Liliane fait un lapsus très gênant devant José",
+     "youtube_id": "NMjxN8rS12g",
+     "duree_secondes": 2704,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Liliane fait un lapsus très gênant devant José | SAISON 7 | SCÈNES DE MÉNAGES",
+     "vignette": "vignettes/NMjxN8rS12g.webp"
+    }
+   ],
+   "affiche": "affiches/7Bqt4J3nvo8.webp",
+   "vignette": "vignettes/7Bqt4J3nvo8.webp"
+  },
+  {
+   "slug": "fais-pas-ci-fais-pas-ca",
+   "titre": "Fais pas ci, fais pas ça",
+   "format": "serie",
+   "univers": "series",
+   "genres": [
+    "comedie"
+   ],
+   "tout_public": true,
+   "youtube_id": null,
+   "chaine_nom": "Fais pas ci, Fais pas ça",
+   "chaine_id": "UCXnO_LAy-Lz2eKs5O8nNBkw",
+   "chaine_url": "https://www.youtube.com/channel/UCXnO_LAy-Lz2eKs5O8nNBkw",
+   "ayant_droit": "Chaîne officielle de la série (France Télévisions)",
+   "duree_secondes": 1273,
+   "annee": 2007,
+   "description": "Les Lepic, coincés et catholiques, et les Bouley, cools et recomposés : deux familles voisines, deux façons d'élever ses enfants. Compilations thématiques officielles (des montages de moments, pas des épisodes entiers).",
+   "disponible_jusqu_au": null,
+   "publie_le": "2023-09-12",
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "Pas toujours facile d'être parents d'ados",
+     "youtube_id": "XZw4jBz3rX4",
+     "duree_secondes": 1321,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Pas toujours facile d'être parents d'ados | Fais pas ci, Fais pas ça",
+     "vignette": "vignettes/XZw4jBz3rX4.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "Le mariage catastrophique de Tiphaine et Christophe",
+     "youtube_id": "HMVn_43PA4s",
+     "duree_secondes": 1250,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le mariage catastrophique de Tiphaine et Christophe | Fais pas ci, Fais pas ça",
+     "vignette": "vignettes/HMVn_43PA4s.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 3,
+     "titre": "Fabienne Lepic veut travailler",
+     "youtube_id": "zST1VfQB5CQ",
+     "duree_secondes": 1234,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Fabienne Lepic veut travailler | Fais pas ci, Fais pas ça",
+     "vignette": "vignettes/zST1VfQB5CQ.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 4,
+     "titre": "Denis Bouley, nouvelle recrue Boréale",
+     "youtube_id": "9kLdF_l0Gj0",
+     "duree_secondes": 1768,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Denis Bouley, nouvelle recrue Boréale | Fais pas ci, Fais pas ça",
+     "vignette": "vignettes/9kLdF_l0Gj0.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 5,
+     "titre": "La chorale de Noël, c'est sacré pour Fabienne Lepic",
+     "youtube_id": "ca9LbtavJtc",
+     "duree_secondes": 1396,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "La chorale de Noël, c'est sacré pour Fabienne Lepic | Fais pas ci, Fais pas ça",
+     "vignette": "vignettes/ca9LbtavJtc.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 6,
+     "titre": "Denis et Renaud, des artistes dans l'âme",
+     "youtube_id": "vEArHnfnXKg",
+     "duree_secondes": 1233,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Denis et Renaud, des artistes dans l'âme | Fais pas ci, Fais pas ça",
+     "vignette": "vignettes/vEArHnfnXKg.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 7,
+     "titre": "Denis Bouley, un coach pas comme les autres",
+     "youtube_id": "-lyNBIj7jX0",
+     "duree_secondes": 1273,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Denis Bouley, un coach pas comme les autres | Fais pas ci, Fais pas ça",
+     "vignette": "vignettes/-lyNBIj7jX0.webp"
+    }
+   ],
+   "affiche": "affiches/XZw4jBz3rX4.webp",
+   "vignette": "vignettes/XZw4jBz3rX4.webp"
+  },
+  {
+   "slug": "samantha-oups",
+   "titre": "Samantha Oups !",
+   "format": "serie",
+   "univers": "series",
+   "genres": [
+    "comedie"
+   ],
+   "tout_public": true,
+   "youtube_id": null,
+   "chaine_nom": "Samantha oups !",
+   "chaine_id": "UC3HcGh7434WBFgGaSfMRH-A",
+   "chaine_url": "https://www.youtube.com/channel/UC3HcGh7434WBFgGaSfMRH-A",
+   "ayant_droit": "Chaîne officielle de la série",
+   "duree_secondes": 5950,
+   "annee": 2004,
+   "description": "Samantha et Chantal, deux copines délurées et maladroites, enchaînent les gaffes. Les trois saisons en intégrale, les vacances à Marrakech et dix compilations « au gîte ».",
+   "disponible_jusqu_au": null,
+   "publie_le": "2026-09-18",
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "Intégrale de la saison 1",
+     "youtube_id": "s3ciLx3F4iw",
+     "duree_secondes": 9931,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "💛 Samantha Oups ! - Intégrale Saison 1",
+     "vignette": "vignettes/s3ciLx3F4iw.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "Intégrale de la saison 2",
+     "youtube_id": "rONdhWtuk68",
+     "duree_secondes": 13545,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "💛 Samantha Oups ! - Intégrale Saison 2 HD !",
+     "vignette": "vignettes/rONdhWtuk68.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 3,
+     "titre": "Intégrale de la saison 3",
+     "youtube_id": "cp2dPJdWNHI",
+     "duree_secondes": 7017,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "💛 Samantha Oups ! - Intégrale Saison 3 HD !",
+     "vignette": "vignettes/cp2dPJdWNHI.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 4,
+     "titre": "Samantha en vacances à Marrakech",
+     "youtube_id": "E3_qwlvSUHE",
+     "duree_secondes": 3864,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Samantha en vacances à Marrakech ! - L'intégrale",
+     "vignette": "vignettes/E3_qwlvSUHE.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 5,
+     "titre": "Au gîte — compilation 1",
+     "youtube_id": "FxzrL5u_trg",
+     "duree_secondes": 5964,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "💛 Samantha Oups au gîte - Compilation 1 HD !",
+     "vignette": "vignettes/FxzrL5u_trg.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 6,
+     "titre": "Au gîte — compilation 2",
+     "youtube_id": "4-YNwk-ctEE",
+     "duree_secondes": 5630,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "💛 Samantha Oups au gîte - Compilation 2 HD !",
+     "vignette": "vignettes/4-YNwk-ctEE.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 7,
+     "titre": "Au gîte — compilation 3",
+     "youtube_id": "Qm2i4Sey4YI",
+     "duree_secondes": 5522,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "💛 Samantha Oups au gîte - Compilation 3 HD !",
+     "vignette": "vignettes/Qm2i4Sey4YI.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 8,
+     "titre": "Au gîte — compilation 4",
+     "youtube_id": "pB-w78Hmg3k",
+     "duree_secondes": 5478,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "💛 Samantha Oups au gîte - Compilation 4 HD !",
+     "vignette": "vignettes/pB-w78Hmg3k.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 9,
+     "titre": "Au gîte — compilation 5",
+     "youtube_id": "4UTosBNYQEs",
+     "duree_secondes": 5584,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "💛 Samantha Oups au gîte - Compilation 5 HD !",
+     "vignette": "vignettes/4UTosBNYQEs.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 10,
+     "titre": "Au gîte — compilation 6",
+     "youtube_id": "I62eDYx1BVQ",
+     "duree_secondes": 5654,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "💛 Samantha Oups au gîte - Compilation 6 HD !",
+     "vignette": "vignettes/I62eDYx1BVQ.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 11,
+     "titre": "Au gîte — compilation 7",
+     "youtube_id": "h_RJpLq4Lx4",
+     "duree_secondes": 5474,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "💛 Samantha Oups au gîte - Compilation 7 HD !",
+     "vignette": "vignettes/h_RJpLq4Lx4.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 12,
+     "titre": "Au gîte — compilation 8",
+     "youtube_id": "wpkAxRpQwos",
+     "duree_secondes": 6001,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "💛 Samantha Oups au gîte - Compilation 8 HD !",
+     "vignette": "vignettes/wpkAxRpQwos.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 13,
+     "titre": "Au gîte — compilation 9",
+     "youtube_id": "LDpQKygsShE",
+     "duree_secondes": 6106,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "💛 Samantha Oups au gîte - Compilation 9 HD !",
+     "vignette": "vignettes/LDpQKygsShE.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 14,
+     "titre": "Au gîte — compilation 10",
+     "youtube_id": "BxjJNL2RVoM",
+     "duree_secondes": 5950,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "💛 Samantha Oups au gîte - Compilation 10 HD !",
+     "vignette": "vignettes/BxjJNL2RVoM.webp"
+    }
+   ],
+   "affiche": "affiches/s3ciLx3F4iw.webp",
+   "vignette": "vignettes/s3ciLx3F4iw.webp"
+  },
+  {
+   "slug": "soda",
+   "titre": "SODA",
+   "format": "serie",
+   "univers": "series",
+   "genres": [
+    "comedie"
+   ],
+   "tout_public": true,
+   "youtube_id": null,
+   "chaine_nom": "SODA",
+   "chaine_id": "UCye2vnvzJ0451SldydbNtIw",
+   "chaine_url": "https://www.youtube.com/channel/UCye2vnvzJ0451SldydbNtIw",
+   "ayant_droit": "Chaîne officielle de la série (M6)",
+   "duree_secondes": 10513,
+   "annee": 2011,
+   "description": "Adam, 17 ans (Kev Adams), ses potes Slim et Ludo, sa sœur Ève et ses parents : la vie d'ado, version M6. Les saisons 1 à 3 en longues compilations, plus les deux téléfilms de la saison 4.",
+   "disponible_jusqu_au": null,
+   "publie_le": "2017-08-10",
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "Compilation saison 1 · partie 1",
+     "youtube_id": "x2FZ7MYEVlE",
+     "duree_secondes": 10513,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SODA Compilation Saison 1 - Partie 1 (Kev Adams ; William Lebghil)",
+     "vignette": "vignettes/x2FZ7MYEVlE.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "Compilation saison 1 · partie 2",
+     "youtube_id": "tNkcUcAefOc",
+     "duree_secondes": 10547,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SODA Compilation Saison 1 - Partie 2 (Kev Adams ; William Lebghil)",
+     "vignette": "vignettes/tNkcUcAefOc.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 3,
+     "titre": "Compilation saison 1 · partie 3",
+     "youtube_id": "lwbDM11TaPk",
+     "duree_secondes": 11390,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SODA Compilation Saison 1 - Partie 3 (Kev Adams ; William Lebghil)",
+     "vignette": "vignettes/lwbDM11TaPk.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 4,
+     "titre": "Compilation saison 1 · partie 4",
+     "youtube_id": "W8nQaIZy7uo",
+     "duree_secondes": 10535,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SODA Compilation Saison 1 - Partie 4 (Kev Adams ; William Lebghil)",
+     "vignette": "vignettes/W8nQaIZy7uo.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 5,
+     "titre": "Compilation saison 1 · partie 5",
+     "youtube_id": "SCpYSAjSNlk",
+     "duree_secondes": 8397,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SODA Compilation Saison 1 - Partie 5 (Kev Adams ; William Lebghil)",
+     "vignette": "vignettes/SCpYSAjSNlk.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 1,
+     "titre": "Compilation saison 2 · partie 1",
+     "youtube_id": "y_gYPPXYElE",
+     "duree_secondes": 3481,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SODA Compilation Saison 2 - Partie 1 (Kev Adams ; William Lebghil ; Gaël Gottat)",
+     "vignette": "vignettes/y_gYPPXYElE.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 2,
+     "titre": "Compilation saison 2 · partie 2",
+     "youtube_id": "tJ-jqpI_A5k",
+     "duree_secondes": 3433,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SODA Compilation Saison 2 - Partie 2 (Kev Adams ; William Lebghil)",
+     "vignette": "vignettes/tJ-jqpI_A5k.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 3,
+     "titre": "Compilation saison 2 · partie 3",
+     "youtube_id": "eQ7KQGo1G1A",
+     "duree_secondes": 3565,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SODA Compilation Saison 2 - Partie 3 (Kev Adams ; William Lebghil)",
+     "vignette": "vignettes/eQ7KQGo1G1A.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 4,
+     "titre": "Compilation saison 2 · partie 4",
+     "youtube_id": "9VO-FzF4r5k",
+     "duree_secondes": 3395,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SODA Compilation Saison 2 - Partie 4 (Kev Adams ; William Lebghil)",
+     "vignette": "vignettes/9VO-FzF4r5k.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 1,
+     "titre": "Compilation saison 3 · partie 1",
+     "youtube_id": "JqJ0pL8dZYw",
+     "duree_secondes": 11675,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SODA Compilation Saison 3 - Partie 1 (Kev Adams ; William Lebghil)",
+     "vignette": "vignettes/JqJ0pL8dZYw.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 2,
+     "titre": "Compilation saison 3 · partie 2",
+     "youtube_id": "aJcgdg-swR8",
+     "duree_secondes": 11270,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SODA Compilation Saison 3 - Partie 2 (Kev Adams ; William Lebghil)",
+     "vignette": "vignettes/aJcgdg-swR8.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 3,
+     "titre": "Compilation saison 3 · partie 3",
+     "youtube_id": "LQl5cRhhrEY",
+     "duree_secondes": 11514,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SODA Compilation Saison 3 - Partie 3 (Kev Adams ; William Lebghil)",
+     "vignette": "vignettes/LQl5cRhhrEY.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 4,
+     "titre": "Compilation saison 3 · partie 4",
+     "youtube_id": "9Sigalxu9u4",
+     "duree_secondes": 12248,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SODA Compilation Saison 3 - Partie 4 (Kev Adams ; William Lebghil)",
+     "vignette": "vignettes/9Sigalxu9u4.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 5,
+     "titre": "Compilation saison 3 · partie 5",
+     "youtube_id": "NRS2AEP_ho4",
+     "duree_secondes": 12760,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SODA Compilation Saison 3 - Partie 5 (Kev Adams ; William Lebghil)",
+     "vignette": "vignettes/NRS2AEP_ho4.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 6,
+     "titre": "Compilation saison 3 · partie 6",
+     "youtube_id": "vfQsqyW1hUE",
+     "duree_secondes": 4521,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "SODA Compilation Saison 3 - Partie 6 (Kev Adams ; William Lebghil)",
+     "vignette": "vignettes/vfQsqyW1hUE.webp"
+    },
+    {
+     "saison": 4,
+     "numero": 1,
+     "titre": "Un trop long week-end",
+     "youtube_id": "Kfbx82tmnrk",
+     "duree_secondes": 4715,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Un trop long week-end - Soda - Saison 4 (Kev Adams ; William Lebghil)",
+     "vignette": "vignettes/Kfbx82tmnrk.webp"
+    },
+    {
+     "saison": 4,
+     "numero": 2,
+     "titre": "Le rêve américain",
+     "youtube_id": "Z7C9tAKHAm8",
+     "duree_secondes": 5327,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Le rêve américain - Soda - Saison 4 (Kev Adams ; William Lebghil)",
+     "vignette": "vignettes/Z7C9tAKHAm8.webp"
+    }
+   ],
+   "affiche": "affiches/JqJ0pL8dZYw.webp",
+   "vignette": "vignettes/JqJ0pL8dZYw.webp"
+  }
+ ]
+}

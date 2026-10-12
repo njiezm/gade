@@ -1,0 +1,172 @@
+// ---------- Base ----------
+:root {
+    --header-h: 68px;
+    --gutter: 1rem;
+    --ease-out: cubic-bezier(.22, 1, .36, 1);
+    --carte-w: clamp(156px, 44vw, 210px);
+    @include media-breakpoint-up(md) { --gutter: 1.5rem; --carte-w: 230px; }
+    @include media-breakpoint-up(xl) { --gutter: 2.5rem; --carte-w: 268px; }
+    @include media-breakpoint-up(xxl) { --carte-w: 290px; }
+}
+
+html { overflow-x: clip; scroll-behavior: smooth; }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+body {
+    overflow-x: clip;
+    padding-top: var(--header-h);
+    background:
+        radial-gradient(1200px 600px at 15% -10%, rgba($bordeaux, .35), transparent 60%),
+        radial-gradient(900px 500px at 100% 0%, rgba($rouge, .08), transparent 60%),
+        $nuit;
+    background-attachment: fixed;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+}
+
+[id] { scroll-margin-top: calc(var(--header-h) + 1rem); }
+
+@media (max-width: 767.98px) {
+    .row.g-5, .row.gx-5 { --bs-gutter-x: 1.5rem; }
+}
+
+h1, h2, h3, .titre { font-family: $font-titre; font-weight: 400; letter-spacing: .005em; }
+.hand { font-family: $font-main-hand; font-weight: 700; }
+.text-sable { color: $sable !important; }
+.text-jaune { color: $jaune !important; }
+.text-discret { color: $sable-2 !important; }
+
+a { transition: color .2s; }
+:focus-visible { outline: 3px solid $jaune; outline-offset: 3px; border-radius: 6px; }
+
+img { max-width: 100%; height: auto; }
+
+.skip-link {
+    position: fixed;
+    left: 1rem;
+    top: -4rem;
+    z-index: 2000;
+    padding: .6rem 1rem;
+    border-radius: 999px;
+    background: $jaune;
+    color: $nuit;
+    font-weight: 800;
+    &:focus { top: 1rem; }
+}
+
+.page-wrap { padding-inline: var(--gutter); }
+
+// Bande de madras (rouge, jaune, vert) — la signature visuelle de GADÉ
+@mixin madras($h: 6px) {
+    height: $h;
+    background:
+        repeating-linear-gradient(90deg, rgba($jaune, .9) 0 3px, transparent 3px 14px, rgba($vert, .85) 14px 19px, transparent 19px 30px),
+        repeating-linear-gradient(0deg, rgba($jaune, .55) 0 1px, transparent 1px 3px),
+        $rouge;
+}
+.madras { @include madras(6px); }
+.madras-fin { @include madras(3px); }
+
+// Boutons
+.btn-gade {
+    --bs-btn-color: #{$nuit};
+    --bs-btn-bg: #{$jaune};
+    --bs-btn-border-color: #{$jaune};
+    --bs-btn-hover-color: #{$nuit};
+    --bs-btn-hover-bg: #{$jaune-clair};
+    --bs-btn-hover-border-color: #{$jaune-clair};
+    --bs-btn-active-bg: #{$jaune-clair};
+    --bs-btn-active-color: #{$nuit};
+    --bs-btn-focus-shadow-rgb: 242, 181, 58;
+    display: inline-flex;
+    align-items: center;
+    gap: .55rem;
+    box-shadow: 0 10px 30px -12px rgba($jaune, .65);
+    svg { width: 1.1em; height: 1.1em; }
+}
+.btn-velours {
+    --bs-btn-color: #{$creme};
+    --bs-btn-bg: #{rgba($creme, .1)};
+    --bs-btn-border-color: #{rgba($creme, .22)};
+    --bs-btn-hover-color: #{$creme};
+    --bs-btn-hover-bg: #{rgba($creme, .18)};
+    --bs-btn-hover-border-color: #{rgba($creme, .4)};
+    --bs-btn-active-bg: #{rgba($creme, .22)};
+    --bs-btn-active-color: #{$creme};
+    display: inline-flex;
+    align-items: center;
+    gap: .5rem;
+    backdrop-filter: blur(6px);
+    svg { width: 1.1em; height: 1.1em; }
+    &[aria-pressed='true'] { --bs-btn-bg: #{rgba($vert, .35)}; --bs-btn-border-color: #{rgba($vert-clair, .6)}; }
+}
+.btn-rouge {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #{$rouge};
+    --bs-btn-border-color: #{$rouge};
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #{$rouge-vif};
+    --bs-btn-hover-border-color: #{$rouge-vif};
+}
+.btn-lien {
+    padding: 0;
+    border: 0;
+    background: none;
+    color: $sable;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    &:hover { color: $creme; }
+}
+
+.pastille {
+    display: inline-flex;
+    align-items: center;
+    gap: .35rem;
+    padding: .2rem .65rem;
+    border-radius: 999px;
+    background: rgba($creme, .09);
+    border: 1px solid rgba($creme, .14);
+    color: $sable;
+    font-size: .8rem;
+    font-weight: 600;
+    white-space: nowrap;
+    &.famille { background: rgba($vert, .25); border-color: rgba($vert-clair, .45); color: #cfe9d6; }
+    &.une { background: rgba($jaune, .16); border-color: rgba($jaune, .45); color: $jaune-clair; }
+    &.alerte { background: rgba($rouge, .2); border-color: rgba($rouge-vif, .5); color: #ffd0c9; }
+}
+
+// Messages flash
+.flash {
+    position: fixed;
+    left: 50%;
+    bottom: 1.25rem;
+    z-index: 1100;
+    transform: translateX(-50%);
+    width: min(92vw, 560px);
+    padding: .85rem 1.1rem;
+    border-radius: $border-radius;
+    background: $velours-2;
+    border: 1px solid rgba($jaune, .35);
+    box-shadow: 0 20px 40px -20px #000;
+    color: $creme;
+    font-weight: 600;
+    animation: flash-in .5s var(--ease-out);
+    &.erreur { border-color: rgba($rouge-vif, .6); }
+}
+@keyframes flash-in { from { opacity: 0; transform: translate(-50%, 12px); } }
+
+// Barres de défilement chaudes
+* { scrollbar-color: rgba($sable, .35) transparent; scrollbar-width: thin; }
+
+.vide {
+    padding: 3rem 1.5rem;
+    border: 1px dashed rgba($creme, .2);
+    border-radius: $border-radius-lg;
+    text-align: center;
+    color: $sable;
+    .hand { display: block; font-size: 1.6rem; color: $jaune; margin-bottom: .5rem; }
+}
+
+.visually-hidden-focusable:not(:focus):not(:focus-within) { position: absolute !important; }
+
+code { color: $jaune-clair; background: rgba($creme, .06); padding: .1rem .35rem; border-radius: .35rem; font-size: .85em; }

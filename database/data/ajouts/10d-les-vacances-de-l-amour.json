@@ -1,0 +1,1141 @@
+{
+ "genere_le": "2026-10-11",
+ "programmes": [
+  {
+   "slug": "les-vacances-de-l-amour",
+   "titre": "Les Vacances de l'amour",
+   "format": "serie",
+   "univers": "series",
+   "genres": [
+    "sitcoms-90",
+    "romance"
+   ],
+   "tout_public": true,
+   "youtube_id": null,
+   "chaine_nom": "Génération Sitcoms",
+   "chaine_id": "UCVVubp6nL6vP8b6ls-Ybk-g",
+   "chaine_url": "https://www.youtube.com/channel/UCVVubp6nL6vP8b6ls-Ybk-g",
+   "ayant_droit": "AB Productions (chaîne officielle certifiée Génération Sitcoms)",
+   "duree_secondes": 2965,
+   "annee": 1996,
+   "description": "Les héros d'Hélène et les garçons et du Miel et les abeilles se retrouvent sur une île tropicale : aventures, intrigues et amours au soleil, en épisodes de 50 minutes. Épisodes 1 à 99 (Génération Sitcoms) puis la suite jusqu'au 123 (JLA, producteur).",
+   "disponible_jusqu_au": null,
+   "publie_le": null,
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "Surprises",
+     "youtube_id": "gtlIjomJstE",
+     "duree_secondes": 2995,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - EPISODE 1 - Surprises",
+     "vignette": "vignettes/gtlIjomJstE.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "Mystère",
+     "youtube_id": "3qwZkuRcKGk",
+     "duree_secondes": 2901,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - EPISODE 2 - Mystère"
+    },
+    {
+     "saison": 1,
+     "numero": 3,
+     "titre": "Avenir incertain",
+     "youtube_id": "biyn3BLIf1I",
+     "duree_secondes": 3049,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - EPISODE 3 - Avenir incertain"
+    },
+    {
+     "saison": 1,
+     "numero": 4,
+     "titre": "Incertitude",
+     "youtube_id": "ihP5sL6CRQw",
+     "duree_secondes": 2969,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 4 - Incertitude"
+    },
+    {
+     "saison": 1,
+     "numero": 5,
+     "titre": "Cas de consience",
+     "youtube_id": "7m5qhxbOID4",
+     "duree_secondes": 2850,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 5 - Cas de consience"
+    },
+    {
+     "saison": 1,
+     "numero": 6,
+     "titre": "Des adieux qui font mal",
+     "youtube_id": "mwoxK6K5go8",
+     "duree_secondes": 3099,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 6 - Des adieux qui font mal"
+    },
+    {
+     "saison": 1,
+     "numero": 7,
+     "titre": "Le menteur",
+     "youtube_id": "Ty_EEd5lYS4",
+     "duree_secondes": 2649,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 7 - Le menteur"
+    },
+    {
+     "saison": 1,
+     "numero": 8,
+     "titre": "La dette",
+     "youtube_id": "R6pqxi-EYmE",
+     "duree_secondes": 2919,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 8 - La dette"
+    },
+    {
+     "saison": 1,
+     "numero": 9,
+     "titre": "Tel est pris qui croyait prendre",
+     "youtube_id": "SNCAtKH8P50",
+     "duree_secondes": 3092,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 9 -  Tel est pris qui croyait prendre"
+    },
+    {
+     "saison": 1,
+     "numero": 10,
+     "titre": "La vengeance",
+     "youtube_id": "9NoKyXOfktY",
+     "duree_secondes": 2824,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 10 - La vengeance"
+    },
+    {
+     "saison": 1,
+     "numero": 11,
+     "titre": "L'enfant",
+     "youtube_id": "PyRr1dGjcyc",
+     "duree_secondes": 2913,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 11 - L'enfant"
+    },
+    {
+     "saison": 1,
+     "numero": 12,
+     "titre": "La star (PARTIE 1)",
+     "youtube_id": "NRcIJGNOrH0",
+     "duree_secondes": 2939,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 12 - La star (PARTIE 1)"
+    },
+    {
+     "saison": 1,
+     "numero": 13,
+     "titre": "La star (PARTIE 2)",
+     "youtube_id": "C_UZBbkZE50",
+     "duree_secondes": 2842,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 13 - La star (PARTIE 2)"
+    },
+    {
+     "saison": 1,
+     "numero": 14,
+     "titre": "Trafic (Partie 1)",
+     "youtube_id": "bdKB2WnI3jc",
+     "duree_secondes": 2810,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 14 - Trafic (Partie 1)"
+    },
+    {
+     "saison": 1,
+     "numero": 15,
+     "titre": "Trafic (Partie 2)",
+     "youtube_id": "rbCZ7dG-Maw",
+     "duree_secondes": 2844,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 15 - Trafic (Partie 2)"
+    },
+    {
+     "saison": 1,
+     "numero": 16,
+     "titre": "Retour de flamme",
+     "youtube_id": "y5v0FB5Xg9o",
+     "duree_secondes": 2863,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 16 - Retour de flamme"
+    },
+    {
+     "saison": 1,
+     "numero": 17,
+     "titre": "Décollage immédiat",
+     "youtube_id": "A7NPjsWjDyQ",
+     "duree_secondes": 2827,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 17 - Décollage immédiat"
+    },
+    {
+     "saison": 1,
+     "numero": 18,
+     "titre": "Le roi de coeur",
+     "youtube_id": "ZX58qtNwWZs",
+     "duree_secondes": 2971,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 18 - Le roi de coeur"
+    },
+    {
+     "saison": 1,
+     "numero": 19,
+     "titre": "L'affaire Don Bardone (Partie 1)",
+     "youtube_id": "lLa0z0hTxio",
+     "duree_secondes": 2836,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 19 - L'affaire Don Bardone (Partie 1)"
+    },
+    {
+     "saison": 1,
+     "numero": 20,
+     "titre": "L'affaire Don Bardone (Partie 2)",
+     "youtube_id": "a6uPDNzJ_uo",
+     "duree_secondes": 2843,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 20 - L'affaire Don Bardone (Partie 2)"
+    },
+    {
+     "saison": 1,
+     "numero": 21,
+     "titre": "L'appel du large (Partie 1)",
+     "youtube_id": "NRfo1Je6hJw",
+     "duree_secondes": 2779,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 21 - L'appel du large (Partie 1)"
+    },
+    {
+     "saison": 1,
+     "numero": 22,
+     "titre": "L'appel du large (Partie 2)",
+     "youtube_id": "54jqQh0mzB8",
+     "duree_secondes": 2927,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 22 - L'appel du large (Partie 2)"
+    },
+    {
+     "saison": 1,
+     "numero": 23,
+     "titre": "Richard",
+     "youtube_id": "wF3ER5MpRNU",
+     "duree_secondes": 2953,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 23 - Richard"
+    },
+    {
+     "saison": 1,
+     "numero": 24,
+     "titre": "L'étrangère (Partie 1)",
+     "youtube_id": "Nhe2fazjuVU",
+     "duree_secondes": 2884,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 24 - L'étrangère (Partie 1)"
+    },
+    {
+     "saison": 1,
+     "numero": 25,
+     "titre": "L'étrangère (Partie 2)",
+     "youtube_id": "i0xA5p2sIKg",
+     "duree_secondes": 2858,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 25 - L'étrangère (Partie 2)"
+    },
+    {
+     "saison": 1,
+     "numero": 26,
+     "titre": "Rupture (Partie 1)",
+     "youtube_id": "Uu_q_Rc1jmc",
+     "duree_secondes": 2926,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 26 - Rupture (Partie 1)"
+    },
+    {
+     "saison": 1,
+     "numero": 27,
+     "titre": "Rupture (Partie 2)",
+     "youtube_id": "DGdFWsS5jqU",
+     "duree_secondes": 3044,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 27 - Rupture (Partie 2)"
+    },
+    {
+     "saison": 1,
+     "numero": 28,
+     "titre": "Maladie d'amour (Partie 1)",
+     "youtube_id": "yVmWLKLpiKU",
+     "duree_secondes": 2910,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 28 - Maladie d'amour (Partie 1)"
+    },
+    {
+     "saison": 1,
+     "numero": 29,
+     "titre": "Maladie d'amour (Partie 2)",
+     "youtube_id": "lFZbL_nP2ss",
+     "duree_secondes": 2956,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 29 - Maladie d'amour (Partie 2)"
+    },
+    {
+     "saison": 1,
+     "numero": 30,
+     "titre": "La pêche miraculeuse",
+     "youtube_id": "MJ8nOH2slD8",
+     "duree_secondes": 2842,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 30 - La pêche miraculeuse"
+    },
+    {
+     "saison": 1,
+     "numero": 31,
+     "titre": "Cacahuète",
+     "youtube_id": "1xQO9_rmmlg",
+     "duree_secondes": 2911,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 31 - Cacahuète"
+    },
+    {
+     "saison": 1,
+     "numero": 32,
+     "titre": "L'ange maudit",
+     "youtube_id": "yhZU_Sqqyh0",
+     "duree_secondes": 2820,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 32 - L'ange maudit"
+    },
+    {
+     "saison": 1,
+     "numero": 33,
+     "titre": "Le secret de Jeanne (Partie 1)",
+     "youtube_id": "raVQIdkOfdE",
+     "duree_secondes": 2761,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 33 - Le secret de Jeanne (Partie 1)"
+    },
+    {
+     "saison": 1,
+     "numero": 34,
+     "titre": "Le secret de Jeanne (Partie 2)",
+     "youtube_id": "RCBCiuePTaU",
+     "duree_secondes": 2879,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 34 - Le secret de Jeanne (Partie 2)"
+    },
+    {
+     "saison": 1,
+     "numero": 35,
+     "titre": "Duel",
+     "youtube_id": "O_cp5R8XCkk",
+     "duree_secondes": 2853,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 35 - Duel"
+    },
+    {
+     "saison": 1,
+     "numero": 36,
+     "titre": "Le secret de Jeanne (Partie 3)",
+     "youtube_id": "HynCCL5otCo",
+     "duree_secondes": 2853,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 36 - Le secret de Jeanne (Partie 3)"
+    },
+    {
+     "saison": 1,
+     "numero": 37,
+     "titre": "Week-end explosif",
+     "youtube_id": "2dvFViOf34Y",
+     "duree_secondes": 2928,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 37 - Week-end explosif"
+    },
+    {
+     "saison": 1,
+     "numero": 38,
+     "titre": "Le radeau de la méduse",
+     "youtube_id": "3mr8tTPKoOQ",
+     "duree_secondes": 2883,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 38 - Le radeau de la méduse"
+    },
+    {
+     "saison": 1,
+     "numero": 39,
+     "titre": "Money",
+     "youtube_id": "meGzU7vyXAA",
+     "duree_secondes": 2902,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 39 - Money"
+    },
+    {
+     "saison": 1,
+     "numero": 40,
+     "titre": "Paparazzi",
+     "youtube_id": "zPsXwYdkb8o",
+     "duree_secondes": 2919,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 40 - Paparazzi"
+    },
+    {
+     "saison": 1,
+     "numero": 41,
+     "titre": "Un père et manque",
+     "youtube_id": "J4ZEUZxEbgs",
+     "duree_secondes": 2851,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 41 - Un père et manque"
+    },
+    {
+     "saison": 1,
+     "numero": 42,
+     "titre": "Gala",
+     "youtube_id": "WUCqABU7gog",
+     "duree_secondes": 2978,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 42 - Gala"
+    },
+    {
+     "saison": 1,
+     "numero": 43,
+     "titre": "L'amour est aveugle",
+     "youtube_id": "KsKcnV8mSDs",
+     "duree_secondes": 2939,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 43 - L'amour est aveugle"
+    },
+    {
+     "saison": 1,
+     "numero": 44,
+     "titre": "Kidnapping",
+     "youtube_id": "T2Q4lLKvTFY",
+     "duree_secondes": 2785,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 44 - Kidnapping"
+    },
+    {
+     "saison": 1,
+     "numero": 45,
+     "titre": "Coup de folie",
+     "youtube_id": "eAhhz3g78ao",
+     "duree_secondes": 2965,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 45 - Coup de folie"
+    },
+    {
+     "saison": 1,
+     "numero": 46,
+     "titre": "La Traque",
+     "youtube_id": "orw9OVbjwhw",
+     "duree_secondes": 2876,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 46 - La Traque"
+    },
+    {
+     "saison": 1,
+     "numero": 47,
+     "titre": "Tueur en série",
+     "youtube_id": "rSDhjGb3wao",
+     "duree_secondes": 2913,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 47 - Tueur en série"
+    },
+    {
+     "saison": 1,
+     "numero": 48,
+     "titre": "Témoin",
+     "youtube_id": "jjYQ40y4ELo",
+     "duree_secondes": 2822,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 48 - Témoin"
+    },
+    {
+     "saison": 1,
+     "numero": 49,
+     "titre": "Un passé encombrant",
+     "youtube_id": "8-92Fk0TSxs",
+     "duree_secondes": 2952,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 49 - Un passé encombrant"
+    },
+    {
+     "saison": 1,
+     "numero": 50,
+     "titre": "Rencontres",
+     "youtube_id": "3FgXm5Zk0Rc",
+     "duree_secondes": 2947,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 50 - Rencontres"
+    },
+    {
+     "saison": 1,
+     "numero": 51,
+     "titre": "Panique",
+     "youtube_id": "aoOnb1UIXPQ",
+     "duree_secondes": 2988,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 51 - Panique"
+    },
+    {
+     "saison": 1,
+     "numero": 52,
+     "titre": "Lia",
+     "youtube_id": "niSF0bgQaqo",
+     "duree_secondes": 2946,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 52 - Lia"
+    },
+    {
+     "saison": 1,
+     "numero": 53,
+     "titre": "Catamaran",
+     "youtube_id": "Lv-8Bf5AUAs",
+     "duree_secondes": 2917,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 53 - Catamaran"
+    },
+    {
+     "saison": 1,
+     "numero": 54,
+     "titre": "Le casse",
+     "youtube_id": "Ib0dL5FOqco",
+     "duree_secondes": 2943,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 54 - Le casse"
+    },
+    {
+     "saison": 1,
+     "numero": 55,
+     "titre": "Mourir un jour ou l'autre",
+     "youtube_id": "QO4epnT8XPM",
+     "duree_secondes": 3275,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 55 - Mourir un jour ou l'autre"
+    },
+    {
+     "saison": 1,
+     "numero": 56,
+     "titre": "La filière",
+     "youtube_id": "0cj-4Hbkg7E",
+     "duree_secondes": 3026,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 56 - La filière"
+    },
+    {
+     "saison": 1,
+     "numero": 57,
+     "titre": "L'amnésique",
+     "youtube_id": "b7nBR2K-fK0",
+     "duree_secondes": 2970,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 57 - L'amnésique"
+    },
+    {
+     "saison": 1,
+     "numero": 58,
+     "titre": "La belle et le playboy",
+     "youtube_id": "LYRrOfZ-eOk",
+     "duree_secondes": 2882,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 58 - La belle et le playboy"
+    },
+    {
+     "saison": 1,
+     "numero": 59,
+     "titre": "Sarah",
+     "youtube_id": "sD3sSA_M-lE",
+     "duree_secondes": 3004,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 59 - Sarah"
+    },
+    {
+     "saison": 1,
+     "numero": 60,
+     "titre": "Des vacances exceptionnelles",
+     "youtube_id": "rPRHqpLOnMg",
+     "duree_secondes": 2957,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 60 - Des vacances exceptionnelles"
+    },
+    {
+     "saison": 1,
+     "numero": 61,
+     "titre": "La rançon",
+     "youtube_id": "raQ8GZbCrPA",
+     "duree_secondes": 2980,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 61 - La rançon"
+    },
+    {
+     "saison": 1,
+     "numero": 62,
+     "titre": "L'enfant perdu",
+     "youtube_id": "U2BIXg8z_dM",
+     "duree_secondes": 2874,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 62 - L'enfant perdu"
+    },
+    {
+     "saison": 1,
+     "numero": 63,
+     "titre": "Double Jeu",
+     "youtube_id": "VwH23_ZdTEc",
+     "duree_secondes": 2936,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 63 - Double Jeu"
+    },
+    {
+     "saison": 1,
+     "numero": 64,
+     "titre": "L'angoisse des profondeurs",
+     "youtube_id": "nQ0trg2prmM",
+     "duree_secondes": 2923,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 64 - L'angoisse des profondeurs"
+    },
+    {
+     "saison": 1,
+     "numero": 65,
+     "titre": "Amour fou",
+     "youtube_id": "S51TD-TVOfI",
+     "duree_secondes": 3086,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 65 - Amour fou"
+    },
+    {
+     "saison": 1,
+     "numero": 66,
+     "titre": "La main dans le sac",
+     "youtube_id": "sjFBiidOkh0",
+     "duree_secondes": 2942,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 66 - La main dans le sac"
+    },
+    {
+     "saison": 1,
+     "numero": 67,
+     "titre": "Samouraï",
+     "youtube_id": "B9dsRW0Lqr0",
+     "duree_secondes": 3021,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 67 - Samouraï"
+    },
+    {
+     "saison": 1,
+     "numero": 68,
+     "titre": "Pirates",
+     "youtube_id": "6XFQPiX3JTk",
+     "duree_secondes": 3008,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 68 - Pirates"
+    },
+    {
+     "saison": 1,
+     "numero": 69,
+     "titre": "Le neveu",
+     "youtube_id": "Dn3QN2eAwio",
+     "duree_secondes": 2931,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 69 - Le neveu"
+    },
+    {
+     "saison": 1,
+     "numero": 70,
+     "titre": "Main mise",
+     "youtube_id": "lls4AMmmn4g",
+     "duree_secondes": 2921,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 70 - Main mise"
+    },
+    {
+     "saison": 1,
+     "numero": 71,
+     "titre": "Une affaire étouffée",
+     "youtube_id": "9X931dDbQTY",
+     "duree_secondes": 3039,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 71 - Une affaire étouffée"
+    },
+    {
+     "saison": 1,
+     "numero": 72,
+     "titre": "Champion",
+     "youtube_id": "2sgNlqkrA9s",
+     "duree_secondes": 3058,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 72 - Champion"
+    },
+    {
+     "saison": 1,
+     "numero": 73,
+     "titre": "Lune de miel",
+     "youtube_id": "uja4gbeweno",
+     "duree_secondes": 3037,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 73 - Lune de miel"
+    },
+    {
+     "saison": 1,
+     "numero": 74,
+     "titre": "Accident",
+     "youtube_id": "pzZmrHkRi40",
+     "duree_secondes": 3021,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 74 - Accident"
+    },
+    {
+     "saison": 1,
+     "numero": 75,
+     "titre": "De biens sales draps",
+     "youtube_id": "oUuHgsNROFw",
+     "duree_secondes": 2834,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 75 - De biens sales draps"
+    },
+    {
+     "saison": 1,
+     "numero": 76,
+     "titre": "Paradisio",
+     "youtube_id": "XusVBoHh04o",
+     "duree_secondes": 2942,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 76 - Paradisio"
+    },
+    {
+     "saison": 1,
+     "numero": 77,
+     "titre": "Le magicien",
+     "youtube_id": "KtewKYO9q0s",
+     "duree_secondes": 3125,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 77 - Le magicien"
+    },
+    {
+     "saison": 1,
+     "numero": 78,
+     "titre": "La cible",
+     "youtube_id": "hBUxFETdCqI",
+     "duree_secondes": 2804,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 78 - La cible"
+    },
+    {
+     "saison": 1,
+     "numero": 79,
+     "titre": "La rançon sans gloire",
+     "youtube_id": "LU3KMqJ5Nug",
+     "duree_secondes": 3049,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 79 - La rançon sans gloire"
+    },
+    {
+     "saison": 1,
+     "numero": 80,
+     "titre": "Rêve d'enfant",
+     "youtube_id": "k41QymG_wPo",
+     "duree_secondes": 3026,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 80 - Rêve d'enfant"
+    },
+    {
+     "saison": 1,
+     "numero": 81,
+     "titre": "Passion dangereuse",
+     "youtube_id": "Pz7GyQ5B37Q",
+     "duree_secondes": 3022,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 81 - Passion dangereuse"
+    },
+    {
+     "saison": 1,
+     "numero": 82,
+     "titre": "Graine de violence",
+     "youtube_id": "iBuXFwC7RxQ",
+     "duree_secondes": 2999,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 82 - Graine de violence"
+    },
+    {
+     "saison": 1,
+     "numero": 83,
+     "titre": "Tapis rouge",
+     "youtube_id": "Z7ksDVtyVoY",
+     "duree_secondes": 2962,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 83 - Tapis rouge"
+    },
+    {
+     "saison": 1,
+     "numero": 84,
+     "titre": "La puce et les deux cerveaux",
+     "youtube_id": "wj7vZ-2C_P8",
+     "duree_secondes": 2991,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 84 - La puce et les deux cerveaux"
+    },
+    {
+     "saison": 1,
+     "numero": 85,
+     "titre": "Ça tourne mal",
+     "youtube_id": "6FHV9sh6RD8",
+     "duree_secondes": 2842,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 85 - Ça tourne mal"
+    },
+    {
+     "saison": 1,
+     "numero": 86,
+     "titre": "Poker tueur",
+     "youtube_id": "q5FIjuJafFQ",
+     "duree_secondes": 3031,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 86 - Poker tueur"
+    },
+    {
+     "saison": 1,
+     "numero": 87,
+     "titre": "Femmes fatales",
+     "youtube_id": "Vtk5rLlWFHE",
+     "duree_secondes": 3009,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 87 - Femmes fatales"
+    },
+    {
+     "saison": 1,
+     "numero": 88,
+     "titre": "Le trésor ou la vie",
+     "youtube_id": "vePOWoLb6zI",
+     "duree_secondes": 2877,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 88 - Le trésor ou la vie"
+    },
+    {
+     "saison": 1,
+     "numero": 89,
+     "titre": "Deal mortel",
+     "youtube_id": "AU6VBuE_njA",
+     "duree_secondes": 2836,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 89 - Deal mortel"
+    },
+    {
+     "saison": 1,
+     "numero": 90,
+     "titre": "Une autre histoire",
+     "youtube_id": "kCaj6R1ObhA",
+     "duree_secondes": 3072,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 90 - Une autre histoire"
+    },
+    {
+     "saison": 1,
+     "numero": 91,
+     "titre": "Retour",
+     "youtube_id": "8Q0QdI45cMo",
+     "duree_secondes": 3128,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 91 - Retour"
+    },
+    {
+     "saison": 1,
+     "numero": 92,
+     "titre": "Les chemins du hasard",
+     "youtube_id": "VvHZfsawRlg",
+     "duree_secondes": 3050,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 92 - Les chemins du hasard"
+    },
+    {
+     "saison": 1,
+     "numero": 93,
+     "titre": "Urgences",
+     "youtube_id": "wtuKwt6ozr8",
+     "duree_secondes": 3105,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 93 - Urgences"
+    },
+    {
+     "saison": 1,
+     "numero": 94,
+     "titre": "Accusation",
+     "youtube_id": "NXWE1rl3uxA",
+     "duree_secondes": 3143,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 94 - Accusation"
+    },
+    {
+     "saison": 1,
+     "numero": 95,
+     "titre": "Vagues de passion",
+     "youtube_id": "aezO6clnMqE",
+     "duree_secondes": 3133,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 95 - Vagues de passion"
+    },
+    {
+     "saison": 1,
+     "numero": 96,
+     "titre": "Coma",
+     "youtube_id": "lid1mpoUQP4",
+     "duree_secondes": 2966,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 96 - Coma"
+    },
+    {
+     "saison": 1,
+     "numero": 97,
+     "titre": "Dérives",
+     "youtube_id": "LDnx7qhZnMk",
+     "duree_secondes": 3107,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 97 - Dérives"
+    },
+    {
+     "saison": 1,
+     "numero": 98,
+     "titre": "Absence fatale",
+     "youtube_id": "KTWkkswEPO0",
+     "duree_secondes": 3127,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 98 - Absence fatale"
+    },
+    {
+     "saison": 1,
+     "numero": 99,
+     "titre": "Entre la vie et la mort",
+     "youtube_id": "7AIlpv1Hl-o",
+     "duree_secondes": 3035,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les vacances de l'amour - Épisode 99 - Entre la vie et la mort"
+    },
+    {
+     "saison": 1,
+     "numero": 100,
+     "titre": "Attentes",
+     "youtube_id": "za5SG1OLM7c",
+     "duree_secondes": 3146,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les Vacances de l'Amour - Épisode 100 : \"Attentes\""
+    },
+    {
+     "saison": 1,
+     "numero": 101,
+     "titre": "Des espoirs",
+     "youtube_id": "KdPWJ7WvTQ8",
+     "duree_secondes": 3122,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les Vacances de l'Amour - Épisode 101 : \"Des espoirs\""
+    },
+    {
+     "saison": 1,
+     "numero": 102,
+     "titre": "Envols",
+     "youtube_id": "TCGQLYKrmUw",
+     "duree_secondes": 2972,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les Vacances de l'Amour - Épisode 102 : \"Envols\""
+    },
+    {
+     "saison": 1,
+     "numero": 103,
+     "titre": "Naufrages",
+     "youtube_id": "fJfZcU1iWck",
+     "duree_secondes": 3161,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les Vacances de l'Amour - Épisode 103 : \"Naufrages\""
+    },
+    {
+     "saison": 1,
+     "numero": 104,
+     "titre": "Sauvetage",
+     "youtube_id": "Ub2dg-XPifI",
+     "duree_secondes": 2944,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les Vacances de l'Amour - Épisode 104 : \"Sauvetage\""
+    },
+    {
+     "saison": 1,
+     "numero": 105,
+     "titre": "Reprise",
+     "youtube_id": "yBdx9Dev0Us",
+     "duree_secondes": 2966,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les Vacances de l'Amour - Épisode 105 : \"Reprise\""
+    },
+    {
+     "saison": 1,
+     "numero": 106,
+     "titre": "Éclaircies",
+     "youtube_id": "x8K0dx6al7Q",
+     "duree_secondes": 3147,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les Vacances de l'Amour - Épisode 106 : \"Éclaircies\""
+    },
+    {
+     "saison": 1,
+     "numero": 107,
+     "titre": "Détente",
+     "youtube_id": "jwccjw8A3_Y",
+     "duree_secondes": 3034,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les Vacances de l'Amour - Épisode 107 : \"Détente\""
+    },
+    {
+     "saison": 1,
+     "numero": 108,
+     "titre": "Révolution",
+     "youtube_id": "GW7eUWJZ1Yo",
+     "duree_secondes": 2937,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les Vacances de l'Amour - Épisode 108 : \"Révolution\""
+    },
+    {
+     "saison": 1,
+     "numero": 109,
+     "titre": "Sang neuf",
+     "youtube_id": "iYzeQeaWVQc",
+     "duree_secondes": 3057,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les Vacances de l'Amour - Épisode 109 : \"Sang neuf\""
+    },
+    {
+     "saison": 1,
+     "numero": 110,
+     "titre": "Ville morte",
+     "youtube_id": "tW9yJN_-xV4",
+     "duree_secondes": 3279,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les Vacances de l'Amour - Épisode 110 : \"Ville morte\""
+    },
+    {
+     "saison": 1,
+     "numero": 111,
+     "titre": "Épisode 111",
+     "youtube_id": "d1b02Ti-JjE",
+     "duree_secondes": 3081,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les Vacances de l'Amour - Épisode 111"
+    },
+    {
+     "saison": 1,
+     "numero": 112,
+     "titre": "Épisode 112",
+     "youtube_id": "w6jFtDaQvXI",
+     "duree_secondes": 3020,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les Vacances de l'Amour - Épisode 112"
+    },
+    {
+     "saison": 1,
+     "numero": 113,
+     "titre": "Épisode 113",
+     "youtube_id": "5KvCmXUE3QY",
+     "duree_secondes": 3158,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les Vacances de l'Amour - Épisode 113"
+    },
+    {
+     "saison": 1,
+     "numero": 114,
+     "titre": "Épisode 114",
+     "youtube_id": "emlSfzDrLtg",
+     "duree_secondes": 3086,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les Vacances de l'Amour - Épisode 114"
+    },
+    {
+     "saison": 1,
+     "numero": 115,
+     "titre": "Épisode 115",
+     "youtube_id": "A7664q-z9kw",
+     "duree_secondes": 3069,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les Vacances de l'Amour - Épisode 115"
+    },
+    {
+     "saison": 1,
+     "numero": 116,
+     "titre": "Épisode 116",
+     "youtube_id": "BYHSiLU0-S0",
+     "duree_secondes": 3068,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les Vacances de l'Amour - Épisode 116"
+    },
+    {
+     "saison": 1,
+     "numero": 117,
+     "titre": "Épisode 117",
+     "youtube_id": "RHx1-8sTZoY",
+     "duree_secondes": 3030,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les Vacances de l'Amour - Épisode 117"
+    },
+    {
+     "saison": 1,
+     "numero": 118,
+     "titre": "Épisode 118",
+     "youtube_id": "os9gOCF3m1w",
+     "duree_secondes": 3055,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les Vacances de l'Amour - Épisode 118"
+    },
+    {
+     "saison": 1,
+     "numero": 119,
+     "titre": "Épisode 119",
+     "youtube_id": "TXLUnbRdY2A",
+     "duree_secondes": 3102,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les Vacances de l'Amour - Épisode 119"
+    },
+    {
+     "saison": 1,
+     "numero": 120,
+     "titre": "Épisode 120",
+     "youtube_id": "QgRZukgUn_M",
+     "duree_secondes": 3193,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les Vacances de l'Amour - Épisode 120"
+    },
+    {
+     "saison": 1,
+     "numero": 121,
+     "titre": "Épisode 121",
+     "youtube_id": "DrNXXaEHP-Y",
+     "duree_secondes": 3175,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les Vacances de l'Amour - Épisode 121"
+    },
+    {
+     "saison": 1,
+     "numero": 122,
+     "titre": "Épisode 122",
+     "youtube_id": "ZmxLSXR9u9c",
+     "duree_secondes": 3065,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les Vacances de l'Amour - Épisode 122"
+    },
+    {
+     "saison": 1,
+     "numero": 123,
+     "titre": "Épisode 123",
+     "youtube_id": "xY9Krl8U9bw",
+     "duree_secondes": 3063,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les Vacances de l'Amour - Épisode 123"
+    }
+   ],
+   "affiche": "affiches/gtlIjomJstE.webp",
+   "vignette": "vignettes/gtlIjomJstE.webp"
+  }
+ ]
+}

@@ -1,0 +1,874 @@
+{
+ "genere_le": "2026-10-11",
+ "programmes": [
+  {
+   "slug": "les-garcons-de-la-plage",
+   "titre": "Les Garçons de la plage",
+   "format": "serie",
+   "univers": "series",
+   "genres": [
+    "sitcoms-90",
+    "comedie",
+    "romance"
+   ],
+   "tout_public": true,
+   "youtube_id": null,
+   "chaine_nom": "Génération Sitcoms",
+   "chaine_id": "UCVVubp6nL6vP8b6ls-Ybk-g",
+   "chaine_url": "https://www.youtube.com/channel/UCVVubp6nL6vP8b6ls-Ybk-g",
+   "ayant_droit": "AB Productions (chaîne officielle certifiée Génération Sitcoms)",
+   "duree_secondes": 1484,
+   "annee": 1994,
+   "description": "Une bande de copains, le soleil et la plage : amours d'été et quiproquos, version AB. La série intégrale, 85 épisodes.",
+   "disponible_jusqu_au": null,
+   "publie_le": null,
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "Surprise",
+     "youtube_id": "EVJYF6leBRw",
+     "duree_secondes": 1580,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 01 - Surprise",
+     "vignette": "vignettes/EVJYF6leBRw.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "Le soleil rend fou",
+     "youtube_id": "2f3ci91EqEM",
+     "duree_secondes": 1580,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 02 - Le soleil rend fou",
+     "vignette": "vignettes/2f3ci91EqEM.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 3,
+     "titre": "Cas de conscience",
+     "youtube_id": "8fjqME_WMbk",
+     "duree_secondes": 1523,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 03 - Cas de conscience",
+     "vignette": "vignettes/8fjqME_WMbk.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 4,
+     "titre": "Trop c'est trop",
+     "youtube_id": "k02HEVh6thI",
+     "duree_secondes": 1566,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 04 - Trop c'est trop",
+     "vignette": "vignettes/k02HEVh6thI.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 5,
+     "titre": "Le jour sans",
+     "youtube_id": "EzH2hDVIrDc",
+     "duree_secondes": 1633,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 05 - Le jour sans",
+     "vignette": "vignettes/EzH2hDVIrDc.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 6,
+     "titre": "Discipline",
+     "youtube_id": "kyWbIKLWVG0",
+     "duree_secondes": 1582,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 6 - Discipline",
+     "vignette": "vignettes/kyWbIKLWVG0.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 7,
+     "titre": "Quarantaine",
+     "youtube_id": "om7wfAGzlBw",
+     "duree_secondes": 1506,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 7 - Quarantaine",
+     "vignette": "vignettes/om7wfAGzlBw.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 8,
+     "titre": "Le remède",
+     "youtube_id": "8t1vXWVZehk",
+     "duree_secondes": 1542,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 8 - Le remède",
+     "vignette": "vignettes/8t1vXWVZehk.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 9,
+     "titre": "Changement de style",
+     "youtube_id": "TMn0ctMl-rw",
+     "duree_secondes": 1506,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 9 - Changement de style",
+     "vignette": "vignettes/TMn0ctMl-rw.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 10,
+     "titre": "Gertrud",
+     "youtube_id": "BcUc47Y57PM",
+     "duree_secondes": 1410,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 10 - Gertrud",
+     "vignette": "vignettes/BcUc47Y57PM.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 11,
+     "titre": "Le rival",
+     "youtube_id": "c2PlzEXruzA",
+     "duree_secondes": 1520,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 11 - Le rival",
+     "vignette": "vignettes/c2PlzEXruzA.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 12,
+     "titre": "Coup de théatre",
+     "youtube_id": "EDNyo9rhlGo",
+     "duree_secondes": 1500,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 12 - Coup de théatre",
+     "vignette": "vignettes/EDNyo9rhlGo.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 13,
+     "titre": "Au secours de Marie",
+     "youtube_id": "Qzm6Ol93YUM",
+     "duree_secondes": 1508,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 13 - Au secours de Marie",
+     "vignette": "vignettes/Qzm6Ol93YUM.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 14,
+     "titre": "Disparition",
+     "youtube_id": "TnAL15U8-1E",
+     "duree_secondes": 1442,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 14 - Disparition",
+     "vignette": "vignettes/TnAL15U8-1E.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 15,
+     "titre": "Dilemme",
+     "youtube_id": "CFrwcieMlbw",
+     "duree_secondes": 1414,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 15 - Dilemme",
+     "vignette": "vignettes/CFrwcieMlbw.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 16,
+     "titre": "Les VIP",
+     "youtube_id": "2PqUNfX8tQs",
+     "duree_secondes": 1425,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 16 - Les VIP",
+     "vignette": "vignettes/2PqUNfX8tQs.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 17,
+     "titre": "Émotions",
+     "youtube_id": "PZ2g9m9o0As",
+     "duree_secondes": 1460,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 17 - Émotions",
+     "vignette": "vignettes/PZ2g9m9o0As.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 18,
+     "titre": "Révélations",
+     "youtube_id": "OMtaimxAYJA",
+     "duree_secondes": 1523,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 18 - Révélations",
+     "vignette": "vignettes/OMtaimxAYJA.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 19,
+     "titre": "Jalousie",
+     "youtube_id": "hh6h343TRZM",
+     "duree_secondes": 1486,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 19 - Jalousie",
+     "vignette": "vignettes/hh6h343TRZM.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 20,
+     "titre": "Bob de Lorgnac",
+     "youtube_id": "eaJzwlltQh0",
+     "duree_secondes": 1437,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 20 - Bob de Lorgnac",
+     "vignette": "vignettes/eaJzwlltQh0.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 21,
+     "titre": "La vedette",
+     "youtube_id": "H1lfePPg9SA",
+     "duree_secondes": 1460,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 21 - La vedette",
+     "vignette": "vignettes/H1lfePPg9SA.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 22,
+     "titre": "Le piège",
+     "youtube_id": "3Fmbbya8suY",
+     "duree_secondes": 1504,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 22 - Le piège",
+     "vignette": "vignettes/3Fmbbya8suY.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 23,
+     "titre": "Couple d'enfer",
+     "youtube_id": "U75Y02UNzOg",
+     "duree_secondes": 1497,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 23 - Couple d'enfer",
+     "vignette": "vignettes/U75Y02UNzOg.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 24,
+     "titre": "Une histoire d'amour",
+     "youtube_id": "6vHNQXycwFQ",
+     "duree_secondes": 1504,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 24 - Une histoire d'amour",
+     "vignette": "vignettes/6vHNQXycwFQ.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 25,
+     "titre": "Pêche en eaux troubles",
+     "youtube_id": "JHXpDY1IkLA",
+     "duree_secondes": 1536,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 25 - Pêche en eaux troubles",
+     "vignette": "vignettes/JHXpDY1IkLA.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 27,
+     "titre": "Strip tease",
+     "youtube_id": "R_8HHx0Blfg",
+     "duree_secondes": 1511,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 27 - Strip tease",
+     "vignette": "vignettes/R_8HHx0Blfg.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 28,
+     "titre": "Sacrifice",
+     "youtube_id": "GlT-PhRRkTU",
+     "duree_secondes": 1533,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 28 - Sacrifice",
+     "vignette": "vignettes/GlT-PhRRkTU.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 29,
+     "titre": "Pleine lune",
+     "youtube_id": "dgXD1JQgL5E",
+     "duree_secondes": 1516,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 29 - Pleine lune",
+     "vignette": "vignettes/dgXD1JQgL5E.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 30,
+     "titre": "L'amoureux",
+     "youtube_id": "ionjex9ITHg",
+     "duree_secondes": 1507,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 30 - L'amoureux",
+     "vignette": "vignettes/ionjex9ITHg.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 31,
+     "titre": "Retrouvailles",
+     "youtube_id": "y-q0Vv2TeKg",
+     "duree_secondes": 1494,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 31 - Retrouvailles",
+     "vignette": "vignettes/y-q0Vv2TeKg.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 32,
+     "titre": "Un rival dangereux",
+     "youtube_id": "f4OJgI4Y-6c",
+     "duree_secondes": 1514,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 32 - Un rival dangereux",
+     "vignette": "vignettes/f4OJgI4Y-6c.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 33,
+     "titre": "Rupture",
+     "youtube_id": "ncGc3Y99eJU",
+     "duree_secondes": 1512,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 33 - Rupture",
+     "vignette": "vignettes/ncGc3Y99eJU.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 34,
+     "titre": "Un jour pourri",
+     "youtube_id": "6-hsee74-4Y",
+     "duree_secondes": 1500,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - ÉPISODE 34 - Un jour pourri",
+     "vignette": "vignettes/6-hsee74-4Y.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 35,
+     "titre": "Passion fatale",
+     "youtube_id": "9AqBpiQE778",
+     "duree_secondes": 1502,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 35 - Passion fatale",
+     "vignette": "vignettes/9AqBpiQE778.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 36,
+     "titre": "Une cliente pas comme les autres",
+     "youtube_id": "1TixTzQmbeA",
+     "duree_secondes": 1505,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 36 - Une cliente pas comme les autres",
+     "vignette": "vignettes/1TixTzQmbeA.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 37,
+     "titre": "Le blues d'Ella",
+     "youtube_id": "d9KSz2-LiNc",
+     "duree_secondes": 1474,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 37 - Le blues d'Ella",
+     "vignette": "vignettes/d9KSz2-LiNc.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 38,
+     "titre": "Drames passionnels",
+     "youtube_id": "lpa27v4jyCI",
+     "duree_secondes": 1470,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 38 - Drames passionnels",
+     "vignette": "vignettes/lpa27v4jyCI.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 39,
+     "titre": "Le bonheur",
+     "youtube_id": "awIkwcaPuM0",
+     "duree_secondes": 1497,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 39 - Le bonheur",
+     "vignette": "vignettes/awIkwcaPuM0.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 40,
+     "titre": "Le nouveau",
+     "youtube_id": "NiwwfPPZkFw",
+     "duree_secondes": 1481,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 40 - Le nouveau",
+     "vignette": "vignettes/NiwwfPPZkFw.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 41,
+     "titre": "Arrivée tardive",
+     "youtube_id": "q7bHvOpb_i8",
+     "duree_secondes": 1513,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 41- Arrivée tardive",
+     "vignette": "vignettes/q7bHvOpb_i8.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 42,
+     "titre": "Montée en puissance",
+     "youtube_id": "9_9SzctoMYE",
+     "duree_secondes": 1344,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 42 - Montée en puissance",
+     "vignette": "vignettes/9_9SzctoMYE.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 43,
+     "titre": "Délire",
+     "youtube_id": "SanWjxUURK4",
+     "duree_secondes": 1461,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 43 - Délire",
+     "vignette": "vignettes/SanWjxUURK4.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 44,
+     "titre": "La voyante",
+     "youtube_id": "Lcmgh12KBxw",
+     "duree_secondes": 1514,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 44 - La voyante",
+     "vignette": "vignettes/Lcmgh12KBxw.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 45,
+     "titre": "Mariage",
+     "youtube_id": "powlVnyFLf8",
+     "duree_secondes": 1512,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 45 - Mariage",
+     "vignette": "vignettes/powlVnyFLf8.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 46,
+     "titre": "Monsieur Bob",
+     "youtube_id": "LoBE0AE77ok",
+     "duree_secondes": 1488,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 46 - Monsieur Bob",
+     "vignette": "vignettes/LoBE0AE77ok.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 47,
+     "titre": "Ambition",
+     "youtube_id": "A7DXucIairY",
+     "duree_secondes": 1459,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 47 - Ambition",
+     "vignette": "vignettes/A7DXucIairY.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 48,
+     "titre": "Les mariés",
+     "youtube_id": "tFVtVzBBLyA",
+     "duree_secondes": 1446,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 48 - Les mariés",
+     "vignette": "vignettes/tFVtVzBBLyA.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 49,
+     "titre": "La maîtresse",
+     "youtube_id": "dNzKF0wJPTE",
+     "duree_secondes": 1422,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 49 - La maîtresse",
+     "vignette": "vignettes/dNzKF0wJPTE.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 50,
+     "titre": "La B.A.",
+     "youtube_id": "JbtGKlNEwAY",
+     "duree_secondes": 1473,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 50 - La B.A.",
+     "vignette": "vignettes/JbtGKlNEwAY.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 51,
+     "titre": "Le premier rôle",
+     "youtube_id": "2IaL6eNKSaQ",
+     "duree_secondes": 1443,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 51 - Le premier rôle",
+     "vignette": "vignettes/2IaL6eNKSaQ.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 52,
+     "titre": "Drôle de rêve",
+     "youtube_id": "SFkBKg-o2pY",
+     "duree_secondes": 1412,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 52 - Drôle de rêve",
+     "vignette": "vignettes/SFkBKg-o2pY.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 53,
+     "titre": "Le garde du corps",
+     "youtube_id": "PCWSpyu_GR8",
+     "duree_secondes": 1449,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 53 - Le garde du corps",
+     "vignette": "vignettes/PCWSpyu_GR8.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 54,
+     "titre": "L'agent double",
+     "youtube_id": "pjBIiRWpd08",
+     "duree_secondes": 1441,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 54 - L'agent double",
+     "vignette": "vignettes/pjBIiRWpd08.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 55,
+     "titre": "Grosse déprime",
+     "youtube_id": "w8BYrUab5zU",
+     "duree_secondes": 1440,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 55 - Grosse déprime",
+     "vignette": "vignettes/w8BYrUab5zU.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 56,
+     "titre": "Un vrai roman",
+     "youtube_id": "tXxELtVzCPU",
+     "duree_secondes": 1472,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 56 - Un vrai roman",
+     "vignette": "vignettes/tXxELtVzCPU.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 57,
+     "titre": "La leçon",
+     "youtube_id": "skXDR4wOcc4",
+     "duree_secondes": 1487,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 57 - La leçon",
+     "vignette": "vignettes/skXDR4wOcc4.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 58,
+     "titre": "L'Autrichienne",
+     "youtube_id": "4-jTmgv_2vk",
+     "duree_secondes": 1485,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 58 - L'Autrichienne",
+     "vignette": "vignettes/4-jTmgv_2vk.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 59,
+     "titre": "L'infidèle",
+     "youtube_id": "82PC9PVZEkw",
+     "duree_secondes": 1391,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 59 - L'infidèle",
+     "vignette": "vignettes/82PC9PVZEkw.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 60,
+     "titre": "Tous pour Bob",
+     "youtube_id": "TDZEhFc98RM",
+     "duree_secondes": 1484,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 60 - Tous pour Bob",
+     "vignette": "vignettes/TDZEhFc98RM.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 61,
+     "titre": "Tentation",
+     "youtube_id": "RZ_tHJd_yyc",
+     "duree_secondes": 1425,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 61 - Tentation",
+     "vignette": "vignettes/RZ_tHJd_yyc.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 62,
+     "titre": "La bête d'amour",
+     "youtube_id": "Ayh5J58BPRM",
+     "duree_secondes": 1486,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 62 - La bête d'amour",
+     "vignette": "vignettes/Ayh5J58BPRM.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 63,
+     "titre": "Le choix de Bob",
+     "youtube_id": "wOpZm2Wc3Ys",
+     "duree_secondes": 1462,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 63 - Le choix de Bob",
+     "vignette": "vignettes/wOpZm2Wc3Ys.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 64,
+     "titre": "Passion",
+     "youtube_id": "3HNUOT7HTno",
+     "duree_secondes": 1439,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 64 - Passion",
+     "vignette": "vignettes/3HNUOT7HTno.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 65,
+     "titre": "Le nouveau directeur",
+     "youtube_id": "jkTmJPno-CQ",
+     "duree_secondes": 1500,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 65 - Le nouveau directeur",
+     "vignette": "vignettes/jkTmJPno-CQ.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 66,
+     "titre": "Complaisance",
+     "youtube_id": "ZUNMBCSwZPk",
+     "duree_secondes": 1407,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 66 - Complaisance",
+     "vignette": "vignettes/ZUNMBCSwZPk.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 67,
+     "titre": "Traquenards",
+     "youtube_id": "kgYnB9sKimA",
+     "duree_secondes": 1431,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 67 - Traquenards",
+     "vignette": "vignettes/kgYnB9sKimA.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 68,
+     "titre": "Tout rentre dans l'ordre",
+     "youtube_id": "VQVYVoidLcI",
+     "duree_secondes": 1456,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 68 - Tout rentre dans l'ordre",
+     "vignette": "vignettes/VQVYVoidLcI.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 69,
+     "titre": "L'affreux Jojo",
+     "youtube_id": "K9xh2MWB6zU",
+     "duree_secondes": 1376,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 69 - L'affreux Jojo",
+     "vignette": "vignettes/K9xh2MWB6zU.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 70,
+     "titre": "Un drôle d'amoureux",
+     "youtube_id": "lc0veXWCb6I",
+     "duree_secondes": 1453,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 70 - Un drôle d'amoureux",
+     "vignette": "vignettes/lc0veXWCb6I.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 71,
+     "titre": "Élimination",
+     "youtube_id": "-74QICNl2NA",
+     "duree_secondes": 1356,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 71 - Élimination",
+     "vignette": "vignettes/-74QICNl2NA.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 72,
+     "titre": "La mamie de Bob",
+     "youtube_id": "_PJGcLP5Vhc",
+     "duree_secondes": 1388,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 72 - La mamie de Bob",
+     "vignette": "vignettes/_PJGcLP5Vhc.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 73,
+     "titre": "Rock n'roll",
+     "youtube_id": "Jm8tCq1nO6M",
+     "duree_secondes": 1409,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 73 - Rock n'roll",
+     "vignette": "vignettes/Jm8tCq1nO6M.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 74,
+     "titre": "Rock'n Bob",
+     "youtube_id": "piENPYBQ2Q4",
+     "duree_secondes": 1499,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 74 - Rock'n Bob",
+     "vignette": "vignettes/piENPYBQ2Q4.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 75,
+     "titre": "Tensions",
+     "youtube_id": "GypQZKrw84M",
+     "duree_secondes": 1461,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 75 - Tensions",
+     "vignette": "vignettes/GypQZKrw84M.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 76,
+     "titre": "Apaisement",
+     "youtube_id": "WaeY0LS-K7g",
+     "duree_secondes": 1448,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 76 - Apaisement",
+     "vignette": "vignettes/WaeY0LS-K7g.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 77,
+     "titre": "Stress",
+     "youtube_id": "3bDbdUr_fGQ",
+     "duree_secondes": 1411,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 77 - Stress",
+     "vignette": "vignettes/3bDbdUr_fGQ.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 78,
+     "titre": "Surprise surprise",
+     "youtube_id": "UqXhXbyyxe8",
+     "duree_secondes": 1453,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 78 - Surprise surprise",
+     "vignette": "vignettes/UqXhXbyyxe8.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 79,
+     "titre": "Déchirements",
+     "youtube_id": "_LKt0KZCyCw",
+     "duree_secondes": 1505,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 79 - Déchirements",
+     "vignette": "vignettes/_LKt0KZCyCw.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 80,
+     "titre": "Une entente parfaite",
+     "youtube_id": "dTd4Bp9NKNI",
+     "duree_secondes": 1490,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 80 - Une entente parfaite",
+     "vignette": "vignettes/dTd4Bp9NKNI.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 81,
+     "titre": "Le cri qui tue",
+     "youtube_id": "Eg2NrNWEEgs",
+     "duree_secondes": 1425,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 81 - Le cri qui tue",
+     "vignette": "vignettes/Eg2NrNWEEgs.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 82,
+     "titre": "Pauvre chouchou",
+     "youtube_id": "OJNQtWMbZhU",
+     "duree_secondes": 1492,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 82 - Pauvre chouchou",
+     "vignette": "vignettes/OJNQtWMbZhU.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 83,
+     "titre": "La vipère",
+     "youtube_id": "vYN8OsWeLPQ",
+     "duree_secondes": 1416,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 83 - La vipère",
+     "vignette": "vignettes/vYN8OsWeLPQ.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 84,
+     "titre": "Métamorphoses",
+     "youtube_id": "QmBxrKEMAlM",
+     "duree_secondes": 1476,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 84 - Métamorphoses",
+     "vignette": "vignettes/QmBxrKEMAlM.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 85,
+     "titre": "Le triomphe de l'amour",
+     "youtube_id": "61aYLMGHF0c",
+     "duree_secondes": 1400,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Les garçons de la plage - Épisode 85 - Le triomphe de l'amour",
+     "vignette": "vignettes/61aYLMGHF0c.webp"
+    }
+   ],
+   "affiche": "affiches/EVJYF6leBRw.webp",
+   "vignette": "vignettes/EVJYF6leBRw.webp"
+  }
+ ]
+}

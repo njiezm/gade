@@ -1,0 +1,2897 @@
+{
+ "genere_le": "2026-10-11",
+ "programmes": [
+  {
+   "slug": "premiers-baisers",
+   "titre": "Premiers baisers",
+   "format": "serie",
+   "univers": "series",
+   "genres": [
+    "sitcoms-90",
+    "romance",
+    "comedie"
+   ],
+   "tout_public": true,
+   "youtube_id": null,
+   "chaine_nom": "Génération Sitcoms",
+   "chaine_id": "UCVVubp6nL6vP8b6ls-Ybk-g",
+   "chaine_url": "https://www.youtube.com/channel/UCVVubp6nL6vP8b6ls-Ybk-g",
+   "ayant_droit": "AB Productions (chaîne officielle certifiée Génération Sitcoms)",
+   "duree_secondes": 1469,
+   "annee": 1991,
+   "description": "Justine Girard, sa grande sœur Annette, ses copines et ses premiers amours : la vie d'une bande de lycéens et de leurs familles. La série intégrale, 318 épisodes.",
+   "disponible_jusqu_au": null,
+   "publie_le": null,
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "Le vrai baiser",
+     "youtube_id": "iX5BpK2qopc",
+     "duree_secondes": 1369,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "PREMIERS BAISERS | Le vrai baiser | ÉPISODE 1",
+     "vignette": "vignettes/iX5BpK2qopc.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "Une journée de rêve",
+     "youtube_id": "GjtpeANsRs0",
+     "duree_secondes": 1331,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - EPISODE 2 - Une journée de rêve"
+    },
+    {
+     "saison": 1,
+     "numero": 3,
+     "titre": "Cavalier exigé",
+     "youtube_id": "QIIcNyi6rLo",
+     "duree_secondes": 1401,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - EPISODE 3 - Cavalier exigé"
+    },
+    {
+     "saison": 1,
+     "numero": 4,
+     "titre": "Une belle scène de ménage",
+     "youtube_id": "uEbTPq5Y1eo",
+     "duree_secondes": 1426,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - EPISODE 4 - Une belle scène de ménage"
+    },
+    {
+     "saison": 1,
+     "numero": 5,
+     "titre": "Premiers baiser",
+     "youtube_id": "KUq1pfYq7ug",
+     "duree_secondes": 1398,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baiser - EPISODE 5 - Flip boy - 1re partie"
+    },
+    {
+     "saison": 1,
+     "numero": 6,
+     "titre": "Premiers baiser",
+     "youtube_id": "9XB2skSrnc8",
+     "duree_secondes": 1423,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baiser - EPISODE 6 - Flip boy - 2ème partie"
+    },
+    {
+     "saison": 1,
+     "numero": 7,
+     "titre": "Cartes de voeux",
+     "youtube_id": "r4LTKdyypb4",
+     "duree_secondes": 1548,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers Baisers - EPISODE 7 - Cartes de voeux"
+    },
+    {
+     "saison": 1,
+     "numero": 8,
+     "titre": "La salle de bain pour moi toute seule",
+     "youtube_id": "GUVyadpDoQs",
+     "duree_secondes": 1553,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - EPISODE 8 - La salle de bain pour moi toute seule"
+    },
+    {
+     "saison": 1,
+     "numero": 9,
+     "titre": "Le fugueur",
+     "youtube_id": "f0YszGxKiQA",
+     "duree_secondes": 1487,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - EPISODE 9 - Le fugueur"
+    },
+    {
+     "saison": 1,
+     "numero": 10,
+     "titre": "L'anglais",
+     "youtube_id": "7lRYk5uzcSs",
+     "duree_secondes": 1484,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - EPISODE 10 - L'anglais"
+    },
+    {
+     "saison": 1,
+     "numero": 11,
+     "titre": "Un sweat super sweet",
+     "youtube_id": "tVRbhBo6qj8",
+     "duree_secondes": 1578,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 11 - Un sweat super sweet"
+    },
+    {
+     "saison": 1,
+     "numero": 12,
+     "titre": "Australian Kiss (PARTIE 1)",
+     "youtube_id": "1yH3xsRCkYw",
+     "duree_secondes": 1288,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 12 - Australian Kiss (PARTIE 1)"
+    },
+    {
+     "saison": 1,
+     "numero": 13,
+     "titre": "Australian Kiss (PARTIE 2)",
+     "youtube_id": "Lah5RGNBQR4",
+     "duree_secondes": 1525,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 13 - Australian Kiss (PARTIE 2)"
+    },
+    {
+     "saison": 1,
+     "numero": 14,
+     "titre": "Premier baisers",
+     "youtube_id": "qoimJDPIYFg",
+     "duree_secondes": 1559,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premier baisers - Épisode 14 - Olivier"
+    },
+    {
+     "saison": 1,
+     "numero": 15,
+     "titre": "Premier baisers",
+     "youtube_id": "tkiX_mu8mQ8",
+     "duree_secondes": 1580,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premier baisers - Épisode 15 - Au secours d'Hélène"
+    },
+    {
+     "saison": 1,
+     "numero": 16,
+     "titre": "Juju",
+     "youtube_id": "TRGR5nLBuwA",
+     "duree_secondes": 1361,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 16 - Juju"
+    },
+    {
+     "saison": 1,
+     "numero": 17,
+     "titre": "La campagne électorale",
+     "youtube_id": "5ljHNsiJdzc",
+     "duree_secondes": 1539,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 17 - La campagne électorale"
+    },
+    {
+     "saison": 1,
+     "numero": 18,
+     "titre": "Love machine",
+     "youtube_id": "58XZXozFkyw",
+     "duree_secondes": 1495,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 18 - Love machine"
+    },
+    {
+     "saison": 1,
+     "numero": 19,
+     "titre": "Les mémoires d'Annette",
+     "youtube_id": "VuRgRwtOy9g",
+     "duree_secondes": 1308,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 19 - Les mémoires d'Annette"
+    },
+    {
+     "saison": 1,
+     "numero": 20,
+     "titre": "Pin's ou bizou",
+     "youtube_id": "_nObsM99Tpc",
+     "duree_secondes": 1439,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers Baisers - Épisode 20 - Pin's ou bizou"
+    },
+    {
+     "saison": 1,
+     "numero": 21,
+     "titre": "Le prince charmeur",
+     "youtube_id": "jhgiFrToAVU",
+     "duree_secondes": 1430,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers Baisers - Épisode 21 - Le prince charmeur"
+    },
+    {
+     "saison": 1,
+     "numero": 22,
+     "titre": "L'argent de poche",
+     "youtube_id": "CQUAKteSDyE",
+     "duree_secondes": 1637,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers Baisers - Épisode 22 - L'argent de poche"
+    },
+    {
+     "saison": 1,
+     "numero": 23,
+     "titre": "Un voyage de rêve",
+     "youtube_id": "Xa7J1kMCNQk",
+     "duree_secondes": 1602,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers Baisers - Épisode 23 - Un voyage de rêve"
+    },
+    {
+     "saison": 1,
+     "numero": 24,
+     "titre": "La fâcherie",
+     "youtube_id": "nBOCKQuSwB0",
+     "duree_secondes": 1584,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers Baisers - Épisode 24 - La fâcherie"
+    },
+    {
+     "saison": 1,
+     "numero": 25,
+     "titre": "Les jumeaux",
+     "youtube_id": "s_hA8zC8tzY",
+     "duree_secondes": 1521,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers Baisers - Épisode 25 - Les jumeaux"
+    },
+    {
+     "saison": 1,
+     "numero": 26,
+     "titre": "A nous les filles",
+     "youtube_id": "XaxjUIjnrR8",
+     "duree_secondes": 1525,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers Baisers - Épisode 26 - A nous les filles"
+    },
+    {
+     "saison": 1,
+     "numero": 27,
+     "titre": "La disparition",
+     "youtube_id": "wuSfh4ECVvc",
+     "duree_secondes": 1502,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers Baisers - Épisode 27 - La disparition"
+    },
+    {
+     "saison": 1,
+     "numero": 28,
+     "titre": "Le poing dans la figure",
+     "youtube_id": "gZtMe_RUtNE",
+     "duree_secondes": 1413,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers Baisers - Épisode 28 - Le poing dans la figure"
+    },
+    {
+     "saison": 1,
+     "numero": 29,
+     "titre": "Casse-pieds",
+     "youtube_id": "Qwq9iWopHiw",
+     "duree_secondes": 1504,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers Baisers - Épisode 29 - Casse-pieds"
+    },
+    {
+     "saison": 1,
+     "numero": 30,
+     "titre": "Les statistiques",
+     "youtube_id": "-4PNQw-Gtcg",
+     "duree_secondes": 1486,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers Baisers - Épisode 30 - Les statistiques"
+    },
+    {
+     "saison": 1,
+     "numero": 31,
+     "titre": "Star de pacotille",
+     "youtube_id": "Awgihbh41Ys",
+     "duree_secondes": 1545,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 31 - Star de pacotille"
+    },
+    {
+     "saison": 1,
+     "numero": 32,
+     "titre": "Framboise des bois",
+     "youtube_id": "BLZ7KfZNcHo",
+     "duree_secondes": 1587,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 32 - Framboise des bois"
+    },
+    {
+     "saison": 1,
+     "numero": 33,
+     "titre": "Vols au vestiaire",
+     "youtube_id": "-vS076O8q1o",
+     "duree_secondes": 1470,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 33 - Vols au vestiaire"
+    },
+    {
+     "saison": 1,
+     "numero": 34,
+     "titre": "Le mauvais moment",
+     "youtube_id": "99g4vHE_E34",
+     "duree_secondes": 1619,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 34 - Le mauvais moment"
+    },
+    {
+     "saison": 1,
+     "numero": 35,
+     "titre": "L'anniversaire de Marie",
+     "youtube_id": "CrZmYGB-PcE",
+     "duree_secondes": 1633,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 35 - L'anniversaire de Marie"
+    },
+    {
+     "saison": 1,
+     "numero": 36,
+     "titre": "La varicelle",
+     "youtube_id": "Qei9itHgyl4",
+     "duree_secondes": 1574,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 36 - La varicelle"
+    },
+    {
+     "saison": 1,
+     "numero": 37,
+     "titre": "La gifle",
+     "youtube_id": "5xa7jMctA2c",
+     "duree_secondes": 1485,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 37 - La gifle"
+    },
+    {
+     "saison": 1,
+     "numero": 38,
+     "titre": "La copine de maman",
+     "youtube_id": "aM5TiGvp2MA",
+     "duree_secondes": 1516,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 38 - La copine de maman"
+    },
+    {
+     "saison": 1,
+     "numero": 39,
+     "titre": "Erreur judiciaire",
+     "youtube_id": "AmhuNMuRkNg",
+     "duree_secondes": 1494,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 39 - Erreur judiciaire"
+    },
+    {
+     "saison": 1,
+     "numero": 40,
+     "titre": "Le poète disparu",
+     "youtube_id": "mWof4vYVkfk",
+     "duree_secondes": 1504,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 40 - Le poète disparu"
+    },
+    {
+     "saison": 1,
+     "numero": 41,
+     "titre": "Economie de crise",
+     "youtube_id": "bLdHFS3PNuI",
+     "duree_secondes": 1501,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 41 - Economie de crise"
+    },
+    {
+     "saison": 1,
+     "numero": 42,
+     "titre": "L'accident",
+     "youtube_id": "ijOOJjOsF78",
+     "duree_secondes": 1256,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 42 - L'accident"
+    },
+    {
+     "saison": 1,
+     "numero": 43,
+     "titre": "La secte",
+     "youtube_id": "TT6Eg5h_SJ0",
+     "duree_secondes": 1535,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 43 - La secte"
+    },
+    {
+     "saison": 1,
+     "numero": 44,
+     "titre": "La dispute",
+     "youtube_id": "8FdDzvuDglo",
+     "duree_secondes": 1558,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 44 - La dispute"
+    },
+    {
+     "saison": 1,
+     "numero": 45,
+     "titre": "La vie secrète de Jérôme",
+     "youtube_id": "YKf72NpdIGI",
+     "duree_secondes": 1455,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 45 - La vie secrète de Jérôme"
+    },
+    {
+     "saison": 1,
+     "numero": 46,
+     "titre": "Le philtre d'amour",
+     "youtube_id": "JV-oyaaws_c",
+     "duree_secondes": 1440,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 46 - Le philtre d'amour"
+    },
+    {
+     "saison": 1,
+     "numero": 47,
+     "titre": "Le cousin de Jérôme",
+     "youtube_id": "vmNFkweByhc",
+     "duree_secondes": 1531,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 47 - Le cousin de Jérôme"
+    },
+    {
+     "saison": 1,
+     "numero": 48,
+     "titre": "La maladie du baiser",
+     "youtube_id": "YVuJ5KdksyM",
+     "duree_secondes": 1531,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 48 - La maladie du baiser"
+    },
+    {
+     "saison": 1,
+     "numero": 49,
+     "titre": "Informatique folie",
+     "youtube_id": "-rtX_JZMs58",
+     "duree_secondes": 1579,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 49 - Informatique folie"
+    },
+    {
+     "saison": 1,
+     "numero": 50,
+     "titre": "Bonnes vacances",
+     "youtube_id": "S_nQUeczICA",
+     "duree_secondes": 1446,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 50 - Bonnes vacances"
+    },
+    {
+     "saison": 1,
+     "numero": 51,
+     "titre": "Retour de vacances",
+     "youtube_id": "JO9L8QUAdMQ",
+     "duree_secondes": 1272,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 51 - Retour de vacances"
+    },
+    {
+     "saison": 1,
+     "numero": 52,
+     "titre": "C'est la rentrée (avec Géraldine Maillet)",
+     "youtube_id": "dUGzshrnEbw",
+     "duree_secondes": 1518,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 52 - C'est la rentrée (avec Géraldine Maillet)"
+    },
+    {
+     "saison": 1,
+     "numero": 53,
+     "titre": "La mégacata",
+     "youtube_id": "vTURNIdtVfk",
+     "duree_secondes": 1663,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 53 - La mégacata"
+    },
+    {
+     "saison": 1,
+     "numero": 54,
+     "titre": "Un seul être vous manque",
+     "youtube_id": "pNFo6prbKnM",
+     "duree_secondes": 1596,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 54 - Un seul être vous manque"
+    },
+    {
+     "saison": 1,
+     "numero": 55,
+     "titre": "Qui se ressemble",
+     "youtube_id": "3KWKZgB6kXs",
+     "duree_secondes": 1595,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 55 - Qui se ressemble"
+    },
+    {
+     "saison": 1,
+     "numero": 56,
+     "titre": "Le rallye",
+     "youtube_id": "mgk-ymiOvSc",
+     "duree_secondes": 1539,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 56 - Le rallye"
+    },
+    {
+     "saison": 1,
+     "numero": 57,
+     "titre": "Le parfait amour",
+     "youtube_id": "9smeDRJxNTo",
+     "duree_secondes": 1696,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 57 - Le parfait amour"
+    },
+    {
+     "saison": 1,
+     "numero": 58,
+     "titre": "Le grand retour",
+     "youtube_id": "Y3FtFoem0L0",
+     "duree_secondes": 1632,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 58 - Le grand retour"
+    },
+    {
+     "saison": 1,
+     "numero": 59,
+     "titre": "Le neveux de Xavier",
+     "youtube_id": "X_z-lQoRxs0",
+     "duree_secondes": 1668,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 59 - Le neveux de Xavier"
+    },
+    {
+     "saison": 1,
+     "numero": 60,
+     "titre": "La colle",
+     "youtube_id": "R7BF8uqgqzI",
+     "duree_secondes": 1630,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 60 - La colle"
+    },
+    {
+     "saison": 1,
+     "numero": 61,
+     "titre": "Surpris, surprise",
+     "youtube_id": "6x9mBs3Xfh8",
+     "duree_secondes": 1591,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 61 - Surpris, surprise"
+    },
+    {
+     "saison": 1,
+     "numero": 62,
+     "titre": "Un cœur a prendre",
+     "youtube_id": "mdoWDveRnKg",
+     "duree_secondes": 1547,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 62 - Un cœur a prendre"
+    },
+    {
+     "saison": 1,
+     "numero": 63,
+     "titre": "Les verres de contact",
+     "youtube_id": "Kn2DkkDQezA",
+     "duree_secondes": 1585,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 63 - Les verres de contact"
+    },
+    {
+     "saison": 1,
+     "numero": 64,
+     "titre": "L'examen de passage",
+     "youtube_id": "iOhIU2yGI_o",
+     "duree_secondes": 1637,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 64 - L'examen de passage"
+    },
+    {
+     "saison": 1,
+     "numero": 65,
+     "titre": "Le remède",
+     "youtube_id": "eQRPC5TywHk",
+     "duree_secondes": 1617,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 65 - Le remède"
+    },
+    {
+     "saison": 1,
+     "numero": 66,
+     "titre": "La shampouineuse",
+     "youtube_id": "H2esW-Iyrt8",
+     "duree_secondes": 1500,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 66 - La shampouineuse"
+    },
+    {
+     "saison": 1,
+     "numero": 67,
+     "titre": "Nounours",
+     "youtube_id": "GxESm_kbf_8",
+     "duree_secondes": 1476,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 67 - Nounours"
+    },
+    {
+     "saison": 1,
+     "numero": 68,
+     "titre": "Le jumelage",
+     "youtube_id": "aS20nBuOwKg",
+     "duree_secondes": 1468,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 68 - Le jumelage"
+    },
+    {
+     "saison": 1,
+     "numero": 69,
+     "titre": "L'anniversaire de Justine",
+     "youtube_id": "FFZUfOGMnGE",
+     "duree_secondes": 1557,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 69 - L'anniversaire de Justine"
+    },
+    {
+     "saison": 1,
+     "numero": 70,
+     "titre": "Impaire et père",
+     "youtube_id": "98EDaoSlwlQ",
+     "duree_secondes": 1636,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 70 - Impaire et père"
+    },
+    {
+     "saison": 1,
+     "numero": 71,
+     "titre": "Un lit pour deux",
+     "youtube_id": "DKRvuk_PhiA",
+     "duree_secondes": 1456,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 71 - Un lit pour deux"
+    },
+    {
+     "saison": 1,
+     "numero": 72,
+     "titre": "L'esclave",
+     "youtube_id": "m_e_-5z2AOk",
+     "duree_secondes": 1394,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 72 - L'esclave"
+    },
+    {
+     "saison": 1,
+     "numero": 73,
+     "titre": "L'artiste peintre",
+     "youtube_id": "dn6HY9XdOWU",
+     "duree_secondes": 1247,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 73 - L'artiste peintre"
+    },
+    {
+     "saison": 1,
+     "numero": 74,
+     "titre": "Cinq filles à la maison",
+     "youtube_id": "8BIsJfSiFlQ",
+     "duree_secondes": 1364,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 74 - Cinq filles à la maison"
+    },
+    {
+     "saison": 1,
+     "numero": 75,
+     "titre": "L'installation",
+     "youtube_id": "qq2R8g0v1KU",
+     "duree_secondes": 1420,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 75 - L'installation"
+    },
+    {
+     "saison": 1,
+     "numero": 76,
+     "titre": "Je serai la plus belle",
+     "youtube_id": "C7F4_swEn2k",
+     "duree_secondes": 1488,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 76 - Je serai la plus belle"
+    },
+    {
+     "saison": 1,
+     "numero": 77,
+     "titre": "Le mal du pays",
+     "youtube_id": "bFHE_jf8Ho8",
+     "duree_secondes": 1320,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 77 - Le mal du pays"
+    },
+    {
+     "saison": 1,
+     "numero": 78,
+     "titre": "Guillaume le conquérant",
+     "youtube_id": "cWnjIu_ZOTA",
+     "duree_secondes": 1461,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 78 - Guillaume le conquérant"
+    },
+    {
+     "saison": 1,
+     "numero": 79,
+     "titre": "Plus on est de fous",
+     "youtube_id": "zHMn9kLzpGM",
+     "duree_secondes": 1551,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 79 - Plus on est de fous"
+    },
+    {
+     "saison": 1,
+     "numero": 80,
+     "titre": "Un baiser de cinéma",
+     "youtube_id": "oiF_fLuy8hQ",
+     "duree_secondes": 1469,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 80 - Un baiser de cinéma"
+    },
+    {
+     "saison": 1,
+     "numero": 81,
+     "titre": "Double amour",
+     "youtube_id": "aN111sHXMvs",
+     "duree_secondes": 1342,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers Baisers - Épisode 81 - Double amour"
+    },
+    {
+     "saison": 1,
+     "numero": 82,
+     "titre": "Double chagrin",
+     "youtube_id": "a3J34vrX4-4",
+     "duree_secondes": 1433,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers Baisers - Épisode 82 - Double chagrin"
+    },
+    {
+     "saison": 1,
+     "numero": 83,
+     "titre": "La déprime",
+     "youtube_id": "YYiatp3IROE",
+     "duree_secondes": 1316,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers Baisers - Épisode 83 - La déprime"
+    },
+    {
+     "saison": 1,
+     "numero": 84,
+     "titre": "La convocation",
+     "youtube_id": "QzczUvYmg2g",
+     "duree_secondes": 1481,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers Baisers - Épisode 84 - La convocation"
+    },
+    {
+     "saison": 1,
+     "numero": 85,
+     "titre": "Le choix de Justine",
+     "youtube_id": "rIpJLWXYcoI",
+     "duree_secondes": 1507,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers Baisers - Épisode 85 - Le choix de Justine"
+    },
+    {
+     "saison": 1,
+     "numero": 86,
+     "titre": "Adieu",
+     "youtube_id": "BkXmk80YnLk",
+     "duree_secondes": 1438,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers Baisers - Épisode 86 - Adieu"
+    },
+    {
+     "saison": 1,
+     "numero": 87,
+     "titre": "Les chaussures de papa",
+     "youtube_id": "n0OGtwTglB4",
+     "duree_secondes": 1536,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers Baisers - Épisode 87 - Les chaussures de papa"
+    },
+    {
+     "saison": 1,
+     "numero": 88,
+     "titre": "Le dilèmme",
+     "youtube_id": "prqVR7cj5qo",
+     "duree_secondes": 1564,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers Baisers - Épisode 88 - Le dilèmme"
+    },
+    {
+     "saison": 1,
+     "numero": 89,
+     "titre": "Les Playboys",
+     "youtube_id": "Hxh9nDrsmtE",
+     "duree_secondes": 1455,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers Baisers - Épisode 89 - Les Playboys"
+    },
+    {
+     "saison": 1,
+     "numero": 90,
+     "titre": "Les loubards",
+     "youtube_id": "VlmX_fdFNjk",
+     "duree_secondes": 1327,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers Baisers - Épisode 90 - Les loubards"
+    },
+    {
+     "saison": 1,
+     "numero": 91,
+     "titre": "Les Exams (Partie 1)",
+     "youtube_id": "rIzHV-3JGGc",
+     "duree_secondes": 1453,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers Baisers - Épisode 91 - Les Exams (Partie 1)"
+    },
+    {
+     "saison": 1,
+     "numero": 92,
+     "titre": "Les Exams (Partie 2)",
+     "youtube_id": "KvwPBa0D-rQ",
+     "duree_secondes": 1409,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers Baisers - Épisode 92 - Les Exams (Partie 2)"
+    },
+    {
+     "saison": 1,
+     "numero": 93,
+     "titre": "Méli Mélo",
+     "youtube_id": "M1PHKJa7k3o",
+     "duree_secondes": 1501,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers Baisers - Épisode 93 - Méli Mélo"
+    },
+    {
+     "saison": 1,
+     "numero": 94,
+     "titre": "Star de la pub",
+     "youtube_id": "LfHXKSj-vLQ",
+     "duree_secondes": 1561,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers Baisers - Épisode 94 - Star de la pub"
+    },
+    {
+     "saison": 1,
+     "numero": 95,
+     "titre": "Le défi",
+     "youtube_id": "DGlchFpkyVs",
+     "duree_secondes": 1369,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers Baisers - Épisode 95 - Le défi"
+    },
+    {
+     "saison": 1,
+     "numero": 96,
+     "titre": "La loterie",
+     "youtube_id": "EX3ie5gh2hk",
+     "duree_secondes": 1565,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers Baisers - Épisode 96 - La loterie"
+    },
+    {
+     "saison": 1,
+     "numero": 97,
+     "titre": "Tel est pris qui croyait prendre",
+     "youtube_id": "OWxSotRyg38",
+     "duree_secondes": 1565,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers Baisers - Épisode 97 - Tel est pris qui croyait prendre"
+    },
+    {
+     "saison": 1,
+     "numero": 98,
+     "titre": "Sondages",
+     "youtube_id": "9xGPHQ_gDjs",
+     "duree_secondes": 1429,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers Baisers - Épisode 98 - Sondages"
+    },
+    {
+     "saison": 1,
+     "numero": 99,
+     "titre": "Une histoire d'amour",
+     "youtube_id": "4tIPHa-nLP8",
+     "duree_secondes": 1502,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers Baisers - Épisode 99 - Une histoire d'amour"
+    },
+    {
+     "saison": 1,
+     "numero": 100,
+     "titre": "Bon anniversaire Debby",
+     "youtube_id": "h6yHQk2vi4o",
+     "duree_secondes": 1455,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers Baisers - Épisode 100 - Bon anniversaire Debby"
+    },
+    {
+     "saison": 1,
+     "numero": 101,
+     "titre": "La scarlatine",
+     "youtube_id": "OixK9KdriFU",
+     "duree_secondes": 1447,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 101 - La scarlatine"
+    },
+    {
+     "saison": 1,
+     "numero": 102,
+     "titre": "Foot furieux",
+     "youtube_id": "wq9iRa7LfIk",
+     "duree_secondes": 1542,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 102 - Foot furieux"
+    },
+    {
+     "saison": 1,
+     "numero": 103,
+     "titre": "Esprits frappeurs",
+     "youtube_id": "kMKDhhy8di4",
+     "duree_secondes": 1538,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 103 - Esprits frappeurs"
+    },
+    {
+     "saison": 1,
+     "numero": 104,
+     "titre": "Le gri-gri de Kim",
+     "youtube_id": "CcmE4ilRkX8",
+     "duree_secondes": 1414,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 104 - Le gri-gri de Kim"
+    },
+    {
+     "saison": 1,
+     "numero": 105,
+     "titre": "Le téléphone",
+     "youtube_id": "-m1DHpvJBQ0",
+     "duree_secondes": 1470,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 105 - Le téléphone"
+    },
+    {
+     "saison": 1,
+     "numero": 106,
+     "titre": "Les fans",
+     "youtube_id": "4cyYb5mUhGU",
+     "duree_secondes": 1566,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 106 - Les fans"
+    },
+    {
+     "saison": 1,
+     "numero": 107,
+     "titre": "Les quadrinoclards",
+     "youtube_id": "kT2Mecomba0",
+     "duree_secondes": 1449,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 107 - Les quadrinoclards"
+    },
+    {
+     "saison": 1,
+     "numero": 108,
+     "titre": "L'éclair",
+     "youtube_id": "CbYW0ncmN24",
+     "duree_secondes": 1567,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 108 - L'éclair"
+    },
+    {
+     "saison": 1,
+     "numero": 109,
+     "titre": "L'homme à l'harmonica",
+     "youtube_id": "GOYUmBkgVcA",
+     "duree_secondes": 1349,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 109 - L'homme à l'harmonica"
+    },
+    {
+     "saison": 1,
+     "numero": 110,
+     "titre": "La totoche unique",
+     "youtube_id": "xTUP2E3Ppyw",
+     "duree_secondes": 1346,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 110 - La totoche unique"
+    },
+    {
+     "saison": 1,
+     "numero": 111,
+     "titre": "Pas comme lui",
+     "youtube_id": "eQwIID9XCs8",
+     "duree_secondes": 1360,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 111 - Pas comme lui"
+    },
+    {
+     "saison": 1,
+     "numero": 112,
+     "titre": "Jenny",
+     "youtube_id": "YbxrXzgabPs",
+     "duree_secondes": 1408,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 112 - Jenny"
+    },
+    {
+     "saison": 1,
+     "numero": 113,
+     "titre": "Exercices pratiques",
+     "youtube_id": "MJZQ7Tc3gyk",
+     "duree_secondes": 1343,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 113 - Exercices pratiques"
+    },
+    {
+     "saison": 1,
+     "numero": 114,
+     "titre": "Un bon copain",
+     "youtube_id": "-E6pYzEIpus",
+     "duree_secondes": 1429,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 114 - Un bon copain"
+    },
+    {
+     "saison": 1,
+     "numero": 115,
+     "titre": "Le Grand Amour",
+     "youtube_id": "kK3nxluQkCM",
+     "duree_secondes": 1393,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 115 - Le Grand Amour"
+    },
+    {
+     "saison": 1,
+     "numero": 116,
+     "titre": "Qui va à la chasse...",
+     "youtube_id": "l76b2QTYRaI",
+     "duree_secondes": 1429,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 116 - Qui va à la chasse..."
+    },
+    {
+     "saison": 1,
+     "numero": 117,
+     "titre": "Le Sit-in",
+     "youtube_id": "vN2CHjQcREc",
+     "duree_secondes": 1416,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 117 - Le Sit-in"
+    },
+    {
+     "saison": 1,
+     "numero": 118,
+     "titre": "La fille au super pull-over",
+     "youtube_id": "LcxBoecLI9c",
+     "duree_secondes": 1444,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 118 - La fille au super pull-over"
+    },
+    {
+     "saison": 1,
+     "numero": 119,
+     "titre": "Luc super star (part1)",
+     "youtube_id": "aB1WxleuAGs",
+     "duree_secondes": 1385,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 119 - Luc super star (part1)"
+    },
+    {
+     "saison": 1,
+     "numero": 120,
+     "titre": "Luc super star (part 2)",
+     "youtube_id": "r2uIpN-gNzw",
+     "duree_secondes": 1464,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 120 - Luc super star (part 2)"
+    },
+    {
+     "saison": 1,
+     "numero": 121,
+     "titre": "Belle ou pas belle",
+     "youtube_id": "Kh834kunGNA",
+     "duree_secondes": 1422,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 121 - Belle ou pas belle"
+    },
+    {
+     "saison": 1,
+     "numero": 122,
+     "titre": "Le bon numéro",
+     "youtube_id": "34PY-QUmzeM",
+     "duree_secondes": 1464,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 122 - Le bon numéro"
+    },
+    {
+     "saison": 1,
+     "numero": 123,
+     "titre": "Au voleur !",
+     "youtube_id": "BkQQFDKScfE",
+     "duree_secondes": 1439,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 123 - Au voleur !"
+    },
+    {
+     "saison": 1,
+     "numero": 124,
+     "titre": "La nouvelle",
+     "youtube_id": "g1Hpbfp1wOw",
+     "duree_secondes": 1383,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 124 - La nouvelle"
+    },
+    {
+     "saison": 1,
+     "numero": 125,
+     "titre": "Yaourt bulgare",
+     "youtube_id": "ve3SRo0RxpQ",
+     "duree_secondes": 1443,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 125 - Yaourt bulgare"
+    },
+    {
+     "saison": 1,
+     "numero": 126,
+     "titre": "Rupture",
+     "youtube_id": "MfnZESMcBbM",
+     "duree_secondes": 1454,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 126 - Rupture"
+    },
+    {
+     "saison": 1,
+     "numero": 127,
+     "titre": "Le 1/4 d'heure américain",
+     "youtube_id": "tQAM9P6cu4E",
+     "duree_secondes": 1445,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 127 - Le 1/4 d'heure américain"
+    },
+    {
+     "saison": 1,
+     "numero": 128,
+     "titre": "Le retour",
+     "youtube_id": "GaPgg4VYW1g",
+     "duree_secondes": 1427,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 128 - Le retour"
+    },
+    {
+     "saison": 1,
+     "numero": 129,
+     "titre": "Ami amies",
+     "youtube_id": "I1aLaFKE-7I",
+     "duree_secondes": 1412,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 129 - Ami amies"
+    },
+    {
+     "saison": 1,
+     "numero": 130,
+     "titre": "La photo",
+     "youtube_id": "yj66GdZ31YI",
+     "duree_secondes": 1452,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 130 - La photo"
+    },
+    {
+     "saison": 1,
+     "numero": 131,
+     "titre": "Une journée comme les autres",
+     "youtube_id": "38HlUv40v_4",
+     "duree_secondes": 1398,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 131 - Une journée comme les autres"
+    },
+    {
+     "saison": 1,
+     "numero": 132,
+     "titre": "L'amour le plus long",
+     "youtube_id": "3ay151xz13U",
+     "duree_secondes": 1513,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 132 - L'amour le plus long"
+    },
+    {
+     "saison": 1,
+     "numero": 133,
+     "titre": "Cours de francais",
+     "youtube_id": "cs_-LlpxlkQ",
+     "duree_secondes": 1506,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 133 - Cours de francais"
+    },
+    {
+     "saison": 1,
+     "numero": 134,
+     "titre": "Retour de Finlande",
+     "youtube_id": "chsMN01gbgE",
+     "duree_secondes": 1491,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 134 - Retour de Finlande"
+    },
+    {
+     "saison": 1,
+     "numero": 135,
+     "titre": "Alerte",
+     "youtube_id": "5P0RgJjqfu4",
+     "duree_secondes": 1441,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 135 - Alerte"
+    },
+    {
+     "saison": 1,
+     "numero": 136,
+     "titre": "Chômage",
+     "youtube_id": "VzzZjheiyiI",
+     "duree_secondes": 1402,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 136 - Chômage"
+    },
+    {
+     "saison": 1,
+     "numero": 137,
+     "titre": "Jalousies",
+     "youtube_id": "1Zx4yzlZwcQ",
+     "duree_secondes": 1403,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 137 - Jalousies"
+    },
+    {
+     "saison": 1,
+     "numero": 138,
+     "titre": "Retour en fanfare",
+     "youtube_id": "NrIm--Mu0KE",
+     "duree_secondes": 1356,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 138 - Retour en fanfare"
+    },
+    {
+     "saison": 1,
+     "numero": 139,
+     "titre": "Course à l'amour",
+     "youtube_id": "SFg8m4O-HlM",
+     "duree_secondes": 1450,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 139 - Course à l'amour"
+    },
+    {
+     "saison": 1,
+     "numero": 140,
+     "titre": "Le canon",
+     "youtube_id": "c8n7TE_w8fY",
+     "duree_secondes": 1498,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 140 - Le canon"
+    },
+    {
+     "saison": 1,
+     "numero": 141,
+     "titre": "Des mondes différents",
+     "youtube_id": "CFlNJ9uLZIQ",
+     "duree_secondes": 1501,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 141 - Des mondes différents"
+    },
+    {
+     "saison": 1,
+     "numero": 142,
+     "titre": "Bats-toi",
+     "youtube_id": "aoL3fgKNfK4",
+     "duree_secondes": 1399,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 142 - Bats-toi"
+    },
+    {
+     "saison": 1,
+     "numero": 143,
+     "titre": "Une dure journée",
+     "youtube_id": "EGcg5fFGilI",
+     "duree_secondes": 1466,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 143 - Une dure journée"
+    },
+    {
+     "saison": 1,
+     "numero": 144,
+     "titre": "Une situation compliquée",
+     "youtube_id": "ufvPOI4Olas",
+     "duree_secondes": 1407,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 144 - Une situation compliquée"
+    },
+    {
+     "saison": 1,
+     "numero": 145,
+     "titre": "Les bonnes habitudes",
+     "youtube_id": "v_TmQF9XYfU",
+     "duree_secondes": 1505,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 145 - Les bonnes habitudes"
+    },
+    {
+     "saison": 1,
+     "numero": 146,
+     "titre": "Le grand saut",
+     "youtube_id": "la3YmdfbdA8",
+     "duree_secondes": 1476,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 146 - Le grand saut"
+    },
+    {
+     "saison": 1,
+     "numero": 147,
+     "titre": "La crise",
+     "youtube_id": "sz3dWgjGv6c",
+     "duree_secondes": 1402,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 147 - La crise"
+    },
+    {
+     "saison": 1,
+     "numero": 148,
+     "titre": "Chambardement",
+     "youtube_id": "UISxxFA_Ccg",
+     "duree_secondes": 1505,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 148 - Chambardement"
+    },
+    {
+     "saison": 1,
+     "numero": 149,
+     "titre": "Départs en chaine",
+     "youtube_id": "FUCXbft3mLY",
+     "duree_secondes": 1525,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 149 - Départs en chaine"
+    },
+    {
+     "saison": 1,
+     "numero": 150,
+     "titre": "Solitudes",
+     "youtube_id": "rGhnxK_pabk",
+     "duree_secondes": 1408,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 150 - Solitudes"
+    },
+    {
+     "saison": 1,
+     "numero": 151,
+     "titre": "De nouvelles habitudes",
+     "youtube_id": "BF-LqSPanhc",
+     "duree_secondes": 1500,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 151 - De nouvelles habitudes"
+    },
+    {
+     "saison": 1,
+     "numero": 152,
+     "titre": "Cauchemar",
+     "youtube_id": "YhEusxlO-v4",
+     "duree_secondes": 1428,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 152 - Cauchemar"
+    },
+    {
+     "saison": 1,
+     "numero": 153,
+     "titre": "Mystères",
+     "youtube_id": "QpCEpj2JmMs",
+     "duree_secondes": 1499,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 153 - Mystères"
+    },
+    {
+     "saison": 1,
+     "numero": 154,
+     "titre": "Rivaux",
+     "youtube_id": "CJW_RkH3Glw",
+     "duree_secondes": 1437,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 154 - Rivaux"
+    },
+    {
+     "saison": 1,
+     "numero": 155,
+     "titre": "Querelle",
+     "youtube_id": "ASa3lG1Za64",
+     "duree_secondes": 1435,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 155 - Querelle"
+    },
+    {
+     "saison": 1,
+     "numero": 156,
+     "titre": "Horizon",
+     "youtube_id": "ykT2_ck-y48",
+     "duree_secondes": 1492,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 156 - Horizon"
+    },
+    {
+     "saison": 1,
+     "numero": 157,
+     "titre": "De mal en pis",
+     "youtube_id": "tnONWGeK-fM",
+     "duree_secondes": 1453,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 157 - De mal en pis"
+    },
+    {
+     "saison": 1,
+     "numero": 158,
+     "titre": "Entre les deux",
+     "youtube_id": "0LwPxN3DfhA",
+     "duree_secondes": 1457,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 158 - Entre les deux"
+    },
+    {
+     "saison": 1,
+     "numero": 159,
+     "titre": "Abandonnée",
+     "youtube_id": "81wTr8LBWwA",
+     "duree_secondes": 1507,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 159 - Abandonnée"
+    },
+    {
+     "saison": 1,
+     "numero": 160,
+     "titre": "Union sacrée",
+     "youtube_id": "iwz7DIS54IA",
+     "duree_secondes": 1475,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 160 - Union sacrée"
+    },
+    {
+     "saison": 1,
+     "numero": 161,
+     "titre": "Le championnat",
+     "youtube_id": "5B07cm_E92A",
+     "duree_secondes": 1451,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 161 - Le championnat"
+    },
+    {
+     "saison": 1,
+     "numero": 162,
+     "titre": "La Fête",
+     "youtube_id": "OFJ5vV-cLc0",
+     "duree_secondes": 1432,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 162 - La Fête"
+    },
+    {
+     "saison": 1,
+     "numero": 163,
+     "titre": "La trouvaille",
+     "youtube_id": "2F4dNilwDt0",
+     "duree_secondes": 1383,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 163 - La trouvaille"
+    },
+    {
+     "saison": 1,
+     "numero": 164,
+     "titre": "Les fleurs",
+     "youtube_id": "xgx1DIRk8bw",
+     "duree_secondes": 1410,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 164 - Les fleurs"
+    },
+    {
+     "saison": 1,
+     "numero": 165,
+     "titre": "T'as pas cent balles",
+     "youtube_id": "e0PSegTkrlE",
+     "duree_secondes": 1391,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 165 - T'as pas cent balles"
+    },
+    {
+     "saison": 1,
+     "numero": 166,
+     "titre": "La garantie",
+     "youtube_id": "3bQf3ZjnLZc",
+     "duree_secondes": 1505,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 166 - La garantie"
+    },
+    {
+     "saison": 1,
+     "numero": 167,
+     "titre": "Mon coeur balance",
+     "youtube_id": "yEHou0flbpE",
+     "duree_secondes": 1549,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 167 - Mon coeur balance"
+    },
+    {
+     "saison": 1,
+     "numero": 168,
+     "titre": "Sens dessus dessous",
+     "youtube_id": "HGbk6X_GZZc",
+     "duree_secondes": 1485,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 168 - Sens dessus dessous"
+    },
+    {
+     "saison": 1,
+     "numero": 169,
+     "titre": "Un nouveau né",
+     "youtube_id": "t_fS1woUS4E",
+     "duree_secondes": 1460,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 169 - Un nouveau né"
+    },
+    {
+     "saison": 1,
+     "numero": 170,
+     "titre": "Coup de blues",
+     "youtube_id": "utehB3cRvzo",
+     "duree_secondes": 1420,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 170 - Coup de blues"
+    },
+    {
+     "saison": 1,
+     "numero": 171,
+     "titre": "Célibataires",
+     "youtube_id": "PBlwcM-7TB8",
+     "duree_secondes": 1396,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 171 - Célibataires"
+    },
+    {
+     "saison": 1,
+     "numero": 172,
+     "titre": "La paix !",
+     "youtube_id": "eBAfB8HH_ok",
+     "duree_secondes": 1447,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 172 - La paix !"
+    },
+    {
+     "saison": 1,
+     "numero": 173,
+     "titre": "Sur les rangs",
+     "youtube_id": "x6hGFBzH4kw",
+     "duree_secondes": 1506,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 173 - Sur les rangs"
+    },
+    {
+     "saison": 1,
+     "numero": 174,
+     "titre": "La surprise du chef",
+     "youtube_id": "YbfYnW-wDzQ",
+     "duree_secondes": 1504,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 174 - La surprise du chef"
+    },
+    {
+     "saison": 1,
+     "numero": 175,
+     "titre": "Surmenage",
+     "youtube_id": "zic7KaUCaIQ",
+     "duree_secondes": 1497,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 175 - Surmenage"
+    },
+    {
+     "saison": 1,
+     "numero": 176,
+     "titre": "In extremis",
+     "youtube_id": "1C-1SFQF59k",
+     "duree_secondes": 1477,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 176 - In extremis"
+    },
+    {
+     "saison": 1,
+     "numero": 177,
+     "titre": "Les amoureux sont seuls au monde",
+     "youtube_id": "qJHS1_OSvas",
+     "duree_secondes": 1507,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 177 - Les amoureux sont seuls au monde"
+    },
+    {
+     "saison": 1,
+     "numero": 178,
+     "titre": "Tentation",
+     "youtube_id": "rhC_bZ0u9NQ",
+     "duree_secondes": 1480,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 178 - Tentation"
+    },
+    {
+     "saison": 1,
+     "numero": 179,
+     "titre": "Les garçons se cachent pour pleurer",
+     "youtube_id": "CYmN0dz3yxc",
+     "duree_secondes": 1502,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 179 - Les garçons se cachent pour pleurer"
+    },
+    {
+     "saison": 1,
+     "numero": 180,
+     "titre": "Hors limite",
+     "youtube_id": "Usf-k8D8cTI",
+     "duree_secondes": 1475,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 180 - Hors limite"
+    },
+    {
+     "saison": 1,
+     "numero": 181,
+     "titre": "Le bras cassé",
+     "youtube_id": "8svJSy5-8aE",
+     "duree_secondes": 1453,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 181 - Le bras cassé"
+    },
+    {
+     "saison": 1,
+     "numero": 182,
+     "titre": "Amour toujours",
+     "youtube_id": "7v59P22WaBo",
+     "duree_secondes": 1466,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 182 - Amour toujours"
+    },
+    {
+     "saison": 1,
+     "numero": 183,
+     "titre": "Frayeur",
+     "youtube_id": "1V78OAjWLHY",
+     "duree_secondes": 1410,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 183 - Frayeur"
+    },
+    {
+     "saison": 1,
+     "numero": 184,
+     "titre": "Le casting",
+     "youtube_id": "gifLf2eijnA",
+     "duree_secondes": 1487,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 184 - Le casting"
+    },
+    {
+     "saison": 1,
+     "numero": 185,
+     "titre": "La bonne copine",
+     "youtube_id": "XOn6gzysMN4",
+     "duree_secondes": 1439,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 185 - La bonne copine"
+    },
+    {
+     "saison": 1,
+     "numero": 186,
+     "titre": "Chacun son tour",
+     "youtube_id": "XNRfaTpqie4",
+     "duree_secondes": 1426,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 186 - Chacun son tour"
+    },
+    {
+     "saison": 1,
+     "numero": 187,
+     "titre": "Le coup de maitre",
+     "youtube_id": "ucikL9F0hY4",
+     "duree_secondes": 1469,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 187 - Le coup de maitre"
+    },
+    {
+     "saison": 1,
+     "numero": 188,
+     "titre": "Retour de flamme",
+     "youtube_id": "Dcx28xyo634",
+     "duree_secondes": 1504,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 188 - Retour de flamme"
+    },
+    {
+     "saison": 1,
+     "numero": 189,
+     "titre": "Accident dans la brousse",
+     "youtube_id": "KuXg_4qAdLo",
+     "duree_secondes": 1499,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 189 - Accident dans la brousse"
+    },
+    {
+     "saison": 1,
+     "numero": 190,
+     "titre": "Justine le retour",
+     "youtube_id": "78FgtXiaAsI",
+     "duree_secondes": 1499,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 190 - Justine le retour"
+    },
+    {
+     "saison": 1,
+     "numero": 191,
+     "titre": "La rescapée",
+     "youtube_id": "ZOAEsz4gIz8",
+     "duree_secondes": 1514,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 191 - La rescapée"
+    },
+    {
+     "saison": 1,
+     "numero": 192,
+     "titre": "La chance d'une vie",
+     "youtube_id": "-1pwOgR2utM",
+     "duree_secondes": 1460,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 192 - La chance d'une vie"
+    },
+    {
+     "saison": 1,
+     "numero": 193,
+     "titre": "Jalouse, moi, jamais",
+     "youtube_id": "JM8gSKWR33k",
+     "duree_secondes": 1502,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 193 - Jalouse, moi, jamais"
+    },
+    {
+     "saison": 1,
+     "numero": 194,
+     "titre": "A dormir debout",
+     "youtube_id": "pwlr4F8cSFg",
+     "duree_secondes": 1391,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 194 - A dormir debout"
+    },
+    {
+     "saison": 1,
+     "numero": 195,
+     "titre": "Qui sait…",
+     "youtube_id": "BwiR0oYWDpM",
+     "duree_secondes": 1470,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 195 - Qui sait…"
+    },
+    {
+     "saison": 1,
+     "numero": 196,
+     "titre": "L'aveu",
+     "youtube_id": "hj7LPc1Pbu4",
+     "duree_secondes": 1440,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 196 - L'aveu"
+    },
+    {
+     "saison": 1,
+     "numero": 197,
+     "titre": "La preuve par deux",
+     "youtube_id": "cu0tudCSOqk",
+     "duree_secondes": 1483,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 197 - La preuve par deux"
+    },
+    {
+     "saison": 1,
+     "numero": 198,
+     "titre": "Le doute",
+     "youtube_id": "e6d2R-J3zKc",
+     "duree_secondes": 1457,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 198 - Le doute"
+    },
+    {
+     "saison": 1,
+     "numero": 199,
+     "titre": "Le bon moment",
+     "youtube_id": "_EOT9o6na70",
+     "duree_secondes": 1498,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 199 - Le bon moment"
+    },
+    {
+     "saison": 1,
+     "numero": 200,
+     "titre": "Hésitations",
+     "youtube_id": "UyPOBQL_le0",
+     "duree_secondes": 1466,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 200 - Hésitations"
+    },
+    {
+     "saison": 1,
+     "numero": 201,
+     "titre": "Chantage",
+     "youtube_id": "AQmVkklMe98",
+     "duree_secondes": 1500,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 201 - Chantage"
+    },
+    {
+     "saison": 1,
+     "numero": 202,
+     "titre": "Clair comme de l'eau de roche",
+     "youtube_id": "G_dI955_rTQ",
+     "duree_secondes": 1483,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 202 - Clair comme de l'eau de roche"
+    },
+    {
+     "saison": 1,
+     "numero": 203,
+     "titre": "Le cadeau de mariage",
+     "youtube_id": "fUjJUf-XaVA",
+     "duree_secondes": 1507,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 203 - Le cadeau de mariage"
+    },
+    {
+     "saison": 1,
+     "numero": 204,
+     "titre": "Double aveu",
+     "youtube_id": "H4uK6wFPG-A",
+     "duree_secondes": 1490,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 204 - Double aveu"
+    },
+    {
+     "saison": 1,
+     "numero": 205,
+     "titre": "Nouvelle donne",
+     "youtube_id": "Bw55SBovcHU",
+     "duree_secondes": 1475,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 205 - Nouvelle donne"
+    },
+    {
+     "saison": 1,
+     "numero": 206,
+     "titre": "Machination",
+     "youtube_id": "dKfCivDNCS0",
+     "duree_secondes": 1499,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 206 - Machination"
+    },
+    {
+     "saison": 1,
+     "numero": 207,
+     "titre": "Retournement",
+     "youtube_id": "E73QDgG7ROY",
+     "duree_secondes": 1489,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 207 - Retournement"
+    },
+    {
+     "saison": 1,
+     "numero": 208,
+     "titre": "Inattendu",
+     "youtube_id": "PPPw92axH5M",
+     "duree_secondes": 1438,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 208 - Inattendu"
+    },
+    {
+     "saison": 1,
+     "numero": 209,
+     "titre": "La bêtise",
+     "youtube_id": "yGETMlA15EA",
+     "duree_secondes": 1416,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 209 - La bêtise"
+    },
+    {
+     "saison": 1,
+     "numero": 210,
+     "titre": "Inquiétude",
+     "youtube_id": "PQGgDIs10Fk",
+     "duree_secondes": 1406,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 210 - Inquiétude"
+    },
+    {
+     "saison": 1,
+     "numero": 211,
+     "titre": "Le cri du coeur",
+     "youtube_id": "918WUDbMCMM",
+     "duree_secondes": 1483,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 211 - Le cri du coeur"
+    },
+    {
+     "saison": 1,
+     "numero": 212,
+     "titre": "Rapprochement",
+     "youtube_id": "yEbTWuCanCs",
+     "duree_secondes": 1507,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 212 - Rapprochement"
+    },
+    {
+     "saison": 1,
+     "numero": 213,
+     "titre": "Mise en forme",
+     "youtube_id": "DtAaJWhETO4",
+     "duree_secondes": 1478,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 213 - Mise en forme"
+    },
+    {
+     "saison": 1,
+     "numero": 214,
+     "titre": "La manif de l'amour",
+     "youtube_id": "0nsrevR7Pxs",
+     "duree_secondes": 1470,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 214 - La manif de l'amour"
+    },
+    {
+     "saison": 1,
+     "numero": 215,
+     "titre": "Violences",
+     "youtube_id": "Nf_Gx5q2JzU",
+     "duree_secondes": 1438,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 215 - Violences"
+    },
+    {
+     "saison": 1,
+     "numero": 216,
+     "titre": "Incontournable",
+     "youtube_id": "Nwzwd8Zist8",
+     "duree_secondes": 1455,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 216 - Incontournable"
+    },
+    {
+     "saison": 1,
+     "numero": 217,
+     "titre": "Combats",
+     "youtube_id": "2VFVpf0Sp94",
+     "duree_secondes": 1484,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 217 - Combats"
+    },
+    {
+     "saison": 1,
+     "numero": 218,
+     "titre": "A un cheveu près",
+     "youtube_id": "KvSoLXCJnFg",
+     "duree_secondes": 1495,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 218 - A un cheveu près"
+    },
+    {
+     "saison": 1,
+     "numero": 219,
+     "titre": "Passions",
+     "youtube_id": "LxXUlPeWe5c",
+     "duree_secondes": 1476,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 219 - Passions"
+    },
+    {
+     "saison": 1,
+     "numero": 220,
+     "titre": "Trio de charme",
+     "youtube_id": "_VPziDhYRwY",
+     "duree_secondes": 1474,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 220 - Trio de charme"
+    },
+    {
+     "saison": 1,
+     "numero": 221,
+     "titre": "Où est-il ?",
+     "youtube_id": "oBIhzrFMN4k",
+     "duree_secondes": 1498,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 221 - Où est-il ?"
+    },
+    {
+     "saison": 1,
+     "numero": 222,
+     "titre": "Sautons ensemble",
+     "youtube_id": "D2fBcQQaXD8",
+     "duree_secondes": 1463,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 222 - Sautons ensemble"
+    },
+    {
+     "saison": 1,
+     "numero": 223,
+     "titre": "L'ordre établi",
+     "youtube_id": "uo6V9aTo5FM",
+     "duree_secondes": 1431,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 223 - L'ordre établi"
+    },
+    {
+     "saison": 1,
+     "numero": 224,
+     "titre": "Le top des tops",
+     "youtube_id": "zfhkouvDTOo",
+     "duree_secondes": 1488,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 224 - Le top des tops"
+    },
+    {
+     "saison": 1,
+     "numero": 225,
+     "titre": "Coup de frein",
+     "youtube_id": "7GctRiQTFiw",
+     "duree_secondes": 1411,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 225 - Coup de frein"
+    },
+    {
+     "saison": 1,
+     "numero": 226,
+     "titre": "Incognito",
+     "youtube_id": "UrUf-eVOQno",
+     "duree_secondes": 1506,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 226 - Incognito"
+    },
+    {
+     "saison": 1,
+     "numero": 227,
+     "titre": "Un rival dangereux",
+     "youtube_id": "4n4gneHixso",
+     "duree_secondes": 1471,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 227 - Un rival dangereux"
+    },
+    {
+     "saison": 1,
+     "numero": 228,
+     "titre": "Ne change rien",
+     "youtube_id": "QMv_08qBnlk",
+     "duree_secondes": 1504,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 228 - Ne change rien"
+    },
+    {
+     "saison": 1,
+     "numero": 229,
+     "titre": "Repérages",
+     "youtube_id": "IKkKl2BZJ-k",
+     "duree_secondes": 1431,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 229 - Repérages"
+    },
+    {
+     "saison": 1,
+     "numero": 230,
+     "titre": "Complications",
+     "youtube_id": "biOjZM-MKw8",
+     "duree_secondes": 1404,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 230 - Complications"
+    },
+    {
+     "saison": 1,
+     "numero": 231,
+     "titre": "Un choix délicat",
+     "youtube_id": "WqRckQwYXKQ",
+     "duree_secondes": 1507,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 231 - Un choix délicat"
+    },
+    {
+     "saison": 1,
+     "numero": 232,
+     "titre": "L'effet boule de neige",
+     "youtube_id": "i5LWZszlRnc",
+     "duree_secondes": 1469,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 232 - L'effet boule de neige"
+    },
+    {
+     "saison": 1,
+     "numero": 233,
+     "titre": "La promesse",
+     "youtube_id": "T7KYkjC0GJc",
+     "duree_secondes": 1473,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 233 - La promesse"
+    },
+    {
+     "saison": 1,
+     "numero": 234,
+     "titre": "Retours",
+     "youtube_id": "gLJVqLPabOk",
+     "duree_secondes": 1505,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 234 - Retours"
+    },
+    {
+     "saison": 1,
+     "numero": 235,
+     "titre": "Une idée de génie",
+     "youtube_id": "vUe57nVuELw",
+     "duree_secondes": 1484,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 235 - Une idée de génie"
+    },
+    {
+     "saison": 1,
+     "numero": 236,
+     "titre": "Le pari jumelé",
+     "youtube_id": "OpFV06nJheA",
+     "duree_secondes": 1516,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 236 - Le pari jumelé"
+    },
+    {
+     "saison": 1,
+     "numero": 237,
+     "titre": "L'examen de passage",
+     "youtube_id": "IHU9ESQRxuU",
+     "duree_secondes": 1396,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 237 - L'examen de passage"
+    },
+    {
+     "saison": 1,
+     "numero": 238,
+     "titre": "Don de voyance",
+     "youtube_id": "YaSccJeqWtA",
+     "duree_secondes": 1440,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 238 - Don de voyance"
+    },
+    {
+     "saison": 1,
+     "numero": 239,
+     "titre": "Le maître",
+     "youtube_id": "7OFL6OeuzPk",
+     "duree_secondes": 1487,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 239 - Le maître"
+    },
+    {
+     "saison": 1,
+     "numero": 240,
+     "titre": "Le nid d'amour",
+     "youtube_id": "CkQIGx5ZZRo",
+     "duree_secondes": 1484,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 240 - Le nid d'amour"
+    },
+    {
+     "saison": 1,
+     "numero": 241,
+     "titre": "Spectaculaire",
+     "youtube_id": "iGEsUDUVmNU",
+     "duree_secondes": 1409,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 241 - Spectaculaire"
+    },
+    {
+     "saison": 1,
+     "numero": 242,
+     "titre": "Question d'âge",
+     "youtube_id": "ErazbNRX2Ls",
+     "duree_secondes": 1496,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 242 - Question d'âge"
+    },
+    {
+     "saison": 1,
+     "numero": 243,
+     "titre": "Aversion",
+     "youtube_id": "1xPttXCqTxY",
+     "duree_secondes": 1496,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 243 - Aversion"
+    },
+    {
+     "saison": 1,
+     "numero": 244,
+     "titre": "Précautions indispensables",
+     "youtube_id": "iG7mR70fUbU",
+     "duree_secondes": 1377,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 244 - Précautions indispensables"
+    },
+    {
+     "saison": 1,
+     "numero": 245,
+     "titre": "Catastrophe informatique",
+     "youtube_id": "z1qO6llb2us",
+     "duree_secondes": 1445,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 245 - Catastrophe informatique"
+    },
+    {
+     "saison": 1,
+     "numero": 246,
+     "titre": "Sauvetage amer",
+     "youtube_id": "1Na2gU-kXVE",
+     "duree_secondes": 1489,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 246 - Sauvetage amer"
+    },
+    {
+     "saison": 1,
+     "numero": 247,
+     "titre": "Résultats",
+     "youtube_id": "1sabBEzIKW0",
+     "duree_secondes": 1473,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 247 - Résultats"
+    },
+    {
+     "saison": 1,
+     "numero": 248,
+     "titre": "Les messagers",
+     "youtube_id": "nFMZ36-1yr0",
+     "duree_secondes": 1479,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 248 - Les messagers"
+    },
+    {
+     "saison": 1,
+     "numero": 249,
+     "titre": "Le caméléon",
+     "youtube_id": "4p8qRS53AF8",
+     "duree_secondes": 1498,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 249 - Le caméléon"
+    },
+    {
+     "saison": 1,
+     "numero": 250,
+     "titre": "Soeur Annette",
+     "youtube_id": "J0Rf7KsXS1Q",
+     "duree_secondes": 1445,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 250 - Soeur Annette"
+    },
+    {
+     "saison": 1,
+     "numero": 251,
+     "titre": "Oui d'avance",
+     "youtube_id": "Dh2NNRrhfEk",
+     "duree_secondes": 1485,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 251 - Oui d'avance"
+    },
+    {
+     "saison": 1,
+     "numero": 252,
+     "titre": "L'arche de Noé",
+     "youtube_id": "8s6DKkTbX28",
+     "duree_secondes": 1480,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 252 - L'arche de Noé"
+    },
+    {
+     "saison": 1,
+     "numero": 253,
+     "titre": "Une chèvre à caser",
+     "youtube_id": "pnUzAGGumW0",
+     "duree_secondes": 1447,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 253 - Une chèvre à caser"
+    },
+    {
+     "saison": 1,
+     "numero": 254,
+     "titre": "La vengeance de la vipère",
+     "youtube_id": "1EZ8a7BHdas",
+     "duree_secondes": 1457,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 254 - La vengeance de la vipère"
+    },
+    {
+     "saison": 1,
+     "numero": 255,
+     "titre": "Rentrée nostalgique",
+     "youtube_id": "g3whIviMrEs",
+     "duree_secondes": 1419,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 255 - Rentrée nostalgique"
+    },
+    {
+     "saison": 1,
+     "numero": 256,
+     "titre": "Formidable",
+     "youtube_id": "ZmhITV_Vrq8",
+     "duree_secondes": 1468,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 256 - Formidable"
+    },
+    {
+     "saison": 1,
+     "numero": 257,
+     "titre": "Pile ou face",
+     "youtube_id": "zhsHOHxWgSg",
+     "duree_secondes": 1445,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 257 - Pile ou face"
+    },
+    {
+     "saison": 1,
+     "numero": 258,
+     "titre": "La fièvre",
+     "youtube_id": "w6XPbBVhzuk",
+     "duree_secondes": 1471,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 258 - La fièvre"
+    },
+    {
+     "saison": 1,
+     "numero": 259,
+     "titre": "La tête à l'envers",
+     "youtube_id": "xbTS6tC3-z4",
+     "duree_secondes": 1466,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 259 - La tête à l'envers"
+    },
+    {
+     "saison": 1,
+     "numero": 260,
+     "titre": "Tout de travers",
+     "youtube_id": "mn08TaxmH94",
+     "duree_secondes": 1466,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 260 - Tout de travers"
+    },
+    {
+     "saison": 1,
+     "numero": 261,
+     "titre": "Démasqué",
+     "youtube_id": "X6T-2ygUwB8",
+     "duree_secondes": 1393,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 261 - Démasqué"
+    },
+    {
+     "saison": 1,
+     "numero": 262,
+     "titre": "Pot de colle",
+     "youtube_id": "bCkU8pgzF6o",
+     "duree_secondes": 1466,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 262 - Pot de colle"
+    },
+    {
+     "saison": 1,
+     "numero": 263,
+     "titre": "Rouler des patins",
+     "youtube_id": "j74fTAn-IzQ",
+     "duree_secondes": 1488,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 263 - Rouler des patins"
+    },
+    {
+     "saison": 1,
+     "numero": 264,
+     "titre": "Le tout pour le tout",
+     "youtube_id": "SjHfBpareks",
+     "duree_secondes": 1491,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 264 - Le tout pour le tout"
+    },
+    {
+     "saison": 1,
+     "numero": 265,
+     "titre": "Le troisième jour",
+     "youtube_id": "3LUy15xfdtE",
+     "duree_secondes": 1463,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 265 - Le troisième jour"
+    },
+    {
+     "saison": 1,
+     "numero": 266,
+     "titre": "Monsieur Jojo (part1)",
+     "youtube_id": "AJeP08StfNg",
+     "duree_secondes": 1495,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 266 - Monsieur Jojo (part1)"
+    },
+    {
+     "saison": 1,
+     "numero": 267,
+     "titre": "Monsieur Jojo (part2)",
+     "youtube_id": "RZR5wg8jGIg",
+     "duree_secondes": 1477,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 267 - Monsieur Jojo (part2)"
+    },
+    {
+     "saison": 1,
+     "numero": 268,
+     "titre": "Le rap",
+     "youtube_id": "ACcHA8tDeCk",
+     "duree_secondes": 1488,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 268 - Le rap"
+    },
+    {
+     "saison": 1,
+     "numero": 269,
+     "titre": "L'horoscope",
+     "youtube_id": "3ROtduSDfRw",
+     "duree_secondes": 1434,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 269 - L'horoscope"
+    },
+    {
+     "saison": 1,
+     "numero": 270,
+     "titre": "Histoire de garçons",
+     "youtube_id": "3aKs3QZFLdk",
+     "duree_secondes": 1461,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 270 - Histoire de garçons"
+    },
+    {
+     "saison": 1,
+     "numero": 271,
+     "titre": "Le prix à payer",
+     "youtube_id": "j_xS1Kj7qfk",
+     "duree_secondes": 1479,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 271 - Le prix à payer"
+    },
+    {
+     "saison": 1,
+     "numero": 272,
+     "titre": "Coup de bleu",
+     "youtube_id": "OfbSen56aUQ",
+     "duree_secondes": 1481,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 272 - Coup de bleu"
+    },
+    {
+     "saison": 1,
+     "numero": 273,
+     "titre": "Poignardé",
+     "youtube_id": "_zDGZSo6b4I",
+     "duree_secondes": 1446,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 273 - Poignardé"
+    },
+    {
+     "saison": 1,
+     "numero": 274,
+     "titre": "Solidarité",
+     "youtube_id": "zC5tRNOxIwE",
+     "duree_secondes": 1434,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 274 - Solidarité"
+    },
+    {
+     "saison": 1,
+     "numero": 275,
+     "titre": "Les étoiles montantes",
+     "youtube_id": "ZUpWSgNbk5o",
+     "duree_secondes": 1464,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 275 - Les étoiles montantes"
+    },
+    {
+     "saison": 1,
+     "numero": 276,
+     "titre": "Tous les moyens",
+     "youtube_id": "EhrZKYNz8UA",
+     "duree_secondes": 1437,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 276 - Tous les moyens"
+    },
+    {
+     "saison": 1,
+     "numero": 277,
+     "titre": "Faux départ",
+     "youtube_id": "lwuUQ2h48xI",
+     "duree_secondes": 1419,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 277 - Faux départ"
+    },
+    {
+     "saison": 1,
+     "numero": 278,
+     "titre": "Traquenard",
+     "youtube_id": "HGHPOBFhceM",
+     "duree_secondes": 1445,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 278 - Traquenard"
+    },
+    {
+     "saison": 1,
+     "numero": 279,
+     "titre": "Copains de régiment",
+     "youtube_id": "Od2DgDTo_-g",
+     "duree_secondes": 1418,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 279 - Copains de régiment"
+    },
+    {
+     "saison": 1,
+     "numero": 280,
+     "titre": "Une Mamie d'amour",
+     "youtube_id": "Ntuy5fiFfmE",
+     "duree_secondes": 1433,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 280 - Une Mamie d'amour"
+    },
+    {
+     "saison": 1,
+     "numero": 281,
+     "titre": "Période d'essai",
+     "youtube_id": "5l3pOOyVyOk",
+     "duree_secondes": 1416,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 281 - Période d'essai"
+    },
+    {
+     "saison": 1,
+     "numero": 282,
+     "titre": "Malentendu",
+     "youtube_id": "u8ulcg3xuXs",
+     "duree_secondes": 1488,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 282 - Malentendu"
+    },
+    {
+     "saison": 1,
+     "numero": 283,
+     "titre": "Le grand meneur",
+     "youtube_id": "AXZSpY6kSWs",
+     "duree_secondes": 1501,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 283 - Le grand meneur"
+    },
+    {
+     "saison": 1,
+     "numero": 284,
+     "titre": "La révélation",
+     "youtube_id": "MDjoqyV3VK0",
+     "duree_secondes": 1482,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 284 - La révélation"
+    },
+    {
+     "saison": 1,
+     "numero": 285,
+     "titre": "L'infidèle",
+     "youtube_id": "QVIkYsUsjLo",
+     "duree_secondes": 1444,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 285 - L'infidèle"
+    },
+    {
+     "saison": 1,
+     "numero": 286,
+     "titre": "Le plan jalousie",
+     "youtube_id": "j7RRu54UuyE",
+     "duree_secondes": 1402,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 286 - Le plan jalousie"
+    },
+    {
+     "saison": 1,
+     "numero": 287,
+     "titre": "Revu et corrigé",
+     "youtube_id": "8ZvHii7__vg",
+     "duree_secondes": 1484,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 287 - Revu et corrigé"
+    },
+    {
+     "saison": 1,
+     "numero": 288,
+     "titre": "Question de look",
+     "youtube_id": "wgo62AHWnnk",
+     "duree_secondes": 1495,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 288 - Question de look"
+    },
+    {
+     "saison": 1,
+     "numero": 289,
+     "titre": "Dans la cage",
+     "youtube_id": "TlpLKvN4CuY",
+     "duree_secondes": 1387,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 289 - Dans la cage"
+    },
+    {
+     "saison": 1,
+     "numero": 290,
+     "titre": "Double sacrifice",
+     "youtube_id": "47xFSL6FVQY",
+     "duree_secondes": 1423,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 290 - Double sacrifice"
+    },
+    {
+     "saison": 1,
+     "numero": 291,
+     "titre": "Zizanie",
+     "youtube_id": "r3zKWiAsPI0",
+     "duree_secondes": 1467,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 291 - Zizanie"
+    },
+    {
+     "saison": 1,
+     "numero": 292,
+     "titre": "Sac à malices",
+     "youtube_id": "9TXG7oectVM",
+     "duree_secondes": 1495,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 292 - Sac à malices"
+    },
+    {
+     "saison": 1,
+     "numero": 293,
+     "titre": "A coeur ouvert",
+     "youtube_id": "iZEsp10aSAI",
+     "duree_secondes": 1412,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 293 - A coeur ouvert"
+    },
+    {
+     "saison": 1,
+     "numero": 294,
+     "titre": "Toi et moi",
+     "youtube_id": "mmYa9QVxOBI",
+     "duree_secondes": 1468,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 294 - Toi et moi"
+    },
+    {
+     "saison": 1,
+     "numero": 295,
+     "titre": "Fruits et légumes",
+     "youtube_id": "coIX05NlTiU",
+     "duree_secondes": 1327,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 295 - Fruits et légumes"
+    },
+    {
+     "saison": 1,
+     "numero": 296,
+     "titre": "Drame",
+     "youtube_id": "U8l35WXPGMg",
+     "duree_secondes": 1316,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 296 - Drame"
+    },
+    {
+     "saison": 1,
+     "numero": 297,
+     "titre": "La prise de la forteresse",
+     "youtube_id": "wvfCnjjxjxk",
+     "duree_secondes": 1382,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 297 - La prise de la forteresse"
+    },
+    {
+     "saison": 1,
+     "numero": 298,
+     "titre": "Jeu de cartes",
+     "youtube_id": "wmFgjycbaG0",
+     "duree_secondes": 1473,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 298 - Jeu de cartes"
+    },
+    {
+     "saison": 1,
+     "numero": 299,
+     "titre": "Les copains",
+     "youtube_id": "S59xXabpZjs",
+     "duree_secondes": 1480,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 299 - Les copains"
+    },
+    {
+     "saison": 1,
+     "numero": 300,
+     "titre": "Déménagement prématuré",
+     "youtube_id": "-ye9rfxKXpQ",
+     "duree_secondes": 1429,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 300 - Déménagement prématuré"
+    },
+    {
+     "saison": 1,
+     "numero": 301,
+     "titre": "A la porte",
+     "youtube_id": "OK1puU1qLZ8",
+     "duree_secondes": 1447,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 301 - A la porte"
+    },
+    {
+     "saison": 1,
+     "numero": 302,
+     "titre": "L'emménagement",
+     "youtube_id": "6tkRr10dASc",
+     "duree_secondes": 1467,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 302 - L'emménagement"
+    },
+    {
+     "saison": 1,
+     "numero": 303,
+     "titre": "Double surprise",
+     "youtube_id": "BQu9R0rV83w",
+     "duree_secondes": 1456,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 303 - Double surprise"
+    },
+    {
+     "saison": 1,
+     "numero": 304,
+     "titre": "Le ronfleur",
+     "youtube_id": "irzb37qhE2c",
+     "duree_secondes": 1491,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 304 - Le ronfleur"
+    },
+    {
+     "saison": 1,
+     "numero": 305,
+     "titre": "Question de tactique",
+     "youtube_id": "X-SYwCqptD4",
+     "duree_secondes": 1488,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 305 - Question de tactique"
+    },
+    {
+     "saison": 1,
+     "numero": 306,
+     "titre": "La poursuite",
+     "youtube_id": "Y9BEE4vbdq4",
+     "duree_secondes": 1407,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 306 - La poursuite"
+    },
+    {
+     "saison": 1,
+     "numero": 307,
+     "titre": "Leçon de skate",
+     "youtube_id": "0l93dp9XfYM",
+     "duree_secondes": 1472,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 307 - Leçon de skate"
+    },
+    {
+     "saison": 1,
+     "numero": 308,
+     "titre": "De vrais copains",
+     "youtube_id": "ML12ezjO1TM",
+     "duree_secondes": 1479,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 308 - De vrais copains"
+    },
+    {
+     "saison": 1,
+     "numero": 309,
+     "titre": "Ingratitude",
+     "youtube_id": "50MXW9zmvx0",
+     "duree_secondes": 1394,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 309 - Ingratitude"
+    },
+    {
+     "saison": 1,
+     "numero": 310,
+     "titre": "Le correspondant",
+     "youtube_id": "DXkKC9HFydM",
+     "duree_secondes": 1427,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 310 - Le correspondant"
+    },
+    {
+     "saison": 1,
+     "numero": 311,
+     "titre": "Dans les choux",
+     "youtube_id": "P_XSfmEe_f0",
+     "duree_secondes": 1413,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 311 - Dans les choux"
+    },
+    {
+     "saison": 1,
+     "numero": 312,
+     "titre": "Conflits",
+     "youtube_id": "nysWeNHFlqg",
+     "duree_secondes": 1394,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 312 - Conflits"
+    },
+    {
+     "saison": 1,
+     "numero": 313,
+     "titre": "Eperdue",
+     "youtube_id": "X_5r1DqVgX4",
+     "duree_secondes": 1451,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 313 - Eperdue"
+    },
+    {
+     "saison": 1,
+     "numero": 314,
+     "titre": "Désespoir",
+     "youtube_id": "uBl-Tlwj06o",
+     "duree_secondes": 1454,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 314 - Désespoir"
+    },
+    {
+     "saison": 1,
+     "numero": 315,
+     "titre": "L'intérim",
+     "youtube_id": "5VgmIl_LVPg",
+     "duree_secondes": 1427,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 315 - L'intérim"
+    },
+    {
+     "saison": 1,
+     "numero": 316,
+     "titre": "Tant qu'il y a de l'amour",
+     "youtube_id": "j5XX8oO0zNU",
+     "duree_secondes": 1422,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 316 - Tant qu'il y a de l'amour"
+    },
+    {
+     "saison": 1,
+     "numero": 317,
+     "titre": "Le jour du bac",
+     "youtube_id": "n9sBTY7bGwg",
+     "duree_secondes": 1393,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 317 - Le jour du bac"
+    },
+    {
+     "saison": 1,
+     "numero": 318,
+     "titre": "La fin de l'épreuve",
+     "youtube_id": "GgyCdcBgZcQ",
+     "duree_secondes": 1339,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Premiers baisers - Épisode 318 - La fin de l'épreuve | Dernier épisode"
+    }
+   ],
+   "affiche": "affiches/iX5BpK2qopc.webp",
+   "vignette": "vignettes/iX5BpK2qopc.webp"
+  }
+ ]
+}

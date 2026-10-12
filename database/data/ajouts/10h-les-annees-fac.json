@@ -1,0 +1,1781 @@
+{
+ "genere_le": "2026-10-11",
+ "programmes": [
+  {
+   "slug": "les-annees-fac",
+   "titre": "Les Années fac",
+   "format": "serie",
+   "univers": "series",
+   "genres": [
+    "sitcoms-90",
+    "romance",
+    "comedie"
+   ],
+   "tout_public": true,
+   "youtube_id": null,
+   "chaine_nom": "Génération Sitcoms",
+   "chaine_id": "UCVVubp6nL6vP8b6ls-Ybk-g",
+   "chaine_url": "https://www.youtube.com/channel/UCVVubp6nL6vP8b6ls-Ybk-g",
+   "ayant_droit": "AB Productions (chaîne officielle certifiée Génération Sitcoms)",
+   "duree_secondes": 1434,
+   "annee": 1995,
+   "description": "La suite de Premiers baisers : Justine et ses amis découvrent la vie d'étudiants. La série intégrale, 194 épisodes.",
+   "disponible_jusqu_au": null,
+   "publie_le": null,
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "Installation",
+     "youtube_id": "nZjsh9yaRz4",
+     "duree_secondes": 1436,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Installation | EPISODE 01",
+     "vignette": "vignettes/nZjsh9yaRz4.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "Visite de Suède",
+     "youtube_id": "-qzTwerM62w",
+     "duree_secondes": 1479,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Visite de Suède | EPISODE 02"
+    },
+    {
+     "saison": 1,
+     "numero": 3,
+     "titre": "Au travail... !",
+     "youtube_id": "xzxieY8ISQQ",
+     "duree_secondes": 1528,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Au travail... ! | EPISODE 03"
+    },
+    {
+     "saison": 1,
+     "numero": 4,
+     "titre": "La dèche",
+     "youtube_id": "KRkge8KYj6M",
+     "duree_secondes": 1513,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - La dèche | EPISODE 04"
+    },
+    {
+     "saison": 1,
+     "numero": 5,
+     "titre": "En avant toute",
+     "youtube_id": "AKk2_htnfk4",
+     "duree_secondes": 1484,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - En avant toute | EPISODE 05"
+    },
+    {
+     "saison": 1,
+     "numero": 6,
+     "titre": "Dans le doute...",
+     "youtube_id": "qY5XR29b9Sg",
+     "duree_secondes": 1484,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Dans le doute... | EPISODE 06"
+    },
+    {
+     "saison": 1,
+     "numero": 7,
+     "titre": "Message radio",
+     "youtube_id": "Fq4Jzlkcp2U",
+     "duree_secondes": 1388,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Message radio | EPISODE 07"
+    },
+    {
+     "saison": 1,
+     "numero": 8,
+     "titre": "La gloire",
+     "youtube_id": "P3XpGWF1fGY",
+     "duree_secondes": 1465,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - La gloire | EPISODE 08"
+    },
+    {
+     "saison": 1,
+     "numero": 9,
+     "titre": "Embauche",
+     "youtube_id": "tKe3SmGSjjc",
+     "duree_secondes": 1465,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Embauche | EPISODE 09"
+    },
+    {
+     "saison": 1,
+     "numero": 10,
+     "titre": "Rien à l'horizon",
+     "youtube_id": "s5HLs_ZFrlQ",
+     "duree_secondes": 1376,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Rien à l'horizon | EPISODE 10"
+    },
+    {
+     "saison": 1,
+     "numero": 11,
+     "titre": "Une bonne journée",
+     "youtube_id": "N9Bx-oxDh7U",
+     "duree_secondes": 1488,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Une bonne journée | EPISODE 11"
+    },
+    {
+     "saison": 1,
+     "numero": 12,
+     "titre": "Belle Angélique",
+     "youtube_id": "ijaj1OgZ5vc",
+     "duree_secondes": 1489,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Belle Angélique | EPISODE 12"
+    },
+    {
+     "saison": 1,
+     "numero": 13,
+     "titre": "Mission spéciale",
+     "youtube_id": "ObsYMwtzfCc",
+     "duree_secondes": 1459,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Mission spéciale | EPISODE 13"
+    },
+    {
+     "saison": 1,
+     "numero": 14,
+     "titre": "La crise",
+     "youtube_id": "_KAR7BOinQU",
+     "duree_secondes": 1422,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - La crise | EPISODE 14"
+    },
+    {
+     "saison": 1,
+     "numero": 15,
+     "titre": "Problèmes",
+     "youtube_id": "eKIgX_Og-QA",
+     "duree_secondes": 1447,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Problèmes | EPISODE 15"
+    },
+    {
+     "saison": 1,
+     "numero": 16,
+     "titre": "Les amours malheureuses",
+     "youtube_id": "zW5UUfC-fzE",
+     "duree_secondes": 1498,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Les amours malheureuses | EPISODE 16"
+    },
+    {
+     "saison": 1,
+     "numero": 17,
+     "titre": "Le rêve",
+     "youtube_id": "3o6sttRK2HQ",
+     "duree_secondes": 1351,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Le rêve | EPISODE 17"
+    },
+    {
+     "saison": 1,
+     "numero": 18,
+     "titre": "Dédicaces",
+     "youtube_id": "UNMu6aLOOas",
+     "duree_secondes": 1465,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Dédicaces | EPISODE 18"
+    },
+    {
+     "saison": 1,
+     "numero": 19,
+     "titre": "Faux semblant",
+     "youtube_id": "Hc4OyWQWaQQ",
+     "duree_secondes": 1388,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Faux semblant | EPISODE 19"
+    },
+    {
+     "saison": 1,
+     "numero": 20,
+     "titre": "Le coup du placard",
+     "youtube_id": "I_SJk69CSO0",
+     "duree_secondes": 1494,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Le coup du placard | EPISODE 20"
+    },
+    {
+     "saison": 1,
+     "numero": 21,
+     "titre": "Jalousie",
+     "youtube_id": "4_-Ad988sC8",
+     "duree_secondes": 1415,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Jalousie | EPISODE 21"
+    },
+    {
+     "saison": 1,
+     "numero": 22,
+     "titre": "Laquelle des deux ?",
+     "youtube_id": "wyBdn8ZEEcw",
+     "duree_secondes": 1421,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Laquelle des deux ? | EPISODE 22"
+    },
+    {
+     "saison": 1,
+     "numero": 23,
+     "titre": "Miss baiser",
+     "youtube_id": "YDpf3wMQZvY",
+     "duree_secondes": 1518,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Miss baiser | EPISODE 23"
+    },
+    {
+     "saison": 1,
+     "numero": 24,
+     "titre": "Un copain attachant",
+     "youtube_id": "3dg-vgdRhd0",
+     "duree_secondes": 1407,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Un copain attachant | EPISODE 24"
+    },
+    {
+     "saison": 1,
+     "numero": 25,
+     "titre": "L'amoureux",
+     "youtube_id": "A_6-_KaOtcU",
+     "duree_secondes": 1503,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - L'amoureux | EPISODE 25"
+    },
+    {
+     "saison": 1,
+     "numero": 26,
+     "titre": "Le ramage et le plumage",
+     "youtube_id": "EpjgDjCCKrI",
+     "duree_secondes": 1476,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Le ramage et le plumage | EPISODE 26"
+    },
+    {
+     "saison": 1,
+     "numero": 27,
+     "titre": "Le producteur (part1)",
+     "youtube_id": "FlPmZd21FnY",
+     "duree_secondes": 1377,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Le producteur (part1) | EPISODE 27"
+    },
+    {
+     "saison": 1,
+     "numero": 28,
+     "titre": "Le producteur (part2)",
+     "youtube_id": "qWWKES53UYU",
+     "duree_secondes": 1478,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Le producteur (part2) | EPISODE 28"
+    },
+    {
+     "saison": 1,
+     "numero": 29,
+     "titre": "Love for ever",
+     "youtube_id": "oeidgg0-YL0",
+     "duree_secondes": 1474,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Love for ever | EPISODE 29"
+    },
+    {
+     "saison": 1,
+     "numero": 30,
+     "titre": "La tentation",
+     "youtube_id": "g7RAfyeWQi8",
+     "duree_secondes": 1442,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - La tentation | EPISODE 30"
+    },
+    {
+     "saison": 1,
+     "numero": 31,
+     "titre": "La rupture",
+     "youtube_id": "4dRDvNmRlHc",
+     "duree_secondes": 1497,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - La rupture | EPISODE 31"
+    },
+    {
+     "saison": 1,
+     "numero": 32,
+     "titre": "L'impossible retour",
+     "youtube_id": "Zad6doHKHQw",
+     "duree_secondes": 1439,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - L'impossible retour | EPISODE 32"
+    },
+    {
+     "saison": 1,
+     "numero": 33,
+     "titre": "L'anniversaire",
+     "youtube_id": "mOYR950jgo8",
+     "duree_secondes": 1459,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - L'anniversaire | EPISODE 33"
+    },
+    {
+     "saison": 1,
+     "numero": 34,
+     "titre": "Une maîtresse femme",
+     "youtube_id": "dhj2upbpdOc",
+     "duree_secondes": 1444,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Une maîtresse femme | EPISODE 34"
+    },
+    {
+     "saison": 1,
+     "numero": 35,
+     "titre": "La croisette",
+     "youtube_id": "Ltyzc1cT-i0",
+     "duree_secondes": 1419,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - La croisette | EPISODE 35"
+    },
+    {
+     "saison": 1,
+     "numero": 36,
+     "titre": "Les filles s'amusent",
+     "youtube_id": "e1wBKOJljYE",
+     "duree_secondes": 1464,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Les filles s'amusent | EPISODE 36"
+    },
+    {
+     "saison": 1,
+     "numero": 37,
+     "titre": "Le milliardaire imaginaire",
+     "youtube_id": "ncbTyL7cRYc",
+     "duree_secondes": 1467,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Le milliardaire imaginaire | EPISODE 37"
+    },
+    {
+     "saison": 1,
+     "numero": 38,
+     "titre": "L'infidèle",
+     "youtube_id": "u1tFm2PRTKc",
+     "duree_secondes": 1435,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - L'infidèle | EPISODE 38"
+    },
+    {
+     "saison": 1,
+     "numero": 39,
+     "titre": "L'amitié brisée",
+     "youtube_id": "uiexJst-AfM",
+     "duree_secondes": 1447,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - L'amitié brisée | EPISODE 39"
+    },
+    {
+     "saison": 1,
+     "numero": 40,
+     "titre": "La réconciliation",
+     "youtube_id": "PuIR-06JrTk",
+     "duree_secondes": 1444,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - La réconciliation | EPISODE 40"
+    },
+    {
+     "saison": 1,
+     "numero": 41,
+     "titre": "La méprise",
+     "youtube_id": "ZMfutVQhh6g",
+     "duree_secondes": 1438,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - La méprise | EPISODE 41"
+    },
+    {
+     "saison": 1,
+     "numero": 42,
+     "titre": "Un nouveau couple",
+     "youtube_id": "RPdQhgg4PGc",
+     "duree_secondes": 1496,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Un nouveau couple | EPISODE 42"
+    },
+    {
+     "saison": 1,
+     "numero": 43,
+     "titre": "Le secret",
+     "youtube_id": "1UfthXdPqII",
+     "duree_secondes": 1425,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Le secret | EPISODE 43"
+    },
+    {
+     "saison": 1,
+     "numero": 44,
+     "titre": "Soupçons",
+     "youtube_id": "mn2Nds93Ja4",
+     "duree_secondes": 1431,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Soupçons | EPISODE 44"
+    },
+    {
+     "saison": 1,
+     "numero": 45,
+     "titre": "Mission délicate",
+     "youtube_id": "lQfQprVSRZo",
+     "duree_secondes": 1466,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Mission délicate | EPISODE 45"
+    },
+    {
+     "saison": 1,
+     "numero": 46,
+     "titre": "La reconquête",
+     "youtube_id": "rygzpcM1ZQE",
+     "duree_secondes": 1458,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - La reconquête | EPISODE 46"
+    },
+    {
+     "saison": 1,
+     "numero": 47,
+     "titre": "Quiproquo",
+     "youtube_id": "EotgTFJb4aM",
+     "duree_secondes": 1493,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Quiproquo | EPISODE 47"
+    },
+    {
+     "saison": 1,
+     "numero": 48,
+     "titre": "L'enquête",
+     "youtube_id": "vgpM6GroSSw",
+     "duree_secondes": 1399,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - L'enquête | EPISODE 48"
+    },
+    {
+     "saison": 1,
+     "numero": 49,
+     "titre": "Les santiags",
+     "youtube_id": "YyqlV7YAqCw",
+     "duree_secondes": 1412,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Les santiags | EPISODE 49"
+    },
+    {
+     "saison": 1,
+     "numero": 50,
+     "titre": "A double tranchant",
+     "youtube_id": "kwlB33eUJds",
+     "duree_secondes": 1479,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - A double tranchant | EPISODE 50"
+    },
+    {
+     "saison": 1,
+     "numero": 51,
+     "titre": "Lutte fratricide",
+     "youtube_id": "WWkoTBU9keo",
+     "duree_secondes": 1433,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Lutte fratricide | EPISODE 51"
+    },
+    {
+     "saison": 1,
+     "numero": 52,
+     "titre": "Dilemme",
+     "youtube_id": "WjXrdNoe8ro",
+     "duree_secondes": 1392,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Dilemme | EPISODE 52"
+    },
+    {
+     "saison": 1,
+     "numero": 53,
+     "titre": "Décisions amères",
+     "youtube_id": "NCQN5JiYnlY",
+     "duree_secondes": 1498,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Décisions amères | EPISODE 53"
+    },
+    {
+     "saison": 1,
+     "numero": 54,
+     "titre": "En toute simplicité",
+     "youtube_id": "y8qYHL2FC0U",
+     "duree_secondes": 1478,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - En toute simplicité | EPISODE 54"
+    },
+    {
+     "saison": 1,
+     "numero": 55,
+     "titre": "Miss Alfredo",
+     "youtube_id": "WzUOqdtwyL4",
+     "duree_secondes": 1462,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Miss Alfredo | EPISODE 55"
+    },
+    {
+     "saison": 1,
+     "numero": 56,
+     "titre": "Faux départ",
+     "youtube_id": "XtbpvCp5kM4",
+     "duree_secondes": 1467,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Faux départ | EPISODE 56"
+    },
+    {
+     "saison": 1,
+     "numero": 57,
+     "titre": "Tout le monde est content",
+     "youtube_id": "tCKYGMjUx1o",
+     "duree_secondes": 1467,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Tout le monde est content | EPISODE 57"
+    },
+    {
+     "saison": 1,
+     "numero": 58,
+     "titre": "Heureuse rencontre",
+     "youtube_id": "iNumaeefG5E",
+     "duree_secondes": 1422,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Heureuse rencontre | EPISODE 58"
+    },
+    {
+     "saison": 1,
+     "numero": 59,
+     "titre": "Double jeu...",
+     "youtube_id": "Arc9CmZh7Co",
+     "duree_secondes": 1410,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Double jeu... | EPISODE 59"
+    },
+    {
+     "saison": 1,
+     "numero": 60,
+     "titre": "Chassé-croisé",
+     "youtube_id": "kIRm1E4AZMI",
+     "duree_secondes": 1471,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Chassé-croisé | EPISODE 60"
+    },
+    {
+     "saison": 1,
+     "numero": 61,
+     "titre": "Coup mortel",
+     "youtube_id": "-bd7upr7ZOE",
+     "duree_secondes": 1356,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Coup mortel | EPISODE 61"
+    },
+    {
+     "saison": 1,
+     "numero": 62,
+     "titre": "L'épée de Damoclès",
+     "youtube_id": "MvDUnPlbzNE",
+     "duree_secondes": 1389,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - L'épée de Damoclès | EPISODE 62"
+    },
+    {
+     "saison": 1,
+     "numero": 63,
+     "titre": "Flashs",
+     "youtube_id": "BTt3BKk3u8c",
+     "duree_secondes": 1419,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Flashs | EPISODE 63"
+    },
+    {
+     "saison": 1,
+     "numero": 64,
+     "titre": "Pris en sandwich",
+     "youtube_id": "gDD5vK20EqE",
+     "duree_secondes": 1419,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Pris en sandwich | EPISODE 64"
+    },
+    {
+     "saison": 1,
+     "numero": 65,
+     "titre": "Mise à pied",
+     "youtube_id": "2RnQmddqU2Q",
+     "duree_secondes": 1476,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Mise à pied | EPISODE 65"
+    },
+    {
+     "saison": 1,
+     "numero": 66,
+     "titre": "In extremis",
+     "youtube_id": "s62OY7XsI3s",
+     "duree_secondes": 1350,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - In extremis | EPISODE 66"
+    },
+    {
+     "saison": 1,
+     "numero": 67,
+     "titre": "Petite surprise",
+     "youtube_id": "k2wuKyYjxjc",
+     "duree_secondes": 1412,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Petite surprise | EPISODE 67"
+    },
+    {
+     "saison": 1,
+     "numero": 68,
+     "titre": "Transformation",
+     "youtube_id": "qdek7VXtQ2A",
+     "duree_secondes": 1476,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Transformation | EPISODE 68"
+    },
+    {
+     "saison": 1,
+     "numero": 69,
+     "titre": "Sans plis",
+     "youtube_id": "rXzmtXS8BZ0",
+     "duree_secondes": 1432,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Sans plis | EPISODE 69"
+    },
+    {
+     "saison": 1,
+     "numero": 70,
+     "titre": "La sortie",
+     "youtube_id": "ZGf7B860O60",
+     "duree_secondes": 1482,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - La sortie | EPISODE 70"
+    },
+    {
+     "saison": 1,
+     "numero": 71,
+     "titre": "La charmeuse de serpent",
+     "youtube_id": "exnejBxtYw8",
+     "duree_secondes": 1471,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - La charmeuse de serpent | EPISODE 71"
+    },
+    {
+     "saison": 1,
+     "numero": 72,
+     "titre": "L'aveu",
+     "youtube_id": "i8dF5_4Fbd8",
+     "duree_secondes": 1340,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - L'aveu | EPISODE 72"
+    },
+    {
+     "saison": 1,
+     "numero": 73,
+     "titre": "Quoi de neuf ?",
+     "youtube_id": "TBuW-U9Ss2c",
+     "duree_secondes": 1457,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Quoi de neuf ? | EPISODE 73"
+    },
+    {
+     "saison": 1,
+     "numero": 74,
+     "titre": "Au bord du gouffre",
+     "youtube_id": "-Mb-132OvBQ",
+     "duree_secondes": 1456,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Au bord du gouffre | EPISODE 74"
+    },
+    {
+     "saison": 1,
+     "numero": 75,
+     "titre": "Chasse à l'homme",
+     "youtube_id": "gV6ZRJZKnhE",
+     "duree_secondes": 1384,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Chasse à l'homme | EPISODE 75"
+    },
+    {
+     "saison": 1,
+     "numero": 76,
+     "titre": "Le farfelu",
+     "youtube_id": "v7qmZcSiLZc",
+     "duree_secondes": 1427,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Le farfelu | EPISODE 76"
+    },
+    {
+     "saison": 1,
+     "numero": 77,
+     "titre": "A la charge",
+     "youtube_id": "DQaDCRP9I1Y",
+     "duree_secondes": 1425,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - A la charge | EPISODE 77"
+    },
+    {
+     "saison": 1,
+     "numero": 78,
+     "titre": "Le prince charmant",
+     "youtube_id": "AQrIqyIeIsA",
+     "duree_secondes": 1424,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Le prince charmant | EPISODE 78"
+    },
+    {
+     "saison": 1,
+     "numero": 79,
+     "titre": "Le grand doute",
+     "youtube_id": "LsKd7-3Q_Ok",
+     "duree_secondes": 1429,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Le grand doute | EPISODE 79"
+    },
+    {
+     "saison": 1,
+     "numero": 80,
+     "titre": "Le pardon",
+     "youtube_id": "_OJ4uM9ozkU",
+     "duree_secondes": 1393,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Le pardon | EPISODE 80"
+    },
+    {
+     "saison": 1,
+     "numero": 81,
+     "titre": "Le mystère",
+     "youtube_id": "2u7ve1hxrG8",
+     "duree_secondes": 1455,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Le mystère | EPISODE 81"
+    },
+    {
+     "saison": 1,
+     "numero": 82,
+     "titre": "Chute libre",
+     "youtube_id": "aAwT9xLWZJ0",
+     "duree_secondes": 1378,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Chute libre | EPISODE 82"
+    },
+    {
+     "saison": 1,
+     "numero": 83,
+     "titre": "Dans le canal",
+     "youtube_id": "sbe_t_AspPg",
+     "duree_secondes": 1434,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Dans le canal | EPISODE 83"
+    },
+    {
+     "saison": 1,
+     "numero": 84,
+     "titre": "Question d'âge",
+     "youtube_id": "vCbEU9QtWxM",
+     "duree_secondes": 1271,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Question d'âge | EPISODE 84"
+    },
+    {
+     "saison": 1,
+     "numero": 85,
+     "titre": "La preuve d'amour",
+     "youtube_id": "bkRSLoe6QDM",
+     "duree_secondes": 1466,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - La preuve d'amour | EPISODE 85"
+    },
+    {
+     "saison": 1,
+     "numero": 86,
+     "titre": "De l'orage dans l'air",
+     "youtube_id": "24rEwsmDt18",
+     "duree_secondes": 1411,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - De l'orage dans l'air | EPISODE 86"
+    },
+    {
+     "saison": 1,
+     "numero": 87,
+     "titre": "La solution",
+     "youtube_id": "vyyIHW_9rgI",
+     "duree_secondes": 1440,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - La solution | EPISODE 87"
+    },
+    {
+     "saison": 1,
+     "numero": 88,
+     "titre": "Grand coeur",
+     "youtube_id": "OhV6bpVbIQ4",
+     "duree_secondes": 1447,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Grand coeur | EPISODE 88"
+    },
+    {
+     "saison": 1,
+     "numero": 89,
+     "titre": "Un choix difficile",
+     "youtube_id": "OzSVymRqDo8",
+     "duree_secondes": 1401,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Un choix difficile | EPISODE 89"
+    },
+    {
+     "saison": 1,
+     "numero": 90,
+     "titre": "Ainsi font font font",
+     "youtube_id": "7c798FdJ-4I",
+     "duree_secondes": 1428,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Ainsi font font font | EPISODE 90"
+    },
+    {
+     "saison": 1,
+     "numero": 91,
+     "titre": "Histoire de...",
+     "youtube_id": "WxF6k-Shjvo",
+     "duree_secondes": 1387,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Histoire de... | EPISODE 91"
+    },
+    {
+     "saison": 1,
+     "numero": 92,
+     "titre": "Enervement",
+     "youtube_id": "ODAlGUZdWEQ",
+     "duree_secondes": 1453,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Enervement | EPISODE 92"
+    },
+    {
+     "saison": 1,
+     "numero": 93,
+     "titre": "Au bout de la nuit",
+     "youtube_id": "C6pFQjFEtY0",
+     "duree_secondes": 1396,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Au bout de la nuit | EPISODE 93"
+    },
+    {
+     "saison": 1,
+     "numero": 94,
+     "titre": "Moment de vérité",
+     "youtube_id": "wgvltw_pEL8",
+     "duree_secondes": 1488,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Moment de vérité | EPISODE 94"
+    },
+    {
+     "saison": 1,
+     "numero": 95,
+     "titre": "Surpopulation",
+     "youtube_id": "PYl-L4i_y9Q",
+     "duree_secondes": 1435,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Surpopulation | EPISODE 95"
+    },
+    {
+     "saison": 1,
+     "numero": 96,
+     "titre": "Un anniversaire orageux",
+     "youtube_id": "1GQqlrgxIGE",
+     "duree_secondes": 1502,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Un anniversaire orageux | EPISODE 96"
+    },
+    {
+     "saison": 1,
+     "numero": 97,
+     "titre": "Un lendemain qui chante",
+     "youtube_id": "I68g5yJz4m0",
+     "duree_secondes": 1485,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Un lendemain qui chante | EPISODE 97"
+    },
+    {
+     "saison": 1,
+     "numero": 98,
+     "titre": "Les bonnes manières",
+     "youtube_id": "hEOZ6Lc_Ec4",
+     "duree_secondes": 1474,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Les bonnes manières | EPISODE 98"
+    },
+    {
+     "saison": 1,
+     "numero": 99,
+     "titre": "Tous les coups sont permis",
+     "youtube_id": "ey0z2a8lyGo",
+     "duree_secondes": 1451,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Tous les coups sont permis | EPISODE 99"
+    },
+    {
+     "saison": 1,
+     "numero": 100,
+     "titre": "Chacun chez soi",
+     "youtube_id": "auXb7D14bNs",
+     "duree_secondes": 1435,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Chacun chez soi | EPISODE 100"
+    },
+    {
+     "saison": 1,
+     "numero": 101,
+     "titre": "Le combat",
+     "youtube_id": "nBY7YmuKw3U",
+     "duree_secondes": 1401,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Le combat | EPISODE 101"
+    },
+    {
+     "saison": 1,
+     "numero": 102,
+     "titre": "La roue tourne",
+     "youtube_id": "0uIX111vJvg",
+     "duree_secondes": 1343,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - La roue tourne | EPISODE 102"
+    },
+    {
+     "saison": 1,
+     "numero": 103,
+     "titre": "Le loup dans la bergerie",
+     "youtube_id": "0wwkTC_BWFY",
+     "duree_secondes": 1422,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Le loup dans la bergerie | EPISODE 103"
+    },
+    {
+     "saison": 1,
+     "numero": 104,
+     "titre": "Un départ équivoque",
+     "youtube_id": "f8wbzRXBVLs",
+     "duree_secondes": 1551,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Un départ équivoque | EPISODE 104"
+    },
+    {
+     "saison": 1,
+     "numero": 105,
+     "titre": "Un escabeau pour deux",
+     "youtube_id": "kdjnT8Vv2yI",
+     "duree_secondes": 1310,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Un escabeau pour deux | EPISODE 105"
+    },
+    {
+     "saison": 1,
+     "numero": 106,
+     "titre": "Blanche comme neige",
+     "youtube_id": "ICH3DCCMJMw",
+     "duree_secondes": 1430,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Blanche comme neige | EPISODE 106"
+    },
+    {
+     "saison": 1,
+     "numero": 107,
+     "titre": "Une poussière dans l'œil",
+     "youtube_id": "zxoxI8Jc49w",
+     "duree_secondes": 1459,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Une poussière dans l'œil | EPISODE 107"
+    },
+    {
+     "saison": 1,
+     "numero": 108,
+     "titre": "Dur à avaler",
+     "youtube_id": "7aBc5tucKL0",
+     "duree_secondes": 1409,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Dur à avaler | EPISODE 108"
+    },
+    {
+     "saison": 1,
+     "numero": 109,
+     "titre": "Un rendez-vous d'affaire",
+     "youtube_id": "BANZFVOUBSY",
+     "duree_secondes": 1444,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Un rendez-vous d'affaire | EPISODE 109"
+    },
+    {
+     "saison": 1,
+     "numero": 110,
+     "titre": "Un poing vengeur",
+     "youtube_id": "erHlsi4KQpE",
+     "duree_secondes": 1506,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Un poing vengeur | EPISODE 110"
+    },
+    {
+     "saison": 1,
+     "numero": 111,
+     "titre": "Un tantinet jaloux",
+     "youtube_id": "jZFKmDpXldo",
+     "duree_secondes": 1423,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Un tantinet jaloux | EPISODE 111"
+    },
+    {
+     "saison": 1,
+     "numero": 112,
+     "titre": "Et si on partait",
+     "youtube_id": "JIZTlBK1qSg",
+     "duree_secondes": 1425,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Et si on partait | EPISODE 112"
+    },
+    {
+     "saison": 1,
+     "numero": 113,
+     "titre": "Un retour de week-end",
+     "youtube_id": "DlNvSEaZCe0",
+     "duree_secondes": 1469,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Un retour de week-end | EPISODE 113"
+    },
+    {
+     "saison": 1,
+     "numero": 114,
+     "titre": "Sermon",
+     "youtube_id": "1-vaP6ofh90",
+     "duree_secondes": 1452,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Sermon | EPISODE 114"
+    },
+    {
+     "saison": 1,
+     "numero": 115,
+     "titre": "Flagrant délit",
+     "youtube_id": "Z-kugu_we7s",
+     "duree_secondes": 1403,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Flagrant délit | EPISODE 115"
+    },
+    {
+     "saison": 1,
+     "numero": 116,
+     "titre": "Solitude",
+     "youtube_id": "NUgIKC52neI",
+     "duree_secondes": 1429,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Solitude | EPISODE 116"
+    },
+    {
+     "saison": 1,
+     "numero": 117,
+     "titre": "L'air du large",
+     "youtube_id": "tsOiAV3SVeM",
+     "duree_secondes": 1498,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - L'air du large | EPISODE 117"
+    },
+    {
+     "saison": 1,
+     "numero": 118,
+     "titre": "Le permis de conduire",
+     "youtube_id": "7l7YE1IPI7U",
+     "duree_secondes": 1455,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Le permis de conduire | EPISODE 118"
+    },
+    {
+     "saison": 1,
+     "numero": 119,
+     "titre": "Pas d'erreur...",
+     "youtube_id": "c5_14XXcW30",
+     "duree_secondes": 1392,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Pas d'erreur... | EPISODE 119"
+    },
+    {
+     "saison": 1,
+     "numero": 120,
+     "titre": "Cruelle décision",
+     "youtube_id": "FlT2K67N5D0",
+     "duree_secondes": 1436,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Cruelle décision | EPISODE 120"
+    },
+    {
+     "saison": 1,
+     "numero": 121,
+     "titre": "A la porte...",
+     "youtube_id": "1du7rTXavSI",
+     "duree_secondes": 1416,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - A la porte... | EPISODE 121"
+    },
+    {
+     "saison": 1,
+     "numero": 122,
+     "titre": "Disparition",
+     "youtube_id": "SZuTRdChp4g",
+     "duree_secondes": 1497,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Disparition | EPISODE 122"
+    },
+    {
+     "saison": 1,
+     "numero": 123,
+     "titre": "Panne de coeur",
+     "youtube_id": "NnKim9TWI74",
+     "duree_secondes": 1489,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Panne de coeur | EPISODE 123"
+    },
+    {
+     "saison": 1,
+     "numero": 124,
+     "titre": "Réconciliation",
+     "youtube_id": "ObiGeRyuwnA",
+     "duree_secondes": 1426,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Réconciliation | EPISODE 124"
+    },
+    {
+     "saison": 1,
+     "numero": 125,
+     "titre": "Le remplaçant",
+     "youtube_id": "v_Qwte9TOpg",
+     "duree_secondes": 1380,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Le remplaçant | EPISODE 125"
+    },
+    {
+     "saison": 1,
+     "numero": 126,
+     "titre": "Un remède miracle",
+     "youtube_id": "q5T79Uc0HI4",
+     "duree_secondes": 1492,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Un remède miracle | EPISODE 126"
+    },
+    {
+     "saison": 1,
+     "numero": 127,
+     "titre": "Les moteurs grondent",
+     "youtube_id": "Nhk9rkfj84g",
+     "duree_secondes": 1382,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Les moteurs grondent | EPISODE 127"
+    },
+    {
+     "saison": 1,
+     "numero": 128,
+     "titre": "Que d'histoires !",
+     "youtube_id": "IFcavUIjefg",
+     "duree_secondes": 1422,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Que d'histoires ! | EPISODE 128"
+    },
+    {
+     "saison": 1,
+     "numero": 129,
+     "titre": "Les nerfs lachent",
+     "youtube_id": "qjGaLWqgRbw",
+     "duree_secondes": 1409,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Les nerfs lachent | EPISODE 129"
+    },
+    {
+     "saison": 1,
+     "numero": 130,
+     "titre": "Malade d'amour malgré lui",
+     "youtube_id": "tyDVRbb3hqM",
+     "duree_secondes": 1484,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Malade d'amour malgré lui | EPISODE 130"
+    },
+    {
+     "saison": 1,
+     "numero": 131,
+     "titre": "Et rien ne va plus",
+     "youtube_id": "zo7E8a7nZMo",
+     "duree_secondes": 1521,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Et rien ne va plus | EPISODE 131"
+    },
+    {
+     "saison": 1,
+     "numero": 132,
+     "titre": "Prison et champagne",
+     "youtube_id": "dgJ5fklsnEE",
+     "duree_secondes": 1349,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Prison et champagne | EPISODE 132"
+    },
+    {
+     "saison": 1,
+     "numero": 133,
+     "titre": "L'un après l'autre",
+     "youtube_id": "Rrkiloi7ekE",
+     "duree_secondes": 1499,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - L'un après l'autre | EPISODE 133"
+    },
+    {
+     "saison": 1,
+     "numero": 134,
+     "titre": "Chantage",
+     "youtube_id": "UB-Htio6IX8",
+     "duree_secondes": 1437,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Chantage | EPISODE 134"
+    },
+    {
+     "saison": 1,
+     "numero": 135,
+     "titre": "Merci qui ? Merci Justine",
+     "youtube_id": "9W3l_s6bxHQ",
+     "duree_secondes": 1472,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Merci qui ? Merci Justine | EPISODE 135"
+    },
+    {
+     "saison": 1,
+     "numero": 136,
+     "titre": "Une journée sans nuage",
+     "youtube_id": "8YRQupzEkiE",
+     "duree_secondes": 1389,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Une journée sans nuage | EPISODE 136"
+    },
+    {
+     "saison": 1,
+     "numero": 137,
+     "titre": "Am stram gram",
+     "youtube_id": "39s5DjE9u7Q",
+     "duree_secondes": 1499,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Am stram gram | EPISODE 137"
+    },
+    {
+     "saison": 1,
+     "numero": 138,
+     "titre": "Merci pour cette nuit",
+     "youtube_id": "t0Y-1q_5M1g",
+     "duree_secondes": 1466,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Merci pour cette nuit | EPISODE 138"
+    },
+    {
+     "saison": 1,
+     "numero": 139,
+     "titre": "Coups de blues",
+     "youtube_id": "bgFqU8PITjI",
+     "duree_secondes": 1446,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Coups de blues | EPISODE 139"
+    },
+    {
+     "saison": 1,
+     "numero": 140,
+     "titre": "Une journée fripes",
+     "youtube_id": "bKN0E9YZ45g",
+     "duree_secondes": 1391,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Une journée fripes | EPISODE 140"
+    },
+    {
+     "saison": 1,
+     "numero": 141,
+     "titre": "Une idée épicée",
+     "youtube_id": "mSqSmONZ2kg",
+     "duree_secondes": 1441,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Une idée épicée | EPISODE 141"
+    },
+    {
+     "saison": 1,
+     "numero": 142,
+     "titre": "Casting",
+     "youtube_id": "_k-0es2jsas",
+     "duree_secondes": 1450,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Casting | EPISODE 142"
+    },
+    {
+     "saison": 1,
+     "numero": 143,
+     "titre": "Un gros pourcentage",
+     "youtube_id": "m6QKlWz44-Y",
+     "duree_secondes": 1417,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Un gros pourcentage | EPISODE 143"
+    },
+    {
+     "saison": 1,
+     "numero": 144,
+     "titre": "Golden girl",
+     "youtube_id": "KaDeZQ7fS10",
+     "duree_secondes": 1393,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Golden girl | EPISODE 144"
+    },
+    {
+     "saison": 1,
+     "numero": 145,
+     "titre": "La boutique scoumoune",
+     "youtube_id": "ta4aAXe86Bg",
+     "duree_secondes": 1436,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - La boutique scoumoune | EPISODE 145"
+    },
+    {
+     "saison": 1,
+     "numero": 146,
+     "titre": "Une pour deux",
+     "youtube_id": "RIL8OwggtjQ",
+     "duree_secondes": 1324,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Une pour deux | EPISODE 146"
+    },
+    {
+     "saison": 1,
+     "numero": 147,
+     "titre": "Joyeux anniversaire",
+     "youtube_id": "gG-_je9ot3Q",
+     "duree_secondes": 1431,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Joyeux anniversaire | EPISODE 147"
+    },
+    {
+     "saison": 1,
+     "numero": 148,
+     "titre": "L'espion",
+     "youtube_id": "HA_pUMzVk3c",
+     "duree_secondes": 1467,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - L'espion | EPISODE 148"
+    },
+    {
+     "saison": 1,
+     "numero": 149,
+     "titre": "Club de fans",
+     "youtube_id": "Rj__2xeRzmE",
+     "duree_secondes": 1452,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Club de fans | EPISODE 149"
+    },
+    {
+     "saison": 1,
+     "numero": 150,
+     "titre": "Le prix du succès",
+     "youtube_id": "NoIwDOWr9Gw",
+     "duree_secondes": 1243,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Le prix du succès | EPISODE 150"
+    },
+    {
+     "saison": 1,
+     "numero": 151,
+     "titre": "Prêtez-moi vos jumelles",
+     "youtube_id": "tYuXithhmcM",
+     "duree_secondes": 1487,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Prêtez-moi vos jumelles | EPISODE 151"
+    },
+    {
+     "saison": 1,
+     "numero": 152,
+     "titre": "Une promo d'enfer",
+     "youtube_id": "JsaqAyYGfGg",
+     "duree_secondes": 1358,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Une promo d'enfer | EPISODE 152"
+    },
+    {
+     "saison": 1,
+     "numero": 153,
+     "titre": "Le photographe",
+     "youtube_id": "hA7G8hLhCYk",
+     "duree_secondes": 1416,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Le photographe | EPISODE 153"
+    },
+    {
+     "saison": 1,
+     "numero": 154,
+     "titre": "Sous les projecteurs",
+     "youtube_id": "QUvUe_LHWWY",
+     "duree_secondes": 1399,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Sous les projecteurs | EPISODE 154"
+    },
+    {
+     "saison": 1,
+     "numero": 155,
+     "titre": "Prise d'otages",
+     "youtube_id": "45wwRwgoLGQ",
+     "duree_secondes": 1391,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Prise d'otages | EPISODE 155"
+    },
+    {
+     "saison": 1,
+     "numero": 161,
+     "titre": "La nouvelle venue",
+     "youtube_id": "oQGRaamowWk",
+     "duree_secondes": 1422,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - La nouvelle venue | EPISODE 161"
+    },
+    {
+     "saison": 1,
+     "numero": 162,
+     "titre": "L'homme idéal",
+     "youtube_id": "AscFvHuor8I",
+     "duree_secondes": 1430,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - L'homme idéal | EPISODE 162"
+    },
+    {
+     "saison": 1,
+     "numero": 163,
+     "titre": "Une photo embarrassante",
+     "youtube_id": "WdusjU-xj2E",
+     "duree_secondes": 1285,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Une photo embarrassante | EPISODE 163"
+    },
+    {
+     "saison": 1,
+     "numero": 164,
+     "titre": "Deux de perdues...",
+     "youtube_id": "QR_VpBJf6W8",
+     "duree_secondes": 1356,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Deux de perdues... | EPISODE 164"
+    },
+    {
+     "saison": 1,
+     "numero": 165,
+     "titre": "Le trio perdant",
+     "youtube_id": "WaM7YSbAqJI",
+     "duree_secondes": 1331,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Le trio perdant | EPISODE 165"
+    },
+    {
+     "saison": 1,
+     "numero": 166,
+     "titre": "Un trou dans la caisse",
+     "youtube_id": "xf_qbEjfuY4",
+     "duree_secondes": 1355,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Un trou dans la caisse | EPISODE 166"
+    },
+    {
+     "saison": 1,
+     "numero": 167,
+     "titre": "Une fille à Papa",
+     "youtube_id": "XoZxjAf3RzA",
+     "duree_secondes": 1355,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Une fille à Papa | EPISODE 167"
+    },
+    {
+     "saison": 1,
+     "numero": 168,
+     "titre": "La guerre des nerfs",
+     "youtube_id": "0EWajl9rV5k",
+     "duree_secondes": 1379,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - La guerre des nerfs | EPISODE 168"
+    },
+    {
+     "saison": 1,
+     "numero": 169,
+     "titre": "Une belle fin",
+     "youtube_id": "dcn-2CxwZeg",
+     "duree_secondes": 1379,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Une belle fin | EPISODE 169"
+    },
+    {
+     "saison": 1,
+     "numero": 170,
+     "titre": "Visites surprises",
+     "youtube_id": "-lrPVESOtWA",
+     "duree_secondes": 1448,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Visites surprises | EPISODE 170"
+    },
+    {
+     "saison": 1,
+     "numero": 171,
+     "titre": "Paul, le retour",
+     "youtube_id": "2_51t1rGa5U",
+     "duree_secondes": 1394,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Paul, le retour | EPISODE 171"
+    },
+    {
+     "saison": 1,
+     "numero": 172,
+     "titre": "Malédiction",
+     "youtube_id": "DERKZzhPVdM",
+     "duree_secondes": 1447,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Malédiction | EPISODE 172"
+    },
+    {
+     "saison": 1,
+     "numero": 173,
+     "titre": "Une mauvaise presse",
+     "youtube_id": "7UZssQib1gQ",
+     "duree_secondes": 1297,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Une mauvaise presse | EPISODE 173"
+    },
+    {
+     "saison": 1,
+     "numero": 174,
+     "titre": "Boxe à la cafèt'",
+     "youtube_id": "ttfMucc1MnU",
+     "duree_secondes": 1339,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Boxe à la cafèt' | EPISODE 174"
+    },
+    {
+     "saison": 1,
+     "numero": 175,
+     "titre": "Un secret lourd à porter",
+     "youtube_id": "G_wlrIfbL8E",
+     "duree_secondes": 1496,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Un secret lourd à porter | EPISODE 175"
+    },
+    {
+     "saison": 1,
+     "numero": 176,
+     "titre": "Mensonges",
+     "youtube_id": "AaD_13gLj0k",
+     "duree_secondes": 1406,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Mensonges | EPISODE 176"
+    },
+    {
+     "saison": 1,
+     "numero": 177,
+     "titre": "Remise en question",
+     "youtube_id": "-u6AzOn0NP8",
+     "duree_secondes": 1511,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Remise en question | EPISODE 177"
+    },
+    {
+     "saison": 1,
+     "numero": 178,
+     "titre": "L'amour toujours",
+     "youtube_id": "KynNf-HeH-k",
+     "duree_secondes": 1364,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - L'amour toujours | EPISODE 178"
+    },
+    {
+     "saison": 1,
+     "numero": 179,
+     "titre": "C'est le bouquet !",
+     "youtube_id": "ZgYu3ez4rug",
+     "duree_secondes": 1435,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - C'est le bouquet ! | EPISODE 179"
+    },
+    {
+     "saison": 1,
+     "numero": 180,
+     "titre": "A la sauvette",
+     "youtube_id": "DYWrYxhE0xs",
+     "duree_secondes": 1369,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - A la sauvette | EPISODE 180"
+    },
+    {
+     "saison": 1,
+     "numero": 181,
+     "titre": "Rupture et prise de bec",
+     "youtube_id": "pSeDQtrHG8c",
+     "duree_secondes": 1382,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Rupture et prise de bec | EPISODE 181"
+    },
+    {
+     "saison": 1,
+     "numero": 182,
+     "titre": "Le cas social",
+     "youtube_id": "nNXTpt9FpQ8",
+     "duree_secondes": 1389,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Le cas social | EPISODE 182"
+    },
+    {
+     "saison": 1,
+     "numero": 183,
+     "titre": "Coup de théâtre",
+     "youtube_id": "imp_XlCU56A",
+     "duree_secondes": 1477,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Coup de théâtre | EPISODE 183"
+    },
+    {
+     "saison": 1,
+     "numero": 184,
+     "titre": "Le pilote",
+     "youtube_id": "9yzLIVmv_eM",
+     "duree_secondes": 1285,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Le pilote | EPISODE 184"
+    },
+    {
+     "saison": 1,
+     "numero": 185,
+     "titre": "Tout le monde s'y croit",
+     "youtube_id": "6mKeHR8JnwA",
+     "duree_secondes": 1311,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Tout le monde s'y croit | EPISODE 185"
+    },
+    {
+     "saison": 1,
+     "numero": 186,
+     "titre": "Monteur",
+     "youtube_id": "t3WMbL5gHIk",
+     "duree_secondes": 1378,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Monteur | EPISODE 186"
+    },
+    {
+     "saison": 1,
+     "numero": 187,
+     "titre": "Match de foot",
+     "youtube_id": "mJlUZ6Hqe38",
+     "duree_secondes": 1422,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Match de foot | EPISODE 187"
+    },
+    {
+     "saison": 1,
+     "numero": 188,
+     "titre": "Victime et prophète",
+     "youtube_id": "aVvREaQUmQ8",
+     "duree_secondes": 1424,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Victime et prophète | EPISODE 188"
+    },
+    {
+     "saison": 1,
+     "numero": 189,
+     "titre": "La chair est faible",
+     "youtube_id": "jQgLt57V57I",
+     "duree_secondes": 1380,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - La chair est faible | EPISODE 189"
+    },
+    {
+     "saison": 1,
+     "numero": 190,
+     "titre": "Chacun chez soi",
+     "youtube_id": "O8pMbXTer1A",
+     "duree_secondes": 1376,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Chacun chez soi | EPISODE 190"
+    },
+    {
+     "saison": 1,
+     "numero": 191,
+     "titre": "Une proie facile",
+     "youtube_id": "H1OQ-2_Wf6g",
+     "duree_secondes": 1489,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Une proie facile | EPISODE 191"
+    },
+    {
+     "saison": 1,
+     "numero": 192,
+     "titre": "Caméra cachée",
+     "youtube_id": "sSdN2xgwen8",
+     "duree_secondes": 1413,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Caméra cachée| EPISODE 192"
+    },
+    {
+     "saison": 1,
+     "numero": 193,
+     "titre": "La rougeole",
+     "youtube_id": "oToVelCZwEE",
+     "duree_secondes": 1408,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - La rougeole| EPISODE 193"
+    },
+    {
+     "saison": 1,
+     "numero": 194,
+     "titre": "Les précieux billets",
+     "youtube_id": "Lnmxsba7uY4",
+     "duree_secondes": 1444,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Les précieux billets | EPISODE 194"
+    },
+    {
+     "saison": 1,
+     "numero": 195,
+     "titre": "Payer, toujours payer",
+     "youtube_id": "LbXXoT8Lgz8",
+     "duree_secondes": 1412,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Payer, toujours payer | EPISODE 195"
+    },
+    {
+     "saison": 1,
+     "numero": 196,
+     "titre": "Le plombier et l'hystérique",
+     "youtube_id": "ounB41sktiw",
+     "duree_secondes": 1400,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Le plombier et l'hystérique | EPISODE 196"
+    },
+    {
+     "saison": 1,
+     "numero": 197,
+     "titre": "Une cousine embarrassante",
+     "youtube_id": "JENPwFxW8ek",
+     "duree_secondes": 1478,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Une cousine embarrassante | EPISODE 197"
+    },
+    {
+     "saison": 1,
+     "numero": 198,
+     "titre": "Un rêve prémonitoire",
+     "youtube_id": "338koM-THSk",
+     "duree_secondes": 1363,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Un rêve prémonitoire | EPISODE 198"
+    },
+    {
+     "saison": 1,
+     "numero": 199,
+     "titre": "Tout est bien qui finit bien",
+     "youtube_id": "j3TuTUhXVO4",
+     "duree_secondes": 1472,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES ANNÉES FAC - Tout est bien qui finit bien | EPISODE 199"
+    }
+   ],
+   "affiche": "affiches/nZjsh9yaRz4.webp",
+   "vignette": "vignettes/nZjsh9yaRz4.webp"
+  }
+ ]
+}

@@ -1,0 +1,1505 @@
+{
+ "genere_le": "2026-10-11",
+ "programmes": [
+  {
+   "slug": "commissaire-moulin",
+   "titre": "Commissaire Moulin",
+   "format": "serie",
+   "univers": "series",
+   "genres": [
+    "policier"
+   ],
+   "tout_public": false,
+   "youtube_id": null,
+   "chaine_nom": "Stream TV - Films complets",
+   "chaine_id": "UCKqmnQFF2PgokPDdX-L2fwQ",
+   "chaine_url": "https://www.youtube.com/channel/UCKqmnQFF2PgokPDdX-L2fwQ",
+   "ayant_droit": "Source non officielle, validée par N'jie le 11/10/2026 (chaîne certifiée « Stream TV - Films complets », qui publie avec un code de producteur ; licence non prouvée)",
+   "duree_secondes": 5457,
+   "annee": 1976,
+   "description": "Yves Rénier est le commissaire Moulin, flic de terrain au franc-parler, dans la série culte de TF1. Le tout premier épisode de 1976 (INA, officiel) et 27 enquêtes des saisons 5 à 8, avec des invités comme Johnny Hallyday ou Anthony Delon.",
+   "disponible_jusqu_au": null,
+   "publie_le": null,
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": false,
+   "note_source": "Non officielle, validée par N'jie le 11/10/2026",
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "Le tout premier épisode (1976)",
+     "youtube_id": "MZxOADkbhjQ",
+     "duree_secondes": 5504,
+     "disponible_jusqu_au": null,
+     "description": "Publié officiellement par l'INA (madelen) : la naissance du commissaire Moulin, avec Yves Rénier et Guy Montagné.",
+     "titre_youtube": "🕵️ Commissaire moulin, le tout 1er épisode, avec Yves Rénier et Guy Montagné ! À revoir sur madelen",
+     "vignette": "vignettes/MZxOADkbhjQ.webp"
+    },
+    {
+     "saison": 5,
+     "numero": 11,
+     "titre": "Silence Radio",
+     "youtube_id": "Giz6ZEbwXSs",
+     "duree_secondes": 6359,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Commissaire Moulin : Silence Radio - Yves Renier - Film complet | Saison 5 - Ep11 | PM",
+     "vignette": "vignettes/Giz6ZEbwXSs.webp"
+    },
+    {
+     "saison": 5,
+     "numero": 12,
+     "titre": "Serial Killer",
+     "youtube_id": "gUqrnHPtBog",
+     "duree_secondes": 6126,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Commissaire Moulin : Serial Killer - Yves Renier - Film complet | Saison 5 - Ep 12 | PM",
+     "vignette": "vignettes/gUqrnHPtBog.webp"
+    },
+    {
+     "saison": 5,
+     "numero": 13,
+     "titre": "Passage protégé",
+     "youtube_id": "daRmMZ_d5oA",
+     "duree_secondes": 5256,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Commissaire Moulin : Passage protégé - Yves Renier - Film complet | Saison 5 - EP 13 | PM",
+     "vignette": "vignettes/daRmMZ_d5oA.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 1,
+     "titre": "Commando à 4 pattes",
+     "youtube_id": "ojC20Bcw4VE",
+     "duree_secondes": 5541,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Commissaire Moulin : Commando à 4 pattes - Yves Renier - Film complet | Saison 6 - EP01 | PM",
+     "vignette": "vignettes/ojC20Bcw4VE.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 3,
+     "titre": "Protection très rapprochée",
+     "youtube_id": "GIThxFHHh6Q",
+     "duree_secondes": 5195,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Commissaire Moulin : Protection très rapprochée - Yves Renier - Film complet | Saison 6 - EP 3 | PM",
+     "vignette": "vignettes/GIThxFHHh6Q.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 4,
+     "titre": "Au nom de nos enfants",
+     "youtube_id": "QztO6mY0ink",
+     "duree_secondes": 5265,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Commissaire Moulin : Au nom de nos enfants - Yves Renier - Film complet | Saison 6 - EP 4 | PM",
+     "vignette": "vignettes/QztO6mY0ink.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 5,
+     "titre": "Le petit homme",
+     "youtube_id": "UJcGiuWEKos",
+     "duree_secondes": 5753,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Commissaire Moulin : Le petit homme - Yves Renier - Film complet | Saison 6 - EP05 | PM",
+     "vignette": "vignettes/UJcGiuWEKos.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 6,
+     "titre": "La fliquette",
+     "youtube_id": "aFJD-Tgxp6Q",
+     "duree_secondes": 5457,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Commissaire Moulin : La fliquette - Yves Renier - Film complet | Saison 6 - Ep 6 | PM",
+     "vignette": "vignettes/aFJD-Tgxp6Q.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 7,
+     "titre": "X-Fragile",
+     "youtube_id": "oSv3SFPRJ8A",
+     "duree_secondes": 5115,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Commissaire Moulin : X-Fragile - Yves Renier - Film complet | Saison 6 - Ep 7 | PM",
+     "vignette": "vignettes/oSv3SFPRJ8A.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 8,
+     "titre": "Mortelle Séduction",
+     "youtube_id": "9B6kowBvOo4",
+     "duree_secondes": 5613,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Commissaire Moulin : Mortelle Séduction - Yves Renier - Film complet | Saison 6 - EP08 | PM",
+     "vignette": "vignettes/9B6kowBvOo4.webp"
+    },
+    {
+     "saison": 7,
+     "numero": 1,
+     "titre": "Les moineaux",
+     "youtube_id": "0pooyY54Adw",
+     "duree_secondes": 5195,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Commissaire Moulin : Les moineaux - Yves Renier - Film complet | Saison 7 - Ep 1 | PM",
+     "vignette": "vignettes/0pooyY54Adw.webp"
+    },
+    {
+     "saison": 7,
+     "numero": 2,
+     "titre": "Série Noire",
+     "youtube_id": "LP9KTihqeX0",
+     "duree_secondes": 5234,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Commissaire Moulin : Série Noire - Yves Renier - Film complet | Saison 7 - Ep 2 | PM",
+     "vignette": "vignettes/LP9KTihqeX0.webp"
+    },
+    {
+     "saison": 7,
+     "numero": 3,
+     "titre": "Sale Bizness",
+     "youtube_id": "djEFvdtwXsg",
+     "duree_secondes": 5225,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Commissaire Moulin : Sale Bizness - Yves Renier - Film complet | Saison 7 - Ep 3 | PM",
+     "vignette": "vignettes/djEFvdtwXsg.webp"
+    },
+    {
+     "saison": 7,
+     "numero": 4,
+     "titre": "Tensions",
+     "youtube_id": "1jcLzVGgmF0",
+     "duree_secondes": 5350,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Commissaire Moulin : Tensions - Yves Renier - Film complet | Saison 7 - Ep 4 | PM",
+     "vignette": "vignettes/1jcLzVGgmF0.webp"
+    },
+    {
+     "saison": 7,
+     "numero": 5,
+     "titre": "Bandit d'honneur",
+     "youtube_id": "-6tXy4xfD3I",
+     "duree_secondes": 5305,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Commissaire Moulin : Bandit d'honneur - Anthony Delon - Yves Renier - Film complet | S7 - EP5 | PM",
+     "vignette": "vignettes/-6tXy4xfD3I.webp"
+    },
+    {
+     "saison": 7,
+     "numero": 6,
+     "titre": "Les Lois de Murphy",
+     "youtube_id": "rsetwXGaY0M",
+     "duree_secondes": 5506,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Commissaire Moulin : Les Lois de Murphy - Yves Renier - Film complet | Saison 7 - Ep 6 | PM",
+     "vignette": "vignettes/rsetwXGaY0M.webp"
+    },
+    {
+     "saison": 7,
+     "numero": 7,
+     "titre": "La Pente Raide",
+     "youtube_id": "gi66fsCzdOE",
+     "duree_secondes": 5540,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Commissaire Moulin : La Pente Raide - Yves Renier - Film complet | Saison 7 - EP 7 | PM",
+     "vignette": "vignettes/gi66fsCzdOE.webp"
+    },
+    {
+     "saison": 7,
+     "numero": 8,
+     "titre": "La promesse",
+     "youtube_id": "eDT2ZDotQ9I",
+     "duree_secondes": 5504,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Commissaire Moulin : La promesse - Yves Renier - Film complet | Saison 7 - EP 8 | PM",
+     "vignette": "vignettes/eDT2ZDotQ9I.webp"
+    },
+    {
+     "saison": 8,
+     "numero": 2,
+     "titre": "Un coupable trop parfait",
+     "youtube_id": "-qG_qYykNsc",
+     "duree_secondes": 5487,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Commissaire Moulin : Un coupable trop parfait - Yves Renier - Film complet | Saison 8 - EP 2 | PM",
+     "vignette": "vignettes/-qG_qYykNsc.webp"
+    },
+    {
+     "saison": 8,
+     "numero": 3,
+     "titre": "Le Sniper",
+     "youtube_id": "XTn5othq2xI",
+     "duree_secondes": 5529,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Commissaire Moulin : Le Sniper - Yves Renier - Film complet | Saison 8 - EP 3 | PM",
+     "vignette": "vignettes/XTn5othq2xI.webp"
+    },
+    {
+     "saison": 8,
+     "numero": 4,
+     "titre": "Le profil du tueur",
+     "youtube_id": "X_7Jm29f9LU",
+     "duree_secondes": 5317,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Commissaire Moulin : Le profil du tueur - Yves Renier - Film complet | Saison 8 - Ep 4 | PM",
+     "vignette": "vignettes/X_7Jm29f9LU.webp"
+    },
+    {
+     "saison": 8,
+     "numero": 4,
+     "titre": "Sous pression",
+     "youtube_id": "JPHVLvHElhE",
+     "duree_secondes": 5394,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Commissaire Moulin : Sous pression - Yves Renier - Film complet | Saison 8 - EP 4 | PM",
+     "vignette": "vignettes/JPHVLvHElhE.webp"
+    },
+    {
+     "saison": 8,
+     "numero": 5,
+     "titre": "Kidnapping",
+     "youtube_id": "Dl25i2TD1sQ",
+     "duree_secondes": 5405,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Commissaire Moulin : Kidnapping - Yves Renier & Johnny Hallyday - Film complet | Saison 8 - Ep 5| PM",
+     "vignette": "vignettes/Dl25i2TD1sQ.webp"
+    },
+    {
+     "saison": 8,
+     "numero": 8,
+     "titre": "Le petit fugitif",
+     "youtube_id": "BEKEeexa8dE",
+     "duree_secondes": 5294,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Commissaire Moulin : Le petit fugitif - Yves Renier - Film complet | Saison 8 - EP08 | PM",
+     "vignette": "vignettes/BEKEeexa8dE.webp"
+    },
+    {
+     "saison": 8,
+     "numero": 9,
+     "titre": "La dernière affaire",
+     "youtube_id": "ObMvCc6cu18",
+     "duree_secondes": 5542,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Commissaire Moulin : La dernière affaire - Yves Renier - Film complet | Saison 8 - EP09 | PM",
+     "vignette": "vignettes/ObMvCc6cu18.webp"
+    },
+    {
+     "saison": 8,
+     "numero": 10,
+     "titre": "Bavures",
+     "youtube_id": "B0RUzWLTOOM",
+     "duree_secondes": 5282,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Commissaire Moulin : Bavures - Yves Renier - Film complet | Saison 8 - Ep 10 | PM",
+     "vignette": "vignettes/B0RUzWLTOOM.webp"
+    },
+    {
+     "saison": 8,
+     "numero": 10,
+     "titre": "Le pire des cauchemars",
+     "youtube_id": "cN6-ryhKohk",
+     "duree_secondes": 5702,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Commissaire Moulin : Le pire des cauchemars - Yves Renier - Film complet | Saison 8 - EP 10  | PM",
+     "vignette": "vignettes/cN6-ryhKohk.webp"
+    }
+   ],
+   "affiche": "affiches/cN6-ryhKohk.webp",
+   "vignette": "vignettes/cN6-ryhKohk.webp"
+  },
+  {
+   "slug": "brigade-des-mineurs",
+   "titre": "Brigade des mineurs",
+   "format": "serie",
+   "univers": "series",
+   "genres": [
+    "policier"
+   ],
+   "tout_public": false,
+   "youtube_id": null,
+   "chaine_nom": "Stream TV - Films complets",
+   "chaine_id": "UCKqmnQFF2PgokPDdX-L2fwQ",
+   "chaine_url": "https://www.youtube.com/channel/UCKqmnQFF2PgokPDdX-L2fwQ",
+   "ayant_droit": "Source non officielle, validée par N'jie le 11/10/2026 (chaîne certifiée « Stream TV - Films complets », qui publie avec un code de producteur ; licence non prouvée)",
+   "duree_secondes": 3002,
+   "annee": null,
+   "description": "Emma Colberti et Christian Charmetant enquêtent sur des affaires où des enfants et des adolescents sont victimes ou en danger. Six épisodes.",
+   "disponible_jusqu_au": null,
+   "publie_le": null,
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": false,
+   "note_source": "Non officielle, validée par N'jie le 11/10/2026",
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "Anges et démons",
+     "youtube_id": "5QbNKN3oEBg",
+     "duree_secondes": 2997,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Brigade des mineurs - Anges et démons  - Emma Colberti -  Christian Charmetant - (1/6) HD (Tetra)",
+     "vignette": "vignettes/5QbNKN3oEBg.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "Mode mineur",
+     "youtube_id": "C_bD-MgXiEw",
+     "duree_secondes": 3124,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Brigade des mineurs - Mode mineur  - Emma Colberti -  Christian Charmetant - (2/6) HD (Tetra)",
+     "vignette": "vignettes/C_bD-MgXiEw.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 3,
+     "titre": "Poudre aux yeux",
+     "youtube_id": "LShEBkNIV7Y",
+     "duree_secondes": 2920,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Brigade des mineurs - Poudre aux yeux  - Emma Colberti -  Christian Charmetant - (3/6) HD (Tetra)",
+     "vignette": "vignettes/LShEBkNIV7Y.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 4,
+     "titre": "Tacle gagnant",
+     "youtube_id": "3GehNFVffmc",
+     "duree_secondes": 3074,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Brigade des mineurs - Tacle gagnant - Emma Colberti -  Christian Charmetant - (4/6) HD (Tetra)",
+     "vignette": "vignettes/3GehNFVffmc.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 5,
+     "titre": "Disparue",
+     "youtube_id": "37BPNypx_4c",
+     "duree_secondes": 2974,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Brigade des mineurs - Disparue - Emma Colberti -  Christian Charmetant - (5/6) HD (Tetra)",
+     "vignette": "vignettes/37BPNypx_4c.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 6,
+     "titre": "Amour amer",
+     "youtube_id": "bX4BXWUkmDY",
+     "duree_secondes": 3002,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Brigade des mineurs - Amour amer - Emma Colberti -  Christian Charmetant  - (6/6) HD (Tetra)",
+     "vignette": "vignettes/bX4BXWUkmDY.webp"
+    }
+   ],
+   "affiche": "affiches/5QbNKN3oEBg.webp",
+   "vignette": "vignettes/5QbNKN3oEBg.webp"
+  },
+  {
+   "slug": "la-commune",
+   "titre": "La Commune",
+   "format": "serie",
+   "univers": "series",
+   "genres": [
+    "policier",
+    "drame"
+   ],
+   "tout_public": false,
+   "youtube_id": null,
+   "chaine_nom": "Stream TV - Films complets",
+   "chaine_id": "UCKqmnQFF2PgokPDdX-L2fwQ",
+   "chaine_url": "https://www.youtube.com/channel/UCKqmnQFF2PgokPDdX-L2fwQ",
+   "ayant_droit": "Source non officielle, validée par N'jie le 11/10/2026 (chaîne certifiée « Stream TV - Films complets », qui publie avec un code de producteur ; licence non prouvée)",
+   "duree_secondes": 2992,
+   "annee": 2007,
+   "description": "La vie d'une cité de banlieue, entre trafics, politique et loyautés, avec Tahar Rahim et Tomer Sisley. La série coup de poing de Canal+, en huit épisodes.",
+   "disponible_jusqu_au": null,
+   "publie_le": null,
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": false,
+   "note_source": "Non officielle, validée par N'jie le 11/10/2026",
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "Visite guidée",
+     "youtube_id": "Ub85K7pvkHk",
+     "duree_secondes": 2913,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "La Commune : Visite guidée ( EP 1 ) - Tahar RAHIM - Tomer SISLEY - Série Canal + - TETRA",
+     "vignette": "vignettes/Ub85K7pvkHk.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "Chacun pour soi",
+     "youtube_id": "PvqpLtSFPHw",
+     "duree_secondes": 2993,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "La Commune : Chacun pour soi ( EP 2 ) - Tahar RAHIM - Tomer SISLEY - Série Canal + - TETRA",
+     "vignette": "vignettes/PvqpLtSFPHw.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 3,
+     "titre": "Hérédités",
+     "youtube_id": "GGtr6LuZxjA",
+     "duree_secondes": 3053,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "La Commune : Hérédités ( EP 3 ) - Tahar RAHIM - Tomer SISLEY - Série Canal + - TETRA",
+     "vignette": "vignettes/GGtr6LuZxjA.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 4,
+     "titre": "Addictions",
+     "youtube_id": "6-yK6LniwK8",
+     "duree_secondes": 2905,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "La Commune : Addictions ( EP 4 ) - Tahar RAHIM - Tomer SISLEY - Série Canal + - TETRA",
+     "vignette": "vignettes/6-yK6LniwK8.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 5,
+     "titre": "Compassion",
+     "youtube_id": "ELNKKQ5wTew",
+     "duree_secondes": 2992,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "La Commune : Compassion ( EP 5 ) - Tahar RAHIM - Tomer SISLEY - Série Canal + - TETRA",
+     "vignette": "vignettes/ELNKKQ5wTew.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 6,
+     "titre": "Ainsi parlait Sun Tzu",
+     "youtube_id": "syIKTmpQJxg",
+     "duree_secondes": 2932,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "La Commune : Ainsi parlait Sun Tzu ( EP 6 ) - Tahar RAHIM - Tomer SISLEY - Série Canal + - TETRA",
+     "vignette": "vignettes/syIKTmpQJxg.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 7,
+     "titre": "All power to the people",
+     "youtube_id": "ex7_uwQY_Ng",
+     "duree_secondes": 3089,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "La Commune : All power to the people ( EP 7 ) - Tahar RAHIM - Tomer SISLEY - Série Canal + - TETRA",
+     "vignette": "vignettes/ex7_uwQY_Ng.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 8,
+     "titre": "Au nom du père",
+     "youtube_id": "hHIRMI0V6cY",
+     "duree_secondes": 2915,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "La Commune : Au nom du père ( EP 8 ) - Tahar RAHIM - Tomer SISLEY - Série Canal + - TETRA",
+     "vignette": "vignettes/hHIRMI0V6cY.webp"
+    }
+   ],
+   "affiche": "affiches/Ub85K7pvkHk.webp",
+   "vignette": "vignettes/Ub85K7pvkHk.webp"
+  },
+  {
+   "slug": "madame-la-proviseur",
+   "titre": "Madame la proviseur",
+   "format": "serie",
+   "univers": "series",
+   "genres": [
+    "drame"
+   ],
+   "tout_public": false,
+   "youtube_id": null,
+   "chaine_nom": "Stream TV - Films complets",
+   "chaine_id": "UCKqmnQFF2PgokPDdX-L2fwQ",
+   "chaine_url": "https://www.youtube.com/channel/UCKqmnQFF2PgokPDdX-L2fwQ",
+   "ayant_droit": "Source non officielle, validée par N'jie le 11/10/2026 (chaîne certifiée « Stream TV - Films complets », qui publie avec un code de producteur ; licence non prouvée)",
+   "duree_secondes": 5343,
+   "annee": null,
+   "description": "Charlotte de Turckheim, puis Eva Darlan, dirigent un lycée et affrontent les drames des élèves, des profs et des parents. Treize téléfilms des saisons 5 à 10.",
+   "disponible_jusqu_au": null,
+   "publie_le": null,
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": false,
+   "note_source": "Non officielle, validée par N'jie le 11/10/2026",
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "Ce que Mathilde veut (saison 5, épisode 12)",
+     "youtube_id": "3pOe1LumwWk",
+     "duree_secondes": 5343,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Madame la proviseur : Ce que Mathilde veut - Charlotte de Turckheim | Série Complète | S05EP12 | TM",
+     "vignette": "vignettes/3pOe1LumwWk.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "Jardin privé (saison 5, épisode 13)",
+     "youtube_id": "1DSnNrM485M",
+     "duree_secondes": 5262,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Madame La proviseur : Jardin privé - Charlotte de Turckheim | Série complète | S05 EP13 | TM",
+     "vignette": "vignettes/1DSnNrM485M.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 3,
+     "titre": "L'oeil du singe (saison 6, épisode 15)",
+     "youtube_id": "W-lRqpAqb3U",
+     "duree_secondes": 5275,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Madame la proviseur : L'oeil du singe - Charlotte de Turckheim - Film complet | S6 - Ep 15 | TM",
+     "vignette": "vignettes/W-lRqpAqb3U.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 4,
+     "titre": "La petite malgache (saison 7, épisode 16)",
+     "youtube_id": "DgZAZ7quWZI",
+     "duree_secondes": 5540,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Madame La proviseur : La petite malgache - Charlotte de Turckheim - Film complet | S7 - E16 | TM",
+     "vignette": "vignettes/DgZAZ7quWZI.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 5,
+     "titre": "La corde raide (saison 7, épisode 17)",
+     "youtube_id": "bHcLocyfsX4",
+     "duree_secondes": 5637,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Madame La proviseur : La corde raide - Charlotte de Turckheim | Série complète | S07 EP17 | TM",
+     "vignette": "vignettes/bHcLocyfsX4.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 6,
+     "titre": "La cicatrice (saison 7, épisode 18)",
+     "youtube_id": "6ReQ3Q_HPN0",
+     "duree_secondes": 6086,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Madame la proviseur : La cicatrice - Charlotte de Turckheim - Film complet | S7 - Ep 18 | TM",
+     "vignette": "vignettes/6ReQ3Q_HPN0.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 7,
+     "titre": "Profs.com (saison 7, épisode 19)",
+     "youtube_id": "wj6iwelAO5s",
+     "duree_secondes": 5337,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Madame La proviseur : Profs.com - Charlotte de Turckheim - Film complet | S7 - E19 | TM",
+     "vignette": "vignettes/wj6iwelAO5s.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 8,
+     "titre": "Mon meilleur ennemi (saison 8, épisode 20)",
+     "youtube_id": "ClxO6r6F73U",
+     "duree_secondes": 5814,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Madame La proviseur : Mon meilleur ennemi - Charlotte de Turckheim - Film complet | S8 - E20 | TM",
+     "vignette": "vignettes/ClxO6r6F73U.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 9,
+     "titre": "Outrage (saison 9, épisode 21)",
+     "youtube_id": "q2ClVt_7w5Y",
+     "duree_secondes": 5547,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Madame La proviseur : Outrage - Charlotte de Turckheim - Film complet | S9 - E21 | TM",
+     "vignette": "vignettes/q2ClVt_7w5Y.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 10,
+     "titre": "La loi du silence (saison 9, épisode 22)",
+     "youtube_id": "qkWo4IDWuV8",
+     "duree_secondes": 5315,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Madame La proviseur : La loi du silence - Charlotte de Turckheim - Film complet | S9 - E22 | TM",
+     "vignette": "vignettes/qkWo4IDWuV8.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 11,
+     "titre": "L'intrus (saison 9, épisode 23)",
+     "youtube_id": "PQLs-k13ZVA",
+     "duree_secondes": 5405,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Madame La proviseur : L'intrus - Eva Darlan - Film complet | S9 - E23 | TM",
+     "vignette": "vignettes/PQLs-k13ZVA.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 12,
+     "titre": "Mon père n'est pas un héros (saison 10, épisode 24)",
+     "youtube_id": "C2mH-8abjwU",
+     "duree_secondes": 5199,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Madame La proviseur : Mon père n'est pas un héros - Eva Darlan - Film complet | S10 - E24 | TM",
+     "vignette": "vignettes/C2mH-8abjwU.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 13,
+     "titre": "Un secret de polichinelle",
+     "youtube_id": "sIMXq1YHX6I",
+     "duree_secondes": 5191,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Madame La proviseur : Un secret de polichinelle - Charlotte de Turckheim | Série Complète | TM",
+     "vignette": "vignettes/sIMXq1YHX6I.webp"
+    }
+   ],
+   "affiche": "affiches/3pOe1LumwWk.webp",
+   "vignette": "vignettes/3pOe1LumwWk.webp"
+  },
+  {
+   "slug": "frank-riva",
+   "titre": "Frank Riva",
+   "format": "serie",
+   "univers": "series",
+   "genres": [
+    "policier"
+   ],
+   "tout_public": false,
+   "youtube_id": null,
+   "chaine_nom": "Stream TV - Films complets",
+   "chaine_id": "UCKqmnQFF2PgokPDdX-L2fwQ",
+   "chaine_url": "https://www.youtube.com/channel/UCKqmnQFF2PgokPDdX-L2fwQ",
+   "ayant_droit": "Source non officielle, validée par N'jie le 11/10/2026 (chaîne certifiée « Stream TV - Films complets », qui publie avec un code de producteur ; licence non prouvée)",
+   "duree_secondes": 5781,
+   "annee": 2003,
+   "description": "Alain Delon, Mireille Darc et Jacques Perrin dans la série policière de TF1 : les six enquêtes de Frank Riva, flic de légende.",
+   "disponible_jusqu_au": null,
+   "publie_le": null,
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": false,
+   "note_source": "Non officielle, validée par N'jie le 11/10/2026",
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "L'homme de nulle part",
+     "youtube_id": "zCDalZRgv9I",
+     "duree_secondes": 5700,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Frank Riva, L'homme de nulle part - Alain Delon - Mireille Darc - Jacques Perrin  (Ep 1) - PM",
+     "vignette": "vignettes/zCDalZRgv9I.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "La croix étoilée",
+     "youtube_id": "EO2W6BY2zuE",
+     "duree_secondes": 5525,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Frank Riva, la croix étoilée - Alain Delon - Mireille Darc - Jacques Perrin  (Ep 2) - PM",
+     "vignette": "vignettes/EO2W6BY2zuE.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 3,
+     "titre": "Le dernier des trois",
+     "youtube_id": "jUP5QUm-P24",
+     "duree_secondes": 5787,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Frank Riva, le dernier des trois -  Alain Delon - Mireille Darc - Jacques Perrin  (Ep 3) - PM",
+     "vignette": "vignettes/jUP5QUm-P24.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 4,
+     "titre": "Les loups",
+     "youtube_id": "nGOMoFt9mak",
+     "duree_secondes": 6155,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Frank Riva, les loups -  Alain Delon - Mireille Darc - Jacques Perrin  (Ep 4) - PM",
+     "vignette": "vignettes/nGOMoFt9mak.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 5,
+     "titre": "L'ange rouge",
+     "youtube_id": "6gF2nOhQIfU",
+     "duree_secondes": 5781,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Frank Riva, l'ange rouge -  Alain Delon - Mireille Darc - Jacques Perrin  (Ep 5) - PM",
+     "vignette": "vignettes/6gF2nOhQIfU.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 6,
+     "titre": "L'homme traqué",
+     "youtube_id": "iXgDKlleKgo",
+     "duree_secondes": 5271,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Frank Riva, L'homme traqué -  Alain Delon - Mireille Darc - Jacques Perrin  (Ep 6) - PM",
+     "vignette": "vignettes/iXgDKlleKgo.webp"
+    }
+   ],
+   "affiche": "affiches/zCDalZRgv9I.webp",
+   "vignette": "vignettes/zCDalZRgv9I.webp"
+  },
+  {
+   "slug": "les-cordier-juge-et-flic",
+   "titre": "Les Cordier, juge et flic",
+   "format": "serie",
+   "univers": "series",
+   "genres": [
+    "policier"
+   ],
+   "tout_public": false,
+   "youtube_id": null,
+   "chaine_nom": "HOVERMAN",
+   "chaine_id": "UCSkMvoIlrM0s_KhUb0PIyyA",
+   "chaine_url": "https://www.youtube.com/channel/UCSkMvoIlrM0s_KhUb0PIyyA",
+   "ayant_droit": "Source non officielle, validée par N'jie le 11/10/2026 (copie de particulier ; série produite pour TF1)",
+   "duree_secondes": 5618,
+   "annee": 1992,
+   "description": "Pierre Mondy, commissaire, et Bruno Madinier, juge d'instruction : un père et son fils, chacun de son côté de l'enquête. Le pilote et les saisons 2 à 14, en téléfilms d'1 h 30.",
+   "disponible_jusqu_au": null,
+   "publie_le": null,
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": false,
+   "note_source": "Non officielle, validée par N'jie le 11/10/2026",
+   "episodes": [
+    {
+     "saison": 2,
+     "numero": 1,
+     "titre": "L'assassin des beaux quartiers",
+     "youtube_id": "5qJEAHfO1fg",
+     "duree_secondes": 5890,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S2E1 L'ASSASSIN DES BEAUX QUARTIERS [HD]",
+     "vignette": "vignettes/5qJEAHfO1fg.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 2,
+     "titre": "L'argent des passes",
+     "youtube_id": "knQuKwaulRc",
+     "duree_secondes": 5618,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S2E2 L'ARGENT DES PASSES [HD]",
+     "vignette": "vignettes/knQuKwaulRc.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 3,
+     "titre": "3615 pretty doll",
+     "youtube_id": "8bKOuxmYW-A",
+     "duree_secondes": 5552,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S2E3 3615 PRETTY DOLL [HD]",
+     "vignette": "vignettes/8bKOuxmYW-A.webp"
+    },
+    {
+     "saison": 2,
+     "numero": 4,
+     "titre": "Combinaison mortelle",
+     "youtube_id": "xuR3NuRbAj8",
+     "duree_secondes": 6090,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S2E4 COMBINAISON MORTELLE [HD]",
+     "vignette": "vignettes/xuR3NuRbAj8.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 1,
+     "titre": "Une associee en trop",
+     "youtube_id": "nmJOzN7sPHk",
+     "duree_secondes": 5423,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S3E1 UNE ASSOCIEE EN TROP [HD]",
+     "vignette": "vignettes/nmJOzN7sPHk.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 2,
+     "titre": "Une mort programmee",
+     "youtube_id": "Nryn1REmX0c",
+     "duree_secondes": 5511,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S3E2 UNE MORT PROGRAMMEE [HD]",
+     "vignette": "vignettes/Nryn1REmX0c.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 3,
+     "titre": "Bébé en cavale",
+     "youtube_id": "IqTZji7OCJo",
+     "duree_secondes": 5775,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S3E3 BÉBÉ EN CAVALE [HD]",
+     "vignette": "vignettes/IqTZji7OCJo.webp"
+    },
+    {
+     "saison": 3,
+     "numero": 4,
+     "titre": "Un si joli témoin",
+     "youtube_id": "GEir96Dnt6o",
+     "duree_secondes": 5783,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S3E4 UN SI JOLI TEMOI",
+     "vignette": "vignettes/GEir96Dnt6o.webp"
+    },
+    {
+     "saison": 4,
+     "numero": 1,
+     "titre": "Cecile, mon enfant",
+     "youtube_id": "LUaIjwwaux8",
+     "duree_secondes": 5590,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S4E1 CECILE, MON ENFANT [HD]",
+     "vignette": "vignettes/LUaIjwwaux8.webp"
+    },
+    {
+     "saison": 4,
+     "numero": 2,
+     "titre": "Une voix dans la nuit",
+     "youtube_id": "woz7xR7gCPc",
+     "duree_secondes": 5221,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S4E2 UNE VOIX DANS LA NUIT [HD]",
+     "vignette": "vignettes/woz7xR7gCPc.webp"
+    },
+    {
+     "saison": 4,
+     "numero": 3,
+     "titre": "Refaire sa vie",
+     "youtube_id": "dOmKDYwVDBk",
+     "duree_secondes": 5511,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S4E3 REFAIRE SA VIE [HD]",
+     "vignette": "vignettes/dOmKDYwVDBk.webp"
+    },
+    {
+     "saison": 4,
+     "numero": 4,
+     "titre": "La memoire blessee",
+     "youtube_id": "PRrhysQIats",
+     "duree_secondes": 6174,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S4E4 LA MEMOIRE BLESSEE [HD]",
+     "vignette": "vignettes/PRrhysQIats.webp"
+    },
+    {
+     "saison": 5,
+     "numero": 1,
+     "titre": "Affaire de femmes",
+     "youtube_id": "2WGd9SXdmno",
+     "duree_secondes": 5150,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S5E1 AFFAIRE DE FEMMES [HD]",
+     "vignette": "vignettes/2WGd9SXdmno.webp"
+    },
+    {
+     "saison": 5,
+     "numero": 2,
+     "titre": "Le petit juge",
+     "youtube_id": "gLEK0e3b28k",
+     "duree_secondes": 5545,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S5E2 LE PETIT JUGE [HD]",
+     "vignette": "vignettes/gLEK0e3b28k.webp"
+    },
+    {
+     "saison": 5,
+     "numero": 3,
+     "titre": "Cathy",
+     "youtube_id": "L1qLnjrb6Uw",
+     "duree_secondes": 5666,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S5E3 CATHY",
+     "vignette": "vignettes/L1qLnjrb6Uw.webp"
+    },
+    {
+     "saison": 5,
+     "numero": 4,
+     "titre": "Comité d'accueil",
+     "youtube_id": "N95h50Ym4PQ",
+     "duree_secondes": 5379,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S5E4 Comité daccueil",
+     "vignette": "vignettes/N95h50Ym4PQ.webp"
+    },
+    {
+     "saison": 5,
+     "numero": 5,
+     "titre": "Le crime d'à côté",
+     "youtube_id": "SQ3Z6TPSVJc",
+     "duree_secondes": 5427,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S5E5 Le crime dà côté",
+     "vignette": "vignettes/SQ3Z6TPSVJc.webp"
+    },
+    {
+     "saison": 5,
+     "numero": 6,
+     "titre": "L'adieu au drapeau",
+     "youtube_id": "gBuYyyhkkes",
+     "duree_secondes": 5193,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S5E6 Ladieu au drapeau",
+     "vignette": "vignettes/gBuYyyhkkes.webp"
+    },
+    {
+     "saison": 5,
+     "numero": 7,
+     "titre": "La tour de jade",
+     "youtube_id": "oDSB_hVvcf4",
+     "duree_secondes": 5434,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S5E7 La tour de jade",
+     "vignette": "vignettes/oDSB_hVvcf4.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 1,
+     "titre": "Le petit frère",
+     "youtube_id": "lJm9l5RYbyA",
+     "duree_secondes": 5384,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S6E1 Le petit frère",
+     "vignette": "vignettes/lJm9l5RYbyA.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 2,
+     "titre": "Boulot de flic",
+     "youtube_id": "D4e6AUOTy7M",
+     "duree_secondes": 5909,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S6E2 Boulot de flic",
+     "vignette": "vignettes/D4e6AUOTy7M.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 3,
+     "titre": "L'oeil du cyclope",
+     "youtube_id": "rX-eFgOJCwg",
+     "duree_secondes": 5447,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S6E3 L'oeil du cyclope",
+     "vignette": "vignettes/rX-eFgOJCwg.webp"
+    },
+    {
+     "saison": 6,
+     "numero": 4,
+     "titre": "Rangée des voitures",
+     "youtube_id": "jQcRwz2MEEU",
+     "duree_secondes": 5196,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S6E4 Rangée des voitures",
+     "vignette": "vignettes/jQcRwz2MEEU.webp"
+    },
+    {
+     "saison": 7,
+     "numero": 1,
+     "titre": "L'étoile filante",
+     "youtube_id": "a-QfgtsdgCA",
+     "duree_secondes": 5846,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S7E1 Létoile filante",
+     "vignette": "vignettes/a-QfgtsdgCA.webp"
+    },
+    {
+     "saison": 7,
+     "numero": 2,
+     "titre": "Un garçon mystérieux",
+     "youtube_id": "xS4Lb6GO7ms",
+     "duree_secondes": 5330,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S7E2 Un garçon mystérieux",
+     "vignette": "vignettes/xS4Lb6GO7ms.webp"
+    },
+    {
+     "saison": 7,
+     "numero": 3,
+     "titre": "Trahie par les siens",
+     "youtube_id": "we9L8ko8kXk",
+     "duree_secondes": 5710,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S7E3 Trahie par les siens",
+     "vignette": "vignettes/we9L8ko8kXk.webp"
+    },
+    {
+     "saison": 7,
+     "numero": 4,
+     "titre": "Née en prison",
+     "youtube_id": "NM5V-A1_oJI",
+     "duree_secondes": 6710,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S7E4 Née en prison",
+     "vignette": "vignettes/NM5V-A1_oJI.webp"
+    },
+    {
+     "saison": 8,
+     "numero": 1,
+     "titre": "Piège à minuit",
+     "youtube_id": "nIe9eHc3WI4",
+     "duree_secondes": 5914,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S8E1 Piège à minuit",
+     "vignette": "vignettes/nIe9eHc3WI4.webp"
+    },
+    {
+     "saison": 8,
+     "numero": 2,
+     "titre": "L'honneur d'un homme",
+     "youtube_id": "JPuOGIEYkW4",
+     "duree_secondes": 5918,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S8E2 Lhonneur dun homme",
+     "vignette": "vignettes/JPuOGIEYkW4.webp"
+    },
+    {
+     "saison": 8,
+     "numero": 3,
+     "titre": "Le deuxième fils",
+     "youtube_id": "KPKa_h7lgiA",
+     "duree_secondes": 5725,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S8E3 Le deuxième fils",
+     "vignette": "vignettes/KPKa_h7lgiA.webp"
+    },
+    {
+     "saison": 8,
+     "numero": 4,
+     "titre": "Crimes de cœur",
+     "youtube_id": "RGFgwTzUDcg",
+     "duree_secondes": 6255,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S8E4 Crimes de cœur",
+     "vignette": "vignettes/RGFgwTzUDcg.webp"
+    },
+    {
+     "saison": 8,
+     "numero": 5,
+     "titre": "Les tables de la loi",
+     "youtube_id": "09qrJ0YYVXc",
+     "duree_secondes": 5733,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S8E5 Les tables de la loi",
+     "vignette": "vignettes/09qrJ0YYVXc.webp"
+    },
+    {
+     "saison": 9,
+     "numero": 1,
+     "titre": "Le diable au cœur",
+     "youtube_id": "DdHkOR4vt68",
+     "duree_secondes": 5693,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S9E1 Le diable au cœur",
+     "vignette": "vignettes/DdHkOR4vt68.webp"
+    },
+    {
+     "saison": 9,
+     "numero": 2,
+     "titre": "Lames de fond",
+     "youtube_id": "0bQXl2pn0-A",
+     "duree_secondes": 5839,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S9E2 Lames de fond ",
+     "vignette": "vignettes/0bQXl2pn0-A.webp"
+    },
+    {
+     "saison": 9,
+     "numero": 3,
+     "titre": "Faux-semblants",
+     "youtube_id": "H78MMv2wTnQ",
+     "duree_secondes": 5610,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S9E3 Faux-semblants",
+     "vignette": "vignettes/H78MMv2wTnQ.webp"
+    },
+    {
+     "saison": 9,
+     "numero": 4,
+     "titre": "Menace sur la ville",
+     "youtube_id": "8sYWhJWX1Fk",
+     "duree_secondes": 5717,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S9E4 Menace sur la ville",
+     "vignette": "vignettes/8sYWhJWX1Fk.webp"
+    },
+    {
+     "saison": 9,
+     "numero": 5,
+     "titre": "Saut périlleux",
+     "youtube_id": "Y-pFF5FTlnM",
+     "duree_secondes": 5510,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S9E5 Saut périlleux",
+     "vignette": "vignettes/Y-pFF5FTlnM.webp"
+    },
+    {
+     "saison": 10,
+     "numero": 1,
+     "titre": "Portrait au scalpel",
+     "youtube_id": "DaF83L2RWtk",
+     "duree_secondes": 5635,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S10E1 Portrait au scalpel",
+     "vignette": "vignettes/DaF83L2RWtk.webp"
+    },
+    {
+     "saison": 10,
+     "numero": 2,
+     "titre": "Sang-froid",
+     "youtube_id": "7KfdXbsggeg",
+     "duree_secondes": 5693,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S10E2 Sang-froid",
+     "vignette": "vignettes/7KfdXbsggeg.webp"
+    },
+    {
+     "saison": 10,
+     "numero": 3,
+     "titre": "Dette mortelle",
+     "youtube_id": "W6dFsmyfPnk",
+     "duree_secondes": 5355,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S10E3 Dette mortelle",
+     "vignette": "vignettes/W6dFsmyfPnk.webp"
+    },
+    {
+     "saison": 11,
+     "numero": 1,
+     "titre": "Otages",
+     "youtube_id": "UEqJIMKuaS8",
+     "duree_secondes": 5613,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S11E1 Otages",
+     "vignette": "vignettes/UEqJIMKuaS8.webp"
+    },
+    {
+     "saison": 11,
+     "numero": 2,
+     "titre": "Mensonges et vérités",
+     "youtube_id": "oqwQIjc2cPM",
+     "duree_secondes": 5536,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S11E2 Mensonges et vérités",
+     "vignette": "vignettes/oqwQIjc2cPM.webp"
+    },
+    {
+     "saison": 11,
+     "numero": 3,
+     "titre": "Adieu mulet",
+     "youtube_id": "LFYISVltJGM",
+     "duree_secondes": 5935,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S11E3 Adieu mulet",
+     "vignette": "vignettes/LFYISVltJGM.webp"
+    },
+    {
+     "saison": 11,
+     "numero": 4,
+     "titre": "Mort d'un avocat",
+     "youtube_id": "8EubNF96IYI",
+     "duree_secondes": 5298,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S11E4 Mort d'un avocat",
+     "vignette": "vignettes/8EubNF96IYI.webp"
+    },
+    {
+     "saison": 11,
+     "numero": 5,
+     "titre": "Cours du soir",
+     "youtube_id": "2iO7CzB2ejc",
+     "duree_secondes": 6047,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S11E5 Cours du soir",
+     "vignette": "vignettes/2iO7CzB2ejc.webp"
+    },
+    {
+     "saison": 12,
+     "numero": 1,
+     "titre": "Fausses notes",
+     "youtube_id": "StD2MmXz2FI",
+     "duree_secondes": 5081,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S12E1 Fausses notes",
+     "vignette": "vignettes/StD2MmXz2FI.webp"
+    },
+    {
+     "saison": 12,
+     "numero": 2,
+     "titre": "La sorcière",
+     "youtube_id": "1_XpifD0c9Y",
+     "duree_secondes": 5908,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S12E2 La sorcière",
+     "vignette": "vignettes/1_XpifD0c9Y.webp"
+    },
+    {
+     "saison": 12,
+     "numero": 3,
+     "titre": "La rançon",
+     "youtube_id": "x3G2h51U0C0",
+     "duree_secondes": 5817,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S12E3 La rançon",
+     "vignette": "vignettes/x3G2h51U0C0.webp"
+    },
+    {
+     "saison": 12,
+     "numero": 4,
+     "titre": "Liens de sang",
+     "youtube_id": "1udrbBNnX0k",
+     "duree_secondes": 5757,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S12E4 Liens de sang",
+     "vignette": "vignettes/1udrbBNnX0k.webp"
+    },
+    {
+     "saison": 12,
+     "numero": 5,
+     "titre": "Temps mort",
+     "youtube_id": "ajTkOKkr0y0",
+     "duree_secondes": 5504,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S12E5 Temps mort",
+     "vignette": "vignettes/ajTkOKkr0y0.webp"
+    },
+    {
+     "saison": 13,
+     "numero": 1,
+     "titre": "Choc en retour",
+     "youtube_id": "zR34s-aOkNQ",
+     "duree_secondes": 5618,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC -  S13E1 Choc en retour",
+     "vignette": "vignettes/zR34s-aOkNQ.webp"
+    },
+    {
+     "saison": 13,
+     "numero": 2,
+     "titre": "Faux départ",
+     "youtube_id": "_pZ2aUpAMZ8",
+     "duree_secondes": 5690,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S13E2 Faux départ",
+     "vignette": "vignettes/_pZ2aUpAMZ8.webp"
+    },
+    {
+     "saison": 13,
+     "numero": 3,
+     "titre": "Raison d'État",
+     "youtube_id": "sIqCf_phYK8",
+     "duree_secondes": 5690,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S13E3 Raison d'État",
+     "vignette": "vignettes/sIqCf_phYK8.webp"
+    },
+    {
+     "saison": 13,
+     "numero": 4,
+     "titre": "Silences coupables",
+     "youtube_id": "StqVFS_3n3I",
+     "duree_secondes": 5261,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S13E4 Silences coupables",
+     "vignette": "vignettes/StqVFS_3n3I.webp"
+    },
+    {
+     "saison": 13,
+     "numero": 5,
+     "titre": "Délit de fuite",
+     "youtube_id": "8ykOkRMtAdo",
+     "duree_secondes": 5455,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S13E5 Délit de fuite",
+     "vignette": "vignettes/8ykOkRMtAdo.webp"
+    },
+    {
+     "saison": 13,
+     "numero": 6,
+     "titre": "La nuit du sacrifice",
+     "youtube_id": "dtjQ4wLI89c",
+     "duree_secondes": 5387,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S13E6 La nuit du sacrifice",
+     "vignette": "vignettes/dtjQ4wLI89c.webp"
+    },
+    {
+     "saison": 14,
+     "numero": 1,
+     "titre": "Copie conforme",
+     "youtube_id": "Jwi9TCC8k3c",
+     "duree_secondes": 6065,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S14E1 Copie conforme",
+     "vignette": "vignettes/Jwi9TCC8k3c.webp"
+    },
+    {
+     "saison": 14,
+     "numero": 2,
+     "titre": "Cas d'école",
+     "youtube_id": "8sKjFliGupw",
+     "duree_secondes": 5803,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S14E2 Cas décole",
+     "vignette": "vignettes/8sKjFliGupw.webp"
+    },
+    {
+     "saison": 14,
+     "numero": 3,
+     "titre": "Le chien de Charlotte",
+     "youtube_id": "5jMFDNrHCOA",
+     "duree_secondes": 5370,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "LES CORDIER JUGE ET FLIC - S14E3 Le chien de Charlotte",
+     "vignette": "vignettes/5jMFDNrHCOA.webp"
+    }
+   ],
+   "affiche": "affiches/2iO7CzB2ejc.webp",
+   "vignette": "vignettes/2iO7CzB2ejc.webp"
+  },
+  {
+   "slug": "sf-2048",
+   "titre": "2048",
+   "format": "unique",
+   "univers": "films",
+   "genres": [
+    "sf-fantastique"
+   ],
+   "tout_public": false,
+   "youtube_id": "-QMg4aOPASY",
+   "chaine_nom": "My Digital Channel _ Films Complets",
+   "chaine_id": "UCZFGH22U_Iv6C5_zNdsxLXQ",
+   "chaine_url": "https://www.youtube.com/channel/UCZFGH22U_Iv6C5_zNdsxLXQ",
+   "ayant_droit": "Source non officielle, validée par N'jie le 11/10/2026 (My Digital Company (distributeur), droits non prouvés)",
+   "duree_secondes": 6214,
+   "annee": null,
+   "description": "Un film d'anticipation indépendant, entre fantastique et science-fiction, en VF. Source non officielle validée par N'jie.",
+   "disponible_jusqu_au": null,
+   "publie_le": null,
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": false,
+   "note_source": "Non officielle, validée par N'jie le 11/10/2026",
+   "affiche": "affiches/-QMg4aOPASY.webp",
+   "vignette": "vignettes/-QMg4aOPASY.webp"
+  },
+  {
+   "slug": "sf-rubikon",
+   "titre": "Rubikon",
+   "format": "unique",
+   "univers": "films",
+   "genres": [
+    "sf-fantastique"
+   ],
+   "tout_public": false,
+   "youtube_id": "VOzn4PRmJD0",
+   "chaine_nom": "My Digital Channel _ Films Complets",
+   "chaine_id": "UCZFGH22U_Iv6C5_zNdsxLXQ",
+   "chaine_url": "https://www.youtube.com/channel/UCZFGH22U_Iv6C5_zNdsxLXQ",
+   "ayant_droit": "Source non officielle, validée par N'jie le 11/10/2026 (My Digital Company (distributeur), droits non prouvés)",
+   "duree_secondes": 6574,
+   "annee": null,
+   "description": "Huis clos de science-fiction : dans une station isolée, l'équipage doit décider s'il faut retourner sur une Terre dévastée. Source non officielle validée par N'jie.",
+   "disponible_jusqu_au": null,
+   "publie_le": null,
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": false,
+   "note_source": "Non officielle, validée par N'jie le 11/10/2026",
+   "affiche": "affiches/VOzn4PRmJD0.webp",
+   "vignette": "vignettes/VOzn4PRmJD0.webp"
+  },
+  {
+   "slug": "sf-saturne-v-planete-interdite",
+   "titre": "Saturne V, planète interdite",
+   "format": "unique",
+   "univers": "films",
+   "genres": [
+    "sf-fantastique"
+   ],
+   "tout_public": false,
+   "youtube_id": "6PO7V8oNlX0",
+   "chaine_nom": "My Digital Channel _ Films Complets",
+   "chaine_id": "UCZFGH22U_Iv6C5_zNdsxLXQ",
+   "chaine_url": "https://www.youtube.com/channel/UCZFGH22U_Iv6C5_zNdsxLXQ",
+   "ayant_droit": "Source non officielle, validée par N'jie le 11/10/2026 (My Digital Company (distributeur), droits non prouvés)",
+   "duree_secondes": 5588,
+   "annee": null,
+   "description": "Une dystopie d'action et de science-fiction, petit film indépendant en VF. Source non officielle validée par N'jie.",
+   "disponible_jusqu_au": null,
+   "publie_le": null,
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": false,
+   "note_source": "Non officielle, validée par N'jie le 11/10/2026",
+   "affiche": "affiches/6PO7V8oNlX0.webp",
+   "vignette": "vignettes/6PO7V8oNlX0.webp"
+  },
+  {
+   "slug": "sf-the-thaw",
+   "titre": "The Thaw",
+   "format": "unique",
+   "univers": "films",
+   "genres": [
+    "sf-fantastique"
+   ],
+   "tout_public": false,
+   "youtube_id": "gnWdBCuAajs",
+   "chaine_nom": "My Digital Channel _ Films Complets",
+   "chaine_id": "UCZFGH22U_Iv6C5_zNdsxLXQ",
+   "chaine_url": "https://www.youtube.com/channel/UCZFGH22U_Iv6C5_zNdsxLXQ",
+   "ayant_droit": "Source non officielle, validée par N'jie le 11/10/2026 (My Digital Company (distributeur), droits non prouvés)",
+   "duree_secondes": 5495,
+   "annee": null,
+   "description": "Thriller de science-fiction : en Arctique, la fonte des glaces libère une menace inconnue. Source non officielle validée par N'jie.",
+   "disponible_jusqu_au": null,
+   "publie_le": null,
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": false,
+   "note_source": "Non officielle, validée par N'jie le 11/10/2026",
+   "affiche": "affiches/gnWdBCuAajs.webp",
+   "vignette": "vignettes/gnWdBCuAajs.webp"
+  },
+  {
+   "slug": "sf-le-dernier-resistant",
+   "titre": "Le Dernier Résistant",
+   "format": "unique",
+   "univers": "films",
+   "genres": [
+    "sf-fantastique"
+   ],
+   "tout_public": false,
+   "youtube_id": "ky40ck5hZb4",
+   "chaine_nom": "My Digital Channel _ Films Complets",
+   "chaine_id": "UCZFGH22U_Iv6C5_zNdsxLXQ",
+   "chaine_url": "https://www.youtube.com/channel/UCZFGH22U_Iv6C5_zNdsxLXQ",
+   "ayant_droit": "Source non officielle, validée par N'jie le 11/10/2026 (My Digital Company (distributeur), droits non prouvés)",
+   "duree_secondes": 6080,
+   "annee": null,
+   "description": "Action, science-fiction et aventure : un film indépendant en VF. Source non officielle validée par N'jie.",
+   "disponible_jusqu_au": null,
+   "publie_le": null,
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": false,
+   "note_source": "Non officielle, validée par N'jie le 11/10/2026",
+   "affiche": "affiches/ky40ck5hZb4.webp",
+   "vignette": "vignettes/ky40ck5hZb4.webp"
+  }
+ ]
+}

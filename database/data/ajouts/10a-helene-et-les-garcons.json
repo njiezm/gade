@@ -1,0 +1,2555 @@
+{
+ "genere_le": "2026-10-11",
+ "programmes": [
+  {
+   "slug": "helene-et-les-garcons",
+   "titre": "Hélène et les garçons",
+   "format": "serie",
+   "univers": "series",
+   "genres": [
+    "sitcoms-90",
+    "romance",
+    "comedie"
+   ],
+   "tout_public": true,
+   "youtube_id": null,
+   "chaine_nom": "Génération Sitcoms",
+   "chaine_id": "UCVVubp6nL6vP8b6ls-Ybk-g",
+   "chaine_url": "https://www.youtube.com/channel/UCVVubp6nL6vP8b6ls-Ybk-g",
+   "ayant_droit": "AB Productions (chaîne officielle certifiée Génération Sitcoms)",
+   "duree_secondes": 1453,
+   "annee": 1992,
+   "description": "Hélène, Cathy, Johanna, Nicolas, Étienne, Cri-Cri… À la fac et à la cafét', des amitiés, des amours et des chansons. La sitcom AB culte du début des années 90, en intégrale : 280 épisodes.",
+   "disponible_jusqu_au": null,
+   "publie_le": null,
+   "a_la_une": false,
+   "ordre": 0,
+   "source_officielle": true,
+   "episodes": [
+    {
+     "saison": 1,
+     "numero": 1,
+     "titre": "La rencontre",
+     "youtube_id": "djI3r01_2dg",
+     "duree_secondes": 1315,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "HÉLÈNE ET LES GARÇONS - La rencontre | ÉPISODE 01 | 4K",
+     "vignette": "vignettes/djI3r01_2dg.webp"
+    },
+    {
+     "saison": 1,
+     "numero": 2,
+     "titre": "L'anniversaire de Cathy",
+     "youtube_id": "rB55ATfnYYs",
+     "duree_secondes": 1347,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "HÉLÈNE ET LES GARÇONS - L'anniversaire de Cathy | ÉPISODE 02 | 4K"
+    },
+    {
+     "saison": 1,
+     "numero": 3,
+     "titre": "Encore un garçon",
+     "youtube_id": "eCYhdcu9_s0",
+     "duree_secondes": 1315,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "HÉLÈNE ET LES GARÇONS  - Encore un garçon | ÉPISODE 3 | 4K"
+    },
+    {
+     "saison": 1,
+     "numero": 4,
+     "titre": "Le rêve prémonitoire",
+     "youtube_id": "BXVbHNA1jck",
+     "duree_secondes": 1648,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - EPISODE 4 - Le rêve prémonitoire"
+    },
+    {
+     "saison": 1,
+     "numero": 5,
+     "titre": "La fâcherie",
+     "youtube_id": "AsYQfg6tl1s",
+     "duree_secondes": 1502,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - EPISODE 5 - La fâcherie"
+    },
+    {
+     "saison": 1,
+     "numero": 6,
+     "titre": "La déclaration",
+     "youtube_id": "Ym7nVwL8k_c",
+     "duree_secondes": 1626,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - EPISODE 6 - La déclaration"
+    },
+    {
+     "saison": 1,
+     "numero": 7,
+     "titre": "Jimmy",
+     "youtube_id": "dvO-EVZg1Tg",
+     "duree_secondes": 1456,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - EPISODE 7 - Jimmy"
+    },
+    {
+     "saison": 1,
+     "numero": 8,
+     "titre": "Une nuit ensemble",
+     "youtube_id": "sfrFKo5MeCM",
+     "duree_secondes": 1474,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - EPISODE 8 - Une nuit ensemble"
+    },
+    {
+     "saison": 1,
+     "numero": 9,
+     "titre": "Un week-end seule",
+     "youtube_id": "n9Uv5QlUjMc",
+     "duree_secondes": 1530,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - EPISODE 9 - Un week-end seule"
+    },
+    {
+     "saison": 1,
+     "numero": 10,
+     "titre": "Mon coeur balance",
+     "youtube_id": "gGj1tQ_5IY8",
+     "duree_secondes": 1680,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - EPISODE 10 - Mon coeur balance"
+    },
+    {
+     "saison": 1,
+     "numero": 11,
+     "titre": "Le test",
+     "youtube_id": "5XqKI3hhuwU",
+     "duree_secondes": 1555,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 11 - Le test"
+    },
+    {
+     "saison": 1,
+     "numero": 12,
+     "titre": "Le permis de conduire",
+     "youtube_id": "RXWCWELpuTg",
+     "duree_secondes": 1596,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 12 - Le permis de conduire"
+    },
+    {
+     "saison": 1,
+     "numero": 13,
+     "titre": "Un coup de cafard",
+     "youtube_id": "4OaO5WwFYho",
+     "duree_secondes": 1627,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 13 - Un coup de cafard"
+    },
+    {
+     "saison": 1,
+     "numero": 14,
+     "titre": "Une journée studieuse",
+     "youtube_id": "dBwF75DlIkg",
+     "duree_secondes": 1536,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 14 - Une journée studieuse"
+    },
+    {
+     "saison": 1,
+     "numero": 15,
+     "titre": "Une drôle de nouvelle",
+     "youtube_id": "ctRzZeEcF3g",
+     "duree_secondes": 1583,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 15 - Une drôle de nouvelle"
+    },
+    {
+     "saison": 1,
+     "numero": 16,
+     "titre": "La bonne occase",
+     "youtube_id": "qpFN0IT-BuU",
+     "duree_secondes": 1581,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 16 - La bonne occase"
+    },
+    {
+     "saison": 1,
+     "numero": 17,
+     "titre": "La nuit de la danse",
+     "youtube_id": "C_OfrAvWJsY",
+     "duree_secondes": 1597,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 17 - La nuit de la danse"
+    },
+    {
+     "saison": 1,
+     "numero": 18,
+     "titre": "Papa",
+     "youtube_id": "3kWTWBVJIbQ",
+     "duree_secondes": 1468,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 18 - Papa"
+    },
+    {
+     "saison": 1,
+     "numero": 19,
+     "titre": "Photo star",
+     "youtube_id": "YzxPnnjjxPo",
+     "duree_secondes": 1532,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 19 - Photo star"
+    },
+    {
+     "saison": 1,
+     "numero": 20,
+     "titre": "L'idole de la fac",
+     "youtube_id": "oCFEAlNxlQU",
+     "duree_secondes": 1431,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 20 - L'idole de la fac"
+    },
+    {
+     "saison": 1,
+     "numero": 21,
+     "titre": "Une nouvelle passion",
+     "youtube_id": "e1zx-EXYdsk",
+     "duree_secondes": 1466,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 21 - Une nouvelle passion"
+    },
+    {
+     "saison": 1,
+     "numero": 22,
+     "titre": "La course",
+     "youtube_id": "P6qxehwEFBs",
+     "duree_secondes": 1470,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 22 - La course"
+    },
+    {
+     "saison": 1,
+     "numero": 23,
+     "titre": "Le mariage",
+     "youtube_id": "pFacGpkyiU8",
+     "duree_secondes": 1416,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 23 - Le mariage"
+    },
+    {
+     "saison": 1,
+     "numero": 24,
+     "titre": "Une rupture difficile",
+     "youtube_id": "1m-Gmwiep7g",
+     "duree_secondes": 1414,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 24 - Une rupture difficile"
+    },
+    {
+     "saison": 1,
+     "numero": 25,
+     "titre": "Mission délicate",
+     "youtube_id": "7dq0_7rXGdQ",
+     "duree_secondes": 1423,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 25 - Mission délicate"
+    },
+    {
+     "saison": 1,
+     "numero": 26,
+     "titre": "La folie douce",
+     "youtube_id": "iCIUy4QyXdA",
+     "duree_secondes": 1501,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 26 - La folie douce"
+    },
+    {
+     "saison": 1,
+     "numero": 27,
+     "titre": "Un type super chouette",
+     "youtube_id": "hbTacZcBx6M",
+     "duree_secondes": 1325,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 27 - Un type super chouette"
+    },
+    {
+     "saison": 1,
+     "numero": 28,
+     "titre": "Un joli coco",
+     "youtube_id": "ZB9QSDrra6U",
+     "duree_secondes": 1550,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 28 - Un joli coco"
+    },
+    {
+     "saison": 1,
+     "numero": 29,
+     "titre": "La cassette",
+     "youtube_id": "Ktinzqx-heo",
+     "duree_secondes": 1435,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 29 - La cassette"
+    },
+    {
+     "saison": 1,
+     "numero": 30,
+     "titre": "Thomas",
+     "youtube_id": "SXb69Es1Ai4",
+     "duree_secondes": 1292,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 30 - Thomas"
+    },
+    {
+     "saison": 1,
+     "numero": 31,
+     "titre": "Double jeu",
+     "youtube_id": "AxQmJjF1pU8",
+     "duree_secondes": 1340,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 31 - Double jeu"
+    },
+    {
+     "saison": 1,
+     "numero": 32,
+     "titre": "La craquerie",
+     "youtube_id": "JXZZ_oUxx8c",
+     "duree_secondes": 1325,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 32 - La craquerie"
+    },
+    {
+     "saison": 1,
+     "numero": 33,
+     "titre": "La poussière dans l'oeil",
+     "youtube_id": "NIdrDVmUg1k",
+     "duree_secondes": 1429,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 33 - La poussière dans l'oeil"
+    },
+    {
+     "saison": 1,
+     "numero": 34,
+     "titre": "Une nouvelle vie",
+     "youtube_id": "OZU4r1HwvHY",
+     "duree_secondes": 1369,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 34 - Une nouvelle vie"
+    },
+    {
+     "saison": 1,
+     "numero": 35,
+     "titre": "Démasqué !",
+     "youtube_id": "2-PsWIiWd0U",
+     "duree_secondes": 1453,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 35 - Démasqué !"
+    },
+    {
+     "saison": 1,
+     "numero": 36,
+     "titre": "Opération éjection",
+     "youtube_id": "Cm1fWUGEpog",
+     "duree_secondes": 1465,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 36 - Opération éjection"
+    },
+    {
+     "saison": 1,
+     "numero": 37,
+     "titre": "Aveux difficiles",
+     "youtube_id": "JdL_VDFXgbU",
+     "duree_secondes": 1409,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 37 - Aveux difficiles"
+    },
+    {
+     "saison": 1,
+     "numero": 38,
+     "titre": "La vie reprend",
+     "youtube_id": "V-mV0bW80Ko",
+     "duree_secondes": 1512,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 38 - La vie reprend"
+    },
+    {
+     "saison": 1,
+     "numero": 39,
+     "titre": "La contr'attaque",
+     "youtube_id": "Oc0SnNIZqIU",
+     "duree_secondes": 1324,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 39 - La contr'attaque"
+    },
+    {
+     "saison": 1,
+     "numero": 40,
+     "titre": "Le bon profil",
+     "youtube_id": "5WZTH06Vtf0",
+     "duree_secondes": 1470,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 40 - Le bon profil"
+    },
+    {
+     "saison": 1,
+     "numero": 41,
+     "titre": "L'amour n'a pas de (grand) prix",
+     "youtube_id": "P-ouRrQtwoY",
+     "duree_secondes": 1398,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 41 - L'amour n'a pas de (grand) prix"
+    },
+    {
+     "saison": 1,
+     "numero": 42,
+     "titre": "Le bal des vampires",
+     "youtube_id": "yMjrqMmlhlY",
+     "duree_secondes": 1357,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 42 - Le bal des vampires"
+    },
+    {
+     "saison": 1,
+     "numero": 43,
+     "titre": "La rougeole",
+     "youtube_id": "ES01Qc6sliI",
+     "duree_secondes": 1634,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 43 - La rougeole"
+    },
+    {
+     "saison": 1,
+     "numero": 44,
+     "titre": "L'ouragan du Texas",
+     "youtube_id": "-oZF2Y6unQY",
+     "duree_secondes": 1403,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 44 - L'ouragan du Texas"
+    },
+    {
+     "saison": 1,
+     "numero": 45,
+     "titre": "Qui sème l'ouragan récolte la tempête",
+     "youtube_id": "tdSPJFscl4M",
+     "duree_secondes": 1384,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 45 - Qui sème l'ouragan récolte la tempête"
+    },
+    {
+     "saison": 1,
+     "numero": 46,
+     "titre": "Le départ",
+     "youtube_id": "iFuRAq3PRi4",
+     "duree_secondes": 1615,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 46 - Le départ"
+    },
+    {
+     "saison": 1,
+     "numero": 47,
+     "titre": "Cédric",
+     "youtube_id": "XU9j2RSdCk8",
+     "duree_secondes": 1359,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 47 - Cédric"
+    },
+    {
+     "saison": 1,
+     "numero": 48,
+     "titre": "La chose",
+     "youtube_id": "_SlbGfaV-rY",
+     "duree_secondes": 1372,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 48 - La chose"
+    },
+    {
+     "saison": 1,
+     "numero": 49,
+     "titre": "Détective privé",
+     "youtube_id": "68icW1lij_I",
+     "duree_secondes": 1567,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 49 - Détective privé"
+    },
+    {
+     "saison": 1,
+     "numero": 50,
+     "titre": "Une chanson",
+     "youtube_id": "l0UYWV3qV-0",
+     "duree_secondes": 1514,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 50 - Une chanson"
+    },
+    {
+     "saison": 1,
+     "numero": 51,
+     "titre": "L'enregistrement",
+     "youtube_id": "q7FVQ55nGKA",
+     "duree_secondes": 1473,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 51 - L'enregistrement"
+    },
+    {
+     "saison": 1,
+     "numero": 52,
+     "titre": "Un ingénieur en or massif",
+     "youtube_id": "QLS-dVHwyWA",
+     "duree_secondes": 1398,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 52 - Un ingénieur en or massif"
+    },
+    {
+     "saison": 1,
+     "numero": 53,
+     "titre": "La séance du siècle",
+     "youtube_id": "zV2StncFbec",
+     "duree_secondes": 1536,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 53 - La séance du siècle"
+    },
+    {
+     "saison": 1,
+     "numero": 54,
+     "titre": "Le mensonge",
+     "youtube_id": "7az-knE74Kc",
+     "duree_secondes": 1513,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 54 - Le mensonge"
+    },
+    {
+     "saison": 1,
+     "numero": 55,
+     "titre": "La déchéance",
+     "youtube_id": "7IfQZ-5g2ew",
+     "duree_secondes": 1347,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 55 - La déchéance"
+    },
+    {
+     "saison": 1,
+     "numero": 56,
+     "titre": "Le fond du trou",
+     "youtube_id": "C84FyukD3PA",
+     "duree_secondes": 1470,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 56 - Le fond du trou"
+    },
+    {
+     "saison": 1,
+     "numero": 57,
+     "titre": "Le pardon",
+     "youtube_id": "HWQIH9eHuXc",
+     "duree_secondes": 1524,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 57 - Le pardon"
+    },
+    {
+     "saison": 1,
+     "numero": 58,
+     "titre": "Le promoteur",
+     "youtube_id": "3cUKmie2vG0",
+     "duree_secondes": 1512,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 58 - Le promoteur"
+    },
+    {
+     "saison": 1,
+     "numero": 59,
+     "titre": "Rêve de grande oeuvre",
+     "youtube_id": "nOpGbJfdm04",
+     "duree_secondes": 1633,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 59 - Rêve de grande oeuvre"
+    },
+    {
+     "saison": 1,
+     "numero": 60,
+     "titre": "La soirée rock (Partie 01)",
+     "youtube_id": "XivCpQsnJ6s",
+     "duree_secondes": 1342,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 60 - La soirée rock (Partie 01)"
+    },
+    {
+     "saison": 1,
+     "numero": 61,
+     "titre": "La soirée rock (Partie 02)",
+     "youtube_id": "WE0VDLVW6p4",
+     "duree_secondes": 1437,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 61 - La soirée rock (Partie 02)"
+    },
+    {
+     "saison": 1,
+     "numero": 62,
+     "titre": "Le sac en croco",
+     "youtube_id": "D3SUzqEzaxI",
+     "duree_secondes": 1448,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 62 - Le sac en croco"
+    },
+    {
+     "saison": 1,
+     "numero": 63,
+     "titre": "Le regret",
+     "youtube_id": "Dl9MEF_wftk",
+     "duree_secondes": 1551,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 63 - Le regret"
+    },
+    {
+     "saison": 1,
+     "numero": 64,
+     "titre": "Une amie d'enfance",
+     "youtube_id": "nsNjc4nuE0c",
+     "duree_secondes": 1497,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 64 - Une amie d'enfance"
+    },
+    {
+     "saison": 1,
+     "numero": 65,
+     "titre": "Le coup de foudre",
+     "youtube_id": "bX8S6XdMSpM",
+     "duree_secondes": 1585,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 65 - Le coup de foudre"
+    },
+    {
+     "saison": 1,
+     "numero": 66,
+     "titre": "Le grand Manitou",
+     "youtube_id": "jRj0_WEsCZY",
+     "duree_secondes": 1460,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 66 - Le grand Manitou"
+    },
+    {
+     "saison": 1,
+     "numero": 67,
+     "titre": "Les groupies",
+     "youtube_id": "AeAB9B46tQg",
+     "duree_secondes": 1375,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 67 - Les groupies"
+    },
+    {
+     "saison": 1,
+     "numero": 68,
+     "titre": "La Finlande",
+     "youtube_id": "emtdjLpDh74",
+     "duree_secondes": 1514,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 68 - La Finlande"
+    },
+    {
+     "saison": 1,
+     "numero": 69,
+     "titre": "Les nouveaux",
+     "youtube_id": "End10V5pchg",
+     "duree_secondes": 1379,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 69 - Les nouveaux"
+    },
+    {
+     "saison": 1,
+     "numero": 70,
+     "titre": "Une place a prendre",
+     "youtube_id": "jEHhFZ7DVR4",
+     "duree_secondes": 1490,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 70 - Une place a prendre"
+    },
+    {
+     "saison": 1,
+     "numero": 71,
+     "titre": "Ejection",
+     "youtube_id": "PSoIbpW_CQ0",
+     "duree_secondes": 1431,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 71 - Ejection"
+    },
+    {
+     "saison": 1,
+     "numero": 72,
+     "titre": "La gouttière",
+     "youtube_id": "UzqDBbiNAgo",
+     "duree_secondes": 1484,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 72 - La gouttière"
+    },
+    {
+     "saison": 1,
+     "numero": 73,
+     "titre": "Le soupçon",
+     "youtube_id": "hXhsA8owLhQ",
+     "duree_secondes": 1434,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 73 - Le soupçon"
+    },
+    {
+     "saison": 1,
+     "numero": 74,
+     "titre": "L'intrus",
+     "youtube_id": "DsBvrpFKtoM",
+     "duree_secondes": 1553,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 74 - L'intrus"
+    },
+    {
+     "saison": 1,
+     "numero": 75,
+     "titre": "La drague",
+     "youtube_id": "eh0yfSmFuMU",
+     "duree_secondes": 1542,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 75 - La drague"
+    },
+    {
+     "saison": 1,
+     "numero": 76,
+     "titre": "Un percussionniste percutant",
+     "youtube_id": "BZbLZfURfQM",
+     "duree_secondes": 1438,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 76 - Un percussionniste percutant"
+    },
+    {
+     "saison": 1,
+     "numero": 77,
+     "titre": "L'accident",
+     "youtube_id": "t5s_cLpNaw0",
+     "duree_secondes": 1454,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 77 - L'accident"
+    },
+    {
+     "saison": 1,
+     "numero": 78,
+     "titre": "Le Hootanany bis",
+     "youtube_id": "GiinzjhcTaM",
+     "duree_secondes": 1540,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 78 - Le Hootanany bis"
+    },
+    {
+     "saison": 1,
+     "numero": 79,
+     "titre": "La caméra vidéo",
+     "youtube_id": "GrHjwmOpZcA",
+     "duree_secondes": 1504,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 79 - La caméra vidéo"
+    },
+    {
+     "saison": 1,
+     "numero": 80,
+     "titre": "La zizanie",
+     "youtube_id": "SdWai6RpEj0",
+     "duree_secondes": 1448,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 80 - La zizanie"
+    },
+    {
+     "saison": 1,
+     "numero": 81,
+     "titre": "La vue qui baisse",
+     "youtube_id": "U_7vdTRPPUc",
+     "duree_secondes": 1563,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 81 - La vue qui baisse"
+    },
+    {
+     "saison": 1,
+     "numero": 82,
+     "titre": "La cravatte rose",
+     "youtube_id": "QJHFTinqCFc",
+     "duree_secondes": 1417,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 82 - La cravatte rose"
+    },
+    {
+     "saison": 1,
+     "numero": 83,
+     "titre": "Le nouvel âge",
+     "youtube_id": "3eLT_vFQ1xU",
+     "duree_secondes": 1589,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 83 - Le nouvel âge"
+    },
+    {
+     "saison": 1,
+     "numero": 84,
+     "titre": "La tisane indienne",
+     "youtube_id": "1dfmeqbY7J4",
+     "duree_secondes": 1404,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 84 - La tisane indienne"
+    },
+    {
+     "saison": 1,
+     "numero": 85,
+     "titre": "Le secret",
+     "youtube_id": "nn5SPGt0-60",
+     "duree_secondes": 1339,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 85 - Le secret"
+    },
+    {
+     "saison": 1,
+     "numero": 86,
+     "titre": "La grande rousse",
+     "youtube_id": "cQIXY9Gs3Jk",
+     "duree_secondes": 1359,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 86 - La grande rousse"
+    },
+    {
+     "saison": 1,
+     "numero": 87,
+     "titre": "Le bord du gouffre",
+     "youtube_id": "TtKTDAT4ig0",
+     "duree_secondes": 1485,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 87 - Le bord du gouffre"
+    },
+    {
+     "saison": 1,
+     "numero": 88,
+     "titre": "Amis",
+     "youtube_id": "EC0UU1f13AM",
+     "duree_secondes": 1388,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 88 - Amis"
+    },
+    {
+     "saison": 1,
+     "numero": 89,
+     "titre": "Le portrait",
+     "youtube_id": "YtT416ut5jk",
+     "duree_secondes": 1402,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 89 - Le portrait"
+    },
+    {
+     "saison": 1,
+     "numero": 90,
+     "titre": "Le retour (partie 1)",
+     "youtube_id": "ktoIMthMVwM",
+     "duree_secondes": 1398,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 90 - Le retour (partie 1)"
+    },
+    {
+     "saison": 1,
+     "numero": 91,
+     "titre": "Le retour (partie 2)",
+     "youtube_id": "sUJLZ5Hy8yY",
+     "duree_secondes": 1508,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 91 - Le retour (partie 2)"
+    },
+    {
+     "saison": 1,
+     "numero": 92,
+     "titre": "L'Angleterre (partie 1)",
+     "youtube_id": "KYekpEqiJXE",
+     "duree_secondes": 1397,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 92 - L'Angleterre (partie 1)"
+    },
+    {
+     "saison": 1,
+     "numero": 93,
+     "titre": "L'Angleterre (partie 2)",
+     "youtube_id": "nvaEijKEjOg",
+     "duree_secondes": 1392,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 93 - L'Angleterre (partie 2)"
+    },
+    {
+     "saison": 1,
+     "numero": 94,
+     "titre": "La vie de célibataire",
+     "youtube_id": "8ylgQmjeVFE",
+     "duree_secondes": 1496,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 94 - La vie de célibataire"
+    },
+    {
+     "saison": 1,
+     "numero": 95,
+     "titre": "Back Home",
+     "youtube_id": "YHvAqkp5PyQ",
+     "duree_secondes": 1425,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 95 - Back Home"
+    },
+    {
+     "saison": 1,
+     "numero": 96,
+     "titre": "Diana",
+     "youtube_id": "pEvKyK6Ni-A",
+     "duree_secondes": 1478,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 96 - Diana"
+    },
+    {
+     "saison": 1,
+     "numero": 97,
+     "titre": "L'adieu",
+     "youtube_id": "IO7watceSz0",
+     "duree_secondes": 1446,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 97 - L'adieu"
+    },
+    {
+     "saison": 1,
+     "numero": 98,
+     "titre": "Coup de théatre",
+     "youtube_id": "1nVMJhRkxdE",
+     "duree_secondes": 1493,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 98 - Coup de théatre"
+    },
+    {
+     "saison": 1,
+     "numero": 99,
+     "titre": "Une anglaise à caser",
+     "youtube_id": "AeHfK7k-pRc",
+     "duree_secondes": 1424,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 99 - Une anglaise à caser"
+    },
+    {
+     "saison": 1,
+     "numero": 100,
+     "titre": "La tentation (partie 1)",
+     "youtube_id": "1uQJTtczEYI",
+     "duree_secondes": 1398,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 100 - La tentation (partie 1)"
+    },
+    {
+     "saison": 1,
+     "numero": 101,
+     "titre": "La tentation (partie 2)",
+     "youtube_id": "U9n196sfpA4",
+     "duree_secondes": 1387,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 101 - La tentation (partie 2)"
+    },
+    {
+     "saison": 1,
+     "numero": 102,
+     "titre": "La tentation (partie 3)",
+     "youtube_id": "MNuvMu5G_uI",
+     "duree_secondes": 1508,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 102 - La tentation (partie 3)"
+    },
+    {
+     "saison": 1,
+     "numero": 103,
+     "titre": "Une fois de trop",
+     "youtube_id": "oavN3jarG7c",
+     "duree_secondes": 1452,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 103 - Une fois de trop"
+    },
+    {
+     "saison": 1,
+     "numero": 104,
+     "titre": "Une de perdue",
+     "youtube_id": "ceNu5HCvDb0",
+     "duree_secondes": 1394,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 104 - Une de perdue"
+    },
+    {
+     "saison": 1,
+     "numero": 105,
+     "titre": "Seul",
+     "youtube_id": "BZU95uaOZy0",
+     "duree_secondes": 1458,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 105 - Seul"
+    },
+    {
+     "saison": 1,
+     "numero": 106,
+     "titre": "La folie",
+     "youtube_id": "1iK9kb6w2YE",
+     "duree_secondes": 1389,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 106 - La folie"
+    },
+    {
+     "saison": 1,
+     "numero": 107,
+     "titre": "Le jour le plus noir",
+     "youtube_id": "QNdNdAemvDs",
+     "duree_secondes": 1283,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 107 - Le jour le plus noir"
+    },
+    {
+     "saison": 1,
+     "numero": 108,
+     "titre": "La révélation",
+     "youtube_id": "30JTaZL69cY",
+     "duree_secondes": 1396,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 108 - La révélation"
+    },
+    {
+     "saison": 1,
+     "numero": 109,
+     "titre": "Une amie stupéfiante",
+     "youtube_id": "3sC3ZY5xUqM",
+     "duree_secondes": 1305,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 109 - Une amie stupéfiante"
+    },
+    {
+     "saison": 1,
+     "numero": 110,
+     "titre": "Retour au port",
+     "youtube_id": "mzwP9IuC9D0",
+     "duree_secondes": 1403,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 110 - Retour au port"
+    },
+    {
+     "saison": 1,
+     "numero": 111,
+     "titre": "Amour nouveau",
+     "youtube_id": "n-qwgRKdt9A",
+     "duree_secondes": 1406,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 111 - Amour nouveau"
+    },
+    {
+     "saison": 1,
+     "numero": 112,
+     "titre": "Un poème",
+     "youtube_id": "f4NhbBzUKI8",
+     "duree_secondes": 1523,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 112 - Un poème"
+    },
+    {
+     "saison": 1,
+     "numero": 113,
+     "titre": "Chanson magique",
+     "youtube_id": "b2yQLhwmK3E",
+     "duree_secondes": 1446,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 113 - Chanson magique"
+    },
+    {
+     "saison": 1,
+     "numero": 114,
+     "titre": "Le vol",
+     "youtube_id": "sTeq4INryp4",
+     "duree_secondes": 1417,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 114 - Le vol"
+    },
+    {
+     "saison": 1,
+     "numero": 115,
+     "titre": "Le mystère d'Agnès",
+     "youtube_id": "47v9lzjEYRk",
+     "duree_secondes": 1414,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 115 - Le mystère d'Agnès"
+    },
+    {
+     "saison": 1,
+     "numero": 116,
+     "titre": "Le bonheur",
+     "youtube_id": "PDHsmPgY0Nk",
+     "duree_secondes": 1433,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 116 - Le bonheur"
+    },
+    {
+     "saison": 1,
+     "numero": 117,
+     "titre": "Cricri d'amour",
+     "youtube_id": "3jgG2aBALM4",
+     "duree_secondes": 1414,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 117 - Cricri d'amour"
+    },
+    {
+     "saison": 1,
+     "numero": 118,
+     "titre": "Retour de flamme",
+     "youtube_id": "YK26147Avj4",
+     "duree_secondes": 1481,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 118 - Retour de flamme"
+    },
+    {
+     "saison": 1,
+     "numero": 119,
+     "titre": "Le feu aux poudres",
+     "youtube_id": "QDm24eJP_q0",
+     "duree_secondes": 1528,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 119 - Le feu aux poudres"
+    },
+    {
+     "saison": 1,
+     "numero": 120,
+     "titre": "L'amour toujours",
+     "youtube_id": "rnyUPz6zQGE",
+     "duree_secondes": 1453,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 120 - L'amour toujours"
+    },
+    {
+     "saison": 1,
+     "numero": 121,
+     "titre": "Le cheval de Troie",
+     "youtube_id": "GjP6W0HA-Is",
+     "duree_secondes": 1437,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 121 - Le cheval de Troie"
+    },
+    {
+     "saison": 1,
+     "numero": 122,
+     "titre": "Le doute",
+     "youtube_id": "sDL4ggQOXMk",
+     "duree_secondes": 1444,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 122 - Le doute"
+    },
+    {
+     "saison": 1,
+     "numero": 123,
+     "titre": "Le contrat",
+     "youtube_id": "FwIcdv4EJXk",
+     "duree_secondes": 1421,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 123 - Le contrat"
+    },
+    {
+     "saison": 1,
+     "numero": 124,
+     "titre": "Dance music",
+     "youtube_id": "sw0PeBy3XU8",
+     "duree_secondes": 1463,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 124 - Dance music"
+    },
+    {
+     "saison": 1,
+     "numero": 125,
+     "titre": "Le gâchis",
+     "youtube_id": "srHRbfLf9BU",
+     "duree_secondes": 1412,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 125 - Le gâchis"
+    },
+    {
+     "saison": 1,
+     "numero": 126,
+     "titre": "Pris au piège",
+     "youtube_id": "lgCyRmNRNV8",
+     "duree_secondes": 1454,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 126 - Pris au piège"
+    },
+    {
+     "saison": 1,
+     "numero": 127,
+     "titre": "Un problème sans solution",
+     "youtube_id": "qCwD7Z-FYKs",
+     "duree_secondes": 1437,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 127 - Un problème sans solution"
+    },
+    {
+     "saison": 1,
+     "numero": 128,
+     "titre": "La quadrature du cercle",
+     "youtube_id": "bTLxSujVmpY",
+     "duree_secondes": 1461,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 128 - La quadrature du cercle"
+    },
+    {
+     "saison": 1,
+     "numero": 129,
+     "titre": "La trahison",
+     "youtube_id": "DYD7B0CRzgc",
+     "duree_secondes": 1460,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 129 - La trahison"
+    },
+    {
+     "saison": 1,
+     "numero": 130,
+     "titre": "La belle vie",
+     "youtube_id": "tZH2oJguU7A",
+     "duree_secondes": 1464,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 130 - La belle vie"
+    },
+    {
+     "saison": 1,
+     "numero": 131,
+     "titre": "De nouveaux amis",
+     "youtube_id": "pKSUIWuYzoA",
+     "duree_secondes": 1491,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 131 - De nouveaux amis"
+    },
+    {
+     "saison": 1,
+     "numero": 132,
+     "titre": "Rencontres",
+     "youtube_id": "wo6i99j8Ik0",
+     "duree_secondes": 1475,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 132 - Rencontres"
+    },
+    {
+     "saison": 1,
+     "numero": 133,
+     "titre": "Clandestins",
+     "youtube_id": "cCQ7yzNZU4k",
+     "duree_secondes": 1448,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 133 - Clandestins"
+    },
+    {
+     "saison": 1,
+     "numero": 134,
+     "titre": "Remords",
+     "youtube_id": "HrSv6LOYBxo",
+     "duree_secondes": 1478,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 134 - Remords"
+    },
+    {
+     "saison": 1,
+     "numero": 135,
+     "titre": "Drame",
+     "youtube_id": "BFXjkPbbXGI",
+     "duree_secondes": 1470,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 135 - Drame"
+    },
+    {
+     "saison": 1,
+     "numero": 136,
+     "titre": "Regrets",
+     "youtube_id": "L_lWxZfs5g8",
+     "duree_secondes": 1470,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 136 - Regrets"
+    },
+    {
+     "saison": 1,
+     "numero": 137,
+     "titre": "Tendresse",
+     "youtube_id": "HgqimxPYmmY",
+     "duree_secondes": 1461,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 137 - Tendresse"
+    },
+    {
+     "saison": 1,
+     "numero": 138,
+     "titre": "Réparation",
+     "youtube_id": "hH3MiuDYphM",
+     "duree_secondes": 1506,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 138 - Réparation"
+    },
+    {
+     "saison": 1,
+     "numero": 139,
+     "titre": "Récidive",
+     "youtube_id": "EJ5KeiNZp3g",
+     "duree_secondes": 1525,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 139 - Récidive"
+    },
+    {
+     "saison": 1,
+     "numero": 140,
+     "titre": "La ruse",
+     "youtube_id": "5xiZXrovBOk",
+     "duree_secondes": 1512,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 140 - La ruse"
+    },
+    {
+     "saison": 1,
+     "numero": 141,
+     "titre": "Introuvable",
+     "youtube_id": "AUwR0nlx9vk",
+     "duree_secondes": 1500,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 141 - Introuvable"
+    },
+    {
+     "saison": 1,
+     "numero": 142,
+     "titre": "Une place encore chaude",
+     "youtube_id": "77FCOjqQVDE",
+     "duree_secondes": 1447,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 142 - Une place encore chaude"
+    },
+    {
+     "saison": 1,
+     "numero": 143,
+     "titre": "Conflit de groupe",
+     "youtube_id": "UB4rC9pLkhw",
+     "duree_secondes": 1451,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 143 - Conflit de groupe"
+    },
+    {
+     "saison": 1,
+     "numero": 144,
+     "titre": "Coup de folie",
+     "youtube_id": "sk_daw7ySuM",
+     "duree_secondes": 1402,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 144 - Coup de folie"
+    },
+    {
+     "saison": 1,
+     "numero": 145,
+     "titre": "Le remplaçant",
+     "youtube_id": "1zoWwuak31I",
+     "duree_secondes": 1398,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 145 - Le remplaçant"
+    },
+    {
+     "saison": 1,
+     "numero": 146,
+     "titre": "Tentatives",
+     "youtube_id": "qh4_chXnwjc",
+     "duree_secondes": 1459,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 146 - Tentatives"
+    },
+    {
+     "saison": 1,
+     "numero": 147,
+     "titre": "Révélations",
+     "youtube_id": "rNMPSx324DQ",
+     "duree_secondes": 1490,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 147 - Révélations"
+    },
+    {
+     "saison": 1,
+     "numero": 148,
+     "titre": "Récupérations",
+     "youtube_id": "c4ygFcSLLw4",
+     "duree_secondes": 1343,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 148 - Récupérations"
+    },
+    {
+     "saison": 1,
+     "numero": 149,
+     "titre": "Retour de vacances",
+     "youtube_id": "mMy9KHUu6K4",
+     "duree_secondes": 1490,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 149 - Retour de vacances"
+    },
+    {
+     "saison": 1,
+     "numero": 150,
+     "titre": "Au dessus des limites",
+     "youtube_id": "aSM4xBtwrFo",
+     "duree_secondes": 1494,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 150 - Au dessus des limites"
+    },
+    {
+     "saison": 1,
+     "numero": 151,
+     "titre": "Reconquète",
+     "youtube_id": "w_EVXp-iDnQ",
+     "duree_secondes": 1494,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 151 - Reconquète"
+    },
+    {
+     "saison": 1,
+     "numero": 152,
+     "titre": "Changements",
+     "youtube_id": "AFCAdhYhxMk",
+     "duree_secondes": 1514,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 152 - Changements"
+    },
+    {
+     "saison": 1,
+     "numero": 153,
+     "titre": "Doux instants",
+     "youtube_id": "jveTvG9MlL4",
+     "duree_secondes": 1487,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 153 - Doux instants"
+    },
+    {
+     "saison": 1,
+     "numero": 154,
+     "titre": "Tout doucement",
+     "youtube_id": "JCVq3rgU4RQ",
+     "duree_secondes": 1427,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 154 - Tout doucement"
+    },
+    {
+     "saison": 1,
+     "numero": 155,
+     "titre": "Inadmissible",
+     "youtube_id": "KMdItqI5Huc",
+     "duree_secondes": 1419,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 155 - Inadmissible"
+    },
+    {
+     "saison": 1,
+     "numero": 156,
+     "titre": "Jamais simple",
+     "youtube_id": "oYhyEZF-6Rk",
+     "duree_secondes": 1496,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 156 - Jamais simple"
+    },
+    {
+     "saison": 1,
+     "numero": 157,
+     "titre": "Malentendus",
+     "youtube_id": "aNCN1X-RRp4",
+     "duree_secondes": 1477,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 157 - Malentendus"
+    },
+    {
+     "saison": 1,
+     "numero": 158,
+     "titre": "Le grand bonheur",
+     "youtube_id": "ANv7igpJdIo",
+     "duree_secondes": 1434,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 158 - Le grand bonheur"
+    },
+    {
+     "saison": 1,
+     "numero": 159,
+     "titre": "Un tableau de maître",
+     "youtube_id": "JAUwGFYgG0M",
+     "duree_secondes": 1509,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 159 - Un tableau de maître"
+    },
+    {
+     "saison": 1,
+     "numero": 160,
+     "titre": "Clair et net",
+     "youtube_id": "JLISt-hVIWo",
+     "duree_secondes": 1480,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 160 - Clair et net"
+    },
+    {
+     "saison": 1,
+     "numero": 161,
+     "titre": "Emotions",
+     "youtube_id": "-sDICdaVprY",
+     "duree_secondes": 1434,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 161 - Emotions"
+    },
+    {
+     "saison": 1,
+     "numero": 162,
+     "titre": "Le jardin secret",
+     "youtube_id": "p8-uBbfY-Z4",
+     "duree_secondes": 1485,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 162 - Le jardin secret"
+    },
+    {
+     "saison": 1,
+     "numero": 163,
+     "titre": "Le monde est petit",
+     "youtube_id": "nVtxo6Vjqyo",
+     "duree_secondes": 1485,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 163 - Le monde est petit"
+    },
+    {
+     "saison": 1,
+     "numero": 164,
+     "titre": "Pardonner n'est pas gagner",
+     "youtube_id": "3WhPc5SCdCo",
+     "duree_secondes": 1492,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 164 - Pardonner n'est pas gagner"
+    },
+    {
+     "saison": 1,
+     "numero": 165,
+     "titre": "Le choix",
+     "youtube_id": "_F6gbDTyFJE",
+     "duree_secondes": 1526,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 165 - Le choix"
+    },
+    {
+     "saison": 1,
+     "numero": 166,
+     "titre": "Proposition",
+     "youtube_id": "gWOfdLd4rZw",
+     "duree_secondes": 1444,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 166 - Proposition"
+    },
+    {
+     "saison": 1,
+     "numero": 167,
+     "titre": "Le hoquet",
+     "youtube_id": "Xyq6u_MSxDI",
+     "duree_secondes": 1512,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 167 - Le hoquet"
+    },
+    {
+     "saison": 1,
+     "numero": 168,
+     "titre": "Le refus",
+     "youtube_id": "Pv1AaDpIhrg",
+     "duree_secondes": 1469,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 168 - Le refus"
+    },
+    {
+     "saison": 1,
+     "numero": 169,
+     "titre": "Choisis",
+     "youtube_id": "F5w1a-YykTs",
+     "duree_secondes": 1508,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 169 - Choisis"
+    },
+    {
+     "saison": 1,
+     "numero": 170,
+     "titre": "Aller simple",
+     "youtube_id": "9GwQ2EY2aMo",
+     "duree_secondes": 1532,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 170 - Aller simple"
+    },
+    {
+     "saison": 1,
+     "numero": 171,
+     "titre": "La fin d'une époque",
+     "youtube_id": "acLtLc1QkyY",
+     "duree_secondes": 1514,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 171 - La fin d'une époque"
+    },
+    {
+     "saison": 1,
+     "numero": 172,
+     "titre": "Multiplié par deux",
+     "youtube_id": "whEWHag0TVg",
+     "duree_secondes": 1497,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 172 - Multiplié par deux"
+    },
+    {
+     "saison": 1,
+     "numero": 173,
+     "titre": "Le rival",
+     "youtube_id": "foogWOdVAPo",
+     "duree_secondes": 1454,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 173 - Le rival"
+    },
+    {
+     "saison": 1,
+     "numero": 174,
+     "titre": "La faute",
+     "youtube_id": "leb8HWANRhs",
+     "duree_secondes": 1391,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 174 - La faute"
+    },
+    {
+     "saison": 1,
+     "numero": 175,
+     "titre": "Comme avant",
+     "youtube_id": "V7NxoGcoGFY",
+     "duree_secondes": 1461,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 175 - Comme avant"
+    },
+    {
+     "saison": 1,
+     "numero": 176,
+     "titre": "Révolte",
+     "youtube_id": "GVgX9MOolkc",
+     "duree_secondes": 1503,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 176 - Révolte"
+    },
+    {
+     "saison": 1,
+     "numero": 177,
+     "titre": "Sans logis",
+     "youtube_id": "dqczPqhR16Q",
+     "duree_secondes": 1512,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 177 - Sans logis"
+    },
+    {
+     "saison": 1,
+     "numero": 178,
+     "titre": "Cambriolage",
+     "youtube_id": "ULyNzpRTFDM",
+     "duree_secondes": 1507,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 178 - Cambriolage"
+    },
+    {
+     "saison": 1,
+     "numero": 179,
+     "titre": "Lacheté",
+     "youtube_id": "5100dN4H_TE",
+     "duree_secondes": 1514,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 179 - Lacheté"
+    },
+    {
+     "saison": 1,
+     "numero": 180,
+     "titre": "Courage",
+     "youtube_id": "DtZSuF7jCXw",
+     "duree_secondes": 1356,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 180 - Courage"
+    },
+    {
+     "saison": 1,
+     "numero": 181,
+     "titre": "Le club",
+     "youtube_id": "EA-cGNYt-lc",
+     "duree_secondes": 1482,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 181 - Le club"
+    },
+    {
+     "saison": 1,
+     "numero": 182,
+     "titre": "Situation difficile",
+     "youtube_id": "JIho9WWlZ9M",
+     "duree_secondes": 1479,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 182 - Situation difficile"
+    },
+    {
+     "saison": 1,
+     "numero": 183,
+     "titre": "Brassière à craquer",
+     "youtube_id": "gSc2jQM4jDo",
+     "duree_secondes": 1474,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 183 - Brassière à craquer"
+    },
+    {
+     "saison": 1,
+     "numero": 184,
+     "titre": "Baby boom",
+     "youtube_id": "DGreJYqBEDw",
+     "duree_secondes": 1496,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 184 - Baby boom"
+    },
+    {
+     "saison": 1,
+     "numero": 185,
+     "titre": "La paëlla",
+     "youtube_id": "1F_WXXr1S4A",
+     "duree_secondes": 1396,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 185 - La paëlla"
+    },
+    {
+     "saison": 1,
+     "numero": 186,
+     "titre": "Lendemain difficile",
+     "youtube_id": "VqSScX-yEgI",
+     "duree_secondes": 1514,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 186 - Lendemain difficile"
+    },
+    {
+     "saison": 1,
+     "numero": 187,
+     "titre": "Répétition ratée",
+     "youtube_id": "l9LFczNjtqw",
+     "duree_secondes": 1475,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 187 - Répétition ratée"
+    },
+    {
+     "saison": 1,
+     "numero": 188,
+     "titre": "Des étincelles",
+     "youtube_id": "kpdM67V_4oU",
+     "duree_secondes": 1448,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 188 - Des étincelles"
+    },
+    {
+     "saison": 1,
+     "numero": 189,
+     "titre": "Dangers",
+     "youtube_id": "9Xect3gEddU",
+     "duree_secondes": 1426,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 189 - Dangers"
+    },
+    {
+     "saison": 1,
+     "numero": 190,
+     "titre": "Les odieux",
+     "youtube_id": "DH4-HrX_Lv4",
+     "duree_secondes": 1449,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 190 - Les odieux"
+    },
+    {
+     "saison": 1,
+     "numero": 191,
+     "titre": "Remerciements délicats",
+     "youtube_id": "kL-0OJvJ8So",
+     "duree_secondes": 1426,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 191 - Remerciements délicats"
+    },
+    {
+     "saison": 1,
+     "numero": 192,
+     "titre": "Retour en ville",
+     "youtube_id": "q6nodQW2o7g",
+     "duree_secondes": 1448,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 192 - Retour en ville"
+    },
+    {
+     "saison": 1,
+     "numero": 193,
+     "titre": "Désordres",
+     "youtube_id": "Q5NACNhBgtw",
+     "duree_secondes": 1463,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 193 - Désordres"
+    },
+    {
+     "saison": 1,
+     "numero": 194,
+     "titre": "Le copain",
+     "youtube_id": "qKbM4e3wXmU",
+     "duree_secondes": 1486,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 194 - Le copain"
+    },
+    {
+     "saison": 1,
+     "numero": 195,
+     "titre": "Le grand jour",
+     "youtube_id": "lBKIEs6sONU",
+     "duree_secondes": 1505,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 195 - Le grand jour"
+    },
+    {
+     "saison": 1,
+     "numero": 196,
+     "titre": "Encombrement",
+     "youtube_id": "JGtadRv7VmI",
+     "duree_secondes": 1447,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 196 - Encombrement"
+    },
+    {
+     "saison": 1,
+     "numero": 197,
+     "titre": "Relookage",
+     "youtube_id": "ooOzq9tYG9o",
+     "duree_secondes": 1397,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 197 - Relookage"
+    },
+    {
+     "saison": 1,
+     "numero": 198,
+     "titre": "Le grand sommeil",
+     "youtube_id": "a8ZmBHQj9qg",
+     "duree_secondes": 1405,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 198 - Le grand sommeil"
+    },
+    {
+     "saison": 1,
+     "numero": 199,
+     "titre": "Fin difficile",
+     "youtube_id": "Ve26nPn7hHM",
+     "duree_secondes": 1413,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 199 - Fin difficile"
+    },
+    {
+     "saison": 1,
+     "numero": 200,
+     "titre": "Surprise",
+     "youtube_id": "xnnaxnjA4wQ",
+     "duree_secondes": 1416,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 200 - Surprise"
+    },
+    {
+     "saison": 1,
+     "numero": 201,
+     "titre": "Carton rouge",
+     "youtube_id": "36ew_a37wao",
+     "duree_secondes": 1468,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 201 - Carton rouge"
+    },
+    {
+     "saison": 1,
+     "numero": 202,
+     "titre": "De la suite dans les idées",
+     "youtube_id": "jYND1yQSjLg",
+     "duree_secondes": 1400,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 202 - De la suite dans les idées"
+    },
+    {
+     "saison": 1,
+     "numero": 203,
+     "titre": "Déprime",
+     "youtube_id": "d4gUxus81Q8",
+     "duree_secondes": 1430,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 203 - Déprime"
+    },
+    {
+     "saison": 1,
+     "numero": 204,
+     "titre": "Rosy",
+     "youtube_id": "Vm17aKVM_y8",
+     "duree_secondes": 1377,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 204 - Rosy"
+    },
+    {
+     "saison": 1,
+     "numero": 205,
+     "titre": "Concours",
+     "youtube_id": "MAy1_Mq_L2g",
+     "duree_secondes": 1459,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 205 - Concours"
+    },
+    {
+     "saison": 1,
+     "numero": 206,
+     "titre": "Sauvetage",
+     "youtube_id": "wbT575Bwkmc",
+     "duree_secondes": 1495,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 206 - Sauvetage"
+    },
+    {
+     "saison": 1,
+     "numero": 207,
+     "titre": "La leçon de conduite",
+     "youtube_id": "Nc3LOtw4AG8",
+     "duree_secondes": 1412,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 207 - La leçon de conduite"
+    },
+    {
+     "saison": 1,
+     "numero": 208,
+     "titre": "L'acceptation",
+     "youtube_id": "fVHHZ7fMaDQ",
+     "duree_secondes": 1417,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 208 - L'acceptation"
+    },
+    {
+     "saison": 1,
+     "numero": 209,
+     "titre": "Angoisse",
+     "youtube_id": "aSIXlq78_Fo",
+     "duree_secondes": 1470,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 209 - Angoisse"
+    },
+    {
+     "saison": 1,
+     "numero": 210,
+     "titre": "Zaza",
+     "youtube_id": "lokTdhLUslA",
+     "duree_secondes": 1419,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 210 - Zaza"
+    },
+    {
+     "saison": 1,
+     "numero": 211,
+     "titre": "Pari stupide",
+     "youtube_id": "lEqE9RyXF5I",
+     "duree_secondes": 1453,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 211 - Pari stupide"
+    },
+    {
+     "saison": 1,
+     "numero": 212,
+     "titre": "L'erreur",
+     "youtube_id": "4mAfpoFw34s",
+     "duree_secondes": 1394,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 212 - L'erreur"
+    },
+    {
+     "saison": 1,
+     "numero": 213,
+     "titre": "Nouveau départ",
+     "youtube_id": "pGimEpalu04",
+     "duree_secondes": 1498,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 213 - Nouveau départ"
+    },
+    {
+     "saison": 1,
+     "numero": 214,
+     "titre": "Souvenirs",
+     "youtube_id": "Lgohk8zJo-A",
+     "duree_secondes": 1469,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 214 - Souvenirs"
+    },
+    {
+     "saison": 1,
+     "numero": 215,
+     "titre": "Rapprochement",
+     "youtube_id": "apIJKC_KLwg",
+     "duree_secondes": 1397,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 215 - Rapprochement"
+    },
+    {
+     "saison": 1,
+     "numero": 216,
+     "titre": "Embarras",
+     "youtube_id": "Cqg8rWR0imk",
+     "duree_secondes": 1491,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 216 - Embarras"
+    },
+    {
+     "saison": 1,
+     "numero": 217,
+     "titre": "Précaution",
+     "youtube_id": "Ag-FMIVJ7Ck",
+     "duree_secondes": 1430,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 217 - Précaution"
+    },
+    {
+     "saison": 1,
+     "numero": 218,
+     "titre": "Le piège",
+     "youtube_id": "kALRqHmfOrM",
+     "duree_secondes": 1470,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 218 - Le piège"
+    },
+    {
+     "saison": 1,
+     "numero": 219,
+     "titre": "Enfermée",
+     "youtube_id": "GFdGcZekotc",
+     "duree_secondes": 1477,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 219 - Enfermée"
+    },
+    {
+     "saison": 1,
+     "numero": 220,
+     "titre": "Communion",
+     "youtube_id": "wtvO9sxIMe4",
+     "duree_secondes": 1439,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 220 - Communion"
+    },
+    {
+     "saison": 1,
+     "numero": 221,
+     "titre": "Rendez-vous secret",
+     "youtube_id": "T5ZHeZkQfXs",
+     "duree_secondes": 1506,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 221 - Rendez-vous secret"
+    },
+    {
+     "saison": 1,
+     "numero": 222,
+     "titre": "Le déclic",
+     "youtube_id": "cJj5mT046gQ",
+     "duree_secondes": 1427,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 222 - Le déclic"
+    },
+    {
+     "saison": 1,
+     "numero": 223,
+     "titre": "Rattrapage",
+     "youtube_id": "LPplqFLXowk",
+     "duree_secondes": 1479,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 223 - Rattrapage"
+    },
+    {
+     "saison": 1,
+     "numero": 224,
+     "titre": "Le choc",
+     "youtube_id": "6rr3GTGr3lE",
+     "duree_secondes": 1417,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 224 - Le choc"
+    },
+    {
+     "saison": 1,
+     "numero": 225,
+     "titre": "Un marché",
+     "youtube_id": "EXuYmhxWRC0",
+     "duree_secondes": 1438,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 225 - Un marché"
+    },
+    {
+     "saison": 1,
+     "numero": 226,
+     "titre": "Le nouveau compositeur",
+     "youtube_id": "wUBNyidhx4Q",
+     "duree_secondes": 1443,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 226 - Le nouveau compositeur"
+    },
+    {
+     "saison": 1,
+     "numero": 227,
+     "titre": "Amitiés",
+     "youtube_id": "681KgUhjGec",
+     "duree_secondes": 1436,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 227 - Amitiés"
+    },
+    {
+     "saison": 1,
+     "numero": 228,
+     "titre": "Rivalités",
+     "youtube_id": "cYQ-PKjKFGw",
+     "duree_secondes": 1440,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 228 - Rivalités"
+    },
+    {
+     "saison": 1,
+     "numero": 229,
+     "titre": "Séance difficile",
+     "youtube_id": "UGKavTun6pA",
+     "duree_secondes": 1406,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 229 - Séance difficile"
+    },
+    {
+     "saison": 1,
+     "numero": 230,
+     "titre": "La nuit la plus longue",
+     "youtube_id": "Tw_Rt8YQPTM",
+     "duree_secondes": 1337,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 230 - La nuit la plus longue"
+    },
+    {
+     "saison": 1,
+     "numero": 231,
+     "titre": "Fin d'ivresse",
+     "youtube_id": "cQDBdUh90Qs",
+     "duree_secondes": 1517,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 231 - Fin d'ivresse"
+    },
+    {
+     "saison": 1,
+     "numero": 232,
+     "titre": "Détour dangereux",
+     "youtube_id": "dWLJ4UzrMkM",
+     "duree_secondes": 1394,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 232 - Détour dangereux"
+    },
+    {
+     "saison": 1,
+     "numero": 233,
+     "titre": "Carrefour",
+     "youtube_id": "KB5x8gN-CxQ",
+     "duree_secondes": 1403,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 233 - Carrefour"
+    },
+    {
+     "saison": 1,
+     "numero": 234,
+     "titre": "Prise en mains",
+     "youtube_id": "zXn3fE9jKFQ",
+     "duree_secondes": 1500,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 234 - Prise en mains"
+    },
+    {
+     "saison": 1,
+     "numero": 235,
+     "titre": "Imprévus",
+     "youtube_id": "dR2NhsRAArE",
+     "duree_secondes": 1512,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 235 - Imprévus"
+    },
+    {
+     "saison": 1,
+     "numero": 236,
+     "titre": "Présentation",
+     "youtube_id": "7biqI1XlLjY",
+     "duree_secondes": 1508,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 236 - Présentation"
+    },
+    {
+     "saison": 1,
+     "numero": 237,
+     "titre": "Follement",
+     "youtube_id": "MMxx2Y9-nk0",
+     "duree_secondes": 1453,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 237 - Follement"
+    },
+    {
+     "saison": 1,
+     "numero": 238,
+     "titre": "Une idée de génie",
+     "youtube_id": "KrNK-NaA4CQ",
+     "duree_secondes": 1487,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 238 - Une idée de génie"
+    },
+    {
+     "saison": 1,
+     "numero": 239,
+     "titre": "Photos",
+     "youtube_id": "dUq333EM0Mo",
+     "duree_secondes": 1437,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 239 - Photos"
+    },
+    {
+     "saison": 1,
+     "numero": 240,
+     "titre": "Essai non concluant",
+     "youtube_id": "3fB-qd3yzPs",
+     "duree_secondes": 1404,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 240 - Essai non concluant"
+    },
+    {
+     "saison": 1,
+     "numero": 241,
+     "titre": "Les soeurs ennemies",
+     "youtube_id": "OWIf9Nq5FpE",
+     "duree_secondes": 1414,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 241 - Les soeurs ennemies"
+    },
+    {
+     "saison": 1,
+     "numero": 242,
+     "titre": "L'union fait la force",
+     "youtube_id": "Q_LWdv3-9b0",
+     "duree_secondes": 1434,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 242 - L'union fait la force"
+    },
+    {
+     "saison": 1,
+     "numero": 243,
+     "titre": "Préparatifs",
+     "youtube_id": "qjocLucvv9E",
+     "duree_secondes": 1429,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 243 - Préparatifs"
+    },
+    {
+     "saison": 1,
+     "numero": 244,
+     "titre": "Migration",
+     "youtube_id": "puKmcBsqOcI",
+     "duree_secondes": 1485,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 244 - Migration"
+    },
+    {
+     "saison": 1,
+     "numero": 245,
+     "titre": "Le grand soir",
+     "youtube_id": "j02Klg1TpbE",
+     "duree_secondes": 1442,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 245 - Le grand soir"
+    },
+    {
+     "saison": 1,
+     "numero": 246,
+     "titre": "Alibi dangereux",
+     "youtube_id": "iNyihkqDEMU",
+     "duree_secondes": 1447,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 246 - Alibi dangereux"
+    },
+    {
+     "saison": 1,
+     "numero": 247,
+     "titre": "Flagrant délit",
+     "youtube_id": "OsJ7gOtIHF0",
+     "duree_secondes": 1511,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 247 - Flagrant délit"
+    },
+    {
+     "saison": 1,
+     "numero": 248,
+     "titre": "Vol original",
+     "youtube_id": "PMCTzo1CTa0",
+     "duree_secondes": 1392,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 248 - Vol original"
+    },
+    {
+     "saison": 1,
+     "numero": 249,
+     "titre": "Brouille",
+     "youtube_id": "taB1SK0OzmQ",
+     "duree_secondes": 1436,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 249 - Brouille"
+    },
+    {
+     "saison": 1,
+     "numero": 250,
+     "titre": "Création",
+     "youtube_id": "RkGE9PqsaPQ",
+     "duree_secondes": 1421,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 250 - Création"
+    },
+    {
+     "saison": 1,
+     "numero": 251,
+     "titre": "Patience",
+     "youtube_id": "uAMMAapNiKM",
+     "duree_secondes": 1431,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 251 - Patience"
+    },
+    {
+     "saison": 1,
+     "numero": 252,
+     "titre": "Le fait accompli",
+     "youtube_id": "E8d-YUGETAE",
+     "duree_secondes": 1444,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 252 - Le fait accompli"
+    },
+    {
+     "saison": 1,
+     "numero": 253,
+     "titre": "Retour aux sources",
+     "youtube_id": "HxWBFuHr4uw",
+     "duree_secondes": 1402,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 253 - Retour aux sources"
+    },
+    {
+     "saison": 1,
+     "numero": 254,
+     "titre": "Passé compliqué",
+     "youtube_id": "OfJS_rUpovw",
+     "duree_secondes": 1402,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 254 - Passé compliqué"
+    },
+    {
+     "saison": 1,
+     "numero": 255,
+     "titre": "La honte",
+     "youtube_id": "93maL-pAiVs",
+     "duree_secondes": 1458,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 255 - La honte"
+    },
+    {
+     "saison": 1,
+     "numero": 256,
+     "titre": "Sale",
+     "youtube_id": "Uxjl_gA_QFA",
+     "duree_secondes": 1402,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 256 - Sale"
+    },
+    {
+     "saison": 1,
+     "numero": 257,
+     "titre": "Rédemption",
+     "youtube_id": "AEZnCtZEEVg",
+     "duree_secondes": 1465,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 257 - Rédemption"
+    },
+    {
+     "saison": 1,
+     "numero": 258,
+     "titre": "Renouveau",
+     "youtube_id": "BBuLuLHqxIg",
+     "duree_secondes": 1431,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 258 - Renouveau"
+    },
+    {
+     "saison": 1,
+     "numero": 259,
+     "titre": "Drague folle",
+     "youtube_id": "36Kb_uAINHU",
+     "duree_secondes": 1514,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 259 - Drague folle"
+    },
+    {
+     "saison": 1,
+     "numero": 260,
+     "titre": "Erreur de calcul",
+     "youtube_id": "JeQCMntRnmI",
+     "duree_secondes": 1511,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 260 - Erreur de calcul"
+    },
+    {
+     "saison": 1,
+     "numero": 261,
+     "titre": "Incursions",
+     "youtube_id": "XhlnFjLW2h0",
+     "duree_secondes": 1398,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 261 - Incursions"
+    },
+    {
+     "saison": 1,
+     "numero": 262,
+     "titre": "Mystérieux",
+     "youtube_id": "D33ASJzB8I0",
+     "duree_secondes": 1464,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 262 - Mystérieux"
+    },
+    {
+     "saison": 1,
+     "numero": 263,
+     "titre": "La bague",
+     "youtube_id": "sXYwZoCvvDs",
+     "duree_secondes": 1483,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 263 - La bague"
+    },
+    {
+     "saison": 1,
+     "numero": 264,
+     "titre": "Théâtral",
+     "youtube_id": "UTRSy0HEBu4",
+     "duree_secondes": 1508,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 264 - Théâtral"
+    },
+    {
+     "saison": 1,
+     "numero": 265,
+     "titre": "Décision",
+     "youtube_id": "b91PM6iNkuI",
+     "duree_secondes": 1485,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 265 - Décision"
+    },
+    {
+     "saison": 1,
+     "numero": 266,
+     "titre": "Progression",
+     "youtube_id": "grwnvK0FGGo",
+     "duree_secondes": 1450,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 266 - Progression"
+    },
+    {
+     "saison": 1,
+     "numero": 267,
+     "titre": "Une nuit dehors",
+     "youtube_id": "f0YcJMRtQzE",
+     "duree_secondes": 1485,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 267 - Une nuit dehors"
+    },
+    {
+     "saison": 1,
+     "numero": 268,
+     "titre": "Le grigri brésilien",
+     "youtube_id": "ArK00Qk-tYc",
+     "duree_secondes": 1393,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 268 - Le grigri brésilien"
+    },
+    {
+     "saison": 1,
+     "numero": 269,
+     "titre": "Une fille qui a du chien",
+     "youtube_id": "Nls4dzD25bg",
+     "duree_secondes": 1427,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 269 - Une fille qui a du chien"
+    },
+    {
+     "saison": 1,
+     "numero": 270,
+     "titre": "Détournement",
+     "youtube_id": "RIQg3pLTY-0",
+     "duree_secondes": 1399,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 270 - Détournement"
+    },
+    {
+     "saison": 1,
+     "numero": 271,
+     "titre": "Désertion",
+     "youtube_id": "_6JELffbNxQ",
+     "duree_secondes": 1395,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 271 - Désertion"
+    },
+    {
+     "saison": 1,
+     "numero": 272,
+     "titre": "Remplacement",
+     "youtube_id": "m2fX6oUUOU4",
+     "duree_secondes": 1395,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 272 - Remplacement"
+    },
+    {
+     "saison": 1,
+     "numero": 273,
+     "titre": "Une fille chez les gars",
+     "youtube_id": "3XMrkntz9mo",
+     "duree_secondes": 1419,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 273 - Une fille chez les gars"
+    },
+    {
+     "saison": 1,
+     "numero": 274,
+     "titre": "Un nouveau garçon",
+     "youtube_id": "PABkqMa4P8w",
+     "duree_secondes": 1464,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 274 - Un nouveau garçon"
+    },
+    {
+     "saison": 1,
+     "numero": 275,
+     "titre": "Le déserteur",
+     "youtube_id": "zAjuz1iIlac",
+     "duree_secondes": 1476,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 275 - Le déserteur"
+    },
+    {
+     "saison": 1,
+     "numero": 276,
+     "titre": "Le mauvais œil",
+     "youtube_id": "nck4ywKIwFQ",
+     "duree_secondes": 1435,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 276 - Le mauvais œil"
+    },
+    {
+     "saison": 1,
+     "numero": 277,
+     "titre": "Supplique",
+     "youtube_id": "iteHJMpxEag",
+     "duree_secondes": 1511,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 277 - Supplique"
+    },
+    {
+     "saison": 1,
+     "numero": 278,
+     "titre": "Démangeaisons",
+     "youtube_id": "l7QcfBI3hHE",
+     "duree_secondes": 1399,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 278 - Démangeaisons"
+    },
+    {
+     "saison": 1,
+     "numero": 279,
+     "titre": "Calme toujours",
+     "youtube_id": "zG9edmyirZ4",
+     "duree_secondes": 1422,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 279 - Calme toujours"
+    },
+    {
+     "saison": 1,
+     "numero": 280,
+     "titre": "Dénouement",
+     "youtube_id": "Dk4fn9wyf0Q",
+     "duree_secondes": 1392,
+     "disponible_jusqu_au": null,
+     "titre_youtube": "Hélène et les garçons - Épisode 280 - Dénouement [DERNIER EPISODE]"
+    }
+   ],
+   "affiche": "affiches/djI3r01_2dg.webp",
+   "vignette": "vignettes/djI3r01_2dg.webp"
+  }
+ ]
+}

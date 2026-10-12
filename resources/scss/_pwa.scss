@@ -1,0 +1,90 @@
+// =====================================================================
+// PWA : bandeau de mise à jour, boutons « Mode TV » / « Installer GADÉ », page hors ligne
+// =====================================================================
+
+.menu-pwa {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: .5rem;
+    padding: 0 0 1rem;
+    @include media-breakpoint-up(lg) { position: relative; padding: 0; margin-left: auto; flex-wrap: nowrap; }
+}
+.menu-pwa-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: .45rem;
+    min-height: 44px;
+    padding: .4rem .9rem;
+    border: 1px solid rgba($creme, .18);
+    border-radius: 999px;
+    background: rgba($creme, .05);
+    color: $creme;
+    font-weight: 600;
+    font-size: .9rem;
+    white-space: nowrap;
+    svg { width: 18px; height: 18px; }
+    &:hover { background: rgba($creme, .1); }
+    &[aria-pressed="true"] { background: $jaune; border-color: $jaune; color: $nuit; }
+    &[hidden] { display: none; }
+    // En-tête PC : boutons compacts (icône seule), libellé en info-bulle
+    @include media-breakpoint-up(lg) {
+        width: 44px; justify-content: center; padding: 0;
+        .menu-pwa-label { @include visually-hidden; }
+    }
+}
+.menu-pwa-aide {
+    flex-basis: 100%;
+    margin: 0;
+    padding: .7rem .9rem;
+    border-radius: $border-radius;
+    background: $velours;
+    color: $sable;
+    font-size: .9rem;
+    &[hidden] { display: none; }
+    @include media-breakpoint-up(lg) {
+        position: absolute; top: calc(100% + .6rem); right: 0; width: 280px; z-index: 5;
+        box-shadow: 0 12px 30px rgba(0, 0, 0, .5);
+    }
+}
+
+.pwa-bandeau {
+    position: fixed;
+    left: 50%;
+    bottom: max(1rem, env(safe-area-inset-bottom));
+    transform: translateX(-50%);
+    z-index: 1080;
+    display: flex;
+    align-items: center;
+    gap: .75rem;
+    width: max-content;
+    max-width: calc(100vw - 2rem);
+    padding: .6rem .6rem .6rem 1rem;
+    border-radius: 999px;
+    background: $velours;
+    border: 1px solid rgba($jaune, .35);
+    box-shadow: 0 12px 30px rgba(0, 0, 0, .55);
+    color: $creme;
+    font-weight: 600;
+    font-size: .92rem;
+    .pwa-fermer { border: 0; background: none; color: $sable; font-size: 1.4rem; line-height: 1; padding: 0 .4rem; }
+}
+
+// Page « Pa ni rézo » (hors connexion)
+.page-hors-ligne { padding: 0; }
+.hors-ligne {
+    min-height: 100vh;
+    min-height: 100dvh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: .75rem;
+    padding: 2rem 1rem;
+    text-align: center;
+    background: radial-gradient(ellipse at 50% 0%, rgba($bordeaux, .55), transparent 65%), $nuit;
+}
+.hors-ligne-logo { width: min(260px, 70vw); height: auto; margin-bottom: 1rem; }
+.hors-ligne-creole { font-size: 2rem; color: $jaune; margin: 0; }
+.hors-ligne-titre { font-size: clamp(1.5rem, 5vw, 2.2rem); margin: 0; }
+.hors-ligne-texte { max-width: 30rem; color: $sable; margin: 0 0 1rem; }
